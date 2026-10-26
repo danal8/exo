@@ -28,10 +28,18 @@ async function worker(){while(next<catalog.events.length){
    else if(!identityMatches(e,p))row.issues.push('ticket-identity-review');
   }else row.issues.push('ticket-unconfirmed');
  }
- if(row.issues.some(x=>['missing-summary','short-or-truncated-summary','missing-poster','poster-unconfirmed'].includes(x))){
+ if(row.issues.some(x=>['missing-summary','short-or-truncated-summary','missing-poster','poster-unconfirmed','missing-ticket-link','ticket-identity-review'].includes(x))){
  for(const source of e.sources.filter(s=>s.kind==='publisher'||s.kind==='official').slice(0,2)){
   const sourcePage=await get(source.url);if(!sourcePage.html)continue;
   const p=parsePage(sourcePage.html,source.url,e.title);if(p.blocked||p.imageOnly||!identityMatches(e,p))continue;
+  if(row.issues.some(x=>['missing-ticket-link','ticket-identity-review'].includes(x))&&p.ticketUrl){
+   const booking=await get(p.ticketUrl);
+   if(booking.html){const b=parsePage(booking.html,p.ticketUrl);if(!b.blocked&&identityMatches(e,b)){
+    e.ticketUrl=p.ticketUrl;if(details[e.id]?.ticketUrl)details[e.id].ticketUrl=p.ticketUrl;
+    row.ticket={url:p.ticketUrl,status:booking.status,title:b.title};row.ticketRepaired=true;repaired++;
+    row.issues=row.issues.filter(x=>!['missing-ticket-link','ticket-identity-review'].includes(x));
+   }}
+  }
   if(row.issues.some(x=>['missing-summary','short-or-truncated-summary'].includes(x))&&p.description.length>100&&/[.!;;]$/.test(p.description.trim())){
    e.description=p.description;e.descriptionSource={kind:'source-excerpt',authority:source.kind,url:source.url,checkedAt:report.checkedAt};
    if(details[e.id]?.descriptionSource?.kind!=='summary'&&details[e.id]?.description)delete details[e.id].description;
@@ -52,5 +60,3 @@ await writeFile(new URL('data/content-audit.json',root),JSON.stringify(report,nu
 await writeFile(new URL('data/catalog.json',root),JSON.stringify(catalog,null,2));
 await writeFile(new URL('data/details.json',root),JSON.stringify(details,null,2));
 console.log(JSON.stringify({counts:report.counts,repaired}));
-
-// Audit runs independently from catalogue discovery.
