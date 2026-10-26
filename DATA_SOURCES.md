@@ -86,3 +86,18 @@
 Οι βαθμολογίες 4/5 Ευτυχισμένες μέρες, 3.5/5 Άγριος σπόρος, 4/5 Bacon, 3.5/5 Η Κουζίνα και 3/5 Σωσμένος προέρχονται από τις τρέχουσες σελίδες παραγωγής του Αθηνοράματος. Είναι αξιολογήσεις της συγκεκριμένης πηγής, όχι μέσος όρος του exo. Μπορεί να έχουν δοθεί σε προγενέστερη παρουσίαση που η πηγή διατηρεί στην ίδια σελίδα· δεν παρουσιάζονται ως νέες κριτικές της τρέχουσας σεζόν.
 
 Η δημόσια ενότητα κοινού του Αθηνοράματος δεν παρείχε αναγνώσιμο σύνολο/μέσο όρο κατά τον έλεγχο. Δεν συμπληρώθηκε αυθαίρετος αριθμός ή μηδενική βαθμολογία. Οι 6 επιμελημένες περιλήψεις αφορούν δύο παραγωγές· ο κατάλογος κριτικών και κοινού δεν είναι ακόμη πλήρης.
+
+
+## Coverage snapshot — 26 October 2026
+
+The full public Athinorama theatre guide was checked: 389 source listings, 372 current/upcoming source productions retained, plus 3 existing separately sourced productions. Expired listings were excluded. Production identity uses the source production ID; similarly named productions in other theatres are not merged.
+
+Audience ratings after duplicate-source reconciliation: 208 productions, 4,730 source reviews, extracted from the public audience section (not the editorial schema.org aggregateRating). Source scores, source count, source link and check date are retained separately. Counts may span earlier seasons of the same production and must not be presented as current-season-only votes. No individual user text or identities are republished.
+
+Monopoli: linked signed editorial reviews, including Bacon and Saved; no audience aggregate was identified in the inspected pages.
+
+Music: full Athinorama music guide combined with public More/Public venue schedules, official Fuzz and Baraki calendars and the sourced Apanemia appearance. Times from publishers are not marked officially verified. Ambiguous schedules remain unparsed and linked; no invented times. No claim that these sources enumerate every Athens live event.
+
+Undated ends use a 14-day internal discovery horizon, marked endOpen; this is not an announced closing date. Public UI does not display it as an end date. Data is a dated snapshot, not a scheduled live feed. External promotional images retain source URLs; no image ownership or reuse license is claimed.
+
+Final reconciliation: two duplicate source records (Epta and The Painting) were consolidated without summing overlapping audience counts. Final catalogue: 373 theatre productions and 179 music listings. 418 records have source image URLs; the others retain a text fallback.
