@@ -1,0 +1,17 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {parsePage,enrich,links} from '../scripts/source-parser.mjs';
+import {freshness,matches} from '../core.mjs';
+const url='https://www.more.com/gr-el/tickets/theater/test/';
+const event=()=>({id:'test',title:'Η Δίκη',start:'2026-10-01',end:'2026-12-01',cast:[],sources:[],reviews:[],description:'',scheduleKnown:false});
+const html=data=>'<h1>Η Δίκη</h1><meta property="og:image" content="https://example.com/poster.jpg"><script type="application/ld+json">'+JSON.stringify(data)+'</script>';
+const base={'@type':'TheaterEvent',name:'Η Δίκη',description:'Αναλυτική παρουσίαση της παραγωγής με στοιχεία για τους συντελεστές και το περιεχόμενο της παράστασης.',startDate:'2026-11-01T20:30:00+02:00',location:{name:'Θέατρο',address:{addressLocality:'Αθήνα'}}};
+test('Reads structured metadata and actual dates',()=>{const p=parsePage(html(base),url);assert.equal(p.title,'Η Δίκη');assert.ok(p.description.length>40);assert.equal(p.image,'https://example.com/poster.jpg');const e=event();enrich(e,p,{now:'2026-10-26T18:00:00Z',kind:'ticket'});assert.equal(e.dates[0].time,'20:30');assert.equal(e.scheduleKnown,true);assert.equal(freshness(e,new Date('2026-10-26T19:00:00Z')).state,'verified')});
+test('HTTP success and metadata alone never verify programme',()=>{const e=event();enrich(e,parsePage(html({...base,startDate:undefined}),url),{now:'2026-10-26T18:00:00Z',kind:'ticket'});assert.equal(e.verification,undefined);assert.equal(freshness(e,new Date('2026-10-26T19:00:00Z')).state,'pending')});
+test('Blocks challenges and different productions without mutation',()=>{const e=event(),before=JSON.stringify(e);assert.equal(enrich(e,parsePage('<h1>Access Denied</h1>',url)).changed,false);assert.equal(enrich(e,parsePage(html({...base,name:'Άλλη παραγωγή'}),url)).changed,false);assert.equal(JSON.stringify(e),before)});
+test('Publisher data enriches but cannot verify ticket availability',()=>{const e=event();enrich(e,parsePage(html(base),url),{kind:'publisher'});assert.ok(e.description);assert.equal(e.verification,undefined)});
+test('Cancellation is separate from sold out and removes discovery card',()=>{const e=event();enrich(e,parsePage(html({...base,eventStatus:'https://schema.org/EventCancelled'}),url),{kind:'ticket'});assert.equal(freshness(e).state,'cancelled');assert.equal(matches(e,{category:'all',area:'all',period:'all'},'2026-10-26'),false)});
+test('Series range does not turn into an invented single performance',()=>{const e={...event(),weekly:{0:['20:30']},scheduleKnown:true};enrich(e,parsePage(html({...base,endDate:'2026-12-01'}),url),{kind:'ticket',now:'2026-10-26T18:00:00Z'});assert.equal(e.dates,undefined);assert.deepEqual(e.weekly,{0:['20:30']})});
+test('Preserves existing fields on empty response',()=>{const e={...event(),description:'Existing details',poster:{url:'https://example.com/old.jpg'}};enrich(e,parsePage('<h1>Η Δίκη</h1>',url));assert.equal(e.description,'Existing details');assert.equal(e.poster.url,'https://example.com/old.jpg')});
+test('Never creates insecure source or image URLs',()=>{assert.equal(links('<a href="javascript:alert(1)">bad</a>',url).length,0);assert.equal(parsePage('<h1>Η Δίκη</h1><meta property="og:image" content="javascript:x">',url).image,null)});
+test('Evidence expires after 72 hours',()=>{const e=event();enrich(e,parsePage(html(base),url),{now:'2026-10-26T18:00:00Z',kind:'ticket'});assert.equal(freshness(e,new Date('2026-10-30T18:00:00Z')).state,'pending')});

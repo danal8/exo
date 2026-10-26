@@ -1,0 +1,61 @@
+name: Refresh theatre and music guide
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/**', '.github/workflows/refresh-catalog.yml']
+permissions:
+  contents: write
+concurrency:
+  group: catalog-refresh
+  cancel-in-progress: false
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate parsers
+        run: node --test tests/source-parser.test.mjs
+      - name: Discover and refresh source pages
+        run: node scripts/refresh-catalog.mjs
+      - name: Validate catalogue
+        run: node --test tests/catalog-integrity.test.mjs
+      - name: Publish refreshed data
+        run: |
+          git config user.name "exo catalog"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/catalog.json data/refresh-report.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Refresh source information, programme evidence and discovery report"
+          git pull --rebase origin main
+          git push
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: catalog-refresh-report
+          path: data/refresh-report.json
+  pages:
+    needs: refresh
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - name: Deploy refreshed guide
+        uses: actions/deploy-pages@v4
