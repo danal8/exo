@@ -1800,7 +1800,7 @@
         "Ελ. Γεωργακοπούλου. Απόδ.: Ομάδα Cartel."
       ],
       "season": "2026–2027",
-      "description": "Το έργο που συγκλόνισε το βρετανικό κοινό με τη σκληρότητα της γλώσσας και την ωμή απεικόνιση της βίας, εκτυλίσσεται σε μια εργατική συνοικία του Λονδίνου,",
+      "description": "Το έργο που συγκλόνισε το βρετανικό κοινό με τη σκληρότητα της γλώσσας και την ωμή απεικόνιση της βίας, εκτυλίσσεται σε μια εργατική συνοικία του Λονδίνου, όπου μια νεαρή γυναίκα μένει έγκυος εκτός γάμου και έρχεται αντιμέτωπη με την κοινωνική απόρριψη και την οικογενειακή αδιαφορία. Γράφτηκε από τον Έντουαρντ Μποντ το 1965, μία από τις πιο ριζοσπαστικές και πολιτικά συνειδητοποιημένες φωνές του μεταπολεμικού βρετανικού θεάτρου.",
       "price": null,
       "ticketUrl": "https://www.more.com/theater/sosmenos-1",
       "reviews": [
@@ -1892,10 +1892,10 @@
       "sourceProductionId": "10089326",
       "duration": "140 λεπτά",
       "descriptionSource": {
-        "url": "https://www.athinorama.gr/theatre/performance/sosmenos-10089326/",
         "kind": "source-excerpt",
         "authority": "publisher",
-        "checkedAt": "2026-10-26T19:56:05.171Z"
+        "url": "https://www.athinorama.gr/theatre/performance/sosmenos-10089326/",
+        "checkedAt": "2026-10-26T20:50:39.674Z"
       },
       "endOpen": false,
       "verificationAttempt": {
@@ -2069,7 +2069,13 @@
           "lastCheckedAt": "2026-10-26T12:26:55.645Z",
           "note": ""
         }
-      ]
+      ],
+      "poster": {
+        "url": "https://www.more.com/getattachment/878e195b-602a-44eb-adfb-83fa8a180b22/play_image.png",
+        "sourceUrl": "https://www.more.com/gr-da/venues/theatro-poreia/",
+        "authority": "ticket",
+        "kind": "production-photo"
+      }
     },
     {
       "genre": "Σεσκ Γκάι · Κωμωδία",
@@ -2505,7 +2511,13 @@
           "lastCheckedAt": "2026-10-26T12:26:55.645Z",
           "note": ""
         }
-      ]
+      ],
+      "poster": {
+        "url": "https://tickets.public.gr/getattachment/9f8212aa-1fdc-4887-a767-01b57b274bc0/play_image.png",
+        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "authority": "ticket",
+        "kind": "production-photo"
+      }
     },
     {
       "genre": "Alternative rock",
@@ -2670,7 +2682,13 @@
           "lastCheckedAt": "2026-10-26T12:26:55.645Z",
           "note": ""
         }
-      ]
+      ],
+      "poster": {
+        "url": "https://tickets.public.gr/getattachment/926412fa-2d29-4953-ae21-8ed593efabc0/play_image.png",
+        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "authority": "ticket",
+        "kind": "production-photo"
+      }
     },
     {
       "genre": "Σύγχρονη μουσική",
@@ -2826,7 +2844,13 @@
           "lastCheckedAt": "2026-10-26T12:26:55.645Z",
           "note": ""
         }
-      ]
+      ],
+      "poster": {
+        "url": "https://tickets.public.gr/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f/play_image.png",
+        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "authority": "ticket",
+        "kind": "production-photo"
+      }
     },
     {
       "genre": "Alternative",
@@ -2862,7 +2886,13 @@
           "lastCheckedAt": "2026-10-26T12:26:55.645Z",
           "note": ""
         }
-      ]
+      ],
+      "poster": {
+        "url": "https://tickets.public.gr/getattachment/5646bee7-ddfe-41a2-9e73-6b1926b4332d/play_image.png",
+        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "authority": "ticket",
+        "kind": "production-photo"
+      }
     },
     {
       "genre": "Hard rock · The Magician’s Farewell",
@@ -35281,7 +35311,13 @@
           "lastCheckedAt": "2026-10-26T15:00:00Z"
         }
       ],
-      "reviews": []
+      "reviews": [],
+      "poster": {
+        "url": "https://cpgadmnbdthfmqmlvjdz.supabase.co/storage/v1/object/public/event-images/2d886430-6782-4d05-8bd8-af41493f5b6d/2867f179-ea94-44b7-a25d-5f6c16fa12b3.jpg",
+        "sourceUrl": "https://www.vibero.gr/events/e3b340e3-8240-4bb8-9f6e-0bae44c1dd0e",
+        "authority": "publisher",
+        "kind": "production-photo"
+      }
     },
     {
       "id": "auto-820cc48ad6ecf1",
