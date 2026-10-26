@@ -1,0 +1,305 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-26T12:04:48Z",
+  "method": "Χειροκίνητη επιμέλεια και διασταύρωση δημόσιων σελίδων. Χωρίς αυτόματη συλλογή.",
+  "events": [
+    {
+      "id": "happy-days-tarloou-poreia-2026",
+      "title": "Ευτυχισμένες μέρες",
+      "category": "theatre",
+      "genre": "Σάμιουελ Μπέκετ · Δράμα",
+      "venue": "Πορεία at Victoria",
+      "area": "Πλατεία Βικτωρίας",
+      "address": "Τρικόρφων 3–5 & 3ης Σεπτεμβρίου 69",
+      "director": "Δημήτρης Τάρλοου",
+      "cast": [
+        "Αγλαΐα Παππά",
+        "Δημήτρης Μπίτος"
+      ],
+      "season": "2026–2027",
+      "description": "Η Γουίνι αντιμετωπίζει την ακινησία και τη μοναξιά μέσα από τις μικρές καθημερινές της τελετουργίες. Ο Μπέκετ στη σκηνοθετική ματιά του Δημήτρη Τάρλοου.",
+      "start": "2026-10-01",
+      "end": "2026-11-01",
+      "weekly": {
+        "0": [
+          "20:00"
+        ],
+        "3": [
+          "20:00"
+        ],
+        "4": [
+          "21:00"
+        ],
+        "5": [
+          "21:00"
+        ],
+        "6": [
+          "21:00"
+        ]
+      },
+      "price": "Από 16€ στη More · ελέγξτε την τελική τιμή",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/eytyxismenes-meres/",
+      "sources": [
+        {
+          "name": "More · πρόγραμμα Πορεία",
+          "url": "https://www.more.com/gr-da/venues/theatro-poreia/",
+          "kind": "ticket",
+          "lastCheckedAt": "2026-10-26T12:04:48Z",
+          "note": ""
+        },
+        {
+          "name": "Αθηνόραμα",
+          "url": "https://www.athinorama.gr/theatre/performance/eutuxismenes_meres-10091272/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:04:48Z",
+          "note": ""
+        },
+        {
+          "name": "Monopoli",
+          "url": "https://www.monopoli.gr/2026/10/07/reviews/kritikh-theatroy/991232/syn-plin-eytyxismenes-meres-sto-theatro-poreia/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:04:48Z",
+          "note": ""
+        }
+      ],
+      "notes": "Οι πηγές διαφέρουν στη διάρκεια (100–110 λεπτά) και στις τιμές. Προτεραιότητα στην τελική επιλογή ημερομηνίας της προπώλησης.",
+      "reviews": [
+        {
+          "id": "happy-ath",
+          "type": "editorial",
+          "source": "Αθηνόραμα",
+          "author": "Τόνια Τσαμούρη",
+          "publishedAt": "2026-10-07",
+          "url": "https://www.athinorama.gr/theatre/theatre-reviews/3078827/oi-eutuxismenes-meres/",
+          "summary": "Η κριτική ξεχωρίζει την ανάδειξη της επικαιρότητας του Μπέκετ και την ερμηνευτική ακρίβεια της Αγλαΐας Παππά.",
+          "score": null,
+          "scale": null
+        },
+        {
+          "id": "happy-mono",
+          "type": "editorial",
+          "source": "Monopoli",
+          "author": "Στέλλα Χαραμή",
+          "publishedAt": "2026-10-07",
+          "url": "https://www.monopoli.gr/2026/10/07/reviews/kritikh-theatroy/991232/syn-plin-eytyxismenes-meres-sto-theatro-poreia/",
+          "summary": "Θετική αποτίμηση της πρωταγωνίστριας και της σκηνοθετικής προσέγγισης του χρόνου, με επιφυλάξεις για την παρουσία του Γουίλι.",
+          "score": null,
+          "scale": null
+        },
+        {
+          "id": "happy-pontiki",
+          "type": "editorial",
+          "source": "Το Ποντίκι",
+          "author": "Ελένη Πετάση",
+          "publishedAt": "2026-10-24",
+          "url": "https://www.topontiki.gr/2026/10/24/eftichismenes-meres-tou-samiouel-beket/",
+          "summary": "Η ερμηνεία και η σύγχρονη ανάγνωση του έργου βρίσκονται στο επίκεντρο μιας θετικής κριτικής.",
+          "score": null,
+          "scale": null
+        },
+        {
+          "id": "happy-reader",
+          "type": "editorial",
+          "source": "Ο Αναγνώστης",
+          "author": "Όλγα Σελλά",
+          "publishedAt": null,
+          "url": "https://www.oanagnostis.gr/eytychismenes-meres-samioyel-mpeket-dim-tarlooy-de-variesai/",
+          "summary": "Εστιάζει στις μεταπτώσεις της Γουίνι και στις καθημερινές πράξεις ως αντίσταση στη φθορά.",
+          "score": null,
+          "scale": null
+        }
+      ]
+    },
+    {
+      "id": "theofilos-lazaridou-mini131-2026",
+      "title": "Θεόφιλος sold",
+      "category": "theatre",
+      "genre": "Σαμσών Ρακάς · Βιογραφικό",
+      "venue": "Μίνι Πειραιώς 131",
+      "area": "Γκάζι",
+      "address": "Πειραιώς 131",
+      "director": "Όλια Λαζαρίδου",
+      "cast": [
+        "Χάρης Χαραλάμπους Καζέπης",
+        "Αριάδνη Κωνσταντακοπούλου"
+      ],
+      "season": "2026–2027",
+      "description": "Θεατρική προσέγγιση στη ζωή του ζωγράφου Θεόφιλου Χατζημιχαήλ, σε κείμενο Σαμσών Ρακά και σκηνοθεσία Όλιας Λαζαρίδου.",
+      "start": "2026-10-06",
+      "end": "2026-12-08",
+      "weekly": {
+        "1": [
+          "20:30"
+        ],
+        "2": [
+          "20:30"
+        ]
+      },
+      "price": "13–15€ σύμφωνα με την καταχώριση",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/theofilos-sold-1/",
+      "sources": [
+        {
+          "name": "Monopoli",
+          "url": "https://www.monopoli.gr/2026/09/25/showtimes/theatre/988539/theofilos-sold-i-parastasi-tis-olias-lazaridou-gia-ton-spoudaio-zografo-sto-theatro-mini-peiraios-131/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:04:48Z",
+          "note": ""
+        }
+      ],
+      "notes": "Η νεότερη καταχώριση (25/09) αναφέρει Μίνι Πειραιώς 131 και 20:30. Η παλαιότερη αναφορά σε Θέατρο Ψυρρή δεν χρησιμοποιείται. Η σελίδα προπώλησης δεν ήταν προσβάσιμη κατά τον έλεγχο.",
+      "reviews": []
+    },
+    {
+      "id": "arbeit-paloumpis-stathmos-2026",
+      "title": "Αρμπάιτ",
+      "category": "theatre",
+      "genre": "Κοινωνικό · 2ος χρόνος",
+      "venue": "Θέατρο Σταθμός",
+      "area": "Μεταξουργείο",
+      "address": "Βίκτωρος Ουγκώ 55",
+      "director": "Γιώργος Παλούμπης & Αντώνης Τσιοτσιόπουλος",
+      "cast": [
+        "Σοφία Ακασοπούλου",
+        "Ελευθερία Αράκη",
+        "Θεοδώρα Βαλομάνδρα",
+        "Βίκυ Εδιάρογλου",
+        "Εύα Θεολόγη",
+        "Άννα Μαρίνου",
+        "Μαρίτσα Φωτιάδου"
+      ],
+      "season": "2026–2027",
+      "description": "Ιστορίες για την εργασία, την αναζήτησή της και τον τρόπο που διαμορφώνει τη ζωή μας, σε κείμενο Γιώργου Παλούμπη και Αντώνη Τσιοτσιόπουλου.",
+      "start": "2026-10-14",
+      "end": "2027-01-07",
+      "weekly": {
+        "3": [
+          "20:30"
+        ],
+        "4": [
+          "20:30"
+        ]
+      },
+      "price": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/armapait-2os-xronos/",
+      "sources": [
+        {
+          "name": "Monopoli",
+          "url": "https://www.monopoli.gr/2026/09/22/showtimes/theatre/987705/armpait-ton-giorgou-paloumpi-antoni-tsiotsiopoulou-sto-theatro-stathmos/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:04:48Z",
+          "note": ""
+        }
+      ],
+      "notes": "Διάρκεια 90 λεπτά σύμφωνα με την καταχώριση. Αναμένεται διασταύρωση του προγράμματος με επίσημη πηγή.",
+      "reviews": []
+    },
+    {
+      "id": "juliet-tyrogalas-mets-2026",
+      "title": "Ιουλιέττα (η)",
+      "category": "theatre",
+      "genre": "Μονόλογος · Σαίξπηρ",
+      "venue": "Θέατρο ΜΕΤΣ",
+      "area": "Μετς",
+      "address": "Αιδεσίου 19–23",
+      "director": "Τάσος Τυρογαλάς",
+      "cast": [
+        "Θαλασσινή Βοσταντζόγλου"
+      ],
+      "season": "2026–2027",
+      "description": "Η Ιουλιέττα στο επίκεντρο ενός μονολόγου με τη Θαλασσινή Βοσταντζόγλου, εμπνευσμένου από το «Ρωμαίος και Ιουλιέττα».",
+      "start": "2026-10-29",
+      "end": "2026-11-26",
+      "weekly": {
+        "4": [
+          "21:00"
+        ]
+      },
+      "price": "10–18€ σύμφωνα με την καταχώριση",
+      "ticketUrl": "https://www.ticketservices.gr/event/ioulietta-h-theatro-mets/?lang=el",
+      "sources": [
+        {
+          "name": "Monopoli",
+          "url": "https://www.monopoli.gr/2026/09/10/showtimes/theatre/985799/ioulietta-i-i-saikspiriki-iroida-allios-se-enan-monologo-sto-theatro-mets/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:04:48Z",
+          "note": ""
+        }
+      ],
+      "notes": "Το ανακοινωμένο πρόγραμμα αφορά τις Πέμπτες. Αναμένεται διασταύρωση με τον χώρο ή την προπώληση.",
+      "reviews": []
+    },
+    {
+      "id": "sleaford-mods-floyd-2026",
+      "title": "Sleaford Mods",
+      "category": "concert",
+      "genre": "Electronic · Post-punk",
+      "venue": "Floyd",
+      "area": "Γκάζι",
+      "address": "Πειραιώς 117",
+      "director": "Sleaford Mods",
+      "cast": [
+        "Andrew Fearn",
+        "Jason Williamson"
+      ],
+      "season": "2026",
+      "description": "Το βρετανικό ντουέτο επιστρέφει στην Αθήνα με τον ηλεκτρονικό ήχο και τον αιχμηρό λόγο του.",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "dates": [
+        {
+          "date": "2026-11-07",
+          "time": "20:00"
+        }
+      ],
+      "price": "Αρχική προπώληση 32€ · ελέγξτε την τρέχουσα φάση",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/sleaford-mods2026",
+      "sources": [
+        {
+          "name": "Floyd · επίσημος χώρος",
+          "url": "https://www.floyd.gr/event/sleaford-mods/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:04:48Z",
+          "note": ""
+        }
+      ],
+      "notes": "Ο επίσημος χώρος αναφέρει ωράριο 20:00–23:30. Η ώρα έναρξης του live μπορεί να διαφέρει. Είσοδος ενηλίκων σύμφωνα με τον χώρο.",
+      "reviews": []
+    },
+    {
+      "id": "skinshape-gazarte-2026",
+      "title": "Skinshape",
+      "category": "concert",
+      "genre": "Funk · Ψυχεδέλεια · Soul",
+      "venue": "Gazarte · Roof Stage",
+      "area": "Γκάζι",
+      "address": null,
+      "director": "William Dorey",
+      "cast": [
+        "Skinshape"
+      ],
+      "season": "2026",
+      "description": "Ο William Dorey με την μπάντα του σε μια ζωντανή συνάντηση funk, reggae και ψυχεδέλειας στο Roof Stage του Gazarte.",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "dates": [
+        {
+          "date": "2026-11-07",
+          "time": null
+        }
+      ],
+      "price": "29€ προπώληση · 35€ ταμείο",
+      "ticketUrl": null,
+      "sources": [
+        {
+          "name": "Gazarte · επίσημος χώρος",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:04:48Z",
+          "note": ""
+        }
+      ],
+      "notes": "Η επίσημη σελίδα επιβεβαιώνει την ημερομηνία, αλλά δεν εμφανίζει ώρα έναρξης στο διαθέσιμο κείμενο. Η αγορά εισιτηρίου γίνεται από τη σελίδα του χώρου.",
+      "reviews": []
+    }
+  ]
+}
