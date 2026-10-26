@@ -39,6 +39,10 @@ async function update(event){
  for(const u of [...new Set([...urls,...urls.map(alternate).filter(Boolean)])]){
   try{
    const {html}=await request(u);const page=parsePage(html,u,event.title);report.checked++;
+   if(page.ticketUrl&&kindOf(u)!=='ticket'){
+    try{const destination=await request(page.ticketUrl);if(destination.page.blocked||!identityMatches(event,destination.page))page.ticketUrl=null;}
+    catch{page.ticketUrl=null;}
+   }
    const result=enrich(event,page,{now,kind:kindOf(u)});
    if(result.reason)report.failures.push({id:event.id,url:u,reason:result.reason});
   }catch(error){report.failures.push({id:event.id,url:u,reason:error.message})}

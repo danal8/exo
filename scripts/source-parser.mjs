@@ -28,12 +28,13 @@ export function parsePage(html,url,expectedTitle){
  for(const m of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi))if(/ld\+json/i.test(m[1]))try{walk(JSON.parse(m[2]))}catch{}
  let events=nodes.filter(n=>list(n['@type']).some(t=>/^(Event|TheaterEvent|MusicEvent|ComedyEvent|Festival)$/.test(t)));
  const main=events[0]||nodes.find(n=>list(n['@type']).some(t=>/^(CreativeWork|Play|Product)$/.test(t)));
- const heading=text(html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1]);
+ const heading=[...html.matchAll(/<h1\b[^>]*>([\s\S]*?)<\/h1>/gi)].map(m=>text(m[1])).find(t=>t&&!/\{\{|\}\}/.test(t))||'';
  let title=text(main?.name||heading||meta['og:title']||'').replace(/\s*[|–]\s*(More\.com|Public\.gr).*$/i,'');
  events=events.filter(n=>!n.name||normalize(n.name)===normalize(main?.name||heading));
  const body=text(html);
- const afterHeading=html.split(/<h1\b[^>]*>[\s\S]*?<\/h1>/i)[1]||'';
- const lead=html.split(/<h1\b[^>]*>[\s\S]*?<\/h1>/i)[1]?.split(/<h[23]\b|Πού παίζεται|Αναλυτική κριτική/)[0]||'';
+ const headingMatch=[...html.matchAll(/<h1\b[^>]*>[\s\S]*?<\/h1>/gi)].find(m=>text(m[0])===heading);
+ const afterHeading=headingMatch?html.slice(headingMatch.index+headingMatch[0].length):'';
+ const lead=afterHeading.split(/<h[23]\b|Πού παίζεται|Αναλυτική κριτική/)[0]||'';
  const paragraph=[...lead.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)].map(m=>text(m[1])).find(t=>t.length>75&&!/cookies|cookie|Ερμηνεύ|Σκηνοθ|Σύνδεση/.test(t));
  const synopsis=html.match(/<h[2-4]\b[^>]*>[^<]*(?:Υπόθεση|Λίγα Λόγια|Περιγραφή)[\s\S]*?<\/h[2-4]>([\s\S]*?)(?=<h[2-4]\b|$)/i)?.[1];
  const rawDescription=main?.description||(synopsis?text(synopsis):null)||paragraph||meta['og:description']||meta.description||'';
