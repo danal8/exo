@@ -1,4 +1,4 @@
-const CACHE='exo-public-shell-v1';
+const CACHE='exo-public-shell-v2';
 const base=new URL('./',self.location.href);
 const assets=['','index.html','manifest.webmanifest','icons/favicon.svg','icons/favicon-32.png','icons/icon-192.png','icons/icon-512.png'];
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(assets.map(p=>new URL(p,base).href))).then(()=>self.skipWaiting()))});

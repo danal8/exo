@@ -4,10 +4,10 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#171311">
-  <link rel="manifest" href="./manifest.webmanifest">
-  <link rel="icon" type="image/svg+xml" href="./icons/favicon.svg">
-  <link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png">
-  <link rel="apple-touch-icon" href="./icons/icon-192.png">
+  <link rel="manifest" href="./manifest.webmanifest?v=brand2">
+  <link rel="icon" type="image/svg+xml" href="./icons/favicon.svg?v=brand2">
+  <link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png?v=brand2">
+  <link rel="apple-touch-icon" href="./icons/icon-192.png?v=brand2">
   <title>exo — Θέατρο, συναυλίες & κριτικές</title>
   <meta name="description" content="Το exo σε βοηθά να βρεις θέατρο και συναυλίες με καθαρές, τεκμηριωμένες κριτικές.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -54,7 +54,7 @@
 <body>
   <a class="skip" href="#catalog">Στο πρόγραμμα</a>
   <main class="shell">
-    <header class="top"><a class="brand" href="./" aria-label="exo αρχική">exo<i>.</i></a><span class="city">Αθήνα</span><div class="header-actions"><button class="chip install-pwa" id="installPwa" hidden><img src="./icons/icon-192.png" width="22" height="22" alt="">Εγκατάσταση</button><button class="chip" id="accountOpen">Τα εισιτήριά μου</button><button class="chip" id="savedTop" aria-pressed="false">Αγαπημένα <span id="savedCount">0</span></button></div></header>
+    <header class="top"><a class="brand" href="./" aria-label="exo αρχική">exo<i>.</i></a><span class="city">Αθήνα</span><div class="header-actions"><button class="chip install-pwa" id="installPwa" hidden><img src="./icons/icon-192.png?v=brand2" width="22" height="22" alt="">Εγκατάσταση</button><button class="chip" id="accountOpen">Τα εισιτήριά μου</button><button class="chip" id="savedTop" aria-pressed="false">Αγαπημένα <span id="savedCount">0</span></button></div></header>
     <section class="hero">
       <div class="kicker">Θέατρο · Μουσική · Αθήνα</div>
       <h1>Βρες τι αξίζει να <em>ζήσεις.</em></h1>
@@ -73,11 +73,11 @@
   <nav class="bottom" aria-label="Κύρια πλοήγηση"><button class="active" data-view="home"><span aria-hidden="true">⌂</span>exo</button><button data-view="discover"><span aria-hidden="true">⌕</span>Ανακάλυψε</button><button data-view="saved"><span aria-hidden="true">♡</span>Αγαπημένα</button><button data-view="tickets"><span aria-hidden="true">▤</span>Εισιτήρια</button></nav>
   <dialog class="detail" id="detail" aria-labelledby="detailTitle"><div class="sheet"><div class="detail-bar"><button class="close" aria-label="Κλείσιμο"><span class="desktop-close">×</span><span class="mobile-back">← Πίσω</span></button></div><div id="detailBody"></div></div></dialog>
   <dialog class="detail account" id="account" aria-labelledby="accountTitle"><div class="sheet"><div class="detail-bar"><button class="close" id="accountClose" aria-label="Κλείσιμο λογαριασμού"><span class="desktop-close">×</span><span class="mobile-back">← Πίσω</span></button></div><div class="kicker">Ο δικός σου χώρος</div><h2 id="accountTitle">Τα εισιτήριά μου</h2><div id="accountContent"></div></div></dialog>
-  <dialog class="install-help" id="installHelp" aria-labelledby="installTitle"><button class="chip close" id="installHelpClose" aria-label="Κλείσιμο οδηγιών εγκατάστασης">×</button><img src="./icons/icon-192.png" alt="exo"><h2 id="installTitle">Το exo στην αρχική σου οθόνη</h2><p>Άνοιξε το μενού του browser (⋮) και διάλεξε <strong>«Εγκατάσταση εφαρμογής»</strong> ή <strong>«Προσθήκη στην αρχική οθόνη»</strong>.</p><p>Στον υπολογιστή, η εγκατάσταση μπορεί να εμφανίζεται και στη γραμμή διευθύνσεων.</p></dialog>
+  <dialog class="install-help" id="installHelp" aria-labelledby="installTitle"><button class="chip close" id="installHelpClose" aria-label="Κλείσιμο οδηγιών εγκατάστασης">×</button><img src="./icons/icon-192.png?v=brand2" alt="exo"><h2 id="installTitle">Το exo στην αρχική σου οθόνη</h2><p>Άνοιξε το μενού του browser (⋮) και διάλεξε <strong>«Εγκατάσταση εφαρμογής»</strong> ή <strong>«Προσθήκη στην αρχική οθόνη»</strong>.</p><p>Στον υπολογιστή, η εγκατάσταση μπορεί να εμφανίζεται και στη γραμμή διευθύνσεων.</p></dialog>
   <p class="toast" id="toast" role="status" hidden></p>
   <noscript><p class="shell">Για την αναζήτηση και το πρόγραμμα χρειάζεται JavaScript. Δείτε τις <a href="./DATA_SOURCES.md">πηγές του οδηγού</a>.</p></noscript>
   <script src="./vendor/supabase-2.118.0.js"></script>
   <script type="module" src="./app.js?v=20261026-scroll6"></script>
-<script type="module" src="./pwa.js?v=20261026-1"></script>
+<script type="module" src="./pwa.js?v=20261026-brand2"></script>
 </body>
 </html>
