@@ -38,7 +38,7 @@ export function parsePage(html,url,expectedTitle){
  // Short source excerpt; full announcement stays at the original publisher.
  const description=text(rawDescription).split(/\s+/).slice(0,25).join(' ');
  let image=safeUrl(list(main?.image)[0]||meta['og:image'],url);
- const matchedPoster=expectedTitle&&/more\.com|tickets\.public\.gr/.test(new URL(url).hostname)?ticketPoster(html,url,expectedTitle):null;
+ const matchedPoster=expectedTitle?ticketPoster(html,url,expectedTitle):null;
  const imageOnly=Boolean(matchedPoster&&normalize(title)!==normalize(expectedTitle));
  if(matchedPoster){image=matchedPoster;title=expectedTitle}
  const dates=events.map(n=>({raw:n.startDate,end:n.endDate,status:n.eventStatus,url:safeUrl(n.url,url),location:list(n.location)[0]})).filter(x=>/^\d{4}-\d{2}-\d{2}/.test(x.raw||''));
@@ -72,7 +72,7 @@ export function enrich(event,page,{now=new Date().toISOString(),kind='publisher'
  if(page.blocked||!identityMatches(event,page))return {changed:false,reason:page.blocked?'blocked':'identity-mismatch'};
  if(page.imageOnly){
   if(!page.image)return {changed:false,reason:'no-image'};
-  const previous=event.poster;event.poster={url:page.image,sourceUrl:page.url,kind:'poster',authority:'ticket',...(previous?.url&&previous.url!==page.image?{fallbackUrl:previous.url}:{} )};
+  const previous=event.poster;event.poster={url:page.image,sourceUrl:page.url,kind:'poster',authority:kind,...(previous?.url&&previous.url!==page.image?{fallbackUrl:previous.url}:{} )};
   return {changed:previous?.url!==page.image,fields:['poster']};
  }
  const today=athensDate(new Date(now)),future=futureDates(page,today),diff=[];

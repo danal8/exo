@@ -20,15 +20,16 @@ async function request(url){
  url=safeUrl(url);if(!url||!allowed.has(new URL(url).hostname))throw Error('unsupported-host');
  if(cache.has(url))return cache.get(url);
  const task=(async()=>{
-  if((hostErrors.get(new URL(url).hostname)||0)>=6)throw Error('source-temporarily-unavailable');
+  const bucket=new URL(url).hostname+(/\/venues\//.test(new URL(url).pathname)?':venues':/\/tickets\/|\/(theater|music)\//.test(new URL(url).pathname)?':tickets':':pages');
+  if((hostErrors.get(bucket)||0)>=6)throw Error('source-temporarily-unavailable');
   if(++requests>budget)throw Error('page-budget');
   const host=new URL(url).hostname,delay=Math.max(0,(hostNext.get(host)||0)-Date.now());hostNext.set(host,Date.now()+delay+450);await wait(delay);
   const response=await fetch(url,{headers:{'User-Agent':'exo-catalog/1.0 (+https://github.com/danal8/exo)','Accept-Language':'el-GR,el;q=0.9'},signal:AbortSignal.timeout(18000)});
   if(!response.ok)throw Error('HTTP '+response.status);
   if(!allowed.has(new URL(response.url).hostname))throw Error('redirect-to-protection');
   const html=await response.text();if(html.length>8000000)throw Error('page-too-large');
-  const page=parsePage(html,url);if(page.blocked)throw Error('access-protection');hostErrors.set(host,0);return {html,page};
- })().catch(error=>{const host=new URL(url).hostname;hostErrors.set(host,(hostErrors.get(host)||0)+1);throw error});cache.set(url,task);return task;
+  const page=parsePage(html,url);if(page.blocked)throw Error('access-protection');hostErrors.set(bucket,0);return {html,page};
+ })().catch(error=>{const u=new URL(url),bucket=u.hostname+(/\/venues\//.test(u.pathname)?':venues':/\/tickets\/|\/(theater|music)\//.test(u.pathname)?':tickets':':pages');hostErrors.set(bucket,(hostErrors.get(bucket)||0)+1);throw error});cache.set(url,task);return task;
 }
 const kindOf=url=>/more\.com|tickets\.public\.gr/.test(new URL(url).hostname)?'ticket':new URL(url).hostname==='www.athinorama.gr'?'publisher':'official';
 const sourceUrls=e=>[...new Set([e.ticketUrl,...e.sources.map(s=>s.url)].filter(Boolean))];

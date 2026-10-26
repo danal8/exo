@@ -10,7 +10,7 @@ permissions:
   contents: write
 concurrency:
   group: catalog-refresh
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   refresh:
     runs-on: ubuntu-latest
@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: '22'
       - name: Validate parsers
-        run: node --test tests/source-parser.test.mjs
+        run: node --test tests/source-parser.test.mjs tests/posters.test.mjs tests/stale-schedule.test.mjs tests/schedule.test.mjs
       - name: Discover and refresh source pages
         run: node scripts/refresh-catalog.mjs
       - name: Validate catalogue
