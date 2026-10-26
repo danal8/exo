@@ -1841,7 +1841,8 @@
       "authority": "publisher"
     },
     "duration": "75 λεπτά",
-    "phone": "2103428650"
+    "phone": "2103428650",
+    "ticketUrl": "https://www.more.com/gr-el/tickets/standupcomedy/offer/stand-up-comedy-zoa-theatro-alkmini/"
   },
   "ath-10089820": {
     "id": "ath-10089820",
@@ -6837,14 +6838,42 @@
   },
   "music-11000029": {
     "id": "music-11000029",
-    "description": "O βραβευμένος με Grammy πιανίστας, συνθέτης κι ενορχηστρωτής, θρύλος του Tango Nuevo, επιστρέφει στη σκηνή του Half Note Jazz Club 17 χρόνια μετά.…",
+    "description": "Ο Pablo Ziegler επιστρέφει στο Half Note μετά από 17 χρόνια, με τέσσερις εμφανίσεις αφιερωμένες στη συνάντηση του nuevo tango με την τζαζ. Ο Αργεντινός πιανίστας, συνθέτης και ενορχηστρωτής υπήρξε στενός συνεργάτης του Astor Piazzolla και συνεχίζει να εξελίσσει τη μουσική του γλώσσα, συνδυάζοντας τον ρυθμό και την εκφραστικότητα του τάνγκο με τον αυτοσχεδιασμό.\nΣτο τρίο συμμετέχουν ο Quique Sinesi στην κιθάρα, συνεργάτης του Ziegler για περισσότερα από 35 χρόνια, και ο Manu Comté στο μπαντονεόν. Το πρόγραμμα παρουσιάζεται με τίτλο «Blending Nuevo Tango & Jazz, The Legend Returns». Η διαδρομή του Ziegler περιλαμβάνει Latin Grammy για το «Bajo Cero» και Grammy για το «Jazz Tango».",
     "descriptionSource": {
-      "url": "https://www.athinorama.gr/music/gig/pablo_ziegler-11000029/",
-      "kind": "source-excerpt",
-      "checkedAt": "2026-10-26",
-      "authority": "publisher"
+      "url": "https://www.more.com/gr-el/tickets/music/pablo-ziegler-trio/",
+      "kind": "summary",
+      "authority": "ticket",
+      "checkedAt": "2026-10-26T20:24:44.031Z"
     },
-    "phone": "2109213310"
+    "phone": "2109213310",
+    "title": "Pablo Ziegler Trio",
+    "genre": "Nuevo tango · Jazz",
+    "area": "Μετς",
+    "address": "Τριβωνιανού 17, Τ.Κ. 11636",
+    "cast": [
+      "Pablo Ziegler — πιάνο",
+      "Quique Sinesi — κιθάρα",
+      "Manu Comté — μπαντονεόν"
+    ],
+    "credits": "Pablo Ziegler — πιάνο, σύνθεση και ενορχήστρωση. Quique Sinesi — κιθάρα. Manu Comté — μπαντονεόν.",
+    "duration": "120 λεπτά",
+    "price": "Από 20€ · ανάλογα με τη ζώνη θέσεων",
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/pablo-ziegler-trio/",
+    "poster": {
+      "url": "https://www.more.com/getattachment/0b8b896d-fe46-476c-b395-9ebf8d74c1d6/PABLO-ZIEGLER-TRIO-dbc30585-3b61-4493-bea1-c4b53f9.png",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/pablo-ziegler-trio/",
+      "kind": "poster",
+      "authority": "ticket",
+      "width": 1220,
+      "height": 370
+    },
+    "practicalInfo": [
+      "Παρασκευή 30/10 και Σάββατο 31/10 στις 22:00. Κυριακή 1/11 και Δευτέρα 2/11 στις 21:30.",
+      "Τα τραπέζια είναι τεσσάρων ατόμων. Αν αγοράσεις λιγότερες από τέσσερις θέσεις, ενδέχεται να μοιραστείς το τραπέζι.",
+      "Το εισιτήριο εξασφαλίζει τη ζώνη θέσεων και όχι συγκεκριμένο τραπέζι.",
+      "Δεν περιλαμβάνεται ποτό και δεν υπάρχει υποχρεωτική κατανάλωση.",
+      "Σύμφωνα με τους δημοσιευμένους όρους, δεν επιτρέπονται αλλαγές ή ακυρώσεις εισιτηρίων."
+    ]
   },
   "music-11000030": {
     "id": "music-11000030",
@@ -7377,5 +7406,37 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     }
+  },
+  "moby-gaff-neosakadimos-2026": {
+    "description": "Ο καπετάνιος Αχαάβ οδηγεί το πλήρωμά του στο κυνήγι της λευκής φάλαινας που τον έχει σημαδέψει. Η επιθυμία του για εκδίκηση μετατρέπει το θαλασσινό ταξίδι σε μια επικίνδυνη αναμέτρηση με την εμμονή και τα όρια του ανθρώπου.\n\nΗ ομάδα GAFF μεταφέρει στη σκηνή το μυθιστόρημα του Χέρμαν Μέλβιλ, σε διασκευή και σκηνοθεσία της Σοφίας Καραγιάννη. Με τον Ιωσήφ Ιωσηφίδη στον ρόλο του Αχαάβ, η παράσταση εξερευνά την εξουσία, την πίστη και την αυτοκαταστροφή, μέσα από τη συλλογική περιπέτεια των ναυτικών.",
+    "descriptionSource": {
+      "url": "https://neosakadimos.gr/mompi_ntik/",
+      "kind": "summary",
+      "authority": "official",
+      "checkedAt": "2026-10-26T20:30:02.532Z"
+    },
+    "poster": {
+      "url": "https://www.more.com/getattachment/fab3a701-279a-4a2f-a384-010c070acb42/%CE%9C%CE%9F%CE%9C%CE%A0%CE%99-%CE%9D%CE%A4%CE%99%CE%9Ae931aba0-6d4f-41e8-a86b-5d7679c6372f.png",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/theater/mompintik/",
+      "kind": "poster",
+      "authority": "ticket"
+    },
+    "ticketUrl": "https://www.more.com/gr-el/tickets/theater/mompintik/",
+    "duration": "90 λεπτά χωρίς διάλειμμα",
+    "phone": "2100080900",
+    "price": "20€ γενική είσοδος · 18€ μειωμένο",
+    "credits": "Συγγραφέας: Χέρμαν Μέλβιλ. Διασκευή / σκηνοθεσία: Σοφία Καραγιάννη. Σκηνικά / κοστούμια: Γεωργία Μπούρδα. Πρωτότυπη μουσική: Γιώργος Χριστιανάκης. Κίνηση: Μαργαρίτα Τρίκκα. Φωτισμοί: Βασιλική Γώγου. Βοηθός σκηνοθέτη: Σοφία Χατζηευθιμιάδη. Παραγωγή: Happy Productions."
+  },
+  "mercury-rev-gazarte-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/mercury-rev-all-is-dream-25y-anniversary/"
+  },
+  "goat-gazarte-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/goat-live-in-athens/"
+  },
+  "vapors-morphine-gazarte-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/vapors-of-morphine-live-in-athens/"
+  },
+  "slow-pilot-gazarte-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/jeff-buckleys-grace-performed-by-slow-pilot/"
   }
 }

@@ -32,19 +32,24 @@ export function parsePage(html,url,expectedTitle){
  let title=text(main?.name||heading||meta['og:title']||'').replace(/\s*[|–]\s*(More\.com|Public\.gr).*$/i,'');
  events=events.filter(n=>!n.name||normalize(n.name)===normalize(main?.name||heading));
  const body=text(html);
+ const afterHeading=html.split(/<h1\b[^>]*>[\s\S]*?<\/h1>/i)[1]||'';
  const lead=html.split(/<h1\b[^>]*>[\s\S]*?<\/h1>/i)[1]?.split(/<h[23]\b|Πού παίζεται|Αναλυτική κριτική/)[0]||'';
  const paragraph=[...lead.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)].map(m=>text(m[1])).find(t=>t.length>75&&!/cookies|cookie|Ερμηνεύ|Σκηνοθ|Σύνδεση/.test(t));
- const rawDescription=main?.description||paragraph||meta['og:description']||meta.description||'';
+ const synopsis=html.match(/<h[2-4]\b[^>]*>[^<]*(?:Υπόθεση|Λίγα Λόγια|Περιγραφή)[\s\S]*?<\/h[2-4]>([\s\S]*?)(?=<h[2-4]\b|$)/i)?.[1];
+ const rawDescription=main?.description||(synopsis?text(synopsis):null)||paragraph||meta['og:description']||meta.description||'';
  // Short source excerpt; full announcement stays at the original publisher.
- const description=text(rawDescription).split(/\s+/).slice(0,25).join(' ');
+ const candidate=text(rawDescription);
+ const description=/ΠΡΕΜΙΕΡΑ[\s\S]*ΕΙΣΙΤΗΡΙΑ|cookies|cookie settings/i.test(candidate)?'':candidate.split(/(?<=[.!;;])\s+/).filter(Boolean).slice(0,2).join(' ').slice(0,900);
  let image=safeUrl(list(main?.image)[0]||meta['og:image'],url);
+ if(image&&/\/(?:[^/?]*)(?:logo|transparent|placeholder|favicon)(?:[^/?]*)/i.test(new URL(image).pathname))image=null;
  const matchedPoster=expectedTitle?ticketPoster(html,url,expectedTitle):null;
  const imageOnly=Boolean(matchedPoster&&normalize(title)!==normalize(expectedTitle));
  if(matchedPoster){image=matchedPoster;title=expectedTitle}
  const dates=events.map(n=>({raw:n.startDate,end:n.endDate,status:n.eventStatus,url:safeUrl(n.url,url),location:list(n.location)[0]})).filter(x=>/^\d{4}-\d{2}-\d{2}/.test(x.raw||''));
  const ticketHosts=new Set(['www.more.com','more.com','tickets.public.gr','www.ticketservices.gr','ticketservices.gr','www.ticketmaster.gr','ticketmaster.gr','www.ticketplus.gr','ticketplus.gr','www.ticketcore.gr','ticketcore.gr']);
  const isTicket=u=>{try{const x=new URL(u);return ticketHosts.has(x.hostname)&&/\/tickets\/|\/theater\/|\/music\/|\/event\/|\/events\/|\.html|\/show\//i.test(x.pathname)}catch{return false}};
- const ticket=links(html,url).find(l=>isTicket(l.url)&&/εισιτ|αγόρασε|αγορα|κρατήσ|ticket|book/i.test(l.label))||links(html,url).find(l=>isTicket(l.url));
+ const scoped=links(afterHeading.split(/RELATED EVENTS|ΣΧΕΤΙΚΕΣ ΕΚΔΗΛΩΣΕΙΣ/i)[0]||html,url);
+ const ticket=scoped.find(l=>isTicket(l.url)&&/εισιτ|αγόρασε|αγορα|κρατήσ|ticket|book|buy/i.test(l.label));
  const offerTicket=list(main?.offers).map(o=>safeUrl(o.url,url)).find(isTicket);
  const location=list(main?.location)[0];
  const cast=list(main?.performer||main?.actor).map(x=>typeof x==='string'?x:x.name).filter(Boolean);
@@ -82,11 +87,11 @@ export function enrich(event,page,{now=new Date().toISOString(),kind='publisher'
  if(page.duration)put('duration',page.duration);
  if(page.weekly){put('weekly',page.weekly);put('scheduleText',page.scheduleText);put('scheduleKnown',true);if(event.dates&&kind==='publisher'&&event.verification?.kind!=='ticket')put('dates',null)}
  const priority={ticket:3,official:2,publisher:1};
- if(page.description.length>=35&&(!event.descriptionSource||priority[kind]>=priority[event.descriptionSource.authority||'publisher'])){put('description',page.description);put('descriptionSource',{url:page.url,kind:'source-excerpt',authority:kind,checkedAt:now})}
+ if(page.description.length>=35&&event.descriptionSource?.kind!=='summary'&&(!event.descriptionSource||priority[kind]>=priority[event.descriptionSource.authority||'publisher'])){put('description',page.description);put('descriptionSource',{url:page.url,kind:'source-excerpt',authority:kind,checkedAt:now})}
  if(page.image&&(!event.poster?.authority||priority[kind]>=priority[event.poster.authority]))put('poster',{url:page.image,sourceUrl:page.url,authority:kind,kind:kind==='ticket'?'poster':'production-photo'});
  if(page.cast.length)put('cast',page.cast);
  if(page.price)put('price',page.price);
- if(page.ticketUrl)put('ticketUrl',page.ticketUrl);
+ if(page.ticketUrl&&(kind==='ticket'||!event.ticketUrl))put('ticketUrl',page.ticketUrl);
  if(page.end&&page.end>=event.start){put('end',page.end);put('endOpen',false)}
  const cancelled=page.dates.length&&page.dates.every(d=>/EventCancelled$/.test(d.status||''));
  if(cancelled)put('programmeStatus','cancelled');

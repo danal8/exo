@@ -1,0 +1,38 @@
+name: Audit posters summaries and ticket links
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['scripts/audit-content.mjs']
+  schedule:
+    - cron: '45 4 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: catalog-refresh
+  cancel-in-progress: true
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node --test tests/content-quality.test.mjs tests/source-parser.test.mjs tests/posters.test.mjs
+      - run: node scripts/audit-content.mjs
+      - name: Save audit
+        run: |
+          git config user.name "exo catalog"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/content-audit.json data/catalog.json data/details.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Record poster summary and ticket link audit"
+          git pull --rebase origin main
+          git push
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: content-audit
+          path: data/content-audit.json

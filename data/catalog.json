@@ -652,9 +652,9 @@
         "Κωνσταντίνος Πασσάς"
       ],
       "season": "2026–2027",
-      "description": "ΜΟΜΠΙ ΝΤΙΚ ΜΟΜΠΙ ΝΤΙΚ ΜΟΜΠΙ ΝΤΙΚ ΠΡΕΜΙΕΡΑ: Δευτέρα 26 Οκτωβρίου 2026 ΕΙΣΙΤΗΡΙΑ ΠΡΕΜΙΕΡΑ Δευτέρα 26 Οκτωβρίου 2026 ΕΙΣΙΤΗΡΙΑ",
-      "price": "18–20€",
-      "ticketUrl": "https://www.more.com/theater/i-porni-apo-pano-13os-xronos/",
+      "description": "Ο καπετάνιος Αχαάβ οδηγεί το πλήρωμά του στο κυνήγι της λευκής φάλαινας που τον έχει σημαδέψει. Η επιθυμία του για εκδίκηση μετατρέπει το θαλασσινό ταξίδι σε μια επικίνδυνη αναμέτρηση με την εμμονή και τα όρια του ανθρώπου.\n\nΗ ομάδα GAFF μεταφέρει στη σκηνή το μυθιστόρημα του Χέρμαν Μέλβιλ, σε διασκευή και σκηνοθεσία της Σοφίας Καραγιάννη. Με τον Ιωσήφ Ιωσηφίδη στον ρόλο του Αχαάβ, η παράσταση εξερευνά την εξουσία, την πίστη και την αυτοκαταστροφή, μέσα από τη συλλογική περιπέτεια των ναυτικών.",
+      "price": "20€ γενική είσοδος · 18€ μειωμένο",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/mompintik/",
       "reviews": [],
       "notes": "Σύμφωνα με τον επίσημο χώρο: έως 17/11 Δευτέρα–Τρίτη 21:15. Από 23/11 Δευτέρα 21:15, Τρίτη 20:00. Προτεραιότητα στο επίσημο πρόγραμμα έναντι της παλιότερης καταχώρισης.",
       "id": "moby-gaff-neosakadimos-2026",
@@ -758,23 +758,26 @@
       "audienceCheckedAt": "2026-10-26",
       "audienceSourceUrl": "https://www.athinorama.gr/theatre/performance/mompi_ntik-10091905/#UserRreviews",
       "poster": {
-        "url": "https://neosakadimos.gr/wp-content/uploads/2019/06/Logo-Transparent100.png",
-        "sourceUrl": "https://neosakadimos.gr/mompi_ntik/",
-        "authority": "official",
-        "kind": "production-photo"
+        "url": "https://www.more.com/getattachment/fab3a701-279a-4a2f-a384-010c070acb42/%CE%9C%CE%9F%CE%9C%CE%A0%CE%99-%CE%9D%CE%A4%CE%99%CE%9Ae931aba0-6d4f-41e8-a86b-5d7679c6372f.png",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/theater/mompintik/",
+        "kind": "poster",
+        "authority": "ticket"
       },
       "sourceProductionId": "10091905",
       "descriptionSource": {
         "url": "https://neosakadimos.gr/mompi_ntik/",
-        "kind": "source-excerpt",
+        "kind": "summary",
         "authority": "official",
-        "checkedAt": "2026-10-26T19:56:05.171Z"
+        "checkedAt": "2026-10-26T20:30:02.532Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-10-26T19:56:05.171Z",
         "url": "https://neosakadimos.gr/mompi_ntik/",
         "result": "no-future-dated-event"
-      }
+      },
+      "duration": "90 λεπτά χωρίς διάλειμμα",
+      "phone": "2100080900",
+      "credits": "Συγγραφέας: Χέρμαν Μέλβιλ. Διασκευή / σκηνοθεσία: Σοφία Καραγιάννη. Σκηνικά / κοστούμια: Γεωργία Μπούρδα. Πρωτότυπη μουσική: Γιώργος Χριστιανάκης. Κίνηση: Μαργαρίτα Τρίκκα. Φωτισμοί: Βασιλική Γώγου. Βοηθός σκηνοθέτη: Σοφία Χατζηευθιμιάδη. Παραγωγή: Happy Productions."
     },
     {
       "genre": "Sophie Swithinbank · Δράμα",
@@ -2088,7 +2091,7 @@
       "season": "2026–2027",
       "description": "MERCURY REV live in Athens ΠΕΜΠΤΗ 29 ΟΚΤΩΒΡΙΟΥ 2026 | GAZARTE GROUND STAGE Celebrating 25 Years of ‘All is Dream’ Οι Mercury Rev, ένα από",
       "price": "35€ προπώληση · 40€ ταμείο",
-      "ticketUrl": "https://www.more.com/gr-el/tickets/music/emmet-cohen-live-in-athens/",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/mercury-rev-all-is-dream-25y-anniversary/",
       "reviews": [],
       "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
       "id": "mercury-rev-gazarte-2026",
@@ -2136,7 +2139,8 @@
         "checkedAt": "2026-10-26T19:56:05.171Z",
         "url": "https://www.gazarte.gr/events/jamie-woon-2/",
         "result": "no-future-dated-event"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:42:27.885Z"
     },
     {
       "genre": "Jazz · Miles and Coltrane at 100",
@@ -2208,7 +2212,7 @@
       "season": "2026–2027",
       "description": "GOAT live in Athens ΠΑΡΑΣΚΕΥΗ 30 ΟΚΤΩΒΡΙΟΥ 2026 ΣΑΒΒΑΤΟ 31 ΟΚΤΩΒΡΙΟΥ 2026 GAZARTE GROUND STAGE Οι Goat, το αινιγματικό και απόλυτα ξεχωριστό συγκρότημα από τη",
       "price": null,
-      "ticketUrl": "https://www.more.com/gr-el/tickets/music/emmet-cohen-live-in-athens/",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/goat-live-in-athens/",
       "reviews": [],
       "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
       "id": "goat-gazarte-2026",
@@ -2260,7 +2264,8 @@
         "checkedAt": "2026-10-26T19:56:05.171Z",
         "url": "https://www.gazarte.gr/events/goat/",
         "result": "no-future-dated-event"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:42:27.885Z"
     },
     {
       "genre": "Heavy metal",
@@ -2488,7 +2493,7 @@
       "season": "2026–2027",
       "description": "VAPORS OF MORPHINE live in Athens ΤΕΤΑΡΤΗ 11 ΝΟΕΜΒΡΙΟΥ 2026 | GAZARTE GROUND STAGE Οι Vapors of Morphine, η μπάντα που κρατά ζωντανή και εξελίσσει",
       "price": null,
-      "ticketUrl": "https://www.more.com/gr-el/tickets/music/emmet-cohen-live-in-athens/",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/vapors-of-morphine-live-in-athens/",
       "reviews": [],
       "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
       "id": "vapors-morphine-gazarte-2026",
@@ -2536,7 +2541,8 @@
         "checkedAt": "2026-10-26T19:56:05.171Z",
         "url": "https://www.gazarte.gr/events/vapors-of-morphine/",
         "result": "no-future-dated-event"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:42:27.885Z"
     },
     {
       "genre": "Αφιέρωμα",
@@ -2548,7 +2554,7 @@
       "season": "2026–2027",
       "description": "Περισσότερα από είκοσι χρόνια μετά τον πρόωρο θάνατό του, ο Jeff Buckley παραμένει μία από τις πιο ιδιαίτερες και επιδραστικές μορφές της σύγχρονης μουσικής. Με",
       "price": null,
-      "ticketUrl": "https://www.more.com/gr-el/tickets/music/emmet-cohen-live-in-athens/",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/jeff-buckleys-grace-performed-by-slow-pilot/",
       "reviews": [],
       "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
       "id": "slow-pilot-gazarte-2026",
@@ -2596,7 +2602,8 @@
         "checkedAt": "2026-10-26T19:56:05.171Z",
         "url": "https://www.gazarte.gr/events/jeff-buckleys-grace-performed-by-slow-pilot/",
         "result": "no-future-dated-event"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:42:27.885Z"
     },
     {
       "genre": "Live",
@@ -9639,7 +9646,7 @@
       "scheduleKnown": true,
       "scheduleText": "Δευτ. 9.30 μ.μ.",
       "price": "€ 10 (ταμείο), € 8 (προπώληση).",
-      "ticketUrl": "https://www.more.com/theater/womendirectors/zo-i",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/standupcomedy/offer/stand-up-comedy-zoa-theatro-alkmini/",
       "sources": [
         {
           "name": "Αθηνόραμα · οδηγός θεάτρου",
@@ -9672,7 +9679,8 @@
         "result": "no-future-dated-event"
       },
       "reviewLinks": [],
-      "phone": "2103428650"
+      "phone": "2103428650",
+      "ticketLinkCheckedAt": "2026-10-26T20:42:27.885Z"
     },
     {
       "id": "ath-10089820",
@@ -31313,48 +31321,96 @@
     },
     {
       "id": "music-11000029",
-      "title": "Pablo Ziegler",
+      "title": "Pablo Ziegler Trio",
       "category": "concert",
-      "genre": "Συναυλίες",
+      "genre": "Nuevo tango · Jazz",
       "venue": "Half Note Jazz Club",
-      "area": "Αθήνα",
-      "address": "",
+      "area": "Μετς",
+      "address": "Τριβωνιανού 17, Τ.Κ. 11636",
       "director": null,
-      "cast": [],
-      "description": "O βραβευμένος με Grammy πιανίστας, συνθέτης κι ενορχηστρωτής, θρύλος του Tango Nuevo, επιστρέφει στη σκηνή του Half Note Jazz Club 17 χρόνια μετά.",
+      "cast": [
+        "Pablo Ziegler — πιάνο",
+        "Quique Sinesi — κιθάρα",
+        "Manu Comté — μπαντονεόν"
+      ],
+      "description": "Ο Pablo Ziegler επιστρέφει στο Half Note μετά από 17 χρόνια, με τέσσερις εμφανίσεις αφιερωμένες στη συνάντηση του nuevo tango με την τζαζ. Ο Αργεντινός πιανίστας, συνθέτης και ενορχηστρωτής υπήρξε στενός συνεργάτης του Astor Piazzolla και συνεχίζει να εξελίσσει τη μουσική του γλώσσα, συνδυάζοντας τον ρυθμό και την εκφραστικότητα του τάνγκο με τον αυτοσχεδιασμό.\nΣτο τρίο συμμετέχουν ο Quique Sinesi στην κιθάρα, συνεργάτης του Ziegler για περισσότερα από 35 χρόνια, και ο Manu Comté στο μπαντονεόν. Το πρόγραμμα παρουσιάζεται με τίτλο «Blending Nuevo Tango & Jazz, The Legend Returns». Η διαδρομή του Ziegler περιλαμβάνει Latin Grammy για το «Bajo Cero» και Grammy για το «Jazz Tango».",
       "season": "2026–2027",
       "start": "2026-10-30",
-      "end": "2026-10-30",
+      "end": "2026-11-02",
       "dates": [
         {
           "date": "2026-10-30",
-          "time": "20:00"
+          "time": "22:00"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "22:00"
+        },
+        {
+          "date": "2026-11-01",
+          "time": "21:30"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "21:30"
         }
       ],
       "scheduleKnown": true,
-      "scheduleText": "30/10 Παρ., Σάβ. 8 μ.μ., Κυρ., Δευτ. 9.30 μ.μ.",
-      "ticketUrl": "https://www.more.com/music/pablo-ziegler-trio",
+      "scheduleText": "Παρασκευή & Σάββατο 22:00 · Κυριακή & Δευτέρα 21:30",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/pablo-ziegler-trio/",
       "sources": [
         {
           "name": "Αθηνόραμα · μουσική",
           "url": "https://www.athinorama.gr/music/gig/pablo_ziegler-11000029/",
           "kind": "publisher",
           "lastCheckedAt": "2026-10-26T19:56:05.171Z"
+        },
+        {
+          "name": "More · Pablo Ziegler Trio",
+          "url": "https://www.more.com/gr-el/tickets/music/pablo-ziegler-trio/",
+          "kind": "ticket",
+          "lastCheckedAt": "2026-10-26T20:24:44.031Z"
         }
       ],
       "reviews": [],
       "descriptionSource": {
-        "url": "https://www.athinorama.gr/music/gig/pablo_ziegler-11000029/",
-        "kind": "source-excerpt",
-        "authority": "publisher",
-        "checkedAt": "2026-10-26T19:56:05.171Z"
+        "url": "https://www.more.com/gr-el/tickets/music/pablo-ziegler-trio/",
+        "kind": "summary",
+        "authority": "ticket",
+        "checkedAt": "2026-10-26T20:24:44.031Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-10-26T19:56:05.171Z",
         "url": "https://www.athinorama.gr/music/gig/pablo_ziegler-11000029/",
         "result": "no-future-dated-event"
       },
-      "phone": "2109213310"
+      "phone": "2109213310",
+      "credits": "Pablo Ziegler — πιάνο, σύνθεση και ενορχήστρωση. Quique Sinesi — κιθάρα. Manu Comté — μπαντονεόν.",
+      "duration": "120 λεπτά",
+      "price": "Από 20€ · ανάλογα με τη ζώνη θέσεων",
+      "poster": {
+        "url": "https://www.more.com/getattachment/0b8b896d-fe46-476c-b395-9ebf8d74c1d6/PABLO-ZIEGLER-TRIO-dbc30585-3b61-4493-bea1-c4b53f9.png",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/pablo-ziegler-trio/",
+        "kind": "poster",
+        "authority": "ticket",
+        "width": 1220,
+        "height": 370
+      },
+      "practicalInfo": [
+        "Παρασκευή 30/10 και Σάββατο 31/10 στις 22:00. Κυριακή 1/11 και Δευτέρα 2/11 στις 21:30.",
+        "Τα τραπέζια είναι τεσσάρων ατόμων. Αν αγοράσεις λιγότερες από τέσσερις θέσεις, ενδέχεται να μοιραστείς το τραπέζι.",
+        "Το εισιτήριο εξασφαλίζει τη ζώνη θέσεων και όχι συγκεκριμένο τραπέζι.",
+        "Δεν περιλαμβάνεται ποτό και δεν υπάρχει υποχρεωτική κατανάλωση.",
+        "Σύμφωνα με τους δημοσιευμένους όρους, δεν επιτρέπονται αλλαγές ή ακυρώσεις εισιτηρίων."
+      ],
+      "endOpen": false,
+      "verification": {
+        "state": "verified",
+        "checkedAt": "2026-10-26T20:24:44.031Z",
+        "url": "https://www.more.com/gr-el/tickets/music/pablo-ziegler-trio/",
+        "kind": "ticket",
+        "evidence": "future-dated-event"
+      }
     },
     {
       "id": "music-11000030",
