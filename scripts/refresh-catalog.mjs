@@ -37,7 +37,7 @@ async function update(event){
  const before=JSON.stringify(event),urls=sourceUrls(event);
  for(const u of [...new Set([...urls,...urls.map(alternate).filter(Boolean)])]){
   try{
-   const {page}=await request(u);report.checked++;
+   const {html}=await request(u);const page=parsePage(html,u,event.title);report.checked++;
    const result=enrich(event,page,{now,kind:kindOf(u)});
    if(result.reason)report.failures.push({id:event.id,url:u,reason:result.reason});
   }catch(error){report.failures.push({id:event.id,url:u,reason:error.message})}
@@ -52,7 +52,7 @@ const discovered=new Map();
 for(const seed of seeds){
  try{
   const {html}=await request(seed);
-  const found=links(html,seed).filter(l=>/\/theatre\/performance\/|\/music\/(?:concert|gig|event)\/|\/tickets\/(?:theater|music)\/[^/?]+|\/event\/[^/?]+/.test(new URL(l.url).pathname));
+  const found=links(html,seed).filter(l=>/\/theatre\/performance\/|\/music\/(?:concert|gig|event)\/|\/tickets\/(?:theater|music)\/[^/?]+|\/events?\/[^/?]+/.test(new URL(l.url).pathname));
   report.discovery.push({url:seed,checkedAt:now,links:found.length,status:'ok'});found.forEach(l=>discovered.set(l.url,l));
  }catch(error){report.discovery.push({url:seed,status:'failed',reason:error.message})}
 }
@@ -61,7 +61,12 @@ const known=new Set(catalog.events.flatMap(sourceUrls));
 await pool([...discovered.values()].filter(l=>!known.has(l.url)),async l=>{
  try{
   const {page}=await request(l.url);
-  if(catalog.events.some(e=>identityMatches(e,page))){report.candidates.push({url:l.url,title:page.title,reason:'existing-title-requires-production-match'});return}
+  const sameTitle=catalog.events.filter(e=>identityMatches(e,page));
+  const matching=sameTitle.filter(e=>page.dates.some(d=>d.raw.slice(0,10)>=e.start&&d.raw.slice(0,10)<=e.end)&&(
+    normalize(page.location?.name)===normalize(e.venue)||
+    kindOf(l.url)==='official'&&e.sources.some(s=>s.kind==='official'&&new URL(s.url).hostname===new URL(l.url).hostname)));
+  if(matching.length===1){const result=enrich(matching[0],page,{now,kind:kindOf(l.url)});if(result.changed){report.enriched++;report.changes.push({id:matching[0].id,title:matching[0].title,fields:result.fields})}return}
+  if(sameTitle.length){report.candidates.push({url:l.url,title:page.title,reason:'existing-title-requires-production-match'});return}
   const dates=futureDates(page,today).filter(d=>d.status==='EventScheduled'),loc=page.location;
   const address=typeof loc?.address==='string'?loc.address:loc?.address?.streetAddress;
   const city=normalize(typeof loc?.address==='object'?loc.address.addressLocality:'');

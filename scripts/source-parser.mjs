@@ -6,14 +6,30 @@ const attrs=s=>Object.fromEntries([...s.matchAll(/([\w:-]+)\s*=\s*(?:"([^"]*)"|'
 export function safeUrl(value,base){try{if(!value)return null;const u=new URL(typeof value==='object'?value.url||value['@id']:value,base);return u.protocol==='https:'?u.href:null}catch{return null}}
 export function links(html,base){return [...html.matchAll(/<a\b([^>]*)>([\s\S]*?)<\/a>/gi)].map(m=>({url:safeUrl(attrs(m[1]).href,base),label:text(m[2])})).filter(x=>x.url)}
 const list=x=>x==null?[]:Array.isArray(x)?x:[x];
-export function parsePage(html,url){
+
+export function ticketPoster(html,base,title){
+ const ignored=new Set(['ο','η','οι','το','τα','του','τησ','των','και','στο','στον','στη','στην','θεατρο','theater','σταυροσ','νοτου','κεντρικη','σκηνη','club','plus','live']);
+ const tokens=s=>normalize(s).split(' ').filter(t=>t&&!ignored.has(t));
+ const target=tokens(title);if(target.join('').length<5)return null;
+ for(const m of html.matchAll(/<img\b([^>]+)>/gi)){
+  const a=attrs(m[1]),label=tokens(a.alt||a.title||'');
+  if(!target.every(t=>label.includes(t)))continue;
+  for(const src of [a['data-src'],a['data-original'],a['data-lazy-src'],a.src]){
+   const url=safeUrl(src,base);
+   if(url&&!/placeholder|logo|transparent|loading|default/i.test(url))return url;
+  }
+ }
+ return null;
+}
+
+export function parsePage(html,url,expectedTitle){
  const meta={};for(const m of html.matchAll(/<meta\b([^>]+)>/gi)){const a=attrs(m[1]);meta[a.property||a.name]=a.content}
  const nodes=[];function walk(v){if(!v||typeof v!=='object')return;if(Array.isArray(v)){v.forEach(walk);return}if(v['@type'])nodes.push(v);for(const [k,c]of Object.entries(v))if(k!=='@context')walk(c)}
  for(const m of html.matchAll(/<script\b([^>]*)>([\s\S]*?)<\/script>/gi))if(/ld\+json/i.test(m[1]))try{walk(JSON.parse(m[2]))}catch{}
  let events=nodes.filter(n=>list(n['@type']).some(t=>/^(Event|TheaterEvent|MusicEvent|ComedyEvent|Festival)$/.test(t)));
  const main=events[0]||nodes.find(n=>list(n['@type']).some(t=>/^(CreativeWork|Play|Product)$/.test(t)));
  const heading=text(html.match(/<h1\b[^>]*>([\s\S]*?)<\/h1>/i)?.[1]);
- const title=text(main?.name||heading||meta['og:title']||'').replace(/\s*[|–]\s*(More\.com|Public\.gr).*$/i,'');
+ let title=text(main?.name||heading||meta['og:title']||'').replace(/\s*[|–]\s*(More\.com|Public\.gr).*$/i,'');
  events=events.filter(n=>!n.name||normalize(n.name)===normalize(main?.name||heading));
  const body=text(html);
  const lead=html.split(/<h1\b[^>]*>[\s\S]*?<\/h1>/i)[1]?.split(/<h[23]\b|Πού παίζεται|Αναλυτική κριτική/)[0]||'';
@@ -21,9 +37,15 @@ export function parsePage(html,url){
  const rawDescription=main?.description||paragraph||meta['og:description']||meta.description||'';
  // Short source excerpt; full announcement stays at the original publisher.
  const description=text(rawDescription).split(/\s+/).slice(0,25).join(' ');
- const image=safeUrl(list(main?.image)[0]||meta['og:image'],url);
+ let image=safeUrl(list(main?.image)[0]||meta['og:image'],url);
+ const matchedPoster=expectedTitle&&/more\.com|tickets\.public\.gr/.test(new URL(url).hostname)?ticketPoster(html,url,expectedTitle):null;
+ const imageOnly=Boolean(matchedPoster&&normalize(title)!==normalize(expectedTitle));
+ if(matchedPoster){image=matchedPoster;title=expectedTitle}
  const dates=events.map(n=>({raw:n.startDate,end:n.endDate,status:n.eventStatus,url:safeUrl(n.url,url),location:list(n.location)[0]})).filter(x=>/^\d{4}-\d{2}-\d{2}/.test(x.raw||''));
- const ticket=links(html,url).find(l=>/more\.com|tickets\.public\.gr/.test(new URL(l.url).hostname)&&/\/tickets\/|\/theater\/|\/music\//.test(new URL(l.url).pathname));
+ const ticketHosts=new Set(['www.more.com','more.com','tickets.public.gr','www.ticketservices.gr','ticketservices.gr','www.ticketmaster.gr','ticketmaster.gr','www.ticketplus.gr','ticketplus.gr','www.ticketcore.gr','ticketcore.gr']);
+ const isTicket=u=>{try{const x=new URL(u);return ticketHosts.has(x.hostname)&&/\/tickets\/|\/theater\/|\/music\/|\/event\/|\/events\/|\.html|\/show\//i.test(x.pathname)}catch{return false}};
+ const ticket=links(html,url).find(l=>isTicket(l.url)&&/εισιτ|αγόρασε|αγορα|κρατήσ|ticket|book/i.test(l.label))||links(html,url).find(l=>isTicket(l.url));
+ const offerTicket=list(main?.offers).map(o=>safeUrl(o.url,url)).find(isTicket);
  const location=list(main?.location)[0];
  const cast=list(main?.performer||main?.actor).map(x=>typeof x==='string'?x:x.name).filter(Boolean);
  const offers=list(main?.offers).filter(o=>o.price!=null).map(o=>String(o.price)+' '+(o.priceCurrency||'EUR'));
@@ -37,7 +59,7 @@ export function parsePage(html,url){
  const audienceRating=audienceBlock?{value:Number(audienceBlock[1].replace(',','.')),scale:5,count:Number(audienceBlock[2])}:null;
  const duration=body.match(/Διάρκεια\s*:\s*(\d+)\s*['’′]/i)?.[1];
  const endMatch=body.match(/(?:Παραστάσεις έως|Εως|Έως)\s*:?\s*(\d{2})\/(\d{2})\/(\d{4})/i);
- return {url,title,scheduleText,weekly,audienceRating,description,image,duration:duration?duration+' λεπτά':null,dates,cast,price:offers.join(' · '),location,reviewLinks,reviews,ticketUrl:ticket?.url,
+ return {url,title,imageOnly,scheduleText,weekly,audienceRating,description,image,duration:duration?duration+' λεπτά':null,dates,cast,price:offers.join(' · '),location,reviewLinks,reviews,ticketUrl:offerTicket||ticket?.url,
   end:endMatch?endMatch[3]+'-'+endMatch[2]+'-'+endMatch[1]:null,
   blocked:/queue-it\.net|Just a moment|Access Denied|Checking your browser/i.test(html.slice(0,12000)),
   body};
@@ -48,6 +70,11 @@ export function futureDates(page,today=athensDate()){
 }
 export function enrich(event,page,{now=new Date().toISOString(),kind='publisher'}={}){
  if(page.blocked||!identityMatches(event,page))return {changed:false,reason:page.blocked?'blocked':'identity-mismatch'};
+ if(page.imageOnly){
+  if(!page.image)return {changed:false,reason:'no-image'};
+  const previous=event.poster;event.poster={url:page.image,sourceUrl:page.url,kind:'poster',authority:'ticket',...(previous?.url&&previous.url!==page.image?{fallbackUrl:previous.url}:{} )};
+  return {changed:previous?.url!==page.image,fields:['poster']};
+ }
  const today=athensDate(new Date(now)),future=futureDates(page,today),diff=[];
  const ranged=page.dates.find(d=>d.end?.slice(0,10)>=today&&d.raw.slice(0,10)<=d.end.slice(0,10));
  function put(key,value){if(value!=null&&value!==''&&JSON.stringify(event[key])!==JSON.stringify(value)){diff.push(key);event[key]=value}}
@@ -59,7 +86,7 @@ export function enrich(event,page,{now=new Date().toISOString(),kind='publisher'
  if(page.image&&(!event.poster?.authority||priority[kind]>=priority[event.poster.authority]))put('poster',{url:page.image,sourceUrl:page.url,authority:kind,kind:kind==='ticket'?'poster':'production-photo'});
  if(page.cast.length)put('cast',page.cast);
  if(page.price)put('price',page.price);
- if(page.ticketUrl&&!event.ticketUrl)put('ticketUrl',page.ticketUrl);
+ if(page.ticketUrl)put('ticketUrl',page.ticketUrl);
  if(page.end&&page.end>=event.start){put('end',page.end);put('endOpen',false)}
  const cancelled=page.dates.length&&page.dates.every(d=>/EventCancelled$/.test(d.status||''));
  if(cancelled)put('programmeStatus','cancelled');
