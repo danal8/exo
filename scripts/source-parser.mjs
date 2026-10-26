@@ -27,12 +27,12 @@ export function parsePage(html,url){
  const location=list(main?.location)[0];
  const cast=list(main?.performer||main?.actor).map(x=>typeof x==='string'?x:x.name).filter(Boolean);
  const offers=list(main?.offers).filter(o=>o.price!=null).map(o=>String(o.price)+' '+(o.priceCurrency||'EUR'));
- const reviewLinks=links(html,url).filter(l=>/κριτικ|review/i.test(l.label+' '+l.url)&&/theatre-reviews|kritikh-theatroy|\/reviews\//i.test(l.url)&&l.label.length>8);
+ const reviewLinks=links(html,url).filter(l=>/^Διαβάστε ολόκληρη την κριτική$/i.test(l.label.trim())&&new URL(l.url).pathname.split('/').filter(Boolean).length>=4&&/theatre-reviews|kritikh-theatroy|\/reviews\//i.test(l.url));
  const reviews=nodes.filter(n=>list(n['@type']).includes('Review')).map(n=>({author:typeof n.author==='string'?n.author:n.author?.name,url:safeUrl(n.url,url),publishedAt:n.datePublished?.slice(0,10),summary:text(n.description||n.reviewBody||'').split(/\s+/).slice(0,35).join(' '),score:Number(n.reviewRating?.ratingValue),scale:Number(n.reviewRating?.bestRating||5)})).filter(r=>r.author&&r.url&&r.summary&&/theatre-reviews|kritikh-theatroy|\/reviews\//i.test(r.url));
  const scheduleText=body.match(/(?:^|\n)Παραστάσεις\s*\n([^\n]+)/i)?.[1]?.trim();
  const weekly=greekWeekly(scheduleText);
  const castText=body.match(/Ερμηνεύ(?:ουν|ει)\s*:\s*([^\n]+)/i)?.[1];
- if(!cast.length&&castText)cast.push(castText.split(/Μετάφρ|Σκην\.|Μουσ\.|Φωτ\./)[0].trim());
+ if(!cast.length&&castText)cast.push(...castText.split(/Μετάφρ|Μετ\.|Σκην\.|Μουσ\.|Φωτ\.|Εικαστ\.|Ενορχ\.|Κοστ\./)[0].split(',').map(x=>x.trim()).filter(Boolean));
  const audienceBlock=body.match(/(?:Βαθμολογία κοινού|Μέση βαθμολογία θεατών)\s*[:：]?\s*([0-5](?:[.,]\d+)?)\s*\/\s*5\s*\(?\s*(\d+)\s*(?:κριτικ|αξιολογ|ψήφ)/i);
  const audienceRating=audienceBlock?{value:Number(audienceBlock[1].replace(',','.')),scale:5,count:Number(audienceBlock[2])}:null;
  const duration=body.match(/Διάρκεια\s*:\s*(\d+)\s*['’′]/i)?.[1];
@@ -51,6 +51,7 @@ export function enrich(event,page,{now=new Date().toISOString(),kind='publisher'
  const today=athensDate(new Date(now)),future=futureDates(page,today),diff=[];
  const ranged=page.dates.find(d=>d.end?.slice(0,10)>=today&&d.raw.slice(0,10)<=d.end.slice(0,10));
  function put(key,value){if(value!=null&&value!==''&&JSON.stringify(event[key])!==JSON.stringify(value)){diff.push(key);event[key]=value}}
+ if(event.reviewLinks)event.reviewLinks=event.reviewLinks.filter(r=>new URL(r.url).pathname.split('/').filter(Boolean).length>=4);
  if(page.duration)put('duration',page.duration);
  if(page.weekly){put('weekly',page.weekly);put('scheduleText',page.scheduleText);put('scheduleKnown',true);if(event.dates&&kind==='publisher'&&event.verification?.kind!=='ticket')put('dates',null)}
  const priority={ticket:3,official:2,publisher:1};

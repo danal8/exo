@@ -40,22 +40,3 @@ jobs:
         with:
           name: catalog-refresh-report
           path: data/refresh-report.json
-  pages:
-    needs: refresh
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-      - name: Deploy refreshed guide
-        uses: actions/deploy-pages@v4
