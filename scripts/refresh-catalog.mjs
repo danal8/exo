@@ -4,6 +4,13 @@ import {parsePage,links,enrich,safeUrl,identityMatches,futureDates} from './sour
 import {athensDate,normalize} from '../core.mjs';
 const root=new URL('../',import.meta.url),now=new Date().toISOString(),today=athensDate();
 const catalog=JSON.parse(await readFile(new URL('data/catalog.json',root),'utf8'));
+try{
+ const details=JSON.parse(await readFile(new URL('data/details.json',root),'utf8'));
+ for(const e of catalog.events){const d=details[e.id];if(!d)continue;
+  for(const key of ['description','cast','duration','credits','phone'])if(d[key]&&(!e[key]||Array.isArray(e[key])&&!e[key].length))e[key]=d[key];
+  for(const r of d.additionalReviews||[])if(!e.reviews.some(x=>x.url===r.url))e.reviews.push(r);
+ }
+}catch{}
 const report={startedAt:now,checked:0,enriched:0,verified:0,added:0,failures:[],changes:[],candidates:[],discovery:[]};
 const cache=new Map(),hostNext=new Map(),hostErrors=new Map();let requests=0;
 const budget=Number(process.env.EXO_PAGE_BUDGET||1800);
@@ -19,9 +26,8 @@ async function request(url){
   const response=await fetch(url,{headers:{'User-Agent':'exo-catalog/1.0 (+https://github.com/danal8/exo)','Accept-Language':'el-GR,el;q=0.9'},signal:AbortSignal.timeout(18000)});
   if(!response.ok)throw Error('HTTP '+response.status);
   if(!allowed.has(new URL(response.url).hostname))throw Error('redirect-to-protection');
-  hostErrors.set(host,0);
   const html=await response.text();if(html.length>8000000)throw Error('page-too-large');
-  const page=parsePage(html,url);if(page.blocked)throw Error('access-protection');return {html,page};
+  const page=parsePage(html,url);if(page.blocked)throw Error('access-protection');hostErrors.set(host,0);return {html,page};
  })().catch(error=>{const host=new URL(url).hostname;hostErrors.set(host,(hostErrors.get(host)||0)+1);throw error});cache.set(url,task);return task;
 }
 const kindOf=url=>/more\.com|tickets\.public\.gr/.test(new URL(url).hostname)?'ticket':new URL(url).hostname==='www.athinorama.gr'?'publisher':'official';
