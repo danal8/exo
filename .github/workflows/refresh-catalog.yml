@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: '22'
       - name: Validate parsers
-        run: node --test tests/source-parser.test.mjs tests/posters.test.mjs tests/stale-schedule.test.mjs tests/schedule.test.mjs
+        run: node --test tests/content-quality.test.mjs tests/source-parser.test.mjs tests/posters.test.mjs tests/stale-schedule.test.mjs tests/schedule.test.mjs
       - name: Discover and refresh source pages
         run: node scripts/refresh-catalog.mjs
       - name: Validate catalogue

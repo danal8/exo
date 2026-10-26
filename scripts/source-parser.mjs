@@ -37,7 +37,8 @@ export function parsePage(html,url,expectedTitle){
  const lead=afterHeading.split(/<h[23]\b|Πού παίζεται|Αναλυτική κριτική/)[0]||'';
  const paragraph=[...lead.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)].map(m=>text(m[1])).find(t=>t.length>75&&!/cookies|cookie|Ερμηνεύ|Σκηνοθ|Σύνδεση/.test(t));
  const synopsis=html.match(/<h[2-4]\b[^>]*>[^<]*(?:Υπόθεση|Λίγα Λόγια|Περιγραφή)[\s\S]*?<\/h[2-4]>([\s\S]*?)(?=<h[2-4]\b|$)/i)?.[1];
- const rawDescription=main?.description||(synopsis?text(synopsis):null)||paragraph||meta['og:description']||meta.description||'';
+ const bookingDescription=html.match(/<(?:div|section)\b[^>]*(?:id|class)=["'][^"']*r_descSummary[^"']*["'][^>]*>([\s\S]*?)(?=<\/(?:div|section)>)/i)?.[1];
+ const rawDescription=main?.description||(bookingDescription?text(bookingDescription):null)||(synopsis?text(synopsis):null)||paragraph||meta['og:description']||meta.description||'';
  // Short source excerpt; full announcement stays at the original publisher.
  const candidate=text(rawDescription);
  const description=/ΠΡΕΜΙΕΡΑ[\s\S]*ΕΙΣΙΤΗΡΙΑ|cookies|cookie settings/i.test(candidate)?'':candidate.split(/(?<=[.!;;])\s+/).filter(Boolean).slice(0,2).join(' ').slice(0,900);

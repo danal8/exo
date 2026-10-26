@@ -17,7 +17,7 @@ const budget=Number(process.env.EXO_PAGE_BUDGET||1800);
 const wait=ms=>new Promise(r=>setTimeout(r,ms));
 const allowed=new Set(['www.more.com','tickets.public.gr','www.athinorama.gr',...catalog.events.flatMap(e=>e.sources.filter(s=>s.kind==='official').map(s=>new URL(s.url).hostname))]);
 async function request(url){
- url=safeUrl(url);if(!url||!allowed.has(new URL(url).hostname))throw Error('unsupported-host');
+ url=safeUrl(url);if(url)url=url.replace(/^(https:\/\/(?:www\.)?more\.com|https:\/\/tickets\.public\.gr)\/(theater|music)\//,'$1/gr-el/tickets/$2/');if(!url||!allowed.has(new URL(url).hostname))throw Error('unsupported-host');
  if(cache.has(url))return cache.get(url);
  const task=(async()=>{
   const bucket=new URL(url).hostname+(/\/venues\//.test(new URL(url).pathname)?':venues':/\/tickets\/|\/(theater|music)\//.test(new URL(url).pathname)?':tickets':':pages');

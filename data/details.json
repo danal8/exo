@@ -6267,7 +6267,8 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2103452277"
+    "phone": "2103452277",
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/beat-the-room-to-apolyto-game-show-back-to-90s/"
   },
   "music-10091025": {
     "id": "music-10091025",
@@ -7059,7 +7060,101 @@
     "duration": "90 λεπτά χωρίς διάλειμμα",
     "phone": "2100080900",
     "price": "20€ γενική είσοδος · 18€ μειωμένο",
-    "credits": "Συγγραφέας: Χέρμαν Μέλβιλ. Διασκευή / σκηνοθεσία: Σοφία Καραγιάννη. Σκηνικά / κοστούμια: Γεωργία Μπούρδα. Πρωτότυπη μουσική: Γιώργος Χριστιανάκης. Κίνηση: Μαργαρίτα Τρίκκα. Φωτισμοί: Βασιλική Γώγου. Βοηθός σκηνοθέτη: Σοφία Χατζηευθιμιάδη. Παραγωγή: Happy Productions."
+    "credits": "Συγγραφέας: Χέρμαν Μέλβιλ. Διασκευή / σκηνοθεσία: Σοφία Καραγιάννη. Σκηνικά / κοστούμια: Γεωργία Μπούρδα. Πρωτότυπη μουσική: Γιώργος Χριστιανάκης. Κίνηση: Μαργαρίτα Τρίκκα. Φωτισμοί: Βασιλική Γώγου. Βοηθός σκηνοθέτη: Σοφία Χατζηευθιμιάδη. Παραγωγή: Happy Productions.",
+    "dates": [
+      {
+        "date": "2026-10-26",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-10-27",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-11-02",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-11-03",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-11-09",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-11-10",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-11-16",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-11-23",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-11-24",
+        "time": "20:00"
+      },
+      {
+        "date": "2026-11-30",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-12-01",
+        "time": "20:00"
+      },
+      {
+        "date": "2026-12-07",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-12-08",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-12-14",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-12-15",
+        "time": "20:00"
+      },
+      {
+        "date": "2026-12-21",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-12-22",
+        "time": "18:00"
+      },
+      {
+        "date": "2026-12-22",
+        "time": "21:00"
+      },
+      {
+        "date": "2026-12-28",
+        "time": "21:15"
+      },
+      {
+        "date": "2026-12-29",
+        "time": "18:00"
+      },
+      {
+        "date": "2026-12-29",
+        "time": "21:00"
+      },
+      {
+        "date": "2027-01-04",
+        "time": "21:15"
+      },
+      {
+        "date": "2027-01-05",
+        "time": "18:00"
+      }
+    ]
   },
   "mercury-rev-gazarte-2026": {
     "ticketUrl": "https://www.more.com/gr-el/tickets/music/mercury-rev-all-is-dream-25y-anniversary/"
@@ -7072,5 +7167,32 @@
   },
   "slow-pilot-gazarte-2026": {
     "ticketUrl": "https://www.more.com/gr-el/tickets/music/jeff-buckleys-grace-performed-by-slow-pilot/"
+  },
+  "sergian-gazarte-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/sergian-live/"
+  },
+  "eleonora-manona-gazarte-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/eleonora-manona-live/"
+  },
+  "prong-gazarte-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/prong-live-in-athens-gazarte-22/11/"
+  },
+  "arab-strap-gazarte-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/arab-strap-live-in-athens/"
+  },
+  "music-11000176": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/music/jam-pedals-20years-anniversary-festival/"
+  },
+  "cherry-poreia-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/theater/o-byssinokipos-2/"
+  },
+  "neighbors-poreia-2026": {
+    "ticketUrl": "https://www.more.com/gr-el/tickets/theater/oi-geitones-apo-pano-1/",
+    "poster": {
+      "url": "https://www.more.com/getattachment/a025f83c-aa12-467a-ae7f-f516ffe635c1/play_image.png",
+      "sourceUrl": "https://www.more.com/gr-el/venues/theatro-poreia/",
+      "kind": "poster",
+      "authority": "ticket"
+    }
   }
 }

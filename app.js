@@ -2,7 +2,7 @@ import { initAccount, openAccount, reserveEvent } from './account.js';
 import { normalize, athensDate, occurrences, freshness, matches, periodDates, scheduleExpired } from './core.mjs?v=20261026-posters3';
 const $=selector=>document.querySelector(selector);
 const escape=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const link=(url,label,cls='source-link')=>{try{const u=new URL(url);if(['www.more.com','more.com','tickets.public.gr'].includes(u.hostname)&&/^\/(theater|music)\//.test(u.pathname))u.pathname='/gr-el/tickets'+u.pathname.replace(/\/?$/,'/');return u.protocol==='https:'?`<a class="${cls}" href="${escape(u.href)}" target="_blank" rel="noopener noreferrer">${escape(label)} ↗</a>`:''}catch{return ''}};
+const link=(url,label,cls='source-link')=>{try{const u=new URL(url);if(['www.more.com','more.com','tickets.public.gr'].includes(u.hostname)&&/^\/(theater|music|standupcomedy|museums|cinema)\//.test(u.pathname))u.pathname='/gr-el/tickets'+u.pathname.replace(/\/?$/,'/');return u.protocol==='https:'?`<a class="${cls}" href="${escape(u.href)}" target="_blank" rel="noopener noreferrer">${escape(label)} ↗</a>`:''}catch{return ''}};
 const dateLabel=day=>new Intl.DateTimeFormat('el-GR',{day:'numeric',month:'short',timeZone:'Europe/Athens'}).format(new Date(day+'T12:00:00Z'));
 const checkedLabel=instant=>new Intl.DateTimeFormat('el-GR',{day:'numeric',month:'numeric',year:'numeric',hour:'2-digit',minute:'2-digit',timeZone:'Europe/Athens'}).format(new Date(instant));
 let catalog, openedId, opener, toastTimer, visibleLimit=48, lastFilterKey="";

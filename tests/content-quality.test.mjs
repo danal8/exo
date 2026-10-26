@@ -9,3 +9,9 @@ test('Venue navigation and logo cannot replace production content',()=>{
  enrich(e,{...p,ticketUrl:'https://www.more.com/theater/wrong/'},{kind:'official'});
  assert.equal(e.description,'Ελεγμένη περίληψη.');assert.match(e.ticketUrl,/mompintik/);
 });
+
+test('Template navigation headings never become an event identity',()=>{
+ const html='<h1>{{if i == "events"}}Events{{else}}Venues{{/if}}</h1><h1>Μόμπι Ντικ</h1><div id="r_descSummary"><p>Ο καπετάνιος Αχαάβ αναζητά τη λευκή φάλαινα και παρασύρει το πλήρωμά του σε ένα επικίνδυνο ταξίδι εκδίκησης.</p></div>';
+ const p=parsePage(html,'https://www.more.com/gr-el/tickets/theater/mompintik/');
+ assert.equal(p.title,'Μόμπι Ντικ');assert.match(p.description,/Αχαάβ/);
+});

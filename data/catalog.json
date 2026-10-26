@@ -663,7 +663,7 @@
       "venue": "Θέατρο Νέος Ακάδημος",
       "area": "Κέντρο",
       "start": "2026-10-26",
-      "end": "2026-12-22",
+      "end": "2027-01-05",
       "dates": [
         {
           "date": "2026-10-26",
@@ -694,10 +694,6 @@
           "time": "21:15"
         },
         {
-          "date": "2026-11-17",
-          "time": "21:15"
-        },
-        {
           "date": "2026-11-23",
           "time": "21:15"
         },
@@ -719,7 +715,7 @@
         },
         {
           "date": "2026-12-08",
-          "time": "20:00"
+          "time": "21:15"
         },
         {
           "date": "2026-12-14",
@@ -735,7 +731,31 @@
         },
         {
           "date": "2026-12-22",
-          "time": "20:00"
+          "time": "18:00"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-12-28",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "18:00"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "21:00"
+        },
+        {
+          "date": "2027-01-04",
+          "time": "21:15"
+        },
+        {
+          "date": "2027-01-05",
+          "time": "18:00"
         }
       ],
       "sources": [
@@ -777,7 +797,8 @@
       },
       "duration": "90 λεπτά χωρίς διάλειμμα",
       "phone": "2100080900",
-      "credits": "Συγγραφέας: Χέρμαν Μέλβιλ. Διασκευή / σκηνοθεσία: Σοφία Καραγιάννη. Σκηνικά / κοστούμια: Γεωργία Μπούρδα. Πρωτότυπη μουσική: Γιώργος Χριστιανάκης. Κίνηση: Μαργαρίτα Τρίκκα. Φωτισμοί: Βασιλική Γώγου. Βοηθός σκηνοθέτη: Σοφία Χατζηευθιμιάδη. Παραγωγή: Happy Productions."
+      "credits": "Συγγραφέας: Χέρμαν Μέλβιλ. Διασκευή / σκηνοθεσία: Σοφία Καραγιάννη. Σκηνικά / κοστούμια: Γεωργία Μπούρδα. Πρωτότυπη μουσική: Γιώργος Χριστιανάκης. Κίνηση: Μαργαρίτα Τρίκκα. Φωτισμοί: Βασιλική Γώγου. Βοηθός σκηνοθέτη: Σοφία Χατζηευθιμιάδη. Παραγωγή: Happy Productions.",
+      "endOpen": false
     },
     {
       "genre": "Sophie Swithinbank · Δράμα",
@@ -1997,7 +2018,7 @@
       "season": "2026–2027",
       "description": "Ο Τσέχωφ στο χειμερινό ρεπερτόριο του Θεάτρου Πορεία.",
       "price": "Από 16€",
-      "ticketUrl": "https://www.more.com/gr-da/venues/theatro-poreia/",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/o-byssinokipos-2/",
       "reviews": [],
       "notes": "Εμφανίζεται το επιβεβαιωμένο τμήμα του αναλυτικού προγράμματος. Για ολόκληρη τη διάρκεια έως 24/01 δείτε την προπώληση.",
       "id": "cherry-poreia-2026",
@@ -2075,7 +2096,8 @@
         "sourceUrl": "https://www.more.com/gr-da/venues/theatro-poreia/",
         "authority": "ticket",
         "kind": "production-photo"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
     {
       "genre": "Σεσκ Γκάι · Κωμωδία",
@@ -2085,7 +2107,7 @@
       "season": "2026–2027",
       "description": "Η κωμωδία του Σεσκ Γκάι στο ρεπερτόριο του Θεάτρου Πορεία.",
       "price": "Από 15€",
-      "ticketUrl": "https://www.more.com/gr-da/venues/theatro-poreia/",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/oi-geitones-apo-pano-1/",
       "reviews": [],
       "notes": "Καταχωρίστηκε η ορατή ημερομηνία 09/12. Το πλήρες πρόγραμμα έως 24/01 είναι διαθέσιμο στην προπώληση.",
       "id": "neighbors-poreia-2026",
@@ -2109,7 +2131,14 @@
           "lastCheckedAt": "2026-10-26T12:26:55.645Z",
           "note": ""
         }
-      ]
+      ],
+      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z",
+      "poster": {
+        "url": "https://www.more.com/getattachment/a025f83c-aa12-467a-ae7f-f516ffe635c1/play_image.png",
+        "sourceUrl": "https://www.more.com/gr-el/venues/theatro-poreia/",
+        "kind": "poster",
+        "authority": "ticket"
+      }
     },
     {
       "genre": "Ψυχεδελικό rock",
@@ -2487,7 +2516,7 @@
       "season": "2026–2027",
       "description": "ΣΕΡΓΙΑΝ στο Ground Stage του Gazarte.",
       "price": null,
-      "ticketUrl": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/sergian-live/",
       "reviews": [],
       "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
       "id": "sergian-gazarte-2026",
@@ -2517,7 +2546,8 @@
         "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
         "authority": "ticket",
         "kind": "production-photo"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
     {
       "genre": "Alternative rock",
@@ -2651,7 +2681,7 @@
       "season": "2026–2027",
       "description": "Ελεονόρα Μανόνα στο Roof Stage του Gazarte.",
       "price": null,
-      "ticketUrl": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/eleonora-manona-live/",
       "reviews": [],
       "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
       "id": "eleonora-manona-gazarte-2026",
@@ -2688,7 +2718,8 @@
         "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
         "authority": "ticket",
         "kind": "production-photo"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
     {
       "genre": "Σύγχρονη μουσική",
@@ -2820,7 +2851,7 @@
       "season": "2026–2027",
       "description": "Prong στο Ground Stage του Gazarte.",
       "price": null,
-      "ticketUrl": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/prong-live-in-athens-gazarte-22/11/",
       "reviews": [],
       "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
       "id": "prong-gazarte-2026",
@@ -2850,7 +2881,8 @@
         "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
         "authority": "ticket",
         "kind": "production-photo"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
     {
       "genre": "Alternative",
@@ -2862,7 +2894,7 @@
       "season": "2026–2027",
       "description": "Arab Strap στο Ground Stage του Gazarte.",
       "price": null,
-      "ticketUrl": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/arab-strap-live-in-athens/",
       "reviews": [],
       "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
       "id": "arab-strap-gazarte-2026",
@@ -2892,7 +2924,8 @@
         "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
         "authority": "ticket",
         "kind": "production-photo"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
     {
       "genre": "Hard rock · The Magician’s Farewell",
@@ -30237,7 +30270,7 @@
       ],
       "scheduleKnown": true,
       "scheduleText": "09/11 Δευτ. 9 μ.μ.",
-      "ticketUrl": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/beat-the-room-to-apolyto-game-show-back-to-90s/",
       "sources": [
         {
           "name": "Αθηνόραμα · μουσική",
@@ -30258,7 +30291,8 @@
         "url": "https://www.athinorama.gr/music/gig/beat_the_room-10090061/",
         "result": "no-future-dated-event"
       },
-      "phone": "2103452277"
+      "phone": "2103452277",
+      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
     {
       "id": "music-10091025",
@@ -34691,7 +34725,7 @@
       ],
       "scheduleKnown": true,
       "scheduleText": "08/11 Κυρ. 7 μ.μ.",
-      "ticketUrl": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/jam-pedals-20years-anniversary-festival/",
       "sources": [
         {
           "name": "Αθηνόραμα · μουσική",
@@ -34711,7 +34745,8 @@
         "checkedAt": "2026-10-26T19:56:05.171Z",
         "url": "https://www.athinorama.gr/music/gig/jam_pedals-11000176/",
         "result": "no-future-dated-event"
-      }
+      },
+      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
     {
       "id": "music-11000178",
