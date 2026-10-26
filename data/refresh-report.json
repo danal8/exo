@@ -1,7 +1,7 @@
 {
-  "startedAt": "2026-10-26T19:37:56.337Z",
-  "checked": 515,
-  "enriched": 492,
+  "startedAt": "2026-10-26T19:56:05.171Z",
+  "checked": 533,
+  "enriched": 521,
   "verified": 17,
   "added": 0,
   "failures": [
@@ -56,8 +56,8 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "arbeit-paloumpis-stathmos-2026",
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/armapait-2os-xronos/",
+      "id": "sleaford-mods-floyd-2026",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/sleaford-mods2026",
       "reason": "fetch failed"
     },
     {
@@ -76,6 +76,16 @@
       "reason": "unsupported-host"
     },
     {
+      "id": "arbeit-paloumpis-stathmos-2026",
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/armapait-2os-xronos/",
+      "reason": "fetch failed"
+    },
+    {
+      "id": "moby-gaff-neosakadimos-2026",
+      "url": "https://www.more.com/gr-el/theater/mompintik/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
       "id": "12-enorkoi-alkmini-2026",
       "url": "https://www.theatro.gr/12-enorkoi",
       "reason": "identity-mismatch"
@@ -84,16 +94,6 @@
       "id": "12-enorkoi-alkmini-2026",
       "url": "https://www.monopoli.gr/places/theatre-5507/",
       "reason": "unsupported-host"
-    },
-    {
-      "id": "moby-gaff-neosakadimos-2026",
-      "url": "https://www.more.com/gr-el/theater/mompintik/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "sleaford-mods-floyd-2026",
-      "url": "https://tickets.public.gr/gr-el/tickets/music/sleaford-mods2026",
-      "reason": "fetch failed"
     },
     {
       "id": "bacon-louizou-anesis-2026",
@@ -252,11 +252,6 @@
     },
     {
       "id": "sosmenos-bismpikis-cartel-2026",
-      "url": "https://www.athinorama.gr/theatre/3077529/pote-kanoun-premiera-oi-parastaseis-tou-basili-mpismpiki/",
-      "reason": "identity-mismatch"
-    },
-    {
-      "id": "sosmenos-bismpikis-cartel-2026",
       "url": "https://tickets.public.gr/gr-el/tickets/theater/sosmenos-1/",
       "reason": "source-temporarily-unavailable"
     },
@@ -281,11 +276,6 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "kitchen-koutlis-kivotos-2026",
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/i-kouzina-se-skinothesia-g-koutli-2os-xronos/",
-      "reason": "fetch failed"
-    },
-    {
       "id": "happy-days-tarloou-poreia-2026",
       "url": "https://www.more.com/gr-da/venues/theatro-poreia/",
       "reason": "The operation was aborted due to timeout"
@@ -306,11 +296,6 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "emmet-cohen-gazarte-2026",
-      "url": "https://www.more.com/gr-el/tickets/music/emmet-cohen-live-in-athens/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "mercury-rev-gazarte-2026",
       "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
       "reason": "identity-mismatch"
@@ -319,6 +304,16 @@
       "id": "mercury-rev-gazarte-2026",
       "url": "https://tickets.public.gr/gr-el/tickets/music/emmet-cohen-live-in-athens/",
       "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "emmet-cohen-gazarte-2026",
+      "url": "https://www.more.com/gr-el/tickets/music/emmet-cohen-live-in-athens/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "oneiro-moschopoulos-porta-2026",
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/oneiro-kalokairinis-nyxtas-1/",
+      "reason": "fetch failed"
     },
     {
       "id": "goat-gazarte-2026",
@@ -341,9 +336,14 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "oneiro-moschopoulos-porta-2026",
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/oneiro-kalokairinis-nyxtas-1/",
-      "reason": "fetch failed"
+      "id": "emmet-cohen-gazarte-2026",
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+      "reason": "identity-mismatch"
+    },
+    {
+      "id": "emmet-cohen-gazarte-2026",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/emmet-cohen-live-in-athens/",
+      "reason": "source-temporarily-unavailable"
     },
     {
       "id": "henge-gazarte-2026",
@@ -351,12 +351,12 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "emmet-cohen-gazarte-2026",
+      "id": "goat-gazarte-2026",
       "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
       "reason": "identity-mismatch"
     },
     {
-      "id": "emmet-cohen-gazarte-2026",
+      "id": "goat-gazarte-2026",
       "url": "https://tickets.public.gr/gr-el/tickets/music/emmet-cohen-live-in-athens/",
       "reason": "source-temporarily-unavailable"
     },
@@ -366,13 +366,13 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "goat-gazarte-2026",
+      "id": "henge-gazarte-2026",
       "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
       "reason": "identity-mismatch"
     },
     {
-      "id": "goat-gazarte-2026",
-      "url": "https://tickets.public.gr/gr-el/tickets/music/emmet-cohen-live-in-athens/",
+      "id": "henge-gazarte-2026",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/henge-live-in-athens/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -401,16 +401,6 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "henge-gazarte-2026",
-      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
-      "reason": "identity-mismatch"
-    },
-    {
-      "id": "henge-gazarte-2026",
-      "url": "https://tickets.public.gr/gr-el/tickets/music/henge-live-in-athens/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "sofia-manousaki-gazarte-2026",
       "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
       "reason": "identity-mismatch"
@@ -421,17 +411,27 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "kronos-gazarte-2026",
-      "url": "https://www.more.com/gr-el/tickets/music/kronos-quartet/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "vapors-morphine-gazarte-2026",
       "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
       "reason": "identity-mismatch"
     },
     {
       "id": "vapors-morphine-gazarte-2026",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/emmet-cohen-live-in-athens/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "kronos-gazarte-2026",
+      "url": "https://www.more.com/gr-el/tickets/music/kronos-quartet/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "slow-pilot-gazarte-2026",
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+      "reason": "identity-mismatch"
+    },
+    {
+      "id": "slow-pilot-gazarte-2026",
       "url": "https://tickets.public.gr/gr-el/tickets/music/emmet-cohen-live-in-athens/",
       "reason": "source-temporarily-unavailable"
     },
@@ -441,14 +441,14 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "slow-pilot-gazarte-2026",
-      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+      "id": "eleonora-manona-gazarte-2026",
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-eleonora-manona-live/",
       "reason": "identity-mismatch"
     },
     {
-      "id": "slow-pilot-gazarte-2026",
-      "url": "https://tickets.public.gr/gr-el/tickets/music/emmet-cohen-live-in-athens/",
-      "reason": "source-temporarily-unavailable"
+      "id": "eleonora-manona-gazarte-2026",
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+      "reason": "identity-mismatch"
     },
     {
       "id": "prong-gazarte-2026",
@@ -466,28 +466,13 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "eleonora-manona-gazarte-2026",
-      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-eleonora-manona-live/",
-      "reason": "identity-mismatch"
-    },
-    {
-      "id": "eleonora-manona-gazarte-2026",
-      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
-      "reason": "identity-mismatch"
+      "id": "kitchen-koutlis-kivotos-2026",
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/i-kouzina-se-skinothesia-g-koutli-2os-xronos/",
+      "reason": "fetch failed"
     },
     {
       "id": "ath-10087179",
       "url": "https://www.more.com/theater/i-bia-tou-biou-agnostou-tsimara-tzanatou",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ath-10091825",
-      "url": "https://www.more.com/theater/womendirectors/agrio-gala",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "uriah-heep-floyd-2026",
-      "url": "https://tickets.public.gr/gr-el/tickets/music/uriah-heep2026",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -501,8 +486,13 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ath-10091634",
-      "url": "https://www.more.com/theater/chers-parents",
+      "id": "ath-10091825",
+      "url": "https://www.more.com/theater/womendirectors/agrio-gala",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "uriah-heep-floyd-2026",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/uriah-heep2026",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -516,8 +506,8 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ath-10091636",
-      "url": "https://www.more.com/standupcomedy/sofia-moutidou-alla-autoi-eiste",
+      "id": "ath-10091634",
+      "url": "https://www.more.com/theater/chers-parents",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -634,6 +624,11 @@
       "id": "ath-10002980",
       "url": "https://www.more.com/theater/children/goutou-goupatou-tou-aleksandrou-papadiamanti",
       "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ath-10091636",
+      "url": "https://www.more.com/standupcomedy/sofia-moutidou-alla-autoi-eiste",
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "ath-10079185",
@@ -906,11 +901,6 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ath-10091937",
-      "url": "https://www.more.com/cinema/to-koritsi-pou-ithele-na-aggiksei-to-misofeggaro-cinobo-opera",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "ath-10089257",
       "url": "https://www.more.com/theater/o-kyrios-zyl-2os-xronos",
       "reason": "source-temporarily-unavailable"
@@ -1039,6 +1029,11 @@
       "id": "ath-10091772",
       "url": "https://www.more.com/theater/i-monaksia-tis-dysis",
       "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ath-10091937",
+      "url": "https://www.more.com/cinema/to-koritsi-pou-ithele-na-aggiksei-to-misofeggaro-cinobo-opera",
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "ath-10091394",
@@ -1201,11 +1196,6 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ath-10085910",
-      "url": "https://www.more.com/standupcomedy/pyr-gyni-comedy",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "ath-10091641",
       "url": "https://www.more.com/theater/restart",
       "reason": "source-temporarily-unavailable"
@@ -1321,6 +1311,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "id": "ath-10085910",
+      "url": "https://www.more.com/standupcomedy/pyr-gyni-comedy",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
       "id": "ath-11000060",
       "url": "https://www.more.com/theater/tierra",
       "reason": "source-temporarily-unavailable"
@@ -1353,11 +1348,6 @@
     {
       "id": "ath-10091763",
       "url": "https://www.more.com/theater/flit",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ath-10091620",
-      "url": "https://www.more.com/museums/fysika-kai-mporo",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1496,6 +1486,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "id": "ath-10091620",
+      "url": "https://www.more.com/museums/fysika-kai-mporo",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
       "id": "ath-2006899",
       "url": "https://www.more.com/theater/children/mila-zaxari-kanela-19-xronia",
       "reason": "source-temporarily-unavailable"
@@ -1571,23 +1566,8 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "stn-καλογερακιασταυροστουνοτουplus",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "stn-γιωργοσμπεκιαρησσταυροστουνοτουclub",
       "url": "https://www.more.com/gr-el/tickets/music/giorgos-mpekiaris-stauros-tou-notou-club-1/?evId=949955",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-γιωργοσμπεκιαρησσταυροστουνοτουclub",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-γιωργοσμπεκιαρησσταυροστουνοτουclub",
-      "url": "https://tickets.public.gr/gr-el/tickets/music/giorgos-mpekiaris-stauros-tou-notou-club-1/?evId=949955",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1596,23 +1576,38 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "stn-οχρηστοσθηβαιοσστοσταυροτουνοτουplus",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-οχρηστοσθηβαιοσστοσταυροτουνοτουplus",
-      "url": "https://tickets.public.gr/gr-el/tickets/music/o-xristos-thibaios-sto-stauro-tou-notou-plus/?evId=954513",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "stn-δημητρησμπακουλησelifsanchez",
       "url": "https://www.more.com/gr-el/tickets/music/dimitris-mpakoulis-elif-sanchez-stauros-tou-notou-club/?evId=944729",
       "reason": "source-temporarily-unavailable"
     },
     {
+      "id": "stn-καλογερακιασταυροστουνοτουplus",
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-γιωργοσμπεκιαρησσταυροστουνοτουclub",
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-οχρηστοσθηβαιοσστοσταυροτουνοτουplus",
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
       "id": "stn-δημητρησμπακουλησelifsanchez",
       "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-γιωργοσμπεκιαρησσταυροστουνοτουclub",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/giorgos-mpekiaris-stauros-tou-notou-club-1/?evId=949955",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-οχρηστοσθηβαιοσστοσταυροτουνοτουplus",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/o-xristos-thibaios-sto-stauro-tou-notou-plus/?evId=954513",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1628,6 +1623,21 @@
     {
       "id": "stn-γιωτανεγκακωσταστριανταφυλλιδησ",
       "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-παλκοσταυροστουνοτουplus",
+      "url": "https://www.more.com/gr-el/tickets/music/palko-stauros-tou-notou-plus-2/?evId=950618",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-ενααφιερωμαστιστρυπεσ",
+      "url": "https://www.more.com/gr-el/tickets/music/ena-afieroma-stis-trypes-magic-bus-stauros-tou-notou-club/?evId=955015",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-ριτααντωνοπουλουτησγυναικασσουηκαρδια",
+      "url": "https://www.more.com/gr-el/tickets/music/rita-antonopoulou-tis-gynaikas-sou-i-kardia-stauros-tou-notou-plus/?evId=955348",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1637,13 +1647,18 @@
     },
     {
       "id": "stn-παλκοσταυροστουνοτουplus",
-      "url": "https://www.more.com/gr-el/tickets/music/palko-stauros-tou-notou-plus-2/?evId=950618",
-      "reason": "source-temporarily-unavailable"
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
-      "id": "stn-παλκοσταυροστουνοτουplus",
+      "id": "stn-ενααφιερωμαστιστρυπεσ",
       "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-ριτααντωνοπουλουτησγυναικασσουηκαρδια",
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "stn-παλκοσταυροστουνοτουplus",
@@ -1652,27 +1667,7 @@
     },
     {
       "id": "stn-ενααφιερωμαστιστρυπεσ",
-      "url": "https://www.more.com/gr-el/tickets/music/ena-afieroma-stis-trypes-magic-bus-stauros-tou-notou-club/?evId=955015",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-ενααφιερωμαστιστρυπεσ",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-ενααφιερωμαστιστρυπεσ",
       "url": "https://tickets.public.gr/gr-el/tickets/music/ena-afieroma-stis-trypes-magic-bus-stauros-tou-notou-club/?evId=955015",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-ριτααντωνοπουλουτησγυναικασσουηκαρδια",
-      "url": "https://www.more.com/gr-el/tickets/music/rita-antonopoulou-tis-gynaikas-sou-i-kardia-stauros-tou-notou-plus/?evId=955348",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-ριτααντωνοπουλουτησγυναικασσουηκαρδια",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1688,6 +1683,21 @@
     {
       "id": "stn-ορεστησνταντοσ",
       "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-γιωργοσδημητριου",
+      "url": "https://www.more.com/gr-el/tickets/music/giorgos-dimitriou-kainouria-tragoudia-megales-penies-stauros-tou-notou/?evId=945635",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-στεφανοσαθανασιουλαμπροσβασιλειου",
+      "url": "https://www.more.com/gr-el/tickets/music/stefanos-athanasiou-lampros-basileiou-stauros-tou-notou-plus/?evId=956923",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-μαριανναπαπαθανασιουσταυροστουνοτου",
+      "url": "https://www.more.com/gr-el/tickets/music/marianna-papathanasiou-stavros-tou-notou/?evId=948963",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1697,13 +1707,18 @@
     },
     {
       "id": "stn-γιωργοσδημητριου",
-      "url": "https://www.more.com/gr-el/tickets/music/giorgos-dimitriou-kainouria-tragoudia-megales-penies-stauros-tou-notou/?evId=945635",
-      "reason": "source-temporarily-unavailable"
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
-      "id": "stn-γιωργοσδημητριου",
+      "id": "stn-στεφανοσαθανασιουλαμπροσβασιλειου",
       "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-μαριανναπαπαθανασιουσταυροστουνοτου",
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "stn-γιωργοσδημητριου",
@@ -1712,27 +1727,7 @@
     },
     {
       "id": "stn-στεφανοσαθανασιουλαμπροσβασιλειου",
-      "url": "https://www.more.com/gr-el/tickets/music/stefanos-athanasiou-lampros-basileiou-stauros-tou-notou-plus/?evId=956923",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-στεφανοσαθανασιουλαμπροσβασιλειου",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-στεφανοσαθανασιουλαμπροσβασιλειου",
       "url": "https://tickets.public.gr/gr-el/tickets/music/stefanos-athanasiou-lampros-basileiou-stauros-tou-notou-plus/?evId=956923",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-μαριανναπαπαθανασιουσταυροστουνοτου",
-      "url": "https://www.more.com/gr-el/tickets/music/marianna-papathanasiou-stavros-tou-notou/?evId=948963",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-μαριανναπαπαθανασιουσταυροστουνοτου",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1748,6 +1743,21 @@
     {
       "id": "stn-δημητρησζερβουδακησ",
       "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-γιαγκινηδεσσταυροστουνοτουplus",
+      "url": "https://www.more.com/gr-el/tickets/music/giagkinides-stauros-tou-notou-plus-1/?evId=955495",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-ανδριαναδημητριουστονσταυροτουνοτου",
+      "url": "https://www.more.com/gr-el/tickets/music/andriana-dimitriou-sto-stauro-tou-notou/?evId=955905",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-papazoχωρισφτερα",
+      "url": "https://www.more.com/gr-el/tickets/music/papazo-xoris-ftera-stauros-tou-notou-plus-1/?evId=954496",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1757,13 +1767,18 @@
     },
     {
       "id": "stn-γιαγκινηδεσσταυροστουνοτουplus",
-      "url": "https://www.more.com/gr-el/tickets/music/giagkinides-stauros-tou-notou-plus-1/?evId=955495",
-      "reason": "source-temporarily-unavailable"
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
-      "id": "stn-γιαγκινηδεσσταυροστουνοτουplus",
+      "id": "stn-ανδριαναδημητριουστονσταυροτουνοτου",
       "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-papazoχωρισφτερα",
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "stn-γιαγκινηδεσσταυροστουνοτουplus",
@@ -1772,27 +1787,7 @@
     },
     {
       "id": "stn-ανδριαναδημητριουστονσταυροτουνοτου",
-      "url": "https://www.more.com/gr-el/tickets/music/andriana-dimitriou-sto-stauro-tou-notou/?evId=955905",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-ανδριαναδημητριουστονσταυροτουνοτου",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-ανδριαναδημητριουστονσταυροτουνοτου",
       "url": "https://tickets.public.gr/gr-el/tickets/music/andriana-dimitriou-sto-stauro-tou-notou/?evId=955905",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-papazoχωρισφτερα",
-      "url": "https://www.more.com/gr-el/tickets/music/papazo-xoris-ftera-stauros-tou-notou-plus-1/?evId=954496",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-papazoχωρισφτερα",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1808,6 +1803,21 @@
     {
       "id": "stn-αλεξανδροσκτιστακησγιαννησμαλαμασ",
       "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-τακοριτσιατουαυγουστου",
+      "url": "https://www.more.com/gr-el/tickets/music/ta-koritsia-tou-augoustou-stauros-tou-notou-club-1/?evId=955023",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-γιωργοσνικηφορουζερβακησ",
+      "url": "https://www.more.com/gr-el/tickets/music/giorgos-nikiforou-zerbakis-stauros-tou-notou/?evId=956951",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-δημητρησγαλακτοπουλοσ",
+      "url": "https://www.more.com/gr-el/tickets/music/dimitris-galaktopoulos-stauros-tou-notou-club/?evId=957924",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1817,13 +1827,18 @@
     },
     {
       "id": "stn-τακοριτσιατουαυγουστου",
-      "url": "https://www.more.com/gr-el/tickets/music/ta-koritsia-tou-augoustou-stauros-tou-notou-club-1/?evId=955023",
-      "reason": "source-temporarily-unavailable"
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
-      "id": "stn-τακοριτσιατουαυγουστου",
+      "id": "stn-γιωργοσνικηφορουζερβακησ",
       "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-δημητρησγαλακτοπουλοσ",
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "stn-τακοριτσιατουαυγουστου",
@@ -1832,27 +1847,7 @@
     },
     {
       "id": "stn-γιωργοσνικηφορουζερβακησ",
-      "url": "https://www.more.com/gr-el/tickets/music/giorgos-nikiforou-zerbakis-stauros-tou-notou/?evId=956951",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-γιωργοσνικηφορουζερβακησ",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-γιωργοσνικηφορουζερβακησ",
       "url": "https://tickets.public.gr/gr-el/tickets/music/giorgos-nikiforou-zerbakis-stauros-tou-notou/?evId=956951",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-δημητρησγαλακτοπουλοσ",
-      "url": "https://www.more.com/gr-el/tickets/music/dimitris-galaktopoulos-stauros-tou-notou-club/?evId=957924",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-δημητρησγαλακτοπουλοσ",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1868,6 +1863,21 @@
     {
       "id": "stn-χαλασματαστονσταυροτουνοτου",
       "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-μαριαπαπαγεωργιου",
+      "url": "https://www.more.com/gr-el/tickets/music/maria-papageorgiou-stauros-tou-notou-2/?evId=958361",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-νικολσαραβακου",
+      "url": "https://www.more.com/gr-el/tickets/music/nikol-sarabakou-stauros-tou-notou-plus-1/?evId=958906",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-δημητρησσαμολησlive",
+      "url": "https://www.more.com/gr-el/tickets/music/dimitris-samolis-live-2/?evId=960210",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1877,13 +1887,18 @@
     },
     {
       "id": "stn-μαριαπαπαγεωργιου",
-      "url": "https://www.more.com/gr-el/tickets/music/maria-papageorgiou-stauros-tou-notou-2/?evId=958361",
-      "reason": "source-temporarily-unavailable"
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
-      "id": "stn-μαριαπαπαγεωργιου",
+      "id": "stn-νικολσαραβακου",
       "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-δημητρησσαμολησlive",
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "stn-μαριαπαπαγεωργιου",
@@ -1892,27 +1907,7 @@
     },
     {
       "id": "stn-νικολσαραβακου",
-      "url": "https://www.more.com/gr-el/tickets/music/nikol-sarabakou-stauros-tou-notou-plus-1/?evId=958906",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-νικολσαραβακου",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-νικολσαραβακου",
       "url": "https://tickets.public.gr/gr-el/tickets/music/nikol-sarabakou-stauros-tou-notou-plus-1/?evId=958906",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-δημητρησσαμολησlive",
-      "url": "https://www.more.com/gr-el/tickets/music/dimitris-samolis-live-2/?evId=960210",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-δημητρησσαμολησlive",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1928,6 +1923,21 @@
     {
       "id": "stn-ιουλιακαραπατακησταυροστουνοτου",
       "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-χρηστοσδαντησευρυδικηonfire2",
+      "url": "https://www.more.com/gr-el/tickets/music/xristos-dantis-eurydiki-on-fire-2-stauros-tou-notou-plus/?evId=959318",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-alexsidεβελυνασουαντ",
+      "url": "https://www.more.com/gr-el/tickets/music/alex-sid-ebelyn-asouant-stauros-tou-notou-plus/?evId=957900",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "stn-γιαννησκοτσιρασσταυροστουνοτου",
+      "url": "https://www.more.com/gr-el/tickets/music/giannis-kotsiras-stauros-tou-notou-3/?evId=958907",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1937,13 +1947,18 @@
     },
     {
       "id": "stn-χρηστοσδαντησευρυδικηonfire2",
-      "url": "https://www.more.com/gr-el/tickets/music/xristos-dantis-eurydiki-on-fire-2-stauros-tou-notou-plus/?evId=959318",
-      "reason": "source-temporarily-unavailable"
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
-      "id": "stn-χρηστοσδαντησευρυδικηonfire2",
+      "id": "stn-alexsidεβελυνασουαντ",
       "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "stn-γιαννησκοτσιρασσταυροστουνοτου",
+      "url": "https://www.more.com/gr-el/venues/stayros/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "stn-χρηστοσδαντησευρυδικηonfire2",
@@ -1952,27 +1967,7 @@
     },
     {
       "id": "stn-alexsidεβελυνασουαντ",
-      "url": "https://www.more.com/gr-el/tickets/music/alex-sid-ebelyn-asouant-stauros-tou-notou-plus/?evId=957900",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-alexsidεβελυνασουαντ",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-alexsidεβελυνασουαντ",
       "url": "https://tickets.public.gr/gr-el/tickets/music/alex-sid-ebelyn-asouant-stauros-tou-notou-plus/?evId=957900",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-γιαννησκοτσιρασσταυροστουνοτου",
-      "url": "https://www.more.com/gr-el/tickets/music/giannis-kotsiras-stauros-tou-notou-3/?evId=958907",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-γιαννησκοτσιρασσταυροστουνοτου",
-      "url": "https://www.more.com/gr-el/venues/stayros/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -1988,31 +1983,11 @@
     {
       "id": "stn-νεφεληφασουλησταυροστουνοτουplus",
       "url": "https://www.more.com/gr-el/venues/stayros/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "stn-νεφεληφασουλησταυροστουνοτουplus",
-      "url": "https://tickets.public.gr/gr-el/tickets/music/nefeli-fasouli-stauros-tou-notou-plus-1/?evId=961217",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "ilion-bangiesliveilionplus",
       "url": "https://tickets.public.gr/gr-el/tickets/music/bangies-chickn-live-ilion-plus/?evId=957013",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-bangiesliveilionplus",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-bangiesliveilionplus",
-      "url": "https://www.more.com/gr-el/tickets/music/bangies-chickn-live-ilion-plus/?evId=957013",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-bangiesliveilionplus",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2021,38 +1996,13 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-ablendingofgreekandfrenchrapculture",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-ablendingofgreekandfrenchrapculture",
-      "url": "https://www.more.com/gr-el/tickets/music/greek-and-french-rap-culture/?evId=945545",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-ablendingofgreekandfrenchrapculture",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
       "url": "https://tickets.public.gr/gr-el/tickets/music/xristos-bergos-ilion-plus-athina/?evId=941400",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
-      "url": "https://www.more.com/gr-el/tickets/music/xristos-bergos-ilion-plus-athina/?evId=941400",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "id": "stn-νεφεληφασουλησταυροστουνοτουplus",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/nefeli-fasouli-stauros-tou-notou-plus-1/?evId=961217",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2061,8 +2011,18 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-dramachinetheklammers",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+      "id": "ilion-bangiesliveilionplus",
+      "url": "https://www.more.com/gr-el/tickets/music/bangies-chickn-live-ilion-plus/?evId=957013",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ilion-ablendingofgreekandfrenchrapculture",
+      "url": "https://www.more.com/gr-el/tickets/music/greek-and-french-rap-culture/?evId=945545",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
+      "url": "https://www.more.com/gr-el/tickets/music/xristos-bergos-ilion-plus-athina/?evId=941400",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2071,28 +2031,28 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "id": "ilion-bangiesliveilionplus",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ilion-ablendingofgreekandfrenchrapculture",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
       "id": "ilion-dramachinetheklammers",
       "url": "https://www.more.com/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "ilion-flemmaπαρουσιασηδισκου",
       "url": "https://tickets.public.gr/gr-el/tickets/music/flemma-parousiasi-diskou/?evId=957011",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-flemmaπαρουσιασηδισκου",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-flemmaπαρουσιασηδισκου",
-      "url": "https://www.more.com/gr-el/tickets/music/flemma-parousiasi-diskou/?evId=957011",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-flemmaπαρουσιασηδισκου",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2101,38 +2061,8 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-ολινατισεσυγκινησεliveatilionplus",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-ολινατισεσυγκινησεliveatilionplus",
-      "url": "https://www.more.com/gr-el/tickets/music/olina-live-at-ilion-plus/?evId=947723",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-ολινατισεσυγκινησεliveatilionplus",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "ilion-spikefuck",
       "url": "https://tickets.public.gr/gr-el/tickets/music/spike-fuck/?evId=923386",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-spikefuck",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-spikefuck",
-      "url": "https://www.more.com/gr-el/tickets/music/spike-fuck/?evId=923386",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-spikefuck",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2141,8 +2071,18 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-αντιλογικηστελευταιασυναυλια",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+      "id": "ilion-flemmaπαρουσιασηδισκου",
+      "url": "https://www.more.com/gr-el/tickets/music/flemma-parousiasi-diskou/?evId=957011",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ilion-ολινατισεσυγκινησεliveatilionplus",
+      "url": "https://www.more.com/gr-el/tickets/music/olina-live-at-ilion-plus/?evId=947723",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ilion-spikefuck",
+      "url": "https://www.more.com/gr-el/tickets/music/spike-fuck/?evId=923386",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2151,28 +2091,28 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "id": "ilion-flemmaπαρουσιασηδισκου",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ilion-ολινατισεσυγκινησεliveatilionplus",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ilion-spikefuck",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
       "id": "ilion-αντιλογικηστελευταιασυναυλια",
       "url": "https://www.more.com/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "ilion-iasonallyliveatilionplus",
       "url": "https://tickets.public.gr/gr-el/tickets/music/iason-ally-album-release-show/?evId=959302",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-iasonallyliveatilionplus",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-iasonallyliveatilionplus",
-      "url": "https://www.more.com/gr-el/tickets/music/iason-ally-album-release-show/?evId=959302",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-iasonallyliveatilionplus",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2181,38 +2121,8 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-conceivevilespecieskabyahilionplus",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-conceivevilespecieskabyahilionplus",
-      "url": "https://www.more.com/gr-el/tickets/music/conceive-vile-species-kab-yah-ilion-plus/?evId=954680",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-conceivevilespecieskabyahilionplus",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "ilion-andrijπερααποτοπερασ",
       "url": "https://tickets.public.gr/gr-el/tickets/music/andri-j-pera-apo-to-peras/?evId=942115",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-andrijπερααποτοπερασ",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-andrijπερααποτοπερασ",
-      "url": "https://www.more.com/gr-el/tickets/music/andri-j-pera-apo-to-peras/?evId=942115",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-andrijπερααποτοπερασ",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2221,8 +2131,23 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-μχlonelyλδλμmessier13ilionplus",
+      "id": "ilion-iasonallyliveatilionplus",
       "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+      "reason": "identity-mismatch"
+    },
+    {
+      "id": "ilion-iasonallyliveatilionplus",
+      "url": "https://www.more.com/gr-el/tickets/music/iason-ally-album-release-show/?evId=959302",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ilion-conceivevilespecieskabyahilionplus",
+      "url": "https://www.more.com/gr-el/tickets/music/conceive-vile-species-kab-yah-ilion-plus/?evId=954680",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ilion-andrijπερααποτοπερασ",
+      "url": "https://www.more.com/gr-el/tickets/music/andri-j-pera-apo-to-peras/?evId=942115",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2231,28 +2156,28 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "id": "ilion-iasonallyliveatilionplus",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ilion-conceivevilespecieskabyahilionplus",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ilion-andrijπερααποτοπερασ",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
       "id": "ilion-μχlonelyλδλμmessier13ilionplus",
       "url": "https://www.more.com/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "ilion-bruceliveilionplus",
       "url": "https://tickets.public.gr/gr-el/tickets/music/bruce/album-release-w/uvvutv-ilion-plus/?evId=951239",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-bruceliveilionplus",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-bruceliveilionplus",
-      "url": "https://www.more.com/gr-el/tickets/music/bruce/album-release-w/uvvutv-ilion-plus/?evId=951239",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-bruceliveilionplus",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2261,38 +2186,8 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-thesilentrage",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-thesilentrage",
-      "url": "https://www.more.com/gr-el/tickets/music/the-silent-rage-10-years-the-deadliest-scourge-anniversary-show-ilion-plus/?evId=945583",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-thesilentrage",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "id": "ilion-μαριακουτσουρληilionplus",
       "url": "https://tickets.public.gr/gr-el/tickets/music/maria-koutsourli-ilion-plus/?evId=958762",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-μαριακουτσουρληilionplus",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-μαριακουτσουρληilionplus",
-      "url": "https://www.more.com/gr-el/tickets/music/maria-koutsourli-ilion-plus/?evId=958762",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-μαριακουτσουρληilionplus",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2301,8 +2196,18 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-nightkillsecularupheavalviciousvoid",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+      "id": "ilion-bruceliveilionplus",
+      "url": "https://www.more.com/gr-el/tickets/music/bruce/album-release-w/uvvutv-ilion-plus/?evId=951239",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ilion-thesilentrage",
+      "url": "https://www.more.com/gr-el/tickets/music/the-silent-rage-10-years-the-deadliest-scourge-anniversary-show-ilion-plus/?evId=945583",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ilion-μαριακουτσουρληilionplus",
+      "url": "https://www.more.com/gr-el/tickets/music/maria-koutsourli-ilion-plus/?evId=958762",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2311,28 +2216,28 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "id": "ilion-bruceliveilionplus",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ilion-thesilentrage",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "id": "ilion-μαριακουτσουρληilionplus",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
       "id": "ilion-nightkillsecularupheavalviciousvoid",
       "url": "https://www.more.com/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "ilion-μπεζεποχεσρετροιλιονplus",
       "url": "https://tickets.public.gr/gr-el/tickets/music/mpez-epoxes-retro-ilion-plus/?evId=958595",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-μπεζεποχεσρετροιλιονplus",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-μπεζεποχεσρετροιλιονplus",
-      "url": "https://www.more.com/gr-el/tickets/music/mpez-epoxes-retro-ilion-plus/?evId=958595",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "ilion-μπεζεποχεσρετροιλιονplus",
-      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2341,8 +2246,13 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-davidshawandthebeatlive",
-      "url": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+      "id": "music-10083380",
+      "url": "https://www.more.com/music/the-jazz-express-franky-meets-ella-on-the-orient-express-6os-xronos",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "id": "ilion-μπεζεποχεσρετροιλιονplus",
+      "url": "https://www.more.com/gr-el/tickets/music/mpez-epoxes-retro-ilion-plus/?evId=958595",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2351,14 +2261,14 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "ilion-davidshawandthebeatlive",
+      "id": "ilion-μπεζεποχεσρετροιλιονplus",
       "url": "https://www.more.com/gr-el/venues/ilion-plus/",
-      "reason": "source-temporarily-unavailable"
+      "reason": "The operation was aborted due to timeout"
     },
     {
-      "id": "music-10083380",
-      "url": "https://www.more.com/music/the-jazz-express-franky-meets-ella-on-the-orient-express-6os-xronos",
-      "reason": "source-temporarily-unavailable"
+      "id": "ilion-davidshawandthebeatlive",
+      "url": "https://www.more.com/gr-el/venues/ilion-plus/",
+      "reason": "The operation was aborted due to timeout"
     },
     {
       "id": "music-10087938",
@@ -2526,6 +2436,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "id": "fuzz-ezhel-2026",
+      "url": "https://www.more.com/gr-el/tickets/music/ezhel-live-in-europe-2026/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
       "id": "fuzz-entos-pediou-2026",
       "url": "https://www.fuzzclub.gr/event/entos-pediou/",
       "reason": "identity-mismatch"
@@ -2533,11 +2448,6 @@
     {
       "id": "fuzz-entos-pediou-2026",
       "url": "https://tickets.public.gr/gr-el/tickets/music/simadi-parousiasi-diskou-entos-pediou/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "id": "fuzz-ezhel-2026",
-      "url": "https://www.more.com/gr-el/tickets/music/ezhel-live-in-europe-2026/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -2631,13 +2541,13 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "auto-296185b5d17932",
-      "url": "https://www.more.com/gr-el/tickets/music/chelsea-wolfe2026/",
+      "id": "auto-6a81d4a065f77a",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/eddie-dark",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "id": "auto-6a81d4a065f77a",
-      "url": "https://tickets.public.gr/gr-el/tickets/music/eddie-dark",
+      "id": "auto-296185b5d17932",
+      "url": "https://www.more.com/gr-el/tickets/music/chelsea-wolfe2026/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -3968,11 +3878,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/pseudaisthiseis-ioannina/",
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/eleusinia-mystiria-3/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/eleusinia-mystiria-3/",
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/pseudaisthiseis-ioannina/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -4244,15 +4154,15 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/megales-kyries-tragoudoun-me-tin-artemis-matafia/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "url": "https://tickets.public.gr/gr-el/tickets/theater/ston-kyrio-tzei-calling-mr-j-theatro-t/",
       "reason": "source-temporarily-unavailable"
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/theater/odysseia-rapsodia-l-nekyia/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/megales-kyries-tragoudoun-me-tin-artemis-matafia/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -4352,10 +4262,6 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/children/ta-xamena-granazia-ton-xristougennon/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "url": "https://tickets.public.gr/gr-el/tickets/theater/children/i-empneusi-mou-eipeparamythia-na-sas-po/",
       "reason": "source-temporarily-unavailable"
     },
@@ -4365,6 +4271,10 @@
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/theater/ta-5-aderfia/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/children/ta-xamena-granazia-ton-xristougennon/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -4540,30 +4450,6 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/ta-xristougenna-tou-pappou-panof/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/komotini-pithari/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/ta-bals-ton-xristougennon-me-ti-nina-lotsari/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/fakelos-k21/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/rasa-kai-giatagania-me-zontani-orxistra/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/children/i-elsa-kai-to-magiko-stemma/korinthos/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "url": "https://tickets.public.gr/gr-el/tickets/theater/womendirectors/gynaikes-pou-miloun-siopes-pou-tragoudoun-1/",
       "reason": "source-temporarily-unavailable"
     },
@@ -4572,11 +4458,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/theatrikos-monologos-marina-tsbetagieba/",
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/tria-sanidia-dyo-prosopa-ena-pathos-1/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/tria-sanidia-dyo-prosopa-ena-pathos-1/",
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/theatrikos-monologos-marina-tsbetagieba/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -4608,7 +4494,35 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/ta-xristougenna-tou-pappou-panof/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/komotini-pithari/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/ta-bals-ton-xristougennon-me-ti-nina-lotsari/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/fakelos-k21/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/rasa-kai-giatagania-me-zontani-orxistra/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/children/i-elsa-kai-to-magiko-stemma/korinthos/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
       "url": "https://tickets.public.gr/gr-el/tickets/theater/children/to-magiko-elkithro-tou-ai-basili-xristougenniatiki-periodeia/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/children/aristofani-eirini/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -4616,7 +4530,7 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/children/aristofani-eirini/",
+      "url": "https://tickets.public.gr/gr-el/tickets/theater/o-karomytogkas/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -4629,10 +4543,6 @@
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/theater/children/womendirectors/i-balitsa-ton-epoxon/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/theater/o-karomytogkas/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -5708,11 +5618,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/mamasingsfire/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/alex-sid-ebelyn-asouant-stauros-tou-notou-plus/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/alex-sid-ebelyn-asouant-stauros-tou-notou-plus/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/mamasingsfire/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6224,7 +6134,7 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/allan-harris-quintet-singsnat-king-cole-christmas-more/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/offer/agrio-meli-afieroma-sta-diafana-krina/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6232,11 +6142,7 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/5o-diethnes-festibal-mousikis-domatiou-i-virtuosi-italiani-stravaganze-e-follie/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/offer/agrio-meli-afieroma-sta-diafana-krina/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/allan-harris-quintet-singsnat-king-cole-christmas-more/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6248,7 +6154,7 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/h-megali-italiki-bradia-gianmarco-bagutti/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/5o-diethnes-festibal-mousikis-domatiou-i-virtuosi-italiani-stravaganze-e-follie/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6260,11 +6166,15 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/billie-kark-at-klakaz/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/h-megali-italiki-bradia-gianmarco-bagutti/",
       "reason": "source-temporarily-unavailable"
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/axel-rudi-pell-live-stin-athina/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/billie-kark-at-klakaz/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6372,11 +6282,15 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/pantelis-kanarakis/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
       "url": "https://tickets.public.gr/gr-el/tickets/music/luup-meadow-rituals-live-sto-klakaz-athina/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/pantelis-kanarakis/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/aman-aman/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6384,15 +6298,19 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/b-d-foxmoor-dialegmena-ap-ti-fotia-live-in-athens/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "url": "https://tickets.public.gr/gr-el/tickets/music/thanasis-petheriotis-kai-aristotelis-full-band/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/aman-aman/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/b-d-foxmoor-dialegmena-ap-ti-fotia-live-in-athens/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/o-basilis-lekkas-ston-asterismo-tou-toli-4/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/5o-diethnes-festibal-mousikis-domatiou-quartetto-indaco/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6405,22 +6323,6 @@
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/discharge-uk-live-stin-larisa/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/o-basilis-lekkas-ston-asterismo-tou-toli-4/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/5o-diethnes-festibal-mousikis-domatiou-quartetto-indaco/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/sol-diaita-sol-dieta/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/jazz-sto-mouseio-markos-chaidemenos-light-beam/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6437,6 +6339,14 @@
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/synnefa-me-pantelonia-1/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/sol-diaita-sol-dieta/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/jazz-sto-mouseio-markos-chaidemenos-light-beam/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6460,11 +6370,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/offer/xaris-nikolaidis/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/flemma-parousiasi-diskou/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/flemma-parousiasi-diskou/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/offer/xaris-nikolaidis/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6480,7 +6390,7 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/cilia-katrali-x-savina-live-ston-bolo/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/addicted/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6488,11 +6398,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/koza-mostra-1/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/cilia-katrali-x-savina-live-ston-bolo/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/addicted/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/koza-mostra-1/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6548,11 +6458,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/offer/invunche-nl-final-dose-uk-live-at-an/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/cilia-katrali-x-savina-live-stin-thessaloniki/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/cilia-katrali-x-savina-live-stin-thessaloniki/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/offer/invunche-nl-final-dose-uk-live-at-an/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6576,63 +6486,15 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/koza-mostra-live-sti-larisa/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "url": "https://tickets.public.gr/gr-el/tickets/music/richard-youngs-jay-glass-dubs/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/thanasis-boutsas/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/theodosia-tsatsou-wish-of-my-heart-nea-imerominia-sto-kyttaro/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/422mass-hardwave1/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/cinema-in-guitar-nikitas-kissonas-live/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/halloween-show/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/sabberia-margiola/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/ki-afou-perpatisa-kairo/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/peny-ksenaki-thanos-georgoulas/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/maria-alamani-pio-konta/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/o-basilis-skoulas-sto-xoro-texnon-sti-beroia/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/koza-mostra-live-sti-larisa/",
       "reason": "source-temporarily-unavailable"
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/offer/bakv-vendetta-release-live-show/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/petros-gaitanos-kalin-esperan-arxontes-1/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/sandra-sangiao/mikri-skini/thessaloniki/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6641,6 +6503,14 @@
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/synaulia-thelma-karagianni-b-saltagiannis-1/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/sandra-sangiao/mikri-skini/thessaloniki/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/petros-gaitanos-kalin-esperan-arxontes-1/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6672,7 +6542,51 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/bruce/album-release-w/uvvutv-ilion-plus/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/theodosia-tsatsou-wish-of-my-heart-nea-imerominia-sto-kyttaro/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/422mass-hardwave1/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/halloween-show/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/sabberia-margiola/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/thanasis-boutsas/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/cinema-in-guitar-nikitas-kissonas-live/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/ki-afou-perpatisa-kairo/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/peny-ksenaki-thanos-georgoulas/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/maria-alamani-pio-konta/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/o-basilis-skoulas-sto-xoro-texnon-sti-beroia/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/tunnel-2manydjs-chloe-robinson/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/xryspa-restart-live/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6680,7 +6594,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/tunnel-2manydjs-chloe-robinson/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/bruce/album-release-w/uvvutv-ilion-plus/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/jazz-sto-mouseio-takis-paterelis-costis-christodoulou-duet-12-bars-more-to-go/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6689,10 +6607,6 @@
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/sofia-manousaki-ioannina/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/jazz-sto-mouseio-takis-paterelis-costis-christodoulou-duet-12-bars-more-to-go/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6712,6 +6626,18 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/festival/andreas-at-sea-live-in-greece/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/brujeria-live-stin-ellada/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/syndromes-sezon-2026-2027/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
       "url": "https://tickets.public.gr/gr-el/tickets/music/offer/two-nights-amidst-the-veiled-dusk/",
       "reason": "source-temporarily-unavailable"
     },
@@ -6728,23 +6654,7 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/festival/andreas-at-sea-live-in-greece/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/brujeria-live-stin-ellada/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/syndromes-sezon-2026-2027/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "url": "https://tickets.public.gr/gr-el/tickets/music/apo-tin-sapfo-ston-elyti/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/mani-meta-ta-mesanyxta/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6760,11 +6670,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/conceive-vile-species-kab-yah-ilion-plus/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/restive-homeboys-live-stin-athina/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/restive-homeboys-live-stin-athina/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/mani-meta-ta-mesanyxta/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6776,11 +6686,15 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/offer/jehovah-on-death/lucenthia/this-i-owe/vespel/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/spyros-manesis-trio-3/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/spyros-manesis-trio-3/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/conceive-vile-species-kab-yah-ilion-plus/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/offer/jehovah-on-death/lucenthia/this-i-owe/vespel/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6812,15 +6726,15 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/luxury-yacht-parties-x-manolaco/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "url": "https://tickets.public.gr/gr-el/tickets/music/giorgos-nikiforou-zerbakis-stauros-tou-notou/",
       "reason": "source-temporarily-unavailable"
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/epta-tragoudia-bgikan-bolta-mes-sti-nyxta/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/luxury-yacht-parties-x-manolaco/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6860,10 +6774,6 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/xoma-to-solo-tou-giorgou-ksylouri/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "url": "https://tickets.public.gr/gr-el/tickets/music/rocknroll-night-specials-leaving-tomorrow-terrapin-homeless-art/",
       "reason": "source-temporarily-unavailable"
     },
@@ -6873,6 +6783,10 @@
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/offer/tryfon-lazos/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/xoma-to-solo-tou-giorgou-ksylouri/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -6924,10 +6838,6 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/nikol-sarabakou-stauros-tou-notou-plus-1/",
-      "reason": "source-temporarily-unavailable"
-    },
-    {
       "url": "https://tickets.public.gr/gr-el/tickets/music/festival/sirius/illusory/fighting-flies-kyttaro/",
       "reason": "source-temporarily-unavailable"
     },
@@ -6940,6 +6850,10 @@
       "reason": "source-temporarily-unavailable"
     },
     {
+      "url": "https://tickets.public.gr/gr-el/tickets/music/nikol-sarabakou-stauros-tou-notou-plus-1/",
+      "reason": "source-temporarily-unavailable"
+    },
+    {
       "url": "https://tickets.public.gr/gr-el/tickets/music/bus-oath/",
       "reason": "source-temporarily-unavailable"
     },
@@ -6948,11 +6862,11 @@
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/aris-graikousis-eikastikes-afigiseis-se-notes/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/horacio-el-negro-hernandez-taste-of-latin/",
       "reason": "source-temporarily-unavailable"
     },
     {
-      "url": "https://tickets.public.gr/gr-el/tickets/music/horacio-el-negro-hernandez-taste-of-latin/",
+      "url": "https://tickets.public.gr/gr-el/tickets/music/aris-graikousis-eikastikes-afigiseis-se-notes/",
       "reason": "source-temporarily-unavailable"
     },
     {
@@ -7098,6 +7012,18 @@
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/$%7Burl%7D",
       "reason": "source-temporarily-unavailable"
+    },
+    {
+      "url": "https://www.floyd.gr/events/list/?eventDisplay=past",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.floyd.gr/events/list/?ical=1",
+      "reason": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.floyd.gr/events/list/?outlook-ical=1",
+      "reason": "The operation was aborted due to timeout"
     }
   ],
   "changes": [
@@ -7112,6 +7038,10 @@
     {
       "id": "skinshape-gazarte-2026",
       "title": "Skinshape"
+    },
+    {
+      "id": "sosmenos-bismpikis-cartel-2026",
+      "title": "Σωσμένος"
     },
     {
       "id": "mercury-rev-gazarte-2026",
@@ -7130,12 +7060,12 @@
       "title": "GOAT"
     },
     {
-      "id": "fifth-angel-gazarte-2026",
-      "title": "Fifth Angel"
-    },
-    {
       "id": "henge-gazarte-2026",
       "title": "HENGE"
+    },
+    {
+      "id": "fifth-angel-gazarte-2026",
+      "title": "Fifth Angel"
     },
     {
       "id": "sofia-manousaki-gazarte-2026",
@@ -7150,14 +7080,6 @@
       "title": "Jeff Buckley’s Grace · Slow Pilot"
     },
     {
-      "id": "ath-10087179",
-      "title": "Αγνώστου Η βία του βίου - Τσιμάρας Τζανάτος"
-    },
-    {
-      "id": "uriah-heep-floyd-2026",
-      "title": "Uriah Heep"
-    },
-    {
       "id": "kronos-gazarte-2026",
       "title": "Kronos Quartet"
     },
@@ -7166,8 +7088,16 @@
       "title": "Άγριο γάλα"
     },
     {
+      "id": "uriah-heep-floyd-2026",
+      "title": "Uriah Heep"
+    },
+    {
       "id": "the-kvb-gazarte-2026",
       "title": "The KVB"
+    },
+    {
+      "id": "ath-10087179",
+      "title": "Αγνώστου Η βία του βίου - Τσιμάρας Τζανάτος"
     },
     {
       "id": "ath-11000067",
@@ -7182,20 +7112,16 @@
       "title": "Ακριβοί μας γονείς"
     },
     {
-      "id": "ath-10091521",
-      "title": "Αλήθεια σου λέω ψέματα"
-    },
-    {
-      "id": "ath-10091636",
-      "title": "Αλλά αυτοί είστε!"
+      "id": "ath-10088323",
+      "title": "Αναζητώντας τη μαγεία - 20 χρόνια Θεατρίνων Θεατές"
     },
     {
       "id": "ath-10087542",
       "title": "Αμερικάνικος βούβαλος"
     },
     {
-      "id": "ath-10088323",
-      "title": "Αναζητώντας τη μαγεία - 20 χρόνια Θεατρίνων Θεατές"
+      "id": "ath-10091521",
+      "title": "Αλήθεια σου λέω ψέματα"
     },
     {
       "id": "ath-10089057",
@@ -7210,20 +7136,20 @@
       "title": "Τα άνθη του κακού"
     },
     {
-      "id": "ath-10091652",
-      "title": "Η ανθρώπινη φωνή"
-    },
-    {
       "id": "ath-10070171",
       "title": "Άνθρωποι και ποντίκια"
     },
     {
-      "id": "ath-11000117",
-      "title": "Ο άνθρωπος με το δέντρο στην καρδιά"
+      "id": "ath-10091652",
+      "title": "Η ανθρώπινη φωνή"
     },
     {
       "id": "ath-10091513",
       "title": "Ο Άνθρωπος των Θαυμάτων"
+    },
+    {
+      "id": "ath-11000117",
+      "title": "Ο άνθρωπος με το δέντρο στην καρδιά"
     },
     {
       "id": "ath-10089949",
@@ -7254,12 +7180,12 @@
       "title": "Άσπρα Άλογα"
     },
     {
-      "id": "ath-10088279",
-      "title": "Τα άσπρα άλογα - Ρόσμερσχολμ"
-    },
-    {
       "id": "ath-10091602",
       "title": "Άτα Άτα Χρώματα"
+    },
+    {
+      "id": "ath-10088279",
+      "title": "Τα άσπρα άλογα - Ρόσμερσχολμ"
     },
     {
       "id": "ath-10090452",
@@ -7290,10 +7216,6 @@
       "title": "20 Βήματα Μπροστά"
     },
     {
-      "id": "ath-10091517",
-      "title": "Βίντεο Κλαμπ Φαντασία"
-    },
-    {
       "id": "ath-10091673",
       "title": "Blance after"
     },
@@ -7302,12 +7224,16 @@
       "title": "Βουλίτσα"
     },
     {
-      "id": "ath-10091742",
-      "title": "Βραδιές με Καραγκιόζη...αυστηρά για ενήλικες"
+      "id": "ath-10091517",
+      "title": "Βίντεο Κλαμπ Φαντασία"
     },
     {
       "id": "ath-10091631",
       "title": "Breaking God"
+    },
+    {
+      "id": "ath-10091742",
+      "title": "Βραδιές με Καραγκιόζη...αυστηρά για ενήλικες"
     },
     {
       "id": "ath-10083577",
@@ -7346,6 +7272,10 @@
       "title": "Γκόλφω"
     },
     {
+      "id": "ath-10091636",
+      "title": "Αλλά αυτοί είστε!"
+    },
+    {
       "id": "ath-10002980",
       "title": "Γουτού Γουπατού"
     },
@@ -7382,12 +7312,12 @@
       "title": "Δεκάξι"
     },
     {
-      "id": "ath-10091716",
-      "title": "Δεσποινίς Μαργαρίτα"
-    },
-    {
       "id": "ath-10091771",
       "title": "Διαβάζοντας τη Λολίτα στην Τεχεράνη"
+    },
+    {
+      "id": "ath-10091716",
+      "title": "Δεσποινίς Μαργαρίτα"
     },
     {
       "id": "ath-10091718",
@@ -7398,20 +7328,20 @@
       "title": "Οι δίκαιοι"
     },
     {
-      "id": "ath-10087766",
-      "title": "Η δίκη"
-    },
-    {
       "id": "ath-10091740",
       "title": "Δύο χρόνια διακοπές"
     },
     {
-      "id": "ath-11000069",
-      "title": "Δωροθέα"
+      "id": "ath-10087766",
+      "title": "Η δίκη"
     },
     {
       "id": "ath-10091826",
       "title": "Οι δωσίλογοι"
+    },
+    {
+      "id": "ath-11000069",
+      "title": "Δωροθέα"
     },
     {
       "id": "ath-10091522",
@@ -7522,16 +7452,16 @@
       "title": "Ζώα"
     },
     {
-      "id": "ath-10089820",
-      "title": "Η αλήθεια είναι"
-    },
-    {
       "id": "ath-10087627",
       "title": "Η Ήμερη"
     },
     {
       "id": "ath-11000059",
       "title": "Horny Fans"
+    },
+    {
+      "id": "ath-10089820",
+      "title": "Η αλήθεια είναι"
     },
     {
       "id": "ath-11000051",
@@ -7566,16 +7496,16 @@
       "title": "Θέλω να σου κρατάω το χέρι"
     },
     {
-      "id": "ath-10089332",
-      "title": "Ο θεός της σφαγής"
-    },
-    {
       "id": "ath-10091815",
       "title": "Θύρα μηδέν"
     },
     {
       "id": "ath-10091640",
       "title": "Η Ιδέα της Χρονιάς!"
+    },
+    {
+      "id": "ath-10089332",
+      "title": "Ο θεός της σφαγής"
     },
     {
       "id": "ath-10088773",
@@ -7586,6 +7516,10 @@
       "title": "Ίκαρος"
     },
     {
+      "id": "ath-10089513",
+      "title": "Ιωάννης Γαβριήλ Μπόρκμαν"
+    },
+    {
       "id": "ath-10081140",
       "title": "Jane"
     },
@@ -7594,16 +7528,12 @@
       "title": "Κάθε Πέμπτη κύριε Γκρην"
     },
     {
-      "id": "ath-10089513",
-      "title": "Ιωάννης Γαβριήλ Μπόρκμαν"
+      "id": "ath-10062240",
+      "title": "Κάθε Τρίτη με τον Μόρι"
     },
     {
       "id": "ath-10091723",
       "title": "Οι καλοί σύντροφοι"
-    },
-    {
-      "id": "ath-10062240",
-      "title": "Κάθε Τρίτη με τον Μόρι"
     },
     {
       "id": "ath-11000052",
@@ -7658,12 +7588,12 @@
       "title": "Κατερίνα Γώγου: Το γαμώτο που δεν έζησα"
     },
     {
-      "id": "ath-10091785",
-      "title": "Κατίνα πάρε μια ανάσα"
-    },
-    {
       "id": "ath-10049470",
       "title": "Το κιβώτιο"
+    },
+    {
+      "id": "ath-10091785",
+      "title": "Κατίνα πάρε μια ανάσα"
     },
     {
       "id": "ath-10083848",
@@ -7674,20 +7604,16 @@
       "title": "Κοιμώμενος Χαλεπάς, ο σαλός άγιος"
     },
     {
-      "id": "ath-10089783",
-      "title": "Τo κομπλεξικό"
-    },
-    {
       "id": "ath-10088412",
       "title": "Kontakthof"
     },
     {
-      "id": "ath-10091937",
-      "title": "Το κορίτσι που ήθελε να αγγίξει το μισοφέγγαρο"
-    },
-    {
       "id": "ath-10089257",
       "title": "Ο κος Ζυλ"
+    },
+    {
+      "id": "ath-10089783",
+      "title": "Τo κομπλεξικό"
     },
     {
       "id": "ath-10026672",
@@ -7710,12 +7636,12 @@
       "title": "Κρυφτό"
     },
     {
-      "id": "ath-10091886",
-      "title": "Κυανοπώγωνας"
-    },
-    {
       "id": "ath-10091818",
       "title": "Ο κύκλος των ανώνυμων εξαρτήσεων"
+    },
+    {
+      "id": "ath-10091886",
+      "title": "Κυανοπώγωνας"
     },
     {
       "id": "ath-11000092",
@@ -7846,6 +7772,10 @@
       "title": "Η μοναξιά της Δύσης"
     },
     {
+      "id": "ath-10091937",
+      "title": "Το κορίτσι που ήθελε να αγγίξει το μισοφέγγαρο"
+    },
+    {
       "id": "ath-10091936",
       "title": "Η Μονίκ"
     },
@@ -7962,12 +7892,12 @@
       "title": "Ορφέας"
     },
     {
-      "id": "ath-10091660",
-      "title": "Όταν το βελούδο πέσει"
-    },
-    {
       "id": "ath-10091623",
       "title": "Το παγόβουνο"
+    },
+    {
+      "id": "ath-10091660",
+      "title": "Όταν το βελούδο πέσει"
     },
     {
       "id": "ath-10091784",
@@ -8064,10 +7994,6 @@
     {
       "id": "ath-10091621",
       "title": "Πτήση 717"
-    },
-    {
-      "id": "ath-10085910",
-      "title": "Πυρ, γυνή & comedy"
     },
     {
       "id": "ath-10013867",
@@ -8226,6 +8152,10 @@
       "title": "Της γιαγιάς σου"
     },
     {
+      "id": "ath-10085910",
+      "title": "Πυρ, γυνή & comedy"
+    },
+    {
       "id": "ath-11000093",
       "title": "Τι θα γινόταν αν"
     },
@@ -8250,16 +8180,16 @@
       "title": "Toc toc #Αγάπη_ρε..."
     },
     {
-      "id": "ath-10089521",
-      "title": "Του έρωτα και της στάχτης"
-    },
-    {
       "id": "ath-10091899",
       "title": "Του λύκου τα καμώματα"
     },
     {
       "id": "ath-10091822",
       "title": "Τσακουάλα"
+    },
+    {
+      "id": "ath-10089521",
+      "title": "Του έρωτα και της στάχτης"
     },
     {
       "id": "ath-10088691",
@@ -8300,10 +8230,6 @@
     {
       "id": "ath-10091536",
       "title": "Φόνισσα"
-    },
-    {
-      "id": "ath-10091620",
-      "title": "Φυσικά και μπορώ!"
     },
     {
       "id": "ath-10089242",
@@ -8466,6 +8392,10 @@
       "title": "Μαθητευόμενος μάγος"
     },
     {
+      "id": "ath-10091620",
+      "title": "Φυσικά και μπορώ!"
+    },
+    {
       "id": "ath-2006899",
       "title": "Μήλα ζάχαρη κανέλα"
     },
@@ -8474,12 +8404,12 @@
       "title": "Μια τελεία… είναι μόνο η αρχή!"
     },
     {
-      "id": "ath-10087401",
-      "title": "Ο Μίλτος"
-    },
-    {
       "id": "ath-10066187",
       "title": "Η μωβ ομπρέλα"
+    },
+    {
+      "id": "ath-10087401",
+      "title": "Ο Μίλτος"
     },
     {
       "id": "ath-10091051",
@@ -8518,12 +8448,12 @@
       "title": "Σβήσε το φως!"
     },
     {
-      "id": "ath-10080697",
-      "title": "Still! Ένα άγαλμα που γύρισε τον κόσμο"
-    },
-    {
       "id": "ath-10079044",
       "title": "Συννεφάκι άκι-άκι"
+    },
+    {
+      "id": "ath-10080697",
+      "title": "Still! Ένα άγαλμα που γύρισε τον κόσμο"
     },
     {
       "id": "ath-10089244",
@@ -8558,6 +8488,74 @@
       "title": "Η Χιονάτη και οι 7 νάνοι"
     },
     {
+      "id": "ilion-bangiesliveilionplus",
+      "title": "Bangies live @ ilion plus"
+    },
+    {
+      "id": "ilion-ablendingofgreekandfrenchrapculture",
+      "title": "A blending of Greek and French Rap Culture"
+    },
+    {
+      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
+      "title": "ΧΡΗΣΤΟΣ ΒΕΡΓΟΣ ΙΛΙΟΝ PLUS - (ΑΘΗΝΑ)"
+    },
+    {
+      "id": "ilion-dramachinetheklammers",
+      "title": "DRAMACHINE × THE KLAMMERS"
+    },
+    {
+      "id": "ilion-flemmaπαρουσιασηδισκου",
+      "title": "FLEMMA ΠΑΡΟΥΣΙΑΣΗ ΔΙΣΚΟΥ"
+    },
+    {
+      "id": "ilion-ολινατισεσυγκινησεliveatilionplus",
+      "title": "ΟΛΙΝΑ | «Τι σε συγκίνησε;» Live at Ilion Plus"
+    },
+    {
+      "id": "ilion-spikefuck",
+      "title": "SPIKE FUCK"
+    },
+    {
+      "id": "ilion-αντιλογικηστελευταιασυναυλια",
+      "title": "Αντί Λογικής - Τελευταία Συναυλία"
+    },
+    {
+      "id": "ilion-conceivevilespecieskabyahilionplus",
+      "title": "Conceive+Vile Species+Kab-Yah@ILION Plus"
+    },
+    {
+      "id": "ilion-andrijπερααποτοπερασ",
+      "title": "ANDRI J - ΠΕΡΑ ΑΠΟ ΤΟ ΠΕΡΑΣ"
+    },
+    {
+      "id": "ilion-μχlonelyλδλμmessier13ilionplus",
+      "title": "ΜΧ Lonely + ΛΔΛΜ + Messier 13 @ ILION Plus"
+    },
+    {
+      "id": "ilion-bruceliveilionplus",
+      "title": "Bruce live @ Ilion plus"
+    },
+    {
+      "id": "ilion-thesilentrage",
+      "title": "The Silent Rage"
+    },
+    {
+      "id": "ilion-μαριακουτσουρληilionplus",
+      "title": "ΜΑΡΙΑ ΚΟΥΤΣΟΥΡΛΗ | Ilion Plus"
+    },
+    {
+      "id": "ilion-nightkillsecularupheavalviciousvoid",
+      "title": "NIGHTKILL/SECULAR UPHEAVAL/VICIOUS VOID"
+    },
+    {
+      "id": "ilion-μπεζεποχεσρετροιλιονplus",
+      "title": "ΜΠΕΖ ΕΠΟΧΕΣ & ΡΕΤΡΟ @ΙΛΙΟΝ plus"
+    },
+    {
+      "id": "ilion-davidshawandthebeatlive",
+      "title": "DAVID SHAW AND THE BEAT live"
+    },
+    {
       "id": "music-10058532",
       "title": "Nine Below Zero"
     },
@@ -8566,12 +8564,12 @@
       "title": "«Franky meets Ella on the Orient Express»"
     },
     {
-      "id": "music-10087938",
-      "title": "Spyros Manesis Trio"
-    },
-    {
       "id": "music-10090061",
       "title": "Beat the room"
+    },
+    {
+      "id": "music-10087938",
+      "title": "Spyros Manesis Trio"
     },
     {
       "id": "music-10091025",
@@ -8614,12 +8612,12 @@
       "title": "Omar Ayari + Deköm + GladOneByWho"
     },
     {
-      "id": "music-10091838",
-      "title": "Κωστής"
-    },
-    {
       "id": "music-10091839",
       "title": "Επίλογος"
+    },
+    {
+      "id": "music-10091838",
+      "title": "Κωστής"
     },
     {
       "id": "music-10091848",
@@ -8634,10 +8632,6 @@
       "title": "Ελονώρα Ζουγανέλη"
     },
     {
-      "id": "music-11000003",
-      "title": "Tsaki x Dof"
-    },
-    {
       "id": "music-11000004",
       "title": "Dievers Halloween Party"
     },
@@ -8646,16 +8640,20 @@
       "title": "Από την Σαπφώ στον Ελύτη"
     },
     {
+      "id": "music-11000003",
+      "title": "Tsaki x Dof"
+    },
+    {
       "id": "music-11000006",
       "title": "45 χρόνια Magic De Spell"
     },
     {
-      "id": "music-11000007",
-      "title": "Γιώργος Χατζηνάσιος - Γιώργος Θεοφάνους"
-    },
-    {
       "id": "music-11000011",
       "title": "Halloween Live Chaos"
+    },
+    {
+      "id": "music-11000007",
+      "title": "Γιώργος Χατζηνάσιος - Γιώργος Θεοφάνους"
     },
     {
       "id": "music-11000013",
@@ -8770,16 +8768,16 @@
       "title": "Μιράντα Βερούλη"
     },
     {
-      "id": "music-11000087",
-      "title": "Συνηχήσεις"
-    },
-    {
       "id": "music-11000088",
       "title": "Γυναικεία υπόθεση"
     },
     {
       "id": "music-11000091",
       "title": "DA TI"
+    },
+    {
+      "id": "music-11000087",
+      "title": "Συνηχήσεις"
     },
     {
       "id": "music-11000095",
@@ -8858,16 +8856,16 @@
       "title": "Usurum"
     },
     {
-      "id": "music-11000139",
-      "title": "Μιχάλης Ρακιντζής"
-    },
-    {
       "id": "music-11000140",
       "title": "Paradise Lost"
     },
     {
       "id": "music-11000142",
       "title": "Άσαρκος \"Ρίμες εν Αθήναις\""
+    },
+    {
+      "id": "music-11000139",
+      "title": "Μιχάλης Ρακιντζής"
     },
     {
       "id": "music-11000143",
@@ -8978,12 +8976,12 @@
       "title": "EZHEL"
     },
     {
-      "id": "fuzz-solstafir-2-2026",
-      "title": "Sólstafir"
-    },
-    {
       "id": "music-11000181",
       "title": "Riot V - 50th Anniversary Tour"
+    },
+    {
+      "id": "fuzz-solstafir-2-2026",
+      "title": "Sólstafir"
     },
     {
       "id": "fuzz-nile-2-2026",
@@ -9034,12 +9032,12 @@
       "title": "KREATOR & OVERKILL"
     },
     {
-      "id": "auto-588371f79c8396",
-      "title": "Τα γενέθλια της Ριρίκας"
-    },
-    {
       "id": "auto-6a81d4a065f77a",
       "title": "Eddie Dark"
+    },
+    {
+      "id": "auto-588371f79c8396",
+      "title": "Τα γενέθλια της Ριρίκας"
     },
     {
       "id": "auto-0729132437c5be",
@@ -9068,19 +9066,148 @@
     {
       "id": "auto-c49979ba0d5e9a",
       "title": "SOEN"
+    },
+    {
+      "id": "agrios-sporos-karagianni-mikrohorn-2026",
+      "title": "Άγριος σπόρος",
+      "fields": [
+        "duration",
+        "description",
+        "descriptionSource",
+        "poster",
+        "cast",
+        "endOpen",
+        "verificationAttempt"
+      ]
+    },
+    {
+      "id": "athanasia-sychrono-2026",
+      "title": "αθανασία",
+      "fields": [
+        "duration",
+        "description",
+        "descriptionSource",
+        "poster",
+        "cast",
+        "endOpen",
+        "verificationAttempt"
+      ]
+    },
+    {
+      "id": "dreamers-sychrono-2026",
+      "title": "The Dreamers",
+      "fields": [
+        "duration",
+        "description",
+        "descriptionSource",
+        "poster",
+        "cast",
+        "endOpen",
+        "verificationAttempt"
+      ]
+    },
+    {
+      "id": "enoikiazetai-zeritis-mikrohorn-2026",
+      "title": "Ενοικιάζεται",
+      "fields": [
+        "duration",
+        "description",
+        "descriptionSource",
+        "poster",
+        "cast",
+        "end",
+        "endOpen",
+        "verificationAttempt"
+      ]
+    },
+    {
+      "id": "theofilos-lazaridou-mini131-2026",
+      "title": "Θεόφιλος sold",
+      "fields": [
+        "duration",
+        "description",
+        "descriptionSource",
+        "poster",
+        "cast",
+        "ticketUrl",
+        "endOpen",
+        "verificationAttempt"
+      ]
+    },
+    {
+      "id": "juliet-tyrogalas-mets-2026",
+      "title": "Ιουλιέττα (η)",
+      "fields": [
+        "description",
+        "descriptionSource",
+        "poster",
+        "cast",
+        "endOpen",
+        "verificationAttempt"
+      ]
+    },
+    {
+      "id": "consent-tzamargias-sychrono-2026",
+      "title": "Συναίνεση",
+      "fields": [
+        "duration",
+        "description",
+        "descriptionSource",
+        "poster",
+        "cast",
+        "endOpen",
+        "verificationAttempt"
+      ]
+    },
+    {
+      "id": "sosmenos-bismpikis-cartel-2026",
+      "title": "Σωσμένος",
+      "fields": [
+        "duration",
+        "description",
+        "descriptionSource",
+        "poster",
+        "cast",
+        "ticketUrl",
+        "endOpen",
+        "verificationAttempt"
+      ]
+    },
+    {
+      "id": "music-11000013",
+      "title": "Mareux",
+      "fields": [
+        "description",
+        "descriptionSource",
+        "poster",
+        "cast",
+        "programmeStatus",
+        "dates",
+        "endOpen",
+        "verification"
+      ]
+    },
+    {
+      "id": "music-11000013",
+      "title": "Mareux",
+      "fields": [
+        "descriptionSource",
+        "poster",
+        "verification"
+      ]
+    },
+    {
+      "id": "music-11000013",
+      "title": "Mareux",
+      "fields": [
+        "descriptionSource",
+        "poster",
+        "ticketUrl",
+        "verification"
+      ]
     }
   ],
   "candidates": [
-    {
-      "url": "https://www.athinorama.gr/theatre/performance/agrios_sporos-10087385/",
-      "title": "Άγριος σπόρος",
-      "reason": "existing-title-requires-production-match"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/performance/athanasia-10088971/",
-      "title": "αθανασία",
-      "reason": "existing-title-requires-production-match"
-    },
     {
       "url": "https://www.athinorama.gr/theatre/performance/aias_i_trela-11000200/",
       "title": "Αίας, η τρέλα",
@@ -9117,29 +9244,9 @@
       "reason": "existing-title-requires-production-match"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/performance/the_dreamers-11000109/",
-      "title": "The dreamers",
-      "reason": "existing-title-requires-production-match"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/performance/enoikiazetai-10091625/",
-      "title": "Ενοικιάζεται",
-      "reason": "existing-title-requires-production-match"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/performance/to_imerologio_enos_trelou-10086848/",
       "title": "Το ημερολόγιο ενός τρελού",
       "reason": "needs-location-or-future-dates"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/performance/theofilos_sold-10091642/",
-      "title": "Θεόφιλος Sold",
-      "reason": "existing-title-requires-production-match"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/",
-      "title": "Ιουλιέττα (η)",
-      "reason": "existing-title-requires-production-match"
     },
     {
       "url": "https://www.athinorama.gr/theatre/performance/ismini-10065557/",
@@ -9204,16 +9311,6 @@
     {
       "url": "https://www.athinorama.gr/theatre/performance/sesouar_gia_dolofonous-10088827/",
       "title": "Σεσουάρ για δολοφόνους",
-      "reason": "existing-title-requires-production-match"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/performance/sunainesi-10089764/",
-      "title": "Συναίνεση",
-      "reason": "existing-title-requires-production-match"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/performance/sosmenos-10089326/",
-      "title": "Σωσμένος",
       "reason": "existing-title-requires-production-match"
     },
     {
@@ -9367,11 +9464,6 @@
       "reason": "existing-title-requires-production-match"
     },
     {
-      "url": "https://www.athinorama.gr/music/gig/marianna_papathanasiou-11000141/",
-      "title": "Μαριάννα Παπαθανασίου",
-      "reason": "existing-title-requires-production-match"
-    },
-    {
       "url": "https://www.athinorama.gr/music/gig/olina-11000147/",
       "title": "Ολίνα",
       "reason": "needs-location-or-future-dates"
@@ -9379,6 +9471,11 @@
     {
       "url": "https://www.athinorama.gr/music/gig/andriana_dimitriou-11000150/",
       "title": "Ανδριάνα Δημητρίου",
+      "reason": "existing-title-requires-production-match"
+    },
+    {
+      "url": "https://www.athinorama.gr/music/gig/marianna_papathanasiou-11000141/",
+      "title": "Μαριάννα Παπαθανασίου",
       "reason": "existing-title-requires-production-match"
     },
     {
@@ -9487,8 +9584,8 @@
       "reason": "needs-location-or-future-dates"
     },
     {
-      "url": "https://www.fuzzclub.gr/event/doro-pesch/",
-      "title": "Doro Pesch",
+      "url": "https://www.fuzzclub.gr/events/list/",
+      "title": "Nightfall",
       "reason": "needs-location-or-future-dates"
     },
     {
@@ -9497,13 +9594,8 @@
       "reason": "needs-location-or-future-dates"
     },
     {
-      "url": "https://www.fuzzclub.gr/event/da-ti/",
-      "title": "DA TI",
-      "reason": "existing-title-requires-production-match"
-    },
-    {
-      "url": "https://www.fuzzclub.gr/event/nightfall/",
-      "title": "Nightfall",
+      "url": "https://www.fuzzclub.gr/events/today/",
+      "title": "Events for 20 Οκτωβρίου, 2026",
       "reason": "needs-location-or-future-dates"
     },
     {
@@ -9512,13 +9604,58 @@
       "reason": "needs-location-or-future-dates"
     },
     {
-      "url": "https://www.floyd.gr/event/mareux/",
-      "title": "Mareux",
+      "url": "https://www.fuzzclub.gr/events/month/",
+      "title": "Doro Pesch",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.fuzzclub.gr/events/month/2026-09/",
+      "title": "BLACKBRIAR | ΤΕΤΑΡΤΗ 23 ΣΕΠΤΕΜΒΡΙΟΥ 2026 | FUZZ CLUΒ – ΑΘΗΝΑ",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.fuzzclub.gr/events/month/2026-11/",
+      "title": "DA TI",
       "reason": "existing-title-requires-production-match"
     },
     {
-      "url": "https://www.floyd.gr/event/dire-straits-legacy/",
-      "title": "DIRE STRAITS LEGACY",
+      "url": "https://www.fuzzclub.gr/events/2026-10-09/",
+      "title": "Doro Pesch",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.fuzzclub.gr/event/doro-pesch/",
+      "title": "Doro Pesch",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.fuzzclub.gr/events/2026-10-24/",
+      "title": "Nightfall",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.fuzzclub.gr/event/nightfall/",
+      "title": "Nightfall",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.fuzzclub.gr/events/2026-10-30/",
+      "title": "DA TI",
+      "reason": "existing-title-requires-production-match"
+    },
+    {
+      "url": "https://www.fuzzclub.gr/event/da-ti/",
+      "title": "DA TI",
+      "reason": "existing-title-requires-production-match"
+    },
+    {
+      "url": "https://www.floyd.gr/events/month/",
+      "title": "Νύχτες Πρεμιέρας & Release Athens: Pink narcissus",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.floyd.gr/events/today/",
+      "title": "Events for October 26, 2026",
       "reason": "needs-location-or-future-dates"
     },
     {
@@ -9527,21 +9664,76 @@
       "reason": "existing-title-requires-production-match"
     },
     {
+      "url": "https://www.fuzzclub.gr/events/month/?ical=1",
+      "title": "",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.floyd.gr/event/dire-straits-legacy/",
+      "title": "DIRE STRAITS LEGACY",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
       "url": "https://www.floyd.gr/event/carpenter-brut/",
       "title": "Carpenter Brut",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.fuzzclub.gr/events/month/?outlook-ical=1",
+      "title": "",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-tunnel-2manydjs-chloe-robinson/",
+      "title": "TUNNEL 004",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-tunnel-daniel-avery-night-manoeuvres/",
+      "title": "TUNNEL 003",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-tunnel-hunee-paula-tape/",
+      "title": "TUNNEL 002",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-los-tre-mob-live-in-athens/",
+      "title": "LOS TRE & MOb",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-hvob-1/",
+      "title": "HVOB",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-apollo-brown-skyzoo-special-guest-sa-roc/",
+      "title": "APOLLO BROWN & SKYZOO",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-afieroma-ston-alki-alkaio/",
+      "title": "ΤΟ ΒΑΛΣ ΤΩΝ ΟΝΕΙΡΩΝ",
+      "reason": "needs-location-or-future-dates"
+    },
+    {
+      "url": "https://www.gazarte.gr/events/page/2/",
+      "title": "Αρχεία: Events",
       "reason": "needs-location-or-future-dates"
     }
   ],
   "discovery": [
     {
       "url": "https://www.athinorama.gr/theatre/guide/all/",
-      "checkedAt": "2026-10-26T19:37:56.337Z",
+      "checkedAt": "2026-10-26T19:56:05.171Z",
       "links": 1253,
       "status": "ok"
     },
     {
       "url": "https://www.athinorama.gr/music/guide/",
-      "checkedAt": "2026-10-26T19:37:56.337Z",
+      "checkedAt": "2026-10-26T19:56:05.171Z",
       "links": 3036,
       "status": "ok"
     },
@@ -9557,37 +9749,37 @@
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/theater/",
-      "checkedAt": "2026-10-26T19:37:56.337Z",
+      "checkedAt": "2026-10-26T19:56:05.171Z",
       "links": 584,
       "status": "ok"
     },
     {
       "url": "https://tickets.public.gr/gr-el/tickets/music/",
-      "checkedAt": "2026-10-26T19:37:56.337Z",
-      "links": 541,
+      "checkedAt": "2026-10-26T19:56:05.171Z",
+      "links": 542,
       "status": "ok"
     },
     {
       "url": "https://www.fuzzclub.gr/events/",
-      "checkedAt": "2026-10-26T19:37:56.337Z",
-      "links": 9,
+      "checkedAt": "2026-10-26T19:56:05.171Z",
+      "links": 25,
       "status": "ok"
     },
     {
       "url": "https://www.floyd.gr/events/",
-      "checkedAt": "2026-10-26T19:37:56.337Z",
-      "links": 15,
+      "checkedAt": "2026-10-26T19:56:05.171Z",
+      "links": 25,
       "status": "ok"
     },
     {
       "url": "https://www.gazarte.gr/events/",
-      "checkedAt": "2026-10-26T19:37:56.337Z",
-      "links": 0,
+      "checkedAt": "2026-10-26T19:56:05.171Z",
+      "links": 11,
       "status": "ok"
     },
     {
       "url": "https://barakididotou.gr/events/",
-      "checkedAt": "2026-10-26T19:37:56.337Z",
+      "checkedAt": "2026-10-26T19:56:05.171Z",
       "links": 0,
       "status": "ok"
     }
@@ -9595,10 +9787,10 @@
   "coverage": {
     "total": 569,
     "descriptions": 519,
-    "posters": 448,
+    "posters": 452,
     "editorial": 39,
     "audience": 208,
     "verifiedThisRun": 17
   },
-  "finishedAt": "2026-10-26T19:43:32.403Z"
+  "finishedAt": "2026-10-26T20:02:44.438Z"
 }
