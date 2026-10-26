@@ -1,5 +1,5 @@
 import { initAccount, openAccount, reserveEvent } from './account.js';
-import { normalize, athensDate, occurrences, freshness, matches, periodDates, scheduleExpired } from './core.mjs';
+import { normalize, athensDate, occurrences, freshness, matches, periodDates, scheduleExpired } from './core.mjs?v=20261026-schedule2';
 const $=selector=>document.querySelector(selector);
 const escape=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const link=(url,label,cls='source-link')=>{try{const u=new URL(url);return u.protocol==='https:'?`<a class="${cls}" href="${escape(u.href)}" target="_blank" rel="noopener noreferrer">${escape(label)} ↗</a>`:''}catch{return ''}};
