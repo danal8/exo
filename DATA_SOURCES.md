@@ -101,3 +101,8 @@ Music: full Athinorama music guide combined with public More/Public venue schedu
 Undated ends use a 14-day internal discovery horizon, marked endOpen; this is not an announced closing date. Public UI does not display it as an end date. Data is a dated snapshot, not a scheduled live feed. External promotional images retain source URLs; no image ownership or reuse license is claimed.
 
 Final reconciliation: two duplicate source records (Epta and The Painting) were consolidated without summing overlapping audience counts. Final catalogue: 373 theatre productions and 179 music listings. 418 records have source image URLs; the others retain a text fallback.
+
+
+## Συνεχής ενημέρωση (26/10/2026)
+Η παλαιότερη ενότητα «όλες οι πηγές ανενεργές» περιγράφει την αρχική έκδοση. Έχει αντικατασταθεί από το workflow refresh-catalog.yml: κύκλος ανά έξι ώρες, ανακάλυψη και εμπλουτισμός δημόσιων μεταδεδομένων με έλεγχο ταυτότητας παραγωγής. Καμία παράκαμψη ουράς/προστασίας πρόσβασης. Το refresh-report.json καταγράφει αποτυχίες και αμφίβολες παραγωγές. Η αναλυτική τρέχουσα μεθοδολογία βρίσκεται στο README.md.
+Πρόσθετη επιμέλεια στο data/details.json δίνει σύντομη παρουσίαση, διάρκεια, συντελεστές και τηλέφωνα. Ο τεκμηριωτικός σύνδεσμος διατηρείται στα δεδομένα, χωρίς τεχνικό πάνελ πηγών στον επισκέπτη. Οι ημερομηνίες λήξης της συμπληρωματικής επιμέλειας δεν αντικαθιστούν αυτόματα νεότερο πρόγραμμα προπώλησης.

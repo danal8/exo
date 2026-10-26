@@ -1,3 +1,4 @@
+import {greekWeekly} from './schedule.mjs';
 import {normalize,athensDate} from '../core.mjs';
 export const decode=s=>String(s??'').replace(/&#x([0-9a-f]+);/gi,(_,n)=>String.fromCodePoint(parseInt(n,16))).replace(/&#(\d+);/g,(_,n)=>String.fromCodePoint(+n)).replace(/&quot;/g,'"').replace(/&#39;|&apos;/g,"'").replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&nbsp;/g,' ');
 export const text=s=>decode(String(s??'').replace(/<script\b[^>]*>[\s\S]*?<\/script>/gi,'').replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi,'').replace(/<\/(?:p|div|li|h\d|section)>|<br\s*\/?>/gi,'\n').replace(/<[^>]+>/g,' ')).replace(/[ \t]+/g,' ').replace(/\n\s*\n/g,'\n').trim();
@@ -15,9 +16,11 @@ export function parsePage(html,url){
  const title=text(main?.name||heading||meta['og:title']||'').replace(/\s*[|–]\s*(More\.com|Public\.gr).*$/i,'');
  events=events.filter(n=>!n.name||normalize(n.name)===normalize(main?.name||heading));
  const body=text(html);
- const rawDescription=main?.description||meta['og:description']||meta.description||'';
+ const lead=html.split(/<h1\b[^>]*>[\s\S]*?<\/h1>/i)[1]?.split(/<h[23]\b|Πού παίζεται|Αναλυτική κριτική/)[0]||'';
+ const paragraph=[...lead.matchAll(/<p\b[^>]*>([\s\S]*?)<\/p>/gi)].map(m=>text(m[1])).find(t=>t.length>75&&!/cookies|cookie|Ερμηνεύ|Σκηνοθ|Σύνδεση/.test(t));
+ const rawDescription=main?.description||paragraph||meta['og:description']||meta.description||'';
  // Short source excerpt; full announcement stays at the original publisher.
- const description=text(rawDescription).split(/\s+/).slice(0,45).join(' ');
+ const description=text(rawDescription).split(/\s+/).slice(0,25).join(' ');
  const image=safeUrl(list(main?.image)[0]||meta['og:image'],url);
  const dates=events.map(n=>({raw:n.startDate,end:n.endDate,status:n.eventStatus,url:safeUrl(n.url,url),location:list(n.location)[0]})).filter(x=>/^\d{4}-\d{2}-\d{2}/.test(x.raw||''));
  const ticket=links(html,url).find(l=>/more\.com|tickets\.public\.gr/.test(new URL(l.url).hostname)&&/\/tickets\/|\/theater\/|\/music\//.test(new URL(l.url).pathname));
@@ -25,9 +28,16 @@ export function parsePage(html,url){
  const cast=list(main?.performer||main?.actor).map(x=>typeof x==='string'?x:x.name).filter(Boolean);
  const offers=list(main?.offers).filter(o=>o.price!=null).map(o=>String(o.price)+' '+(o.priceCurrency||'EUR'));
  const reviewLinks=links(html,url).filter(l=>/κριτικ|review/i.test(l.label+' '+l.url)&&/theatre-reviews|kritikh-theatroy|\/reviews\//i.test(l.url)&&l.label.length>8);
- const reviews=nodes.filter(n=>list(n['@type']).includes('Review')).map(n=>({author:typeof n.author==='string'?n.author:n.author?.name,url:safeUrl(n.url,url),publishedAt:n.datePublished?.slice(0,10),summary:text(n.description||n.reviewBody||'').split(/\s+/).slice(0,35).join(' '),score:Number(n.reviewRating?.ratingValue),scale:Number(n.reviewRating?.bestRating||5)})).filter(r=>r.author&&r.url&&r.summary);
+ const reviews=nodes.filter(n=>list(n['@type']).includes('Review')).map(n=>({author:typeof n.author==='string'?n.author:n.author?.name,url:safeUrl(n.url,url),publishedAt:n.datePublished?.slice(0,10),summary:text(n.description||n.reviewBody||'').split(/\s+/).slice(0,35).join(' '),score:Number(n.reviewRating?.ratingValue),scale:Number(n.reviewRating?.bestRating||5)})).filter(r=>r.author&&r.url&&r.summary&&/theatre-reviews|kritikh-theatroy|\/reviews\//i.test(r.url));
+ const scheduleText=body.match(/(?:^|\n)Παραστάσεις\s*\n([^\n]+)/i)?.[1]?.trim();
+ const weekly=greekWeekly(scheduleText);
+ const castText=body.match(/Ερμηνεύ(?:ουν|ει)\s*:\s*([^\n]+)/i)?.[1];
+ if(!cast.length&&castText)cast.push(castText.split(/Μετάφρ|Σκην\.|Μουσ\.|Φωτ\./)[0].trim());
+ const audienceBlock=body.match(/(?:Βαθμολογία κοινού|Μέση βαθμολογία θεατών)\s*[:：]?\s*([0-5](?:[.,]\d+)?)\s*\/\s*5\s*\(?\s*(\d+)\s*(?:κριτικ|αξιολογ|ψήφ)/i);
+ const audienceRating=audienceBlock?{value:Number(audienceBlock[1].replace(',','.')),scale:5,count:Number(audienceBlock[2])}:null;
+ const duration=body.match(/Διάρκεια\s*:\s*(\d+)\s*['’′]/i)?.[1];
  const endMatch=body.match(/(?:Παραστάσεις έως|Εως|Έως)\s*:?\s*(\d{2})\/(\d{2})\/(\d{4})/i);
- return {url,title,description,image,dates,cast,price:offers.join(' · '),location,reviewLinks,reviews,ticketUrl:ticket?.url,
+ return {url,title,scheduleText,weekly,audienceRating,description,image,duration:duration?duration+' λεπτά':null,dates,cast,price:offers.join(' · '),location,reviewLinks,reviews,ticketUrl:ticket?.url,
   end:endMatch?endMatch[3]+'-'+endMatch[2]+'-'+endMatch[1]:null,
   blocked:/queue-it\.net|Just a moment|Access Denied|Checking your browser/i.test(html.slice(0,12000)),
   body};
@@ -39,17 +49,22 @@ export function futureDates(page,today=athensDate()){
 export function enrich(event,page,{now=new Date().toISOString(),kind='publisher'}={}){
  if(page.blocked||!identityMatches(event,page))return {changed:false,reason:page.blocked?'blocked':'identity-mismatch'};
  const today=athensDate(new Date(now)),future=futureDates(page,today),diff=[];
+ const ranged=page.dates.find(d=>d.end?.slice(0,10)>=today&&d.raw.slice(0,10)<=d.end.slice(0,10));
  function put(key,value){if(value!=null&&value!==''&&JSON.stringify(event[key])!==JSON.stringify(value)){diff.push(key);event[key]=value}}
- if(page.description.length>=35){put('description',page.description);put('descriptionSource',{url:page.url,kind:'source-excerpt',checkedAt:now})}
- if(page.image)put('poster',{url:page.image,sourceUrl:page.url,kind:kind==='ticket'?'poster':'production-photo'});
+ if(page.duration)put('duration',page.duration);
+ if(page.weekly){put('weekly',page.weekly);put('scheduleText',page.scheduleText);put('scheduleKnown',true);if(event.dates&&kind==='publisher'&&event.verification?.kind!=='ticket')put('dates',null)}
+ const priority={ticket:3,official:2,publisher:1};
+ if(page.description.length>=35&&(!event.descriptionSource||priority[kind]>=priority[event.descriptionSource.authority||'publisher'])){put('description',page.description);put('descriptionSource',{url:page.url,kind:'source-excerpt',authority:kind,checkedAt:now})}
+ if(page.image&&(!event.poster?.authority||priority[kind]>=priority[event.poster.authority]))put('poster',{url:page.image,sourceUrl:page.url,authority:kind,kind:kind==='ticket'?'poster':'production-photo'});
  if(page.cast.length)put('cast',page.cast);
  if(page.price)put('price',page.price);
  if(page.ticketUrl&&!event.ticketUrl)put('ticketUrl',page.ticketUrl);
  if(page.end&&page.end>=event.start){put('end',page.end);put('endOpen',false)}
  const cancelled=page.dates.length&&page.dates.every(d=>/EventCancelled$/.test(d.status||''));
  if(cancelled)put('programmeStatus','cancelled');
- else if(future.length&&kind!=='publisher'){
-  put('programmeStatus',future.every(d=>d.status==='EventPostponed')?'postponed':'scheduled');
+ else if((future.length||ranged&&event.weekly)&&kind!=='publisher'){
+  if(ranged&&event.weekly){put('end',ranged.end.slice(0,10));put('endOpen',false)}
+  put('programmeStatus',future.length>0&&future.every(d=>d.status==='EventPostponed')?'postponed':'scheduled');
   // Series start/end metadata is not an occurrence list. Keep the sourced weekly timetable.
   const explicit=page.dates.filter(d=>d.raw.slice(0,10)>=today&&(!d.end||d.end.slice(0,10)===d.raw.slice(0,10)));
   if(explicit.length&&!event.weekly){
@@ -63,6 +78,11 @@ export function enrich(event,page,{now=new Date().toISOString(),kind='publisher'
  }
  const existing=event.sources.find(s=>s.url===page.url);
  if(existing)existing.lastCheckedAt=now;else event.sources.push({name:new URL(page.url).hostname,url:page.url,kind,lastCheckedAt:now});
+ if(page.audienceRating?.count>0){
+  const rating={...page.audienceRating,source:new URL(page.url).hostname,url:page.url+'#UserRreviews',checkedAt:today,scope:'Η βαθμολογία της πηγής· μπορεί να περιλαμβάνει παλιότερες σεζόν.'};
+  event.audienceRatings||=[];const i=event.audienceRatings.findIndex(r=>new URL(r.url).hostname===new URL(page.url).hostname);
+  if(i>=0)event.audienceRatings[i]=rating;else event.audienceRatings.push(rating);
+ }
  for(const r of page.reviewLinks){event.reviewLinks||=[];if(!event.reviewLinks.some(x=>x.url===r.url))event.reviewLinks.push({url:r.url,label:r.label,checkedAt:now})}
  for(const r of page.reviews){
   if(!event.reviews.some(x=>x.url===r.url))event.reviews.push({id:'source-'+event.id+'-'+event.reviews.length,type:'editorial',source:new URL(r.url).hostname,...r,score:Number.isFinite(r.score)?r.score:null,scale:Number.isFinite(r.score)?r.scale:null});
