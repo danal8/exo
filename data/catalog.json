@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T12:04:48Z",
+  "updatedAt": "2026-10-26T12:26:55.645Z",
   "method": "Χειροκίνητη επιμέλεια και διασταύρωση δημόσιων σελίδων. Χωρίς αυτόματη συλλογή.",
   "events": [
     {
@@ -72,8 +72,8 @@
           "publishedAt": "2026-10-07",
           "url": "https://www.athinorama.gr/theatre/theatre-reviews/3078827/oi-eutuxismenes-meres/",
           "summary": "Η κριτική ξεχωρίζει την ανάδειξη της επικαιρότητας του Μπέκετ και την ερμηνευτική ακρίβεια της Αγλαΐας Παππά.",
-          "score": null,
-          "scale": null
+          "score": 4,
+          "scale": 5
         },
         {
           "id": "happy-mono",
@@ -107,6 +107,16 @@
           "summary": "Εστιάζει στις μεταπτώσεις της Γουίνι και στις καθημερινές πράξεις ως αντίσταση στη φθορά.",
           "score": null,
           "scale": null
+        }
+      ],
+      "editorialRatings": [
+        {
+          "value": 4,
+          "scale": 5,
+          "source": "Αθηνόραμα",
+          "url": "https://www.athinorama.gr/theatre/performance/eutuxismenes_meres-10091272/",
+          "lastCheckedAt": "2026-10-26T12:35:02.214Z",
+          "scope": "Η βαθμολογία όπως εμφανίζεται στην τρέχουσα καταχώριση της πηγής· δεν είναι νέος μέσος όρος του exo."
         }
       ]
     },
@@ -284,7 +294,7 @@
       "dates": [
         {
           "date": "2026-11-07",
-          "time": null
+          "time": "22:00"
         }
       ],
       "price": "29€ προπώληση · 35€ ταμείο",
@@ -296,10 +306,1766 @@
           "kind": "official",
           "lastCheckedAt": "2026-10-26T12:04:48Z",
           "note": ""
+        },
+        {
+          "name": "Gazarte · ατζέντα Mercury Rev",
+          "url": "https://www.gazarte.gr/events/jamie-woon-2/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
         }
       ],
-      "notes": "Η επίσημη σελίδα επιβεβαιώνει την ημερομηνία, αλλά δεν εμφανίζει ώρα έναρξης στο διαθέσιμο κείμενο. Η αγορά εισιτηρίου γίνεται από τη σελίδα του χώρου.",
+      "notes": "Η ώρα 22:00 εμφανίζεται στην επίσημη ατζέντα του Gazarte (σελίδα Mercury Rev). Ελέγξτε την ώρα προσέλευσης στην προπώληση.",
       "reviews": []
+    },
+    {
+      "genre": "Τζον Λόγκαν · Δράμα",
+      "address": "Πλατεία Καρύτση 7",
+      "director": "Γιώργος Κιμούλης",
+      "cast": [
+        "Γιώργος Κιμούλης",
+        "Δημήτρης Γκοτσόπουλος"
+      ],
+      "season": "2026–2027",
+      "description": "Ο Μαρκ Ρόθκο και ο νεαρός βοηθός του σε μια σύγκρουση για τη δημιουργία, τη διαδοχή και την καλλιτεχνική ακεραιότητα.",
+      "price": "13–25€ ανά ζώνη και κατηγορία",
+      "ticketUrl": "https://www.ticketmaster.gr/red_sen_2008001.html",
+      "reviews": [
+        {
+          "id": "red-bookpress",
+          "type": "editorial",
+          "source": "Book Press",
+          "author": "Νίκος Ξένιος",
+          "publishedAt": "2026-10-10",
+          "url": "https://bookpress.gr/politismos/theatro-xoros/27052-kokkino-tou-tzon-logkan-se-skinothesia-giorgou-kimoyli-kritiki-sygkrousi-sto-ergastiri-tou-rothko",
+          "summary": "Εξετάζει τη σύγκρουση δασκάλου και μαθητή μέσα από την καλλιτεχνική ταυτότητα του Ρόθκο και τη σκηνική συνάντηση των δύο ηθοποιών.",
+          "score": null,
+          "scale": null
+        },
+        {
+          "id": "red-theatromania",
+          "type": "editorial",
+          "source": "Θεατρομανία",
+          "author": "Ναντίν Αθανασίου",
+          "publishedAt": "2026-10-21",
+          "url": "https://www.theatromania.gr/kritiki-gia-tin-parastasi-kokkino/",
+          "summary": "Θετική κριτική για τη σκηνοθετική ένταση, τη χημεία των πρωταγωνιστών και το σκηνικό περιβάλλον του ατελιέ.",
+          "score": null,
+          "scale": null
+        }
+      ],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "red-kimoulis-mousouri-2026",
+      "title": "Κόκκινο",
+      "category": "theatre",
+      "venue": "Θέατρο Μουσούρη",
+      "area": "Κέντρο",
+      "start": "2026-10-07",
+      "end": "2027-05-09",
+      "weekly": {
+        "0": [
+          "19:00"
+        ],
+        "3": [
+          "19:00"
+        ],
+        "4": [
+          "20:00"
+        ],
+        "5": [
+          "21:00"
+        ],
+        "6": [
+          "18:00",
+          "21:00"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli · πρόγραμμα",
+          "url": "https://www.monopoli.gr/diagonismos/diagonismos-kokkino-tou-tzon-logkan-sto-theatro-mousouri/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Monopoli · διάστημα παρουσίασης",
+          "url": "https://www.monopoli.gr/places/theatre-5507/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Ρέτζιναλντ Ρόουζ · Δικαστικό δράμα",
+      "address": "Αλκμήνης 8–12",
+      "director": "Κωνσταντίνα Νικολαΐδη",
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Δώδεκα ένορκοι καλούνται να αποφασίσουν ομόφωνα για τη ζωή ενός νεαρού κατηγορούμενου.",
+      "price": "15–28€",
+      "ticketUrl": "https://www.theatro.gr/12-enorkoi",
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "12-enorkoi-alkmini-2026",
+      "title": "Οι 12 Ένορκοι",
+      "category": "theatre",
+      "venue": "Θέατρο Αλκμήνη",
+      "area": "Κάτω Πετράλωνα",
+      "start": "2026-10-03",
+      "end": "2027-01-03",
+      "weekly": {
+        "0": [
+          "18:00"
+        ],
+        "4": [
+          "21:30"
+        ],
+        "5": [
+          "21:30"
+        ],
+        "6": [
+          "21:30"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Θέατρο Αλκμήνη",
+          "url": "https://www.theatro.gr/12-enorkoi",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Monopoli · διάστημα παρουσίασης",
+          "url": "https://www.monopoli.gr/places/theatre-5507/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Χέρμαν Μέλβιλ · GAFF",
+      "address": "Ιπποκράτους 17 & Ακαδημίας",
+      "director": "Σοφία Καραγιάννη",
+      "cast": [
+        "Ιωσήφ Ιωσηφίδης",
+        "Διονύσης Λάνης",
+        "Δημήτρης Μαμιός",
+        "Γιάννης Μάνθος",
+        "Χρήστος Παπαδόπουλος",
+        "Κωνσταντίνος Πασσάς"
+      ],
+      "season": "2026–2027",
+      "description": "Ο Αχαάβ και το πλήρωμά του στο κυνήγι της λευκής φάλαινας. Η Ομάδα GAFF μεταφέρει στη σκηνή το μυθιστόρημα του Μέλβιλ.",
+      "price": "18–20€",
+      "ticketUrl": "https://www.more.com/gr-el/theater/mompintik/",
+      "reviews": [],
+      "notes": "Σύμφωνα με τον επίσημο χώρο: έως 17/11 Δευτέρα–Τρίτη 21:15. Από 23/11 Δευτέρα 21:15, Τρίτη 20:00. Προτεραιότητα στο επίσημο πρόγραμμα έναντι της παλιότερης καταχώρισης.",
+      "id": "moby-gaff-neosakadimos-2026",
+      "title": "Μόμπι Ντικ",
+      "category": "theatre",
+      "venue": "Θέατρο Νέος Ακάδημος",
+      "area": "Κέντρο",
+      "start": "2026-10-26",
+      "end": "2026-12-22",
+      "dates": [
+        {
+          "date": "2026-10-26",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-12-21",
+          "time": "21:15"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "20:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Νέος Ακάδημος",
+          "url": "https://neosakadimos.gr/mompi_ntik/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Monopoli",
+          "url": "https://www.monopoli.gr/2026/08/12/showtimes/theatre/981937/mompi-ntik-i-nea-parastasi-tis-polyvraveymenis-omadas-gaff-sto-theatro-neos-akadimos/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Sophie Swithinbank · Δράμα",
+      "address": "Λεωφόρος Κηφισίας 14",
+      "director": "Έμιλυ Λουίζου",
+      "cast": [
+        "Γιώργος Μπένος",
+        "Αλέξανδρος Πιεχόβιακ"
+      ],
+      "season": "2026–2027",
+      "description": "Μια σχέση δύο εφήβων, η επιθυμία και η βία στο έργο της Sophie Swithinbank.",
+      "price": "18–22€",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/bacon/",
+      "reviews": [],
+      "notes": "Για θεατές άνω των 15 ετών. Οι δύο τελευταίες απογευματινές ημερομηνίες προέρχονται από την ανακοίνωση και χρειάζονται επιβεβαίωση προπώλησης.",
+      "id": "bacon-louizou-anesis-2026",
+      "title": "Bacon",
+      "category": "theatre",
+      "venue": "Θέατρο Άνεσις · Κάτω Σκηνή",
+      "area": "Αμπελόκηποι",
+      "start": "2026-09-28",
+      "end": "2027-01-05",
+      "dates": [
+        {
+          "date": "2026-10-26",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "18:30"
+        },
+        {
+          "date": "2026-10-27",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-11-02",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-11-03",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-11-09",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-11-10",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-11-16",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-11-17",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-11-23",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-11-24",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-11-30",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-12-01",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-12-07",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-12-08",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-12-14",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-12-15",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-12-22",
+          "time": "18:30"
+        },
+        {
+          "date": "2026-12-29",
+          "time": "18:30"
+        },
+        {
+          "date": "2027-01-05",
+          "time": "18:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Athens24 · αναλυτικές ημερομηνίες",
+          "url": "https://www.athens24.gr/agenda/bacon-2os-chronos-theatro-anesis.html",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ],
+      "editorialRatings": [
+        {
+          "value": 4,
+          "scale": 5,
+          "source": "Αθηνόραμα",
+          "url": "https://www.athinorama.gr/theatre/performance/bacon-10089815/",
+          "lastCheckedAt": "2026-10-26T12:35:02.214Z",
+          "scope": "Η βαθμολογία όπως εμφανίζεται στην τρέχουσα καταχώριση της πηγής· δεν είναι νέος μέσος όρος του exo."
+        }
+      ]
+    },
+    {
+      "genre": "Νίνα Ρέιν · Κοινωνικό",
+      "address": "Ευμολπιδών 45",
+      "director": "Τάκης Τζαμαργιάς",
+      "cast": [
+        "Αλέξανδρος Μαυρόπουλος",
+        "Κίττυ Παϊταζόγλου",
+        "Βαλέρια Δημητριάδου",
+        "Παναγιώτης Γαβρέλας",
+        "Βαγγέλης Αμπατζής",
+        "Καλλιόπη Παναγιωτίδου",
+        "Μανταλένα Καραβάτου"
+      ],
+      "season": "2026–2027",
+      "description": "Δικαιοσύνη, προσωπικές σχέσεις και οι διαφορετικές αναγνώσεις της συναίνεσης στο έργο της Νίνα Ρέιν.",
+      "price": "Από 15€",
+      "ticketUrl": "https://www.ticketservices.gr/event/synainesi-sychrono-theatro/?lang=en",
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "consent-tzamargias-sychrono-2026",
+      "title": "Συναίνεση",
+      "category": "theatre",
+      "venue": "Σύγχρονο Θέατρο",
+      "area": "Γκάζι",
+      "start": "2026-10-16",
+      "end": "2026-11-29",
+      "weekly": {
+        "0": [
+          "18:00"
+        ],
+        "3": [
+          "18:15"
+        ],
+        "5": [
+          "21:00"
+        ]
+      },
+      "sources": [
+        {
+          "name": "TicketServices",
+          "url": "https://www.ticketservices.gr/event/synainesi-sychrono-theatro/?lang=en",
+          "kind": "ticket",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Branden Jacobs-Jenkins · Σάτιρα",
+      "address": "Αμερικής 10",
+      "director": "Έμιλυ Λουίζου",
+      "cast": [
+        "Μάξιμος Μουμούρης",
+        "Βασιλική Τρουφάκου"
+      ],
+      "season": "2026–2027",
+      "description": "Η καθημερινότητα ενός περιοδικού μετατρέπεται σε πεδίο ανταγωνισμού, φιλοδοξίας και κρίσης.",
+      "price": "Από 16€",
+      "ticketUrl": "https://www.more.com/gr-el/theater/gloria/",
+      "reviews": [],
+      "notes": "Η More εμφανίζει ημερομηνίες έως 08/12, αργότερα από την παλιότερη καταχώριση. Ο χώρος αναφέρει περιορισμούς πρόσβασης για αμαξίδια.",
+      "id": "gloria-louizou-horn-2026",
+      "title": "Γκλόρια",
+      "category": "theatre",
+      "venue": "Θέατρο Χορν",
+      "area": "Κολωνάκι",
+      "start": "2026-10-19",
+      "end": "2026-12-08",
+      "weekly": {
+        "1": [
+          "20:00"
+        ],
+        "2": [
+          "20:00"
+        ]
+      },
+      "sources": [
+        {
+          "name": "More",
+          "url": "https://www.more.com/gr-el/theater/gloria/",
+          "kind": "ticket",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Γιάννης Τσίρος · Κοινωνικό",
+      "address": "Αμερικής 10",
+      "director": "Σοφία Καραγιάννη",
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Το κοινωνικό έργο του Γιάννη Τσίρου επιστρέφει στο Μικρό Χορν.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "agrios-sporos-karagianni-mikrohorn-2026",
+      "title": "Άγριος σπόρος",
+      "category": "theatre",
+      "venue": "Μικρό Χορν",
+      "area": "Κέντρο",
+      "start": "2026-10-01",
+      "end": "2026-12-13",
+      "weekly": {
+        "0": [
+          "17:00"
+        ],
+        "4": [
+          "20:00"
+        ],
+        "5": [
+          "21:00"
+        ],
+        "6": [
+          "21:00"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli · Μικρό Χορν",
+          "url": "https://www.monopoli.gr/places/mikro-xorn/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ],
+      "editorialRatings": [
+        {
+          "value": 3.5,
+          "scale": 5,
+          "source": "Αθηνόραμα",
+          "url": "https://www.athinorama.gr/theatre/performance/agrios_sporos-10087385/",
+          "lastCheckedAt": "2026-10-26T12:35:02.214Z",
+          "scope": "Η βαθμολογία όπως εμφανίζεται στην τρέχουσα καταχώριση της πηγής· δεν είναι νέος μέσος όρος του exo."
+        }
+      ]
+    },
+    {
+      "genre": "Νεφέλη Μαϊστράλη · Ρομαντική κωμωδία",
+      "address": "Αμερικής 10",
+      "director": "Θανάσης Ζερίτης",
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Οι ανθρώπινες σχέσεις συναντούν τη στεγαστική κρίση στο έργο της Νεφέλης Μαϊστράλη.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "enoikiazetai-zeritis-mikrohorn-2026",
+      "title": "Ενοικιάζεται",
+      "category": "theatre",
+      "venue": "Μικρό Χορν",
+      "area": "Κέντρο",
+      "start": "2026-10-10",
+      "end": "2026-10-31",
+      "weekly": {
+        "0": [
+          "20:00"
+        ],
+        "1": [
+          "20:00"
+        ],
+        "2": [
+          "20:00"
+        ],
+        "6": [
+          "18:00"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli · Μικρό Χορν",
+          "url": "https://www.monopoli.gr/places/mikro-xorn/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Bernard-Marie Koltès · Δράμα",
+      "address": "Καπνοκοπτηρίου 8",
+      "director": "Δημήτρης Καραντζάς",
+      "cast": [
+        "Δημήτρης Καπουράνης",
+        "Μανώλης Μαυροματάκης",
+        "Άννα Καλαϊτζίδου"
+      ],
+      "season": "2026–2027",
+      "description": "Μια σκοτεινή διαδρομή μέσα στην πόλη και στους μηχανισμούς της βίας, στο έργο του Κολτές.",
+      "price": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/romperto-tsoukko/",
+      "reviews": [],
+      "notes": "Η καταχώριση αναφέρει 16/10–01/11. Άλλες ανακοινώσεις δίνουν νεότερα όρια· απαιτείται έλεγχος της επιλεγμένης ημερομηνίας στην προπώληση.",
+      "id": "tsoukko-karantzas-proskinio-2026",
+      "title": "Ρομπέρτο Τσούκκο",
+      "category": "theatre",
+      "venue": "Θέατρο Προσκήνιο",
+      "area": "Κέντρο",
+      "start": "2026-10-16",
+      "end": "2026-11-01",
+      "weekly": {
+        "0": [
+          "19:00"
+        ],
+        "3": [
+          "19:00"
+        ],
+        "4": [
+          "20:00"
+        ],
+        "5": [
+          "21:00"
+        ],
+        "6": [
+          "18:00",
+          "21:15"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli",
+          "url": "https://www.monopoli.gr/2026/03/18/showtimes/theatre/948388/romperto-tsoukko-se-skinothesia-dimitri-karantza-sto-theatro-proskinio/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Άρνολντ Γουέσκερ · 2η σεζόν",
+      "address": "Πειραιώς 115",
+      "director": "Γιώργος Κουτλής",
+      "cast": [
+        "Μιχάλης Σαράντης",
+        "Σαμουήλ Ακινόλα",
+        "Δανάη Καλούτσα",
+        "Ιλιάννα Καραπασιά"
+      ],
+      "season": "2026–2027",
+      "description": "Μια επαγγελματική κουζίνα γίνεται μικρογραφία του κόσμου της εργασίας στην επιστροφή της παράστασης του Γιώργου Κουτλή.",
+      "price": "20–25€",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/i-kouzina-se-skinothesia-g-koutli-2os-xronos/",
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "kitchen-koutlis-kivotos-2026",
+      "title": "Η Κουζίνα",
+      "category": "theatre",
+      "venue": "Θέατρο Κιβωτός",
+      "area": "Γκάζι",
+      "start": "2026-10-14",
+      "end": "2026-12-20",
+      "weekly": {
+        "0": [
+          "20:00"
+        ],
+        "3": [
+          "20:00"
+        ],
+        "4": [
+          "21:00"
+        ],
+        "5": [
+          "21:00"
+        ],
+        "6": [
+          "18:00",
+          "21:00"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Simple Radio · ανακοίνωση",
+          "url": "https://www.simpleradio.gr/politismos/kouzina-i-parastasi-tou-giorgou-kou/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Monopoli · διάστημα παρουσίασης",
+          "url": "https://www.monopoli.gr/places/theatre-5507/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ],
+      "editorialRatings": [
+        {
+          "value": 3.5,
+          "scale": 5,
+          "source": "Αθηνόραμα",
+          "url": "https://www.athinorama.gr/theatre/performance/i_kouzina-10087865/",
+          "lastCheckedAt": "2026-10-26T12:35:02.214Z",
+          "scope": "Η βαθμολογία όπως εμφανίζεται στην τρέχουσα καταχώριση της πηγής· δεν είναι νέος μέσος όρος του exo."
+        }
+      ]
+    },
+    {
+      "genre": "Θέατρο",
+      "address": null,
+      "director": "Θανάσης Ζερίτης",
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Το έργο της Νεφέλης Μαϊστράλη επιστρέφει με την Έλλη Τρίγγου.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "athanasia-sychrono-2026",
+      "title": "αθανασία",
+      "category": "theatre",
+      "venue": "Σύγχρονο Θέατρο",
+      "area": "Γκάζι",
+      "start": "2026-10-13",
+      "end": "2026-11-30",
+      "weekly": {
+        "1": [
+          "21:00"
+        ],
+        "2": [
+          "21:00"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli · Σύγχρονο Θέατρο",
+          "url": "https://www.monopoli.gr/places/theatre-5430/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Θέατρο",
+      "address": null,
+      "director": "Κωνσταντίνος Ρήγος",
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Σκηνική εκδοχή του έργου του Tom Kinninmont, βασισμένου στο μυθιστόρημα του Gilbert Adair.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "dreamers-sychrono-2026",
+      "title": "The Dreamers",
+      "category": "theatre",
+      "venue": "Σύγχρονο Θέατρο",
+      "area": "Γκάζι",
+      "start": "2026-10-03",
+      "end": "2026-11-29",
+      "weekly": {
+        "0": [
+          "21:00"
+        ],
+        "3": [
+          "21:15"
+        ],
+        "4": [
+          "21:00"
+        ],
+        "6": [
+          "21:15"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli · Σύγχρονο Θέατρο",
+          "url": "https://www.monopoli.gr/places/theatre-5430/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Θέατρο",
+      "address": null,
+      "director": "Σοφία Καραγιάννη",
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Το κείμενο του Χρόνη Μίσσιου από την Ομάδα GAFF για πέμπτη χρονιά.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "kala-sychrono-2026",
+      "title": "… καλά, εσύ σκοτώθηκες νωρίς",
+      "category": "theatre",
+      "venue": "Σύγχρονο Θέατρο",
+      "area": "Γκάζι",
+      "start": "2026-10-03",
+      "end": "2026-11-28",
+      "weekly": {
+        "6": [
+          "17:15"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli · Σύγχρονο Θέατρο",
+          "url": "https://www.monopoli.gr/places/theatre-5430/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Σαίξπηρ",
+      "address": "Μεσογείων 59",
+      "director": "Θωμάς Μοσχόπουλος",
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Ο Θωμάς Μοσχόπουλος προσεγγίζει το σαιξπηρικό όνειρο στο Θέατρο Πόρτα.",
+      "price": "Από 15€",
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/oneiro-kalokairinis-nyxtas-1/",
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "oneiro-moschopoulos-porta-2026",
+      "title": "(Για ένα) όνειρο (καλοκαιρινής νύχτας)",
+      "category": "theatre",
+      "venue": "Θέατρο Πόρτα",
+      "area": "Αμπελόκηποι",
+      "start": "2026-11-20",
+      "end": "2026-12-13",
+      "weekly": {
+        "0": [
+          "20:00"
+        ],
+        "4": [
+          "20:00"
+        ],
+        "5": [
+          "20:00"
+        ],
+        "6": [
+          "21:15"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli",
+          "url": "https://www.monopoli.gr/2026/09/29/showtimes/theatre/989127/gia-ena-oneiro-kalokairinis-nyxtas-enas-sygxronos-saikspir-apo-ton-thoma-mosxopoulo-sto-theatro-porta/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Αλέξανδρος Ρήγας · Κωμωδία",
+      "address": "Ιπποκράτους 7",
+      "director": null,
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Μια νέα κωμωδία μυστηρίου του Αλέξανδρου Ρήγα.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "voukephalas-rigas-gloria-2026",
+      "title": "Βουκεφάλας",
+      "category": "theatre",
+      "venue": "Θέατρο Γκλόρια",
+      "area": "Κέντρο",
+      "start": "2026-11-02",
+      "end": "2026-12-29",
+      "weekly": {
+        "1": [
+          "21:00"
+        ],
+        "2": [
+          "21:00"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli · Γκλόρια",
+          "url": "https://www.monopoli.gr/places/theatro-gkloria/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Αστυνομική κωμωδία",
+      "address": "Ιπποκράτους 7",
+      "director": "Νικορέστης Χανιωτάκης & Δημήτρης Μακαλιάς",
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Το κομμωτήριο της γνωστής διαδραστικής κωμωδίας ανοίγει ξανά στο Θέατρο Γκλόρια.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Ανακοινωμένο πρόγραμμα· επιβεβαιώστε την ημερομηνία στην πηγή πριν αγοράσετε.",
+      "id": "sesouar-gloria-2026",
+      "title": "Σεσουάρ για δολοφόνους",
+      "category": "theatre",
+      "venue": "Θέατρο Γκλόρια",
+      "area": "Κέντρο",
+      "start": "2026-10-16",
+      "end": "2026-12-20",
+      "weekly": {
+        "0": [
+          "20:00"
+        ],
+        "3": [
+          "20:00"
+        ],
+        "5": [
+          "21:00"
+        ],
+        "6": [
+          "18:00",
+          "21:00"
+        ]
+      },
+      "sources": [
+        {
+          "name": "Monopoli · Γκλόρια",
+          "url": "https://www.monopoli.gr/places/theatro-gkloria/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Έντουαρντ Μποντ · Δράμα",
+      "address": "Λεωφόρος Κηφισού 41",
+      "director": "Βασίλης Μπισμπίκης",
+      "cast": [
+        "Βασίλης Μπισμπίκης",
+        "Λένα Κιτσοπούλου"
+      ],
+      "season": "2026–2027",
+      "description": "Ο κόσμος του Έντουαρντ Μποντ μέσα από τη σκηνοθετική προσέγγιση του Βασίλη Μπισμπίκη.",
+      "price": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/sosmenos-1/",
+      "reviews": [],
+      "notes": "Ανακοινωμένες ώρες στην καταχώριση της 13/10· επιβεβαιώστε την προπώληση.",
+      "id": "sosmenos-bismpikis-cartel-2026",
+      "title": "Σωσμένος",
+      "category": "theatre",
+      "venue": "Cartel Τεχνοχώρος",
+      "area": "Αιγάλεω",
+      "start": "2026-10-15",
+      "end": "2026-11-08",
+      "scheduleKnown": true,
+      "sources": [
+        {
+          "name": "Monopoli",
+          "url": "https://www.monopoli.gr/2026/10/13/showtimes/theatre/992717/vasilis-mpismpikis-lena-kitsopoulou-ksana-mazi-o-sosmenos-epistrefei-gia-2i-sezon-sto-cartel/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:35:02.214Z"
+        },
+        {
+          "name": "Αθηνόραμα",
+          "url": "https://www.athinorama.gr/theatre/3077529/pote-kanoun-premiera-oi-parastaseis-tou-basili-mpismpiki/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ],
+      "editorialRatings": [
+        {
+          "value": 3,
+          "scale": 5,
+          "source": "Αθηνόραμα",
+          "url": "https://www.athinorama.gr/theatre/performance/sosmenos-10089326/",
+          "lastCheckedAt": "2026-10-26T12:35:02.214Z",
+          "scope": "Η βαθμολογία όπως εμφανίζεται στην τρέχουσα καταχώριση της πηγής· δεν είναι νέος μέσος όρος του exo."
+        }
+      ],
+      "weekly": {
+        "0": [
+          "21:00"
+        ],
+        "4": [
+          "21:00"
+        ],
+        "5": [
+          "21:00"
+        ],
+        "6": [
+          "21:00"
+        ]
+      }
+    },
+    {
+      "genre": "Αγκάθα Κρίστι · 4η σεζόν",
+      "address": "Αμερικής 10",
+      "director": "Νικορέστης Χανιωτάκης",
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Το δικαστικό μυστήριο της Αγκάθα Κρίστι επιστρέφει στο Θέατρο Χορν.",
+      "price": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/theater/martyras-katigorias/",
+      "reviews": [],
+      "notes": "Ανακοινωμένο εβδομαδιαίο πρόγραμμα· ελέγξτε τυχόν αλλαγές στην προπώληση.",
+      "id": "martyras-horn-2026",
+      "title": "Μάρτυρας κατηγορίας",
+      "category": "theatre",
+      "venue": "Θέατρο Χορν",
+      "area": "Κολωνάκι",
+      "start": "2026-09-30",
+      "end": "2026-12-20",
+      "scheduleKnown": true,
+      "sources": [
+        {
+          "name": "Monopoli",
+          "url": "https://www.monopoli.gr/2026/08/10/showtimes/theatre/981580/martyras-katigorias-tis-agkatha-kristi-gia-4i-sezon-sto-theatro-xorn/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:35:02.214Z"
+        },
+        {
+          "name": "Monopoli · οδηγός",
+          "url": "https://www.monopoli.gr/places/theatre-5507/",
+          "kind": "publisher",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ],
+      "weekly": {
+        "0": [
+          "18:00"
+        ],
+        "3": [
+          "19:00"
+        ],
+        "4": [
+          "20:00"
+        ],
+        "5": [
+          "21:00"
+        ],
+        "6": [
+          "18:00",
+          "21:00"
+        ]
+      }
+    },
+    {
+      "genre": "Άντον Τσέχωφ",
+      "address": null,
+      "director": null,
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Ο Τσέχωφ στο χειμερινό ρεπερτόριο του Θεάτρου Πορεία.",
+      "price": "Από 16€",
+      "ticketUrl": "https://www.more.com/gr-da/venues/theatro-poreia/",
+      "reviews": [],
+      "notes": "Εμφανίζεται το επιβεβαιωμένο τμήμα του αναλυτικού προγράμματος. Για ολόκληρη τη διάρκεια έως 24/01 δείτε την προπώληση.",
+      "id": "cherry-poreia-2026",
+      "title": "Ο Βυσσινόκηπος",
+      "category": "theatre",
+      "venue": "Πορεία at Victoria",
+      "area": "Πλατεία Βικτωρίας",
+      "start": "2026-11-20",
+      "end": "2027-01-24",
+      "dates": [
+        {
+          "date": "2026-11-20",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-11-21",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-11-22",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-11-25",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-11-26",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-11-27",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-11-28",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-11-29",
+          "time": "17:00"
+        },
+        {
+          "date": "2026-12-02",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-12-03",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-12-04",
+          "time": "20:00"
+        },
+        {
+          "date": "2026-12-05",
+          "time": "21:00"
+        },
+        {
+          "date": "2026-12-06",
+          "time": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "More · πρόγραμμα Πορεία",
+          "url": "https://www.more.com/gr-da/venues/theatro-poreia/",
+          "kind": "ticket",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Σεσκ Γκάι · Κωμωδία",
+      "address": null,
+      "director": null,
+      "cast": [],
+      "season": "2026–2027",
+      "description": "Η κωμωδία του Σεσκ Γκάι στο ρεπερτόριο του Θεάτρου Πορεία.",
+      "price": "Από 15€",
+      "ticketUrl": "https://www.more.com/gr-da/venues/theatro-poreia/",
+      "reviews": [],
+      "notes": "Καταχωρίστηκε η ορατή ημερομηνία 09/12. Το πλήρες πρόγραμμα έως 24/01 είναι διαθέσιμο στην προπώληση.",
+      "id": "neighbors-poreia-2026",
+      "title": "Οι γείτονες από πάνω",
+      "category": "theatre",
+      "venue": "Πορεία at Victoria",
+      "area": "Πλατεία Βικτωρίας",
+      "start": "2026-12-09",
+      "end": "2027-01-24",
+      "dates": [
+        {
+          "date": "2026-12-09",
+          "time": "17:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "More · πρόγραμμα Πορεία",
+          "url": "https://www.more.com/gr-da/venues/theatro-poreia/",
+          "kind": "ticket",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Ψυχεδελικό rock",
+      "address": null,
+      "director": "Mercury Rev",
+      "cast": [
+        "Mercury Rev"
+      ],
+      "season": "2026–2027",
+      "description": "Mercury Rev στο Ground Stage του Gazarte.",
+      "price": "35€ προπώληση · 40€ ταμείο",
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "mercury-rev-gazarte-2026",
+      "title": "Mercury Rev",
+      "category": "concert",
+      "venue": "Gazarte · Ground Stage",
+      "area": "Γκάζι",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "dates": [
+        {
+          "date": "2026-10-29",
+          "time": "21:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/jamie-woon-2/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Jazz · Miles and Coltrane at 100",
+      "address": null,
+      "director": "Emmet Cohen",
+      "cast": [
+        "Emmet Cohen"
+      ],
+      "season": "2026–2027",
+      "description": "Emmet Cohen στο Main Stage του Gazarte.",
+      "price": "35–70€",
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "emmet-cohen-gazarte-2026",
+      "title": "Emmet Cohen",
+      "category": "concert",
+      "venue": "Gazarte · Main Stage",
+      "area": "Γκάζι",
+      "start": "2026-10-29",
+      "end": "2026-10-29",
+      "dates": [
+        {
+          "date": "2026-10-29",
+          "time": "21:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-emmet-cohen-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Ψυχεδέλεια",
+      "address": null,
+      "director": "GOAT",
+      "cast": [
+        "GOAT"
+      ],
+      "season": "2026–2027",
+      "description": "GOAT στο Ground Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "goat-gazarte-2026",
+      "title": "GOAT",
+      "category": "concert",
+      "venue": "Gazarte · Ground Stage",
+      "area": "Γκάζι",
+      "start": "2026-10-30",
+      "end": "2026-10-31",
+      "dates": [
+        {
+          "date": "2026-10-30",
+          "time": "20:30"
+        },
+        {
+          "date": "2026-10-31",
+          "time": "20:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/goat/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Heavy metal",
+      "address": null,
+      "director": "Fifth Angel",
+      "cast": [
+        "Fifth Angel"
+      ],
+      "season": "2026–2027",
+      "description": "Fifth Angel στο Ground Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "fifth-angel-gazarte-2026",
+      "title": "Fifth Angel",
+      "category": "concert",
+      "venue": "Gazarte · Ground Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-01",
+      "end": "2026-11-01",
+      "dates": [
+        {
+          "date": "2026-11-01",
+          "time": "20:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-fifth-angel-us-40y-anniversary-tour/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Electronic · Psychedelic",
+      "address": null,
+      "director": "HENGE",
+      "cast": [
+        "HENGE"
+      ],
+      "season": "2026–2027",
+      "description": "HENGE στο Ground Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "henge-gazarte-2026",
+      "title": "HENGE",
+      "category": "concert",
+      "venue": "Gazarte · Ground Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "dates": [
+        {
+          "date": "2026-11-06",
+          "time": "21:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-henge-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Ελληνικό τραγούδι",
+      "address": null,
+      "director": "Σοφία Μανουσάκη",
+      "cast": [
+        "Σοφία Μανουσάκη"
+      ],
+      "season": "2026–2027",
+      "description": "Σοφία Μανουσάκη στο Roof Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "sofia-manousaki-gazarte-2026",
+      "title": "Σοφία Μανουσάκη",
+      "category": "concert",
+      "venue": "Gazarte · Roof Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-06",
+      "end": "2026-11-06",
+      "dates": [
+        {
+          "date": "2026-11-06",
+          "time": "21:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-sofia-manousaki-gazarte/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Live",
+      "address": null,
+      "director": "ΣΕΡΓΙΑΝ",
+      "cast": [
+        "ΣΕΡΓΙΑΝ"
+      ],
+      "season": "2026–2027",
+      "description": "ΣΕΡΓΙΑΝ στο Ground Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "sergian-gazarte-2026",
+      "title": "ΣΕΡΓΙΑΝ",
+      "category": "concert",
+      "venue": "Gazarte · Ground Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-07",
+      "end": "2026-11-07",
+      "dates": [
+        {
+          "date": "2026-11-07",
+          "time": "21:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Alternative rock",
+      "address": null,
+      "director": "Vapors of Morphine",
+      "cast": [
+        "Vapors of Morphine"
+      ],
+      "season": "2026–2027",
+      "description": "Vapors of Morphine στο Ground Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "vapors-morphine-gazarte-2026",
+      "title": "Vapors of Morphine",
+      "category": "concert",
+      "venue": "Gazarte · Ground Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-11",
+      "end": "2026-11-11",
+      "dates": [
+        {
+          "date": "2026-11-11",
+          "time": "20:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/vapors-of-morphine/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Αφιέρωμα",
+      "address": null,
+      "director": "Jeff Buckley’s Grace · Slow Pilot",
+      "cast": [
+        "Jeff Buckley’s Grace · Slow Pilot"
+      ],
+      "season": "2026–2027",
+      "description": "Jeff Buckley’s Grace · Slow Pilot στο Main Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "slow-pilot-gazarte-2026",
+      "title": "Jeff Buckley’s Grace · Slow Pilot",
+      "category": "concert",
+      "venue": "Gazarte · Main Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "dates": [
+        {
+          "date": "2026-11-14",
+          "time": "21:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/jeff-buckleys-grace-performed-by-slow-pilot/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Live",
+      "address": null,
+      "director": "Ελεονόρα Μανόνα",
+      "cast": [
+        "Ελεονόρα Μανόνα"
+      ],
+      "season": "2026–2027",
+      "description": "Ελεονόρα Μανόνα στο Roof Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "eleonora-manona-gazarte-2026",
+      "title": "Ελεονόρα Μανόνα",
+      "category": "concert",
+      "venue": "Gazarte · Roof Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-14",
+      "end": "2026-11-14",
+      "dates": [
+        {
+          "date": "2026-11-14",
+          "time": "21:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-eleonora-manona-live/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Σύγχρονη μουσική",
+      "address": null,
+      "director": "Kronos Quartet",
+      "cast": [
+        "Kronos Quartet"
+      ],
+      "season": "2026–2027",
+      "description": "Kronos Quartet στο Main Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "kronos-gazarte-2026",
+      "title": "Kronos Quartet",
+      "category": "concert",
+      "venue": "Gazarte · Main Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-16",
+      "end": "2026-11-16",
+      "dates": [
+        {
+          "date": "2026-11-16",
+          "time": "21:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-kronos-quartet/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Post-punk · Shoegaze",
+      "address": null,
+      "director": "The KVB",
+      "cast": [
+        "The KVB"
+      ],
+      "season": "2026–2027",
+      "description": "The KVB στο Ground Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "the-kvb-gazarte-2026",
+      "title": "The KVB",
+      "category": "concert",
+      "venue": "Gazarte · Ground Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "dates": [
+        {
+          "date": "2026-11-21",
+          "time": "20:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-the-kvb-live-stin-ellada/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        },
+        {
+          "name": "Gazarte · αναλυτική ατζέντα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Groove metal",
+      "address": null,
+      "director": "Prong",
+      "cast": [
+        "Prong"
+      ],
+      "season": "2026–2027",
+      "description": "Prong στο Ground Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "prong-gazarte-2026",
+      "title": "Prong",
+      "category": "concert",
+      "venue": "Gazarte · Ground Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-22",
+      "end": "2026-11-22",
+      "dates": [
+        {
+          "date": "2026-11-22",
+          "time": "20:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Alternative",
+      "address": null,
+      "director": "Arab Strap",
+      "cast": [
+        "Arab Strap"
+      ],
+      "season": "2026–2027",
+      "description": "Arab Strap στο Ground Stage του Gazarte.",
+      "price": null,
+      "ticketUrl": null,
+      "reviews": [],
+      "notes": "Η ώρα προέρχεται από την επίσημη ατζέντα του Gazarte. Ελέγξτε την τρέχουσα τιμή και την ώρα προσέλευσης στη σελίδα του χώρου.",
+      "id": "arab-strap-gazarte-2026",
+      "title": "Arab Strap",
+      "category": "concert",
+      "venue": "Gazarte · Ground Stage",
+      "area": "Γκάζι",
+      "start": "2026-11-29",
+      "end": "2026-11-29",
+      "dates": [
+        {
+          "date": "2026-11-29",
+          "time": "20:30"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Gazarte · επίσημο πρόγραμμα",
+          "url": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-skinshape-live-in-athens/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "genre": "Hard rock · The Magician’s Farewell",
+      "address": "Πειραιώς 117",
+      "director": "Uriah Heep",
+      "cast": [
+        "Uriah Heep"
+      ],
+      "season": "2026–2027",
+      "description": "Οι Uriah Heep στην Αθήνα στο πλαίσιο της αποχαιρετιστήριας περιοδείας τους.",
+      "price": null,
+      "ticketUrl": "https://www.more.com/gr-el/tickets/music/uriah-heep2026",
+      "reviews": [],
+      "notes": "Ο χώρος αναφέρει ωράριο 20:00–23:30. Η ώρα εξόδου του συγκροτήματος μπορεί να διαφέρει.",
+      "id": "uriah-heep-floyd-2026",
+      "title": "Uriah Heep",
+      "category": "concert",
+      "venue": "Floyd",
+      "area": "Γκάζι",
+      "start": "2026-11-08",
+      "end": "2026-11-08",
+      "dates": [
+        {
+          "date": "2026-11-08",
+          "time": "20:00"
+        }
+      ],
+      "sources": [
+        {
+          "name": "Floyd · επίσημος χώρος",
+          "url": "https://www.floyd.gr/event/uriah-heep/",
+          "kind": "official",
+          "lastCheckedAt": "2026-10-26T12:26:55.645Z",
+          "note": ""
+        }
+      ]
     }
   ]
 }
