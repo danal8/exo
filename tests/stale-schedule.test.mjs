@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {scheduleExpired,occurrences,matches,validDay} from '../core.mjs';
+const stale={id:'el-che',title:'El Che',category:'theatre',area:'Κυψέλη',cast:[],sources:[],reviews:[],start:'2026-10-08',end:'2026-10-29',weekly:{},scheduleKnown:false,scheduleText:'Πέμ. 8, 15, 22, 29/9, 9 μ.μ.'};
+const filters={category:'all',area:'all',period:'all'};
+test('September source text cannot become an upcoming October programme',()=>{assert.equal(scheduleExpired(stale,'2026-10-26'),true);assert.deepEqual(occurrences(stale,'2026-10-26'),[]);assert.equal(matches(stale,filters,'2026-10-26'),false)});
+test('Mixed fixed dates and a continuing weekly programme are not expired',()=>assert.equal(scheduleExpired({...stale,scheduleText:'Παρ.16/10 9 μ.μ., Τρ. 9 μ.μ.'},'2026-10-26'),false));
+test('Future fixed dates survive; spring belongs to a cross-year season',()=>{assert.equal(scheduleExpired({...stale,scheduleText:'Σάβ. 31/10 και 7/11, 9 μ.μ.'},'2026-10-26'),false);assert.equal(scheduleExpired({...stale,scheduleText:'Πέμ. 8/1, 9 μ.μ.'},'2026-10-26'),false)});
+test('Explicit renewed programme can supersede obsolete text',()=>{const e={...stale,dates:[{date:'2026-11-01',time:'20:00'}],end:'2026-11-01',verification:{state:'verified',kind:'official'}};assert.equal(scheduleExpired(e,'2026-10-26'),false)});
+test('Only valid ISO dates are accepted and upcoming dates are sorted',()=>{const e={start:'2026-01-01',end:'2027-12-31',dates:[{date:'2026-9-29'},{date:'2026-09-29'},{date:'2026-02-31'},{date:'2026-11-02'},{date:'2026-10-28'}]};assert.deepEqual(occurrences(e,'2026-10-26').map(d=>d.date),['2026-10-28','2026-11-02']);assert.equal(validDay('2026-02-31'),false)});
