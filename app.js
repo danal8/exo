@@ -1,3 +1,4 @@
+import { browserFavoriteStore } from './favorites.mjs';
 import { initAccount, openAccount, reserveEvent } from './account.js';
 import { normalize, athensDate, occurrences, freshness, matches, periodDates, scheduleExpired } from './core.mjs?v=20261026-posters3';
 const $=selector=>document.querySelector(selector);
@@ -10,8 +11,8 @@ const baseUrl=()=>location.pathname+location.search;
 const simpleStatus=event=>{const state=freshness(event).state;return state==='cancelled'?'Η εκδήλωση ακυρώθηκε':state==='verified'?'Το πρόγραμμα έχει ελεγχθεί':state==='ended'?'Το πρόγραμμα ολοκληρώθηκε':'Ελέγξτε το πρόγραμμα πριν την αγορά'};
 const mapLink=event=>link('https://www.google.com/maps/search/?api=1&query='+encodeURIComponent([event.venue,event.address,event.area,'Αθήνα'].filter(Boolean).join(', ')),event.address||event.venue,'map-link');
 
-let savedIds=new Set();
-try{const stored=JSON.parse(localStorage.getItem('exo:saved:v1')||'[]');if(Array.isArray(stored))savedIds=new Set(stored.filter(x=>typeof x==='string'))}catch{}
+const favoriteStore=browserFavoriteStore();
+const savedIds=new Set(await favoriteStore.load());
 const filters={query:'',category:'all',area:'all',venue:'all',period:'all',date:'',reviewed:false,saved:false,savedIds};
 const editorial=e=>e.reviews.filter(r=>r.type==='editorial');
 const audience=e=>e.reviews.filter(r=>r.type==='audience');
@@ -19,7 +20,7 @@ const statusHTML=e=>{const f=freshness(e);return `<div class="verified ${f.state
 const selectedOccurrences=e=>{const days=filters.date?[filters.date]:periodDates(filters.period);return occurrences(e,filters.date||athensDate(),1000).filter(d=>!days||days.includes(d.date))};
 const nextHTML=e=>{if(e.programmeStatus==='cancelled')return 'Ακυρώθηκε';if(e.programmeStatus==='postponed')return 'Αναβλήθηκε';if(e.scheduleKnown===false)return 'Δείτε το πρόγραμμα';const next=selectedOccurrences(e)[0];return next?`${dateLabel(next.date)}${next.time?' · '+escape(next.time):' · ώρα στην πηγή'}`:'Το καταχωρισμένο πρόγραμμα ολοκληρώθηκε'};
 function notify(message){clearTimeout(toastTimer);$('#toast').textContent=message;$('#toast').hidden=false;toastTimer=setTimeout(()=>$('#toast').hidden=true,3000)}
-function save(id){savedIds.has(id)?savedIds.delete(id):savedIds.add(id);try{localStorage.setItem('exo:saved:v1',JSON.stringify([...savedIds]))}catch{notify('Τα αγαπημένα κρατήθηκαν προσωρινά. Η αποθήκευση στη συσκευή δεν είναι διαθέσιμη.')}render();if($('#detail').open&&openedId===id){const b=$('#detailSave');b.textContent=savedIds.has(id)?'Αποθηκεύτηκε':'Αποθήκευση';b.setAttribute('aria-pressed',savedIds.has(id))}}
+function save(id){savedIds.has(id)?savedIds.delete(id):savedIds.add(id);favoriteStore.save([...savedIds]).then(persisted=>{if(!persisted)notify('Δεν ήταν δυνατή η μόνιμη αποθήκευση. Τα αγαπημένα κρατήθηκαν μόνο σε αυτή τη συνεδρία.')});render();if($('#detail').open&&openedId===id){const b=$('#detailSave');b.textContent=savedIds.has(id)?'Αποθηκεύτηκε':'Αποθήκευση';b.setAttribute('aria-pressed',savedIds.has(id))}}
 function stars(score,scale=5){return '<span class="stars" aria-label="'+score+' στα '+scale+' αστέρια">'+('★'.repeat(Math.floor(score)))+(score%1?'½':'')+' <b>'+score+'/'+scale+'</b></span>'}
 function reviewHTML(review){return '<article class="critic-row"><div><strong>'+escape(review.author||'Κριτική συντάκτη')+'</strong>'+(review.publishedAt?'<span class="source-meta">'+dateLabel(review.publishedAt)+' '+review.publishedAt.slice(0,4)+'</span>':'')+(review.score!==null?stars(review.score,review.scale):'')+(review.scope?'<p class="muted">'+escape(review.scope)+'</p>':'')+'<p>'+escape(review.summary)+'</p>'+link(review.url,'Διάβασε ολόκληρη την κριτική')+'</div></article>'}
 function editorialStars(e){const score=e.editorialRatings?.[0];return score?'<span class="rating critic">Συντάκτες '+stars(score.value,score.scale)+'</span>':''}
@@ -61,3 +62,4 @@ $('#reset').onclick=()=>{Object.assign(filters,{query:'',category:'all',period:'
 try{const response=await fetch('./data/catalog.json',{cache:'no-cache'});if(!response.ok)throw Error('catalog '+response.status);catalog=await response.json();try{const detailResponse=await fetch('./data/details.json',{cache:'no-cache'});if(detailResponse.ok){const extra=await detailResponse.json();for(const e of catalog.events){const d=extra[e.id];if(d){for(const [key,value]of Object.entries(d)){if(['id','end','endOpen'].includes(key))continue;if(key==='additionalReviews'){e.reviews.push(...value.filter(r=>!e.reviews.some(old=>old.url===r.url)));continue;}if(key==='description'&&d.descriptionSource?.kind!=='summary'&&e.description?.length>value.length)continue;e[key]=value}}}}}catch{}if(!Array.isArray(catalog.events))throw Error('invalid catalog');$('#area').innerHTML+=[...new Set(catalog.events.map(e=>e.area))].sort((a,b)=>a.localeCompare(b,'el')).map(a=>`<option value="${escape(a)}">${escape(a)}</option>`).join('');$('#venue').innerHTML+=[...new Set(catalog.events.map(e=>e.venue))].sort((a,b)=>a.localeCompare(b,'el')).map(v=>'<option value="'+escape(v)+'">'+escape(v)+'</option>').join('');$('#dataNote').textContent='';$('#dataNote').hidden=true;renderFeatured();renderFeed();render();initAccount({catalog,notify});const id=new URLSearchParams(location.hash.slice(1)).get('event');if(id){history.replaceState({exoDialog:null},'',baseUrl());open(id)}}catch(error){console.error(error);$('#dataNote').textContent='Το πρόγραμμα δεν μπόρεσε να φορτωθεί. Δοκίμασε ανανέωση της σελίδας.';$('#grid').innerHTML='<button class="chip" id="retry">Νέα προσπάθεια</button>';$('#retry').onclick=()=>location.reload();$('#reviews').hidden=true}
 // Refresh date-sensitive labels without disturbing an open dialog.
 setInterval(()=>{if(!$('#detail').open)render()},60000);
+
