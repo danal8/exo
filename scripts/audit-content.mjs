@@ -52,3 +52,5 @@ await writeFile(new URL('data/content-audit.json',root),JSON.stringify(report,nu
 await writeFile(new URL('data/catalog.json',root),JSON.stringify(catalog,null,2));
 await writeFile(new URL('data/details.json',root),JSON.stringify(details,null,2));
 console.log(JSON.stringify({counts:report.counts,repaired}));
+
+// Audit runs independently from catalogue discovery.

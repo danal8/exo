@@ -9,7 +9,7 @@ on:
 permissions:
   contents: write
 concurrency:
-  group: catalog-refresh
+  group: content-audit
   cancel-in-progress: true
 jobs:
   audit:
