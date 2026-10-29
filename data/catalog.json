@@ -335,8 +335,8 @@
       "audienceCheckedAt": "2026-10-26",
       "audienceSourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/#UserRreviews",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10091817/list.jpg",
-        "sourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/",
+        "url": "https://www.monopoli.gr/wp-content/uploads/2026/09/ioulietta-i-me-ti-thalassini-vostantzoglou-sto-theatro-mets.jpg",
+        "sourceUrl": "https://www.monopoli.gr/2026/09/10/showtimes/theatre/985799/ioulietta-i-i-saikspiriki-iroida-allios-se-enan-monologo-sto-theatro-mets/",
         "authority": "publisher",
         "kind": "production-photo"
       },
@@ -31252,7 +31252,7 @@
       "cast": [
         "Organization"
       ],
-      "description": "<p>O Mareux έρχεται στην Αθήνα για το πρώτο του show στη χώρα μας, την Τρίτη 3 Νοεμβρίου, στο Floyd Live Music Venue. Ο Αμερικανός, ιρανικής καταγωγής, Aryan Ashtiani ηγείται του νέου darkwave και synth-pop κύματος [&hellip;]</p>\\n",
+      "description": "Ο Αμερικανός, ιρανικής καταγωγής, Aryan Ashtiani ηγείται του νέου darkwave και synth-pop κύματος που αναζωπύρωσε το ενδιαφέρον μιας νέας γενιάς ακροατών, εισχωρώντας παράλληλα σε κοινά πολύ διαφορετικών μουσικών ειδών.",
       "season": "2026–2027",
       "start": "2026-11-03",
       "end": "2026-11-03",
@@ -31294,10 +31294,10 @@
       ],
       "reviews": [],
       "descriptionSource": {
-        "url": "https://www.floyd.gr/event/mareux/",
         "kind": "source-excerpt",
-        "authority": "official",
-        "checkedAt": "2026-10-29T05:54:35.585Z"
+        "authority": "publisher",
+        "url": "https://www.athinorama.gr/music/gig/mareux-11000013/",
+        "checkedAt": "2026-10-29T11:05:53.828Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-10-29T05:54:35.585Z",
@@ -34750,7 +34750,13 @@
         "url": "https://www.athinorama.gr/music/gig/jam_pedals-11000176/",
         "result": "no-future-dated-event"
       },
-      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
+      "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z",
+      "poster": {
+        "url": "https://tickets.public.gr/getattachment/ab8ebb58-1d34-424e-8c73-91d8824d44ba/play_image.png",
+        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "authority": "ticket",
+        "kind": "production-photo"
+      }
     },
     {
       "id": "music-11000178",
