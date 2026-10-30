@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T14:13:49.764Z",
+  "checkedAt": "2026-10-30T22:38:06.848Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -19,33 +19,8 @@
   "updated": [],
   "candidates": [
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
-      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
-      "title": "Άλκηστις",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
-      "title": "Ίων",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
-      "title": "Χάσαμε τη θεία Στοπ",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
-      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
-      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
+      "title": "Μήδεια",
       "reason": "production-not-confirmed"
     },
     {
@@ -54,18 +29,53 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
+      "title": "Άλκηστις",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
+      "title": "Χάσαμε τη θεία Στοπ",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
+      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
+      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
+      "title": "Ίων",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
       "title": "Βάκχες",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
-      "title": "Μήδεια",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
+      "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
       "reason": "production-not-confirmed"
     },
     {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
       "title": "Τρωάδες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
+      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
+      "title": "Πέρσες",
       "reason": "production-not-confirmed"
     },
     {
@@ -76,476 +86,6 @@
     {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
       "title": "Αι γυμνισταί",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
-      "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
-      "title": "Πέρσες",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/oracle-tis-anka-chermpout-se-skinothesia-loukas-tvarkofski-sti-stegi-idrymatos-onasi/",
-      "title": "«Oracle» της Άνκα Χέρμπουτ, σε σκηνοθεσία Λούκας Τβαρκόφσκι, στη Στέγη Ιδρύματος Ωνάση",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/bacon-tis-sofi-souidinmpank-se-skinothesia-emily-louizou-sto-theatro-anesis/",
-      "title": "«Bacon» της Σόφι Σουίδινμπανκ, σε σκηνοθεσία Έμιλυ Λουίζου, στο Θέατρο Άνεσις",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mikres-tapeinoseis-ton-panou-papadopoulou-kai-nefelis-fasouli-se-skinothesia-ton-idion-sto-baumstrasse/",
-      "title": "«Μικρές Ταπεινώσεις» των Πάνου Παπαδόπουλου και Νεφέλης Φασούλη, σε σκηνοθεσία των ιδίων, στο Baumstrasse",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/ta-spitia-allazoun-thesi-ti-nychta-tis-noemis-vasileiadou-kai-tis-charitos-serdari-se-skinothesia-noemis-vasileiadou-sto-theatro-choros/",
-      "title": "«Τα σπίτια αλλάζουν θέση τη νύχτα» της Νοεμής Βασιλειάδου και της Χάριτος Σερδάρη, σε σκηνοθεσία Νοεμής Βασιλειάδου, στο Θέατρο Χώρος",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/lysistrati-tou-aristofani-se-skinothesia-stamati-kraounaki-sto-theatron-tou-kentrou-politismou-ellinikos-kosmos/",
-      "title": "«Λυσιστράτη» του Αριστοφάνη, σε σκηνοθεσία Σταμάτη Κραουνάκη, στο Θέατρον του Κέντρου Πολιτισμού «Ελληνικός Κόσμος»",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/o-pateras-mou-tou-florian-zeler-se-skinothesia-thanasi-papageorgiou-sto-theatro-stoa/",
-      "title": "«Ο πατέρας μου» του Φλοριάν Ζελέρ, σε σκηνοθεσία Θανάση Παπαγεωργίου στο Θέατρο Στοά",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/nochavelandi-tou-gianni-aposkiti-se-skinothesia-giorgou-vourdami-sto-theatro-104/",
-      "title": "«Νοχαβελάνδη» του Γιάννη Αποσκίτη, σε σκηνοθεσία Γιώργου Βουρδαμή, στο Θέατρο 104",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/koinos-logos-tis-ellis-papadimitriou-se-skinothesia-louizas-kostoula-sto-theatro-tou-neou-kosmou/",
-      "title": "«Κοινός λόγος» της Έλλης Παπαδημητρίου, σε σκηνοθεσία Λουίζας Κωστούλα, στο Θέατρο του Νέου Κόσμου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/history-of-love-ton-alex-serano-kai-paou-palathios-se-skinothesia-alex-serano-kai-paou-palathios-sto-theatro-avlaia/",
-      "title": "«History of Love» των Άλεξ Σεράνο και Πάου Παλάθιος, σε σκηνοθεσία Άλεξ Σεράνο και Πάου Παλάθιος, στο Θέατρο Αυλαία",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eftychismenes-meres-tou-samiouel-mpeket-se-skinothesia-dimitri-tarloou-sto-theatro-poreia/",
-      "title": "«Ευτυχισμένες Μέρες» του Σάμιουελ Μπέκετ, σε σκηνοθεσία Δημήτρη Τάρλοου, στο Θέατρο Πορεία",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/o-glaros-tou-anton-tsechof-se-skinothesia-zois-xanthopoulou-sto-theatro-thiseion/",
-      "title": "«Ο Γλάρος» του Άντον Τσέχοφ, σε σκηνοθεσία Ζωής Ξανθοπούλου, στο Θέατρο Θησείον",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/anexartita-krati-tou-antoni-tsiotsiopoulou-kai-tou-giorgou-paloumpi-se-skinothesia-giorgou-paloumpi-sto-theatro-chora/",
-      "title": "«Ανεξάρτητα κράτη» του Αντώνη Τσιοτσιόπουλου και του Γιώργου Παλούμπη, σε σκηνοθεσία Γιώργου Παλούμπη, στο Θέατρο Χώρα",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mesotoichies-i-mikri-prosefchi-stis-3-46-p-m-otan-i-poli-xagrypna-me-tis-agonies-tis/",
-      "title": "Μεσοτοιχίες ή Μικρή Προσευχή στις 3.46 π.μ – Όταν η πόλη ξαγρυπνά με τις αγωνίες της",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eirini-tou-aristofani-se-skinothesia-nikou-karathanou-sto-archaio-theatro-epidavrou/",
-      "title": "«Ειρήνη» του Αριστοφάνη, σε σκηνοθεσία Νίκου Καραθάνου, στο Αρχαίο Θέατρο Επιδαύρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/dikos-sou-frants-anepidotes-epistoles-sto-koino/",
-      "title": "«Δικός σου, Φραντς»: Ανεπίδοτες επιστολές στο κοινό",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mideia-tou-evripidi-se-skinothesia-nikita-milivojevic/",
-      "title": "«Μήδεια» του Ευριπίδη, σε σκηνοθεσία Nikita Milivojević",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/to-thavma-i-politiki-diastasi-tis-komodias/",
-      "title": "«Το θαύμα»: Η πολιτική διάσταση της κωμωδίας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-mideia-sto-anoichto-theatro-androu/",
-      "title": "Είδαμε την παράσταση «Μήδεια» στο Ανοιχτό Θέατρο Άνδρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mideia-tou-evripidi-se-skinothesia-nikita-milivojevic-sto-theatro-vrachon/",
-      "title": "«Μήδεια» του Ευριπίδη, σε σκηνοθεσία Nikita Milivojević, στο Θέατρο Βράχων",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eirini-armeniki-vizita-me-poly-samata/",
-      "title": "«Ειρήνη» – Αρμένικη βίζιτα με πολύ σαματά",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/oi-vakches-os-sygchrono-stavrodromi-politismon/",
-      "title": "Οι «Βάκχες» ως σύγχρονο σταυροδρόμι πολιτισμών",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/giati-den-anevazoume-pio-sychna-ton-perithoriako-iona/",
-      "title": "Γιατί δεν ανεβάζουμε πιο συχνά τον περιθωριακό «Ίωνα»;",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/lysistrati-tou-aristofani-se-skinothesia-asteriou-pelteki-apo-to-kratiko-theatro-voreiou-ellados/",
-      "title": "«Λυσιστράτη» του Αριστοφάνη, σε σκηνοθεσία Αστέριου Πελτέκη, από το Κρατικό Θέατρο Βορείου Ελλάδος",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/lysistrati-kthve-diasozontas-to-minyma-eirinis-tou-aristofani/",
-      "title": "«Λυσιστράτη» ΚΘΒΕ: Διασώζοντας το μήνυμα ειρήνης του Αριστοφάνη",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/i-one-tou-ivan-viripaef-o-megalos-politismos-sou-den-mporei-na-se-sosei-pia/",
-      "title": "“Ι-ΟΝΕ” του Ιβάν Βιριπάεφ: «Ο μεγάλος πολιτισμός σου δεν μπορεί να σε σώσει πια»",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/ego-tha-sas-ta-po-ton-gerasimou-evangelatou-kai-dimitri-chalioti-se-skinothesia-vangeli-theodoropoulou-sto-veakeio/",
-      "title": "«Εγώ θα σας τα πω!» των Γεράσιμου Ευαγγελάτου και Δημήτρη Χαλιώτη, σε σκηνοθεσία Βαγγέλη Θεοδωρόπουλου, στο Βεάκειο",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/troades-tou-evripidi-platsourizontas-sta-richa-tis-tragodias/",
-      "title": "«Τρωάδες» του Ευριπίδη: Πλατσουρίζοντας στα ρηχά της τραγωδίας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/troades-tou-evripidi-se-skinothesia-elenis-efthymiou-sto-archaio-theatro-epidavrou/",
-      "title": "«Τρωάδες» του Ευριπίδη, σε σκηνοθεσία Ελένης Ευθυμίου, στο Αρχαίο Θέατρο Επιδαύρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/antigoni-mia-eknevristika-astochi-prosengisi/",
-      "title": "Αντιγόνη: Mια εκνευριστικά άστοχη προσέγγιση",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mideia-tou-evripidi-se-skinothesia-nikita-milivogievits-sto-therino-dimotiko-theatro-patras/",
-      "title": "«Μήδεια» του Ευριπίδη, σε σκηνοθεσία Νικήτα Μιλιβόγιεβιτς, στο Θερινό Δημοτικό Θέατρο Πάτρας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-1961-sto-theatro-tis-archaias-epidavrou/",
-      "title": "Είδαμε την παράσταση 1961 στο Θέατρο της Αρχαίας Επιδαύρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/troades-apo-to-ethniko-erixan-kai-to-teichos-tis-periorismenis-prosvasis/",
-      "title": "«Τρωάδες» από το Εθνικό: Εριξαν και το τείχος της περιορισμένης πρόσβασης",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/i-koinoniki-teletourgia-tis-apoleias-o-lorka-mesa-apo-ti-skinothetiki-matia-tou-kosta-tsianou/",
-      "title": "Η κοινωνική τελετουργία της απώλειας – Ο Λόρκα μέσα από τη σκηνοθετική ματιά του Κώστα Τσιάνου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/ion-tou-evripidi-se-skinothesia-thoma-moschopoulou-apo-ton-theatriko-organismo-kyprou/",
-      "title": "«Ίων» του Ευριπίδη, σε σκηνοθεσία Θωμά Μοσχόπουλου, από τον Θεατρικό Οργανισμό Κύπρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/thysia-choris-archaioprepeia-i-ifigeneia-en-avlidi-tou-savva-stroumpou-os-sygchrono-teletourgiko-vias/",
-      "title": "Θυσία χωρίς αρχαιοπρέπεια – Η Ιφιγένεια εν Αυλίδι του Σάββα Στρούμπου ως σύγχρονο τελετουργικό βίας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/ana-tinaxe-tin-anthismeni-amygdalia-sto-theatro-alsos-dei/",
-      "title": "«Ανα-τίναξε την ανθισμένη αμυγδαλιά» στο Θέατρο Άλσος ΔΕΗ",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/vakches-tou-evripidi-se-skinothesia-giavor-gkarntef-sto-theatro-gis/",
-      "title": "«Βάκχες» του Ευριπίδη, σε σκηνοθεσία Γιάβορ Γκάρντεφ, στο Θέατρο Γης",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-ending-in-beauty/",
-      "title": "Είδαμε την παράσταση «Ending in beauty»",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/alkistis-toy-dimitri-karantza-anamesa-stin-tragodia-kai-tin-komikotragiki-anagnosi/",
-      "title": "«Άλκηστις» του Δημήτρη Καραντζά – Ανάμεσα στην τραγωδία και την κωμικοτραγική ανάγνωση",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/alkistis-tou-evripidi-se-skinothesia-dimitri-karantza/",
-      "title": "«Άλκηστις» του Ευριπίδη, σε σκηνοθεσία Δημήτρη Καραντζά",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/perses-tou-aischylou-se-skinothesia-christou-theodoridi/",
-      "title": "«Πέρσες» του Αισχύλου, σε σκηνοθεσία Χρήστου Θεοδωρίδη",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/archaio-theatro-epidavrou-i-alkisti-tis-anatropis/",
-      "title": "Αρχαίο Θέατρο Επιδαύρου: Η «Άλκηστη» της ανατροπής",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/perses-tou-aischylou-se-skinothesia-christou-theodoridi-2/",
-      "title": "«Πέρσες» του Αισχύλου, σε σκηνοθεσία Χρήστου Θεοδωρίδη",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/stin-peiraios-260-to-lee-miller-in-hitlers-bathtub-apo-tous-need-company/",
-      "title": "Στην Πειραιώς 260 το “Lee Miller in Hitler’s Bathtub” από τους Need Company",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/oidipous-tyrannos-tou-sofokli-se-skinothesia-louka-nte-fousko-sto-theatro-dasous/",
-      "title": "«Οιδίπους Τύραννος» του Σοφοκλή, σε σκηνοθεσία Λούκα Ντε Φούσκο, στο Θέατρο Δάσους",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-i-mana-mou-me-petaxe-sti-thalassa/",
-      "title": "Είδαμε την παράσταση «Η μάνα μου με πέταξε στη θάλασσα»",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/oracle-tis-anka-chermpout-se-skinothesia-loukas-tvarkofski-sti-stegi-idrymatos-onasi/",
-      "title": "«Oracle» της Άνκα Χέρμπουτ, σε σκηνοθεσία Λούκας Τβαρκόφσκι, στη Στέγη Ιδρύματος Ωνάση",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/bacon-tis-sofi-souidinmpank-se-skinothesia-emily-louizou-sto-theatro-anesis/",
-      "title": "«Bacon» της Σόφι Σουίδινμπανκ, σε σκηνοθεσία Έμιλυ Λουίζου, στο Θέατρο Άνεσις",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mikres-tapeinoseis-ton-panou-papadopoulou-kai-nefelis-fasouli-se-skinothesia-ton-idion-sto-baumstrasse/",
-      "title": "«Μικρές Ταπεινώσεις» των Πάνου Παπαδόπουλου και Νεφέλης Φασούλη, σε σκηνοθεσία των ιδίων, στο Baumstrasse",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/ta-spitia-allazoun-thesi-ti-nychta-tis-noemis-vasileiadou-kai-tis-charitos-serdari-se-skinothesia-noemis-vasileiadou-sto-theatro-choros/",
-      "title": "«Τα σπίτια αλλάζουν θέση τη νύχτα» της Νοεμής Βασιλειάδου και της Χάριτος Σερδάρη, σε σκηνοθεσία Νοεμής Βασιλειάδου, στο Θέατρο Χώρος",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/lysistrati-tou-aristofani-se-skinothesia-stamati-kraounaki-sto-theatron-tou-kentrou-politismou-ellinikos-kosmos/",
-      "title": "«Λυσιστράτη» του Αριστοφάνη, σε σκηνοθεσία Σταμάτη Κραουνάκη, στο Θέατρον του Κέντρου Πολιτισμού «Ελληνικός Κόσμος»",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/o-pateras-mou-tou-florian-zeler-se-skinothesia-thanasi-papageorgiou-sto-theatro-stoa/",
-      "title": "«Ο πατέρας μου» του Φλοριάν Ζελέρ, σε σκηνοθεσία Θανάση Παπαγεωργίου στο Θέατρο Στοά",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/nochavelandi-tou-gianni-aposkiti-se-skinothesia-giorgou-vourdami-sto-theatro-104/",
-      "title": "«Νοχαβελάνδη» του Γιάννη Αποσκίτη, σε σκηνοθεσία Γιώργου Βουρδαμή, στο Θέατρο 104",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/koinos-logos-tis-ellis-papadimitriou-se-skinothesia-louizas-kostoula-sto-theatro-tou-neou-kosmou/",
-      "title": "«Κοινός λόγος» της Έλλης Παπαδημητρίου, σε σκηνοθεσία Λουίζας Κωστούλα, στο Θέατρο του Νέου Κόσμου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/history-of-love-ton-alex-serano-kai-paou-palathios-se-skinothesia-alex-serano-kai-paou-palathios-sto-theatro-avlaia/",
-      "title": "«History of Love» των Άλεξ Σεράνο και Πάου Παλάθιος, σε σκηνοθεσία Άλεξ Σεράνο και Πάου Παλάθιος, στο Θέατρο Αυλαία",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eftychismenes-meres-tou-samiouel-mpeket-se-skinothesia-dimitri-tarloou-sto-theatro-poreia/",
-      "title": "«Ευτυχισμένες Μέρες» του Σάμιουελ Μπέκετ, σε σκηνοθεσία Δημήτρη Τάρλοου, στο Θέατρο Πορεία",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/o-glaros-tou-anton-tsechof-se-skinothesia-zois-xanthopoulou-sto-theatro-thiseion/",
-      "title": "«Ο Γλάρος» του Άντον Τσέχοφ, σε σκηνοθεσία Ζωής Ξανθοπούλου, στο Θέατρο Θησείον",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/anexartita-krati-tou-antoni-tsiotsiopoulou-kai-tou-giorgou-paloumpi-se-skinothesia-giorgou-paloumpi-sto-theatro-chora/",
-      "title": "«Ανεξάρτητα κράτη» του Αντώνη Τσιοτσιόπουλου και του Γιώργου Παλούμπη, σε σκηνοθεσία Γιώργου Παλούμπη, στο Θέατρο Χώρα",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mesotoichies-i-mikri-prosefchi-stis-3-46-p-m-otan-i-poli-xagrypna-me-tis-agonies-tis/",
-      "title": "Μεσοτοιχίες ή Μικρή Προσευχή στις 3.46 π.μ – Όταν η πόλη ξαγρυπνά με τις αγωνίες της",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eirini-tou-aristofani-se-skinothesia-nikou-karathanou-sto-archaio-theatro-epidavrou/",
-      "title": "«Ειρήνη» του Αριστοφάνη, σε σκηνοθεσία Νίκου Καραθάνου, στο Αρχαίο Θέατρο Επιδαύρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/dikos-sou-frants-anepidotes-epistoles-sto-koino/",
-      "title": "«Δικός σου, Φραντς»: Ανεπίδοτες επιστολές στο κοινό",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mideia-tou-evripidi-se-skinothesia-nikita-milivojevic/",
-      "title": "«Μήδεια» του Ευριπίδη, σε σκηνοθεσία Nikita Milivojević",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/to-thavma-i-politiki-diastasi-tis-komodias/",
-      "title": "«Το θαύμα»: Η πολιτική διάσταση της κωμωδίας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-mideia-sto-anoichto-theatro-androu/",
-      "title": "Είδαμε την παράσταση «Μήδεια» στο Ανοιχτό Θέατρο Άνδρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mideia-tou-evripidi-se-skinothesia-nikita-milivojevic-sto-theatro-vrachon/",
-      "title": "«Μήδεια» του Ευριπίδη, σε σκηνοθεσία Nikita Milivojević, στο Θέατρο Βράχων",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eirini-armeniki-vizita-me-poly-samata/",
-      "title": "«Ειρήνη» – Αρμένικη βίζιτα με πολύ σαματά",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/oi-vakches-os-sygchrono-stavrodromi-politismon/",
-      "title": "Οι «Βάκχες» ως σύγχρονο σταυροδρόμι πολιτισμών",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/giati-den-anevazoume-pio-sychna-ton-perithoriako-iona/",
-      "title": "Γιατί δεν ανεβάζουμε πιο συχνά τον περιθωριακό «Ίωνα»;",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/lysistrati-tou-aristofani-se-skinothesia-asteriou-pelteki-apo-to-kratiko-theatro-voreiou-ellados/",
-      "title": "«Λυσιστράτη» του Αριστοφάνη, σε σκηνοθεσία Αστέριου Πελτέκη, από το Κρατικό Θέατρο Βορείου Ελλάδος",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/lysistrati-kthve-diasozontas-to-minyma-eirinis-tou-aristofani/",
-      "title": "«Λυσιστράτη» ΚΘΒΕ: Διασώζοντας το μήνυμα ειρήνης του Αριστοφάνη",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/i-one-tou-ivan-viripaef-o-megalos-politismos-sou-den-mporei-na-se-sosei-pia/",
-      "title": "“Ι-ΟΝΕ” του Ιβάν Βιριπάεφ: «Ο μεγάλος πολιτισμός σου δεν μπορεί να σε σώσει πια»",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/ego-tha-sas-ta-po-ton-gerasimou-evangelatou-kai-dimitri-chalioti-se-skinothesia-vangeli-theodoropoulou-sto-veakeio/",
-      "title": "«Εγώ θα σας τα πω!» των Γεράσιμου Ευαγγελάτου και Δημήτρη Χαλιώτη, σε σκηνοθεσία Βαγγέλη Θεοδωρόπουλου, στο Βεάκειο",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/troades-tou-evripidi-platsourizontas-sta-richa-tis-tragodias/",
-      "title": "«Τρωάδες» του Ευριπίδη: Πλατσουρίζοντας στα ρηχά της τραγωδίας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/troades-tou-evripidi-se-skinothesia-elenis-efthymiou-sto-archaio-theatro-epidavrou/",
-      "title": "«Τρωάδες» του Ευριπίδη, σε σκηνοθεσία Ελένης Ευθυμίου, στο Αρχαίο Θέατρο Επιδαύρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/antigoni-mia-eknevristika-astochi-prosengisi/",
-      "title": "Αντιγόνη: Mια εκνευριστικά άστοχη προσέγγιση",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/mideia-tou-evripidi-se-skinothesia-nikita-milivogievits-sto-therino-dimotiko-theatro-patras/",
-      "title": "«Μήδεια» του Ευριπίδη, σε σκηνοθεσία Νικήτα Μιλιβόγιεβιτς, στο Θερινό Δημοτικό Θέατρο Πάτρας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-1961-sto-theatro-tis-archaias-epidavrou/",
-      "title": "Είδαμε την παράσταση 1961 στο Θέατρο της Αρχαίας Επιδαύρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/troades-apo-to-ethniko-erixan-kai-to-teichos-tis-periorismenis-prosvasis/",
-      "title": "«Τρωάδες» από το Εθνικό: Εριξαν και το τείχος της περιορισμένης πρόσβασης",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/i-koinoniki-teletourgia-tis-apoleias-o-lorka-mesa-apo-ti-skinothetiki-matia-tou-kosta-tsianou/",
-      "title": "Η κοινωνική τελετουργία της απώλειας – Ο Λόρκα μέσα από τη σκηνοθετική ματιά του Κώστα Τσιάνου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/ion-tou-evripidi-se-skinothesia-thoma-moschopoulou-apo-ton-theatriko-organismo-kyprou/",
-      "title": "«Ίων» του Ευριπίδη, σε σκηνοθεσία Θωμά Μοσχόπουλου, από τον Θεατρικό Οργανισμό Κύπρου",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/thysia-choris-archaioprepeia-i-ifigeneia-en-avlidi-tou-savva-stroumpou-os-sygchrono-teletourgiko-vias/",
-      "title": "Θυσία χωρίς αρχαιοπρέπεια – Η Ιφιγένεια εν Αυλίδι του Σάββα Στρούμπου ως σύγχρονο τελετουργικό βίας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/ana-tinaxe-tin-anthismeni-amygdalia-sto-theatro-alsos-dei/",
-      "title": "«Ανα-τίναξε την ανθισμένη αμυγδαλιά» στο Θέατρο Άλσος ΔΕΗ",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/vakches-tou-evripidi-se-skinothesia-giavor-gkarntef-sto-theatro-gis/",
-      "title": "«Βάκχες» του Ευριπίδη, σε σκηνοθεσία Γιάβορ Γκάρντεφ, στο Θέατρο Γης",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-ending-in-beauty/",
-      "title": "Είδαμε την παράσταση «Ending in beauty»",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/alkistis-toy-dimitri-karantza-anamesa-stin-tragodia-kai-tin-komikotragiki-anagnosi/",
-      "title": "«Άλκηστις» του Δημήτρη Καραντζά – Ανάμεσα στην τραγωδία και την κωμικοτραγική ανάγνωση",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/alkistis-tou-evripidi-se-skinothesia-dimitri-karantza/",
-      "title": "«Άλκηστις» του Ευριπίδη, σε σκηνοθεσία Δημήτρη Καραντζά",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/perses-tou-aischylou-se-skinothesia-christou-theodoridi/",
-      "title": "«Πέρσες» του Αισχύλου, σε σκηνοθεσία Χρήστου Θεοδωρίδη",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/archaio-theatro-epidavrou-i-alkisti-tis-anatropis/",
-      "title": "Αρχαίο Θέατρο Επιδαύρου: Η «Άλκηστη» της ανατροπής",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/perses-tou-aischylou-se-skinothesia-christou-theodoridi-2/",
-      "title": "«Πέρσες» του Αισχύλου, σε σκηνοθεσία Χρήστου Θεοδωρίδη",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/stin-peiraios-260-to-lee-miller-in-hitlers-bathtub-apo-tous-need-company/",
-      "title": "Στην Πειραιώς 260 το “Lee Miller in Hitler’s Bathtub” από τους Need Company",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/oidipous-tyrannos-tou-sofokli-se-skinothesia-louka-nte-fousko-sto-theatro-dasous/",
-      "title": "«Οιδίπους Τύραννος» του Σοφοκλή, σε σκηνοθεσία Λούκα Ντε Φούσκο, στο Θέατρο Δάσους",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-i-mana-mou-me-petaxe-sti-thalassa/",
-      "title": "Είδαμε την παράσταση «Η μάνα μου με πέταξε στη θάλασσα»",
       "reason": "production-not-confirmed"
     }
   ],
