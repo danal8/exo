@@ -8,9 +8,13 @@ export function links(html,base){return [...html.matchAll(/<a\b([^>]*)>([\s\S]*?
 const list=x=>x==null?[]:Array.isArray(x)?x:[x];
 
 export function ticketPoster(html,base,title){
- const ignored=new Set(['ο','η','οι','το','τα','του','τησ','των','και','στο','στον','στη','στην','θεατρο','theater','σταυροσ','νοτου','κεντρικη','σκηνη','club','plus','live']);
- const tokens=s=>normalize(s).split(' ').filter(t=>t&&!ignored.has(t));
- const target=tokens(title);if(target.join('').length<5)return null;
+ const label=text(html.match(/<span\b[^>]*id=["']TitleLabel["'][^>]*>([\s\S]*?)<\/span>/i)?.[1]);
+ const attachment=text(html.match(/<span\b[^>]*id=["']ImageLabel["'][^>]*>([\s\S]*?)<\/span>/i)?.[1]);
+ const ignored=new Set(['ο','η','οι','το','τα','του','τησ','των','και','στο','στον','στη','στην','θεατρο','theater','σταυροσ','νοτου','κεντρικη','σκηνη','club','plus','live','at','ilion','ιλιον','in']);
+ const latin=s=>s.replace(/ου/g,'ou').replace(/αυ/g,'av').replace(/ευ/g,'ev').replace(/θ/g,'th').replace(/χ/g,'ch').replace(/ψ/g,'ps').replace(/[αβγδεζηικλμνξοπρστυφω]/g,c=>({'α':'a','β':'v','γ':'g','δ':'d','ε':'e','ζ':'z','η':'i','ι':'i','κ':'k','λ':'l','μ':'m','ν':'n','ξ':'x','ο':'o','π':'p','ρ':'r','σ':'s','τ':'t','υ':'y','φ':'f','ω':'o'}[c]));
+ const tokens=s=>normalize(s).split(' ').filter(t=>t&&!ignored.has(t)).map(latin);
+ const target=tokens(title);if(target.join('').length<4)return null;
+ if(/more\.com|tickets\.public\.gr/.test(new URL(base).hostname)&&target.every(t=>tokens(label).includes(t))&&/^\/getattachment\/[a-f0-9-]+/i.test(attachment))return safeUrl(attachment,base);
  for(const m of html.matchAll(/<img\b([^>]+)>/gi)){
   const a=attrs(m[1]),label=tokens(a.alt||a.title||'');
   if(!target.every(t=>label.includes(t)))continue;
@@ -43,7 +47,7 @@ export function parsePage(html,url,expectedTitle){
  const candidate=text(rawDescription);
  const description=/ΠΡΕΜΙΕΡΑ[\s\S]*ΕΙΣΙΤΗΡΙΑ|cookies|cookie settings/i.test(candidate)?'':candidate.split(/(?<=[.!;;])\s+/).filter(Boolean).slice(0,2).join(' ').slice(0,900);
  let image=safeUrl(list(main?.image)[0]||meta['og:image'],url);
- if(image&&/\/(?:[^/?]*)(?:logo|transparent|placeholder|favicon)(?:[^/?]*)/i.test(new URL(image).pathname))image=null;
+ if(image&&/\/(?:[^/?]*)(?:logo|transparent|placeholder|favicon|viva-tickets|default-image)(?:[^/?]*)/i.test(new URL(image).pathname))image=null;
  const matchedPoster=expectedTitle?ticketPoster(html,url,expectedTitle):null;
  const imageOnly=Boolean(matchedPoster&&normalize(title)!==normalize(expectedTitle));
  if(matchedPoster){image=matchedPoster;title=expectedTitle}
@@ -124,3 +128,4 @@ export function enrich(event,page,{now=new Date().toISOString(),kind='publisher'
  }
  return {changed:diff.length>0,fields:diff};
 }
+

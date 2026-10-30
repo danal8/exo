@@ -1,0 +1,131 @@
+{
+  "events": {
+    "ath-10091515": [
+      {
+        "author": "Τόνια Τσαμούρη",
+        "publishedAt": "2026-10-21",
+        "url": "https://www.athinorama.gr/theatre/theatre-reviews/3079674/xoma-se-skinothesia-gianni-skourleti/",
+        "source": "athinorama.gr",
+        "summary": "Η bijoux de kant διασκεύασαν και μετέφεραν σε μια ξεχωριστή παράσταση το γνωστό μυθιστόρημα του Παύλου Μάτεσι, \"Η μητέρα του…",
+        "score": 3.5,
+        "scale": 5,
+        "id": "review-63bb5c9adaff27eb",
+        "type": "editorial",
+        "checkedAt": "2026-10-27T06:27:21.779Z"
+      }
+    ],
+    "agrios-sporos-karagianni-mikrohorn-2026": [
+      {
+        "author": "Τόνια Τσαμούρη",
+        "publishedAt": "2026-10-08",
+        "url": "https://www.athinorama.gr/theatre/theatre-reviews/3079010/agrios-sporos-tou-gianni-tsirou/",
+        "source": "athinorama.gr",
+        "summary": "Η Σοφία Καραγιάννη σκηνοθέτησε το γνωστό έργο του Γ. Τσίρου σε μια άρτια και ενδιαφέρουσα παράσταση, η οποία όμως ανέδειξε…",
+        "score": 3.5,
+        "scale": 5,
+        "id": "review-39645b67381be85f",
+        "type": "editorial",
+        "checkedAt": "2026-10-27T06:27:21.779Z"
+      }
+    ],
+    "ath-10083577": [
+      {
+        "author": "Γιώργου Παπαγιαννάκη",
+        "publishedAt": "2026-09-30",
+        "url": "https://greektheatrecritics.gr/kritikes/vrikolakes-tou-ipsen-se-skinothesia-anastasias-papastathi-sto-theatro-radar/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-fae78d1f646e8caa",
+        "type": "editorial",
+        "checkedAt": "2026-10-27T06:27:21.779Z"
+      }
+    ],
+    "ath-10091626": [
+      {
+        "author": "Γιώργου Παπαγιαννάκη",
+        "publishedAt": "2026-10-19",
+        "url": "https://greektheatrecritics.gr/kritikes/o-thavmatopoios-tou-mpraian-friel-se-skinothesia-thanasi-dovri-sto-theatro-mpellos/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-a092d0324a15ede9",
+        "type": "editorial",
+        "checkedAt": "2026-10-27T06:28:41.886Z"
+      }
+    ],
+    "ath-10091640": [
+      {
+        "author": "Τόνιας Τσαμούρη",
+        "publishedAt": "2026-10-14",
+        "url": "https://greektheatrecritics.gr/kritikes/i-idea-tis-chronias-tou-sempastian-kastro-se-skinothesia-konstantinou-markoulaki-sto-theatro-vretania/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-68c4461425f7564d",
+        "type": "editorial",
+        "checkedAt": "2026-10-27T06:28:41.886Z"
+      }
+    ],
+    "ath-10087283": [
+      {
+        "author": "Γρηγόρη Ιωαννίδη",
+        "publishedAt": "2026-10-05",
+        "url": "https://greektheatrecritics.gr/kritikes/tzoni-mple-tou-giorgi-tsouri-se-skinothesia-giorgi-tsouri-sto-theatro-anesis/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-2137889f7570da8d",
+        "type": "editorial",
+        "checkedAt": "2026-10-27T06:28:41.886Z"
+      }
+    ],
+    "ath-10091613": [
+      {
+        "author": "Τόνια Τσαμούρη",
+        "publishedAt": "2026-10-28",
+        "url": "https://www.athinorama.gr/theatre/theatre-reviews/3079981/i-parelasi-tis-loulas-anagnostaki/",
+        "source": "athinorama.gr",
+        "summary": "Στο Studio Μαυρομιχάλη ο Νεκτάριος Λιονάκης δίνει μια ενδιαφέρουσα σκηνοθετική οπτική πάνω στο έργο της Λούλας Αναγνωστάκη…",
+        "score": 3,
+        "scale": 5,
+        "id": "review-25a7f9499c73384b",
+        "type": "editorial",
+        "checkedAt": "2026-10-30T14:04:41.731Z"
+      }
+    ],
+    "ath-10088773": [
+      {
+        "author": "Ελένης Γκίνη",
+        "publishedAt": "2026-10-20",
+        "url": "https://greektheatrecritics.gr/kritikes/ierotelestia-tou-gkigiom-poua-se-skinothesia-christou-theodoridi-sti-nea-skini-nikos-kourkoulos-tou-ethnikou-theatrou/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-4bea627f51bab080",
+        "type": "editorial",
+        "checkedAt": "2026-10-30T14:04:41.731Z"
+      }
+    ],
+    "ath-10091042": [
+      {
+        "author": "Τόνιας Τσαμούρη",
+        "publishedAt": "2026-10-20",
+        "url": "https://greektheatrecritics.gr/kritikes/mcneal-tou-agiant-achtar-se-skinothesia-christou-sougari-sto-theatro-neos-akadimos/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-3776ab7a3d6f6405",
+        "type": "editorial",
+        "checkedAt": "2026-10-30T14:04:41.731Z"
+      }
+    ]
+  },
+  "checkedAt": "2026-10-30T14:04:41.731Z"
+}

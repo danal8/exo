@@ -6257,7 +6257,14 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2109213310"
+    "phone": "2109213310",
+    "poster": {
+      "url": "https://www.more.com/getattachment/27fce2c1-7575-482f-a9eb-de32716c3054/Spyros-Manesis-Triod4b67b20-702d-4553-ada6-fc4fa5d.png",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/spyros-manesis-trio-3/",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:10:42.128Z"
+    }
   },
   "music-10090061": {
     "id": "music-10090061",
@@ -6337,7 +6344,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2130885700"
+    "phone": "2130885700",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67504_1.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gno-2626-to-aidoni-tou-aftokratora/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:09.718Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gno-2626-to-aidoni-tou-aftokratora/?lang=el"
   },
   "music-10091819": {
     "id": "music-10091819",
@@ -6614,7 +6629,14 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "6951632086"
+    "phone": "6951632086",
+    "poster": {
+      "url": "https://www.more.com/getattachment/77d9ca18-d98a-4f40-b7d5-903c308f2edb/DIMITRIS-KORGIALASa5e4d490-a823-46da-8e84-530fa319.png",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/dimitris-korgialas-2/",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:10:42.128Z"
+    }
   },
   "music-11000042": {
     "id": "music-11000042",
@@ -6765,7 +6787,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "6946851001"
+    "phone": "6946851001",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67418_2.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gno-stephanos-thomopoulos/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:14.898Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gno-stephanos-thomopoulos/?lang=el"
   },
   "music-11000086": {
     "id": "music-11000086",
@@ -6805,7 +6835,17 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2103450817"
+    "phone": "2103450817",
+    "poster": {
+      "url": "https://dynamicmedia.livenationinternational.com/t/x/r/7a7965e3-0039-49e1-af5e-97011708a09a.jpg",
+      "sourceUrl": "https://www.livenation.com.gr/events/da-ti-athens-tickets-edp1692509",
+      "authority": "ticket",
+      "kind": "production-photo",
+      "checkedAt": "2026-10-30T14:12:05.505Z"
+    },
+    "ticketUrl": "https://www.livenation.com.gr/events/da-ti-athens-tickets-edp1692509",
+    "venue": "Fuzz Club",
+    "area": "Ταύρος"
   },
   "music-11000095": {
     "id": "music-11000095",
@@ -6815,7 +6855,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2103221917"
+    "phone": "2103221917",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67371_or_AIMF_banner_2026.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/2nd-athens-international-music-festival/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:15.168Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/2nd-athens-international-music-festival/?lang=el"
   },
   "music-11000096": {
     "id": "music-11000096",
@@ -6825,7 +6873,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "6907183406"
+    "phone": "6907183406",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_66490_or_Paroysiash_SEYGH_1020x408-01-01.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/baumstrasse-vassilis-gkofas-2026/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:14.901Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/baumstrasse-vassilis-gkofas-2026/?lang=el"
   },
   "music-11000097": {
     "id": "music-11000097",
@@ -6835,7 +6891,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "6907183406"
+    "phone": "6907183406",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67488_or_postttttt.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/baumstrasse-borago-ii/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:14.514Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/baumstrasse-borago-ii/?lang=el"
   },
   "music-11000098": {
     "id": "music-11000098",
@@ -6845,7 +6909,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2103246614"
+    "phone": "2103246614",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67349_th8m.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/ioniko-kentro-l-anima-della-musica/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:10.170Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/ioniko-kentro-l-anima-della-musica/?lang=el"
   },
   "music-11000099": {
     "id": "music-11000099",
@@ -6855,7 +6927,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2103643563"
+    "phone": "2103643563",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67900_or_banner.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gustav-krinio-nikolaou/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:10.459Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gustav-krinio-nikolaou/?lang=el"
   },
   "music-11000100": {
     "id": "music-11000100",
@@ -6865,7 +6945,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "6907183406"
+    "phone": "6907183406",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67128_or_30_10%20horrizontal.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/baumstrasse-vironas-ntolas-quartet/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:14.282Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/baumstrasse-vironas-ntolas-quartet/?lang=el"
   },
   "music-11000101": {
     "id": "music-11000101",
@@ -6875,7 +6963,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2114112500, 6947927547"
+    "phone": "2114112500, 6947927547",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67051_or_coroner.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gagarin-dissonance-over-europe-part-1/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:17.392Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gagarin-dissonance-over-europe-part-1/?lang=el"
   },
   "music-11000102": {
     "id": "music-11000102",
@@ -6895,7 +6991,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2130885700"
+    "phone": "2130885700",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67408_2.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gno-sonic-complexities/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:22.490Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gno-sonic-complexities/?lang=el"
   },
   "music-11000105": {
     "id": "music-11000105",
@@ -6906,7 +7010,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2130885700"
+    "phone": "2130885700",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67410_2.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gno-poetic-soundscapes/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:15.318Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gno-poetic-soundscapes/?lang=el"
   },
   "music-11000106": {
     "id": "music-11000106",
@@ -6916,7 +7028,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2130885700"
+    "phone": "2130885700",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67411_2.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gno-trace-kurtag/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:22.706Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gno-trace-kurtag/?lang=el"
   },
   "music-11000107": {
     "id": "music-11000107",
@@ -6927,7 +7047,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2130885700"
+    "phone": "2130885700",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67414_2.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gno-the-revolt-of-the-double-bass/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:15.465Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gno-the-revolt-of-the-double-bass/?lang=el"
   },
   "music-11000108": {
     "id": "music-11000108",
@@ -6937,7 +7065,15 @@
       "checkedAt": "2026-10-26",
       "authority": "publisher"
     },
-    "phone": "2130885700"
+    "phone": "2130885700",
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67415_2.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gno-places-memories-sirens/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:22.490Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gno-places-memories-sirens/?lang=el"
   },
   "ath-10088699": {
     "id": "ath-10088699",
@@ -7193,6 +7329,34 @@
       "sourceUrl": "https://www.more.com/gr-el/venues/theatro-poreia/",
       "kind": "poster",
       "authority": "ticket"
+    }
+  },
+  "music-11000133": {
+    "poster": {
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_66971_or_DROSIS-CENTER.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/gustav-drogosis-tsakalos/?lang=el",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:07:15.774Z"
+    },
+    "ticketUrl": "https://www.ticketservices.gr/event/gustav-drogosis-tsakalos/?lang=el"
+  },
+  "stn-ριτααντωνοπουλουτησγυναικασσουηκαρδια": {
+    "poster": {
+      "url": "https://www.more.com/getattachment/6aadde65-c75c-42e3-86e7-2ccef4c732a9/%CE%A1%CE%99%CE%A4%CE%91-%CE%91%CE%9D%CE%A4%CE%A9%CE%9D%CE%9F%CE%A0%CE%9F%CE%A5%CE%9B%CE%9F%CE%A5--%CE%A4%CE%B7%CF%82-%CE%93%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%B1%CF%82-%CF%83%CE%BF%CF%85-%CE%B7-%CE%9A%CE%B1%CF%81%CE%B4%CE%B9%CE%B1474f55.png",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/rita-antonopoulou-tis-gynaikas-sou-i-kardia-stauros-tou-notou-plus/",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:10:42.128Z"
+    }
+  },
+  "ilion-iasonallyliveatilionplus": {
+    "poster": {
+      "url": "https://tickets.public.gr/getattachment/f01fad21-8bc6-49e7-9e29-ff42f9cc7ed7/Iason-Ally-live-at-ILION-plus005c49ac-26f5-4232-83.png",
+      "sourceUrl": "https://tickets.public.gr/gr-el/tickets/music/iason-ally-album-release-show/?evId=959302",
+      "authority": "ticket",
+      "kind": "poster",
+      "checkedAt": "2026-10-30T14:10:42.128Z"
     }
   }
 }
