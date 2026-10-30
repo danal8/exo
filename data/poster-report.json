@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T14:12:05.519Z",
+  "checkedAt": "2026-10-30T14:17:43.652Z",
   "checked": 189,
   "repaired": [
     {
@@ -715,6 +715,12 @@
       "title": "Planet of Zeus",
       "url": "https://www.more.com/getattachment/e0ceca33-4896-4ff0-8b02-a4be85ea3b29",
       "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/"
+    },
+    {
+      "id": "music-11000131",
+      "title": "Κος Κ.: Γραμματόσημα",
+      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_66146_thumbnail.jpg",
+      "sourceUrl": "https://www.ticketservices.gr/event/parousiasi-diskou-kos-k-grammatoshma-theatro-nous/?lang=el"
     }
   ],
   "unresolved": [
@@ -765,10 +771,6 @@
     {
       "id": "music-11000102",
       "title": "Ρήσεις και ρωγμές - Αφιέρωμα στον György Kurtág"
-    },
-    {
-      "id": "music-11000131",
-      "title": "Κος Κ.: Γραμματόσημα"
     },
     {
       "id": "music-11000134",

@@ -33754,7 +33754,7 @@
       ],
       "scheduleKnown": true,
       "scheduleText": "12/11 Παρ. 8 μ.μ.",
-      "ticketUrl": null,
+      "ticketUrl": "https://www.ticketservices.gr/event/parousiasi-diskou-kos-k-grammatoshma-theatro-nous/?lang=el",
       "sources": [
         {
           "name": "Αθηνόραμα · μουσική",
@@ -33774,6 +33774,13 @@
         "checkedAt": "2026-10-30T13:02:13.230Z",
         "url": "https://www.athinorama.gr/music/gig/kos_k_grammatosima-11000131/",
         "result": "no-future-dated-event"
+      },
+      "poster": {
+        "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_66146_thumbnail.jpg",
+        "sourceUrl": "https://www.ticketservices.gr/event/parousiasi-diskou-kos-k-grammatoshma-theatro-nous/?lang=el",
+        "authority": "ticket",
+        "kind": "poster",
+        "checkedAt": "2026-10-30T14:17:43.651Z"
       }
     },
     {
