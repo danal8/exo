@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T14:04:41.731Z",
+  "checkedAt": "2026-10-30T14:13:49.764Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -15,54 +15,12 @@
     }
   ],
   "articlesChecked": 47,
-  "added": [
-    {
-      "id": "ath-10091613",
-      "title": "H Παρέλαση",
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3079981/i-parelasi-tis-loulas-anagnostaki/",
-      "author": "Τόνια Τσαμούρη",
-      "publishedAt": "2026-10-28"
-    },
-    {
-      "id": "ath-10088773",
-      "title": "Ιεροτελεστία",
-      "url": "https://greektheatrecritics.gr/kritikes/ierotelestia-tou-gkigiom-poua-se-skinothesia-christou-theodoridi-sti-nea-skini-nikos-kourkoulos-tou-ethnikou-theatrou/",
-      "author": "Ελένης Γκίνη",
-      "publishedAt": "2026-10-20"
-    },
-    {
-      "id": "ath-10091042",
-      "title": "McNeal",
-      "url": "https://greektheatrecritics.gr/kritikes/mcneal-tou-agiant-achtar-se-skinothesia-christou-sougari-sto-theatro-neos-akadimos/",
-      "author": "Τόνιας Τσαμούρη",
-      "publishedAt": "2026-10-20"
-    }
-  ],
+  "added": [],
   "updated": [],
   "candidates": [
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077975/kritiki-o-glaros-tou-tsexofallios/",
-      "title": "Ο Γλάρος",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
-      "title": "Μήδεια",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
-      "title": "Ίων",
-      "reason": "production-not-confirmed"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
       "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
-      "title": "Χάσαμε τη θεία Στοπ",
       "reason": "production-not-confirmed"
     },
     {
@@ -71,28 +29,13 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
-      "title": "Τρωάδες",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
+      "title": "Ίων",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
-      "title": "Ο υπηρέτης δύο αφεντάδων",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
-      "title": "Βάκχες",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
-      "title": "Αι γυμνισταί",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074433/3074433-ekabi---sti-skia-tis-politeias/",
-      "title": "Εκάβη - Στη σκιά της Πολιτείας",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
+      "title": "Χάσαμε τη θεία Στοπ",
       "reason": "production-not-confirmed"
     },
     {
@@ -101,13 +44,48 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
-      "title": "Πέρσες",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
+      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077975/kritiki-o-glaros-tou-tsexofallios/",
+      "title": "Ο Γλάρος",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
+      "title": "Βάκχες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
+      "title": "Μήδεια",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
+      "title": "Τρωάδες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074433/3074433-ekabi---sti-skia-tis-politeias/",
+      "title": "Εκάβη - Στη σκιά της Πολιτείας",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
+      "title": "Αι γυμνισταί",
       "reason": "production-not-confirmed"
     },
     {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
       "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
+      "title": "Πέρσες",
       "reason": "production-not-confirmed"
     },
     {
