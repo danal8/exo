@@ -7361,12 +7361,19 @@
   },
   "music-11000131": {
     "poster": {
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_66146_thumbnail.jpg",
+      "url": "https://www.ticketservices.gr/pictures/original/b_66147_or_Grammatosima%20S_uare_page-0001.jpg",
       "sourceUrl": "https://www.ticketservices.gr/event/parousiasi-diskou-kos-k-grammatoshma-theatro-nous/?lang=el",
       "authority": "ticket",
       "kind": "poster",
       "checkedAt": "2026-10-30T14:17:43.651Z"
     },
-    "ticketUrl": "https://www.ticketservices.gr/event/parousiasi-diskou-kos-k-grammatoshma-theatro-nous/?lang=el"
+    "ticketUrl": "https://www.ticketservices.gr/event/parousiasi-diskou-kos-k-grammatoshma-theatro-nous/?lang=el",
+    "dates": [
+      {
+        "date": "2026-11-06",
+        "time": "21:00"
+      }
+    ],
+    "scheduleText": "Παρασκευή 6 Νοεμβρίου 2026 · ντοκιμαντέρ 20:00, live 21:00"
   }
 }
