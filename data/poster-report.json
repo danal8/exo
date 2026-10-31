@@ -1,54 +1,12 @@
 {
-  "checkedAt": "2026-10-30T14:17:43.652Z",
+  "checkedAt": "2026-10-31T10:40:59.473Z",
   "checked": 189,
   "repaired": [
     {
-      "id": "sleaford-mods-floyd-2026",
-      "title": "Sleaford Mods",
-      "url": "https://www.more.com/getattachment/81ebc958-a55d-48eb-bed3-65f52df9826f",
-      "sourceUrl": "https://www.more.com/gr-el/music/sleaford-mods2026"
-    },
-    {
-      "id": "skinshape-gazarte-2026",
-      "title": "Skinshape",
-      "url": "https://www.more.com/getattachment/e7fc1414-4231-47c6-a82b-7108d67157eb",
-      "sourceUrl": "https://www.more.com/gr-el/music/skinshape-live-in-athens/"
-    },
-    {
-      "id": "goat-gazarte-2026",
-      "title": "GOAT",
-      "url": "https://www.more.com/getattachment/f066c147-ed7b-4d3f-96ad-19d7e9fea52a",
-      "sourceUrl": "https://www.more.com/gr-el/music/goat-live-in-athens/"
-    },
-    {
-      "id": "fifth-angel-gazarte-2026",
-      "title": "Fifth Angel",
-      "url": "https://www.more.com/getattachment/dbc8beb7-6f22-429e-8012-bae6cda814c0",
-      "sourceUrl": "https://www.more.com/gr-el/music/fifth-angel-us-40y-anniversary-tour/"
-    },
-    {
-      "id": "henge-gazarte-2026",
-      "title": "HENGE",
-      "url": "https://www.more.com/getattachment/06f8ad48-8c42-41a2-bcea-a1e2081dee1f",
-      "sourceUrl": "https://www.more.com/gr-el/music/henge-live-in-athens/"
-    },
-    {
-      "id": "sofia-manousaki-gazarte-2026",
-      "title": "Σοφία Μανουσάκη",
-      "url": "https://www.more.com/getattachment/31b1f2ea-b257-4c81-885c-d52a845d3e7d",
-      "sourceUrl": "https://www.more.com/gr-el/music/sofia-manousaki-gazarte/"
-    },
-    {
-      "id": "vapors-morphine-gazarte-2026",
-      "title": "Vapors of Morphine",
-      "url": "https://www.more.com/getattachment/342fc0cf-3666-47d1-be26-d404e634ca1a",
-      "sourceUrl": "https://www.more.com/gr-el/music/vapors-of-morphine-live-in-athens/"
-    },
-    {
-      "id": "slow-pilot-gazarte-2026",
-      "title": "Jeff Buckley’s Grace · Slow Pilot",
-      "url": "https://www.more.com/getattachment/7c6255ad-00c2-4447-aa1b-b1383be702b2",
-      "sourceUrl": "https://www.more.com/gr-el/music/jeff-buckleys-grace-performed-by-slow-pilot/"
+      "id": "sergian-gazarte-2026",
+      "title": "ΣΕΡΓΙΑΝ",
+      "url": "https://www.more.com/getattachment/9f8212aa-1fdc-4887-a767-01b57b274bc0",
+      "sourceUrl": "https://www.more.com/gr-el/music/sergian-live/"
     },
     {
       "id": "kronos-gazarte-2026",
@@ -57,10 +15,16 @@
       "sourceUrl": "https://www.more.com/gr-el/music/kronos-quartet/"
     },
     {
-      "id": "the-kvb-gazarte-2026",
-      "title": "The KVB",
-      "url": "https://www.more.com/getattachment/f19f70d6-3ac6-420a-9019-bb737d2cbb25",
-      "sourceUrl": "https://www.more.com/gr-el/music/the-kvb-live-stin-ellada/"
+      "id": "eleonora-manona-gazarte-2026",
+      "title": "Ελεονόρα Μανόνα",
+      "url": "https://www.more.com/getattachment/926412fa-2d29-4953-ae21-8ed593efabc0",
+      "sourceUrl": "https://www.more.com/gr-el/music/eleonora-manona-live/"
+    },
+    {
+      "id": "prong-gazarte-2026",
+      "title": "Prong",
+      "url": "https://www.more.com/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f",
+      "sourceUrl": "https://www.more.com/gr-el/music/prong-live-in-athens-gazarte-22/11/"
     },
     {
       "id": "uriah-heep-floyd-2026",
@@ -69,568 +33,118 @@
       "sourceUrl": "https://www.more.com/gr-el/music/uriah-heep2026"
     },
     {
-      "id": "stn-ριτααντωνοπουλουτησγυναικασσουηκαρδια",
-      "title": "ΡΙΤΑ ΑΝΤΩΝΟΠΟΥΛΟΥ Της Γυναίκας σου η Καρδιά",
-      "url": "https://www.more.com/getattachment/6aadde65-c75c-42e3-86e7-2ccef4c732a9/%CE%A1%CE%99%CE%A4%CE%91-%CE%91%CE%9D%CE%A4%CE%A9%CE%9D%CE%9F%CE%A0%CE%9F%CE%A5%CE%9B%CE%9F%CE%A5--%CE%A4%CE%B7%CF%82-%CE%93%CF%85%CE%BD%CE%B1%CE%B9%CE%BA%CE%B1%CF%82-%CF%83%CE%BF%CF%85-%CE%B7-%CE%9A%CE%B1%CF%81%CE%B4%CE%B9%CE%B1474f55.png",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/rita-antonopoulou-tis-gynaikas-sou-i-kardia-stauros-tou-notou-plus/"
+      "id": "arab-strap-gazarte-2026",
+      "title": "Arab Strap",
+      "url": "https://www.more.com/getattachment/5646bee7-ddfe-41a2-9e73-6b1926b4332d",
+      "sourceUrl": "https://www.more.com/gr-el/music/arab-strap-live-in-athens/"
     },
     {
-      "id": "stn-μαριανναπαπαθανασιουσταυροστουνοτου",
-      "title": "Μαριάννα Παπαθανασίου-Σταυρός του Νότου",
-      "url": "https://www.more.com/getattachment/c444b7b8-96be-42ea-aeeb-1b3d1443c7c6/play_image.png",
-      "sourceUrl": "https://www.more.com/gr-el/venues/stayros/"
-    },
-    {
-      "id": "ilion-iasonallyliveatilionplus",
-      "title": "Iason Ally live at ILION plus",
-      "url": "https://tickets.public.gr/getattachment/f01fad21-8bc6-49e7-9e29-ff42f9cc7ed7/Iason-Ally-live-at-ILION-plus005c49ac-26f5-4232-83.png",
-      "sourceUrl": "https://tickets.public.gr/gr-el/tickets/music/iason-ally-album-release-show/?evId=959302"
-    },
-    {
-      "id": "music-10083380",
-      "title": "«Franky meets Ella on the Orient Express»",
-      "url": "https://www.more.com/getattachment/E2935546-DF93-4C9C-B5D4-FD17DBD10045/evg_frankymeetsellaontheorien_1515_565.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-10087938",
-      "title": "Spyros Manesis Trio",
-      "url": "https://www.more.com/getattachment/27fce2c1-7575-482f-a9eb-de32716c3054/Spyros-Manesis-Triod4b67b20-702d-4553-ada6-fc4fa5d.png",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/spyros-manesis-trio-3/"
-    },
-    {
-      "id": "music-10090061",
-      "title": "Beat the room",
-      "url": "https://tickets.public.gr/getattachment/d79f4dcf-a90b-493a-ba2a-25bd92738143/play_image.png",
-      "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/"
-    },
-    {
-      "id": "music-10091025",
-      "title": "David Morales",
-      "url": "https://www.more.com/getattachment/6C45B83E-19CA-4D26-8EAF-6EFF26A36B4E/evg_davidmoralesisun1noviboli_0836_5278.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-10091686",
-      "title": "ÆDEN",
-      "url": "https://www.more.com/getattachment/04434A80-9FBF-4BFD-AD43-1FF3A3825F80/evg_anymapresentsaedeninathens_1516_1507.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-10091687",
-      "title": "Μάριος Φραγκούλης",
-      "url": "https://www.more.com/getattachment/6CD9ED72-519D-4834-B638-0AB07ED24D19/evg_mariosfrangoulisandhisbig_1802_1715.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-10091698",
-      "title": "Stand Up Με Τις Μπάντες",
-      "url": "https://www.more.com/getattachment/c07bffff-46cb-419c-8920-0d005cbbe0ab",
-      "sourceUrl": "https://www.more.com/gr-el/music/stand-up-me-tis-mpantes"
-    },
-    {
-      "id": "music-10091814",
-      "title": "Το αηδόνι του αυτοκράτορα",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67504_1.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gno-2626-to-aidoni-tou-aftokratora/?lang=el"
-    },
-    {
-      "id": "music-10091819",
-      "title": "«Στο μονοπάτι» – Mathieu Goust",
-      "url": "https://www.more.com/getattachment/4763c28a-924d-4f15-98b9-cb99d81887bc",
-      "sourceUrl": "https://www.more.com/gr-el/music/sto-monopati-mathieu-goust"
-    },
-    {
-      "id": "music-10091820",
-      "title": "Barry Wan + Marissa Bili + Emelie Sjöström",
-      "url": "https://www.more.com/getattachment/215debb8-d59a-4bb6-b13f-65578eee7b64",
-      "sourceUrl": "https://www.more.com/gr-el/music/barry-wan-marissa-bili-emelie-sjostrom"
-    },
-    {
-      "id": "music-10091838",
-      "title": "Κωστής",
-      "url": "https://www.more.com/getattachment/B67135FB-DC8E-4BEF-A8CD-BCF2187F77BF/evg_okosteslivestokuttaro_1443_3768.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-10091839",
-      "title": "Επίλογος",
-      "url": "https://www.more.com/site/images/blank16x9.png",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-10091848",
-      "title": "Δημήτρης Κίκλης",
-      "url": "https://www.more.com/getattachment/40127A15-C973-49D5-A026-3E704BC730D3/evg_demetreskikles-souare_1109_521.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000003",
-      "title": "Tsaki x Dof",
-      "url": "https://www.more.com/getattachment/0F756AF1-3621-4259-94D3-28A57143AB46/evg_tsakixdoflivestenathena_1747_4594.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000005",
-      "title": "Από την Σαπφώ στον Ελύτη",
-      "url": "https://www.more.com/getattachment/57ddfd1a-5ca6-49f1-a676-89140b3fdf49",
-      "sourceUrl": "https://www.more.com/gr-el/music/apo-tin-sapfo-ston-elyti"
-    },
-    {
-      "id": "music-11000006",
-      "title": "45 χρόνια Magic De Spell",
-      "url": "https://www.more.com/getattachment/0ebdc120-6125-472e-a89d-f2a9f2ebdd04",
-      "sourceUrl": "https://www.more.com/gr-el/music/45-xronia-magic-de-spell-1"
-    },
-    {
-      "id": "music-11000007",
-      "title": "Γιώργος Χατζηνάσιος - Γιώργος Θεοφάνους",
+      "id": "ilion-dramachinetheklammers",
+      "title": "DRAMACHINE × THE KLAMMERS",
       "url": "https://www.more.com/site/images/blank.png",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000011",
-      "title": "Halloween Live Chaos",
-      "url": "https://www.more.com/getattachment/f29c2372-425a-40ea-9e4c-97c7a42a5fcc",
-      "sourceUrl": "https://www.more.com/gr-el/music/halloween-live-chaos"
-    },
-    {
-      "id": "music-11000013",
-      "title": "Mareux",
-      "url": "https://www.more.com/getattachment/ac3dfe37-78df-47c3-a619-2180b29d510f",
-      "sourceUrl": "https://www.more.com/gr-el/music/mareux"
-    },
-    {
-      "id": "music-11000024",
-      "title": "So Fetch - 2000s Halloween Party",
-      "url": "https://www.more.com/getattachment/F504C74A-F7B0-4C79-AED3-C50CB5CDA6FF/evg_sofetch-2000shalloweenpar_1537_5933.png?width=300",
+      "id": "ilion-ολινατισεσυγκινησεliveatilionplus",
+      "title": "ΟΛΙΝΑ | «Τι σε συγκίνησε;» Live at Ilion Plus",
+      "url": "https://www.more.com/getattachment/E112336C-C510-4AE7-902E-25F2B6A0B72E/evg_olinaliveatilionplus_0821_2303.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000025",
-      "title": "N’Cheezed",
-      "url": "https://www.more.com/getattachment/4356FCFB-7F10-4FFE-85D4-060E523CA077/evg_ncheezedlive_0359_3608.png?width=300",
+      "id": "ilion-flemmaπαρουσιασηδισκου",
+      "title": "FLEMMA ΠΑΡΟΥΣΙΑΣΗ ΔΙΣΚΟΥ",
+      "url": "https://www.more.com/getattachment/8E1C934D-76B4-49EC-9260-F3B581DDCD47/evg_flemmaparousiasediskou_1525_5257.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000030",
-      "title": "Paris-Istanbul",
-      "url": "https://www.more.com/getattachment/757EA21F-C8ED-46EA-A3F6-A0D08FB4020B/evg_paris-istanbul8oskhronos_1705_565.png?width=300",
+      "id": "ilion-spikefuck",
+      "title": "SPIKE FUCK",
+      "url": "https://www.more.com/getattachment/40CF1994-4257-494C-8254-E24818A84942/evg_spikefuck_1145_3092.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000031",
-      "title": "Blues Wire",
-      "url": "https://www.more.com/getattachment/0DB0EE5D-9583-400E-99D7-0B2365CF51DE/evg_blueswirenickdounoussismg_0249_3608.png?width=300",
+      "id": "ilion-αντιλογικηστελευταιασυναυλια",
+      "title": "Αντί Λογικής - Τελευταία Συναυλία",
+      "url": "https://www.more.com/getattachment/160D475E-D0F0-41D2-A9C2-34BAB41AE3D2/evg_antilogikes-teleutaiasuna_1549_4879.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000033",
-      "title": "Στέφανος Κορκολής - Δημήτρης Μπάσης",
-      "url": "https://www.more.com/getattachment/3406DB66-2900-4F11-B5DE-C127DBFFE6CE/evg_stephanoskorkoles-demetre_1608_5514.png?width=300",
+      "id": "ilion-conceivevilespecieskabyahilionplus",
+      "title": "Conceive+Vile Species+Kab-Yah@ILION Plus",
+      "url": "https://www.more.com/getattachment/9627339B-E5D6-47C4-B30B-569EB4B13B2A/evg_conceivevilespecieskab-ya_1946_1669.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000034",
-      "title": "Let's SWING in NEW ORLEANS",
-      "url": "https://www.more.com/getattachment/A57FF12D-6DD5-4DA0-903E-E91D972E9419/evg_letsswinginneworleans_1733_565.png?width=300",
+      "id": "ilion-iasonallyliveatilionplus",
+      "title": "Iason Ally live at ILION plus",
+      "url": "https://www.more.com/getattachment/204B38FF-2C53-4C02-8406-47B4C3B33FF0/evg_iasonallyliveatilionplus_1231_5257.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000035",
-      "title": "Fuζion: A blending of Greek and French Rap Culture",
-      "url": "https://tickets.public.gr/getattachment/8af9d14e-16fb-41cb-aef5-01c2b3d479a8/play_image.png",
-      "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/"
-    },
-    {
-      "id": "music-11000037",
-      "title": "Seds Lifestyle pres. ØΤΤΑ",
-      "url": "https://www.more.com/getattachment/BEC9DCD4-DFA1-466D-ABE5-8096A9171588/evg_sedswithotta_1956_5873.png?width=300",
+      "id": "ilion-andrijπερααποτοπερασ",
+      "title": "ANDRI J - ΠΕΡΑ ΑΠΟ ΤΟ ΠΕΡΑΣ",
+      "url": "https://www.more.com/getattachment/AD535CE4-9DDF-4DE1-BE19-209E6D5580B4/evg_andrij-peraapotoperas_1225_4879.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000039",
-      "title": "Δημήτρης Κοργιαλάς",
-      "url": "https://www.more.com/getattachment/77d9ca18-d98a-4f40-b7d5-903c308f2edb/DIMITRIS-KORGIALASa5e4d490-a823-46da-8e84-530fa319.png",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/dimitris-korgialas-2/"
-    },
-    {
-      "id": "music-11000042",
-      "title": "422:Mass Halloween Edition",
-      "url": "https://www.more.com/getattachment/0F885738-3A9A-4530-8BA2-9E631F13A4CA/evg_30/10-auxclub-422masshall_0259_4676.png?width=300",
+      "id": "ilion-μχlonelyλδλμmessier13ilionplus",
+      "title": "ΜΧ Lonely + ΛΔΛΜ + Messier 13 @ ILION Plus",
+      "url": "https://www.more.com/getattachment/8792304E-4A40-47BC-8E47-57B6B8C521F9/evg_mkhlonelyldlmmessier13ili_1655_1669.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000044",
-      "title": "Melina Paxinos Quartet \"Muses\"",
-      "url": "https://www.more.com/getattachment/1192bb17-604c-42da-843e-93c741e20e3b",
-      "sourceUrl": "https://www.more.com/gr-el/music/melina-paxinos-quartet-muses"
-    },
-    {
-      "id": "music-11000045",
-      "title": "Φρόσω Στυλιανού & the AlternaDIVAS",
-      "url": "https://www.more.com/getattachment/fe73a33d-8cc4-42ae-a31b-1d4a26ae7a09",
-      "sourceUrl": "https://www.more.com/gr-el/music/froso-stylianou-the-alternadivas-1"
-    },
-    {
-      "id": "music-11000070",
-      "title": "Hidroliq-H3Q",
-      "url": "https://www.more.com/getattachment/76d270d1-e0da-41a9-a9a3-3dda640c7ce7",
-      "sourceUrl": "https://www.more.com/gr-el/music/offer/hidroliq-h3q"
-    },
-    {
-      "id": "music-11000071",
-      "title": "Vasilaraps Trio: «Διάλογοι με τον Εμράχ» + η χαμένη παρτιτούρα για βιολί",
-      "url": "https://www.more.com/getattachment/f7db6263-7193-4d83-a5fa-ebc38f8593ae",
-      "sourceUrl": "https://www.more.com/gr-el/music/vasilaraps-trio-dialogoi-me-ton-emrax-i-xameni-partitoura-gia-bioli"
-    },
-    {
-      "id": "music-11000072",
-      "title": "Παντελής Αμπαζής",
-      "url": "https://www.more.com/getattachment/C49B0A73-D30D-4B70-BD92-389FB97BBDB4/evg_pantelesampatzescalucacu_1648_5243.png?width=300",
+      "id": "ilion-thesilentrage",
+      "title": "The Silent Rage",
+      "url": "https://www.more.com/getattachment/97FD0409-C480-4992-9D98-5DA50F0C46E4/evg_thesilentrage_1250_5257.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000073",
-      "title": "Τρύφων Λάζος",
-      "url": "https://www.more.com/getattachment/bc5f5e28-42c7-4955-b3c7-5dfc761a52d1",
-      "sourceUrl": "https://www.more.com/gr-el/music/offer/tryfon-lazos"
-    },
-    {
-      "id": "music-11000074",
-      "title": "Black Mountain Journey",
-      "url": "https://www.more.com/getattachment/E3612F25-D724-4CFB-90EA-9BE0DE775B15/evg_blackmountainjourney_1202_1623.png?width=300",
+      "id": "ilion-μαριακουτσουρληilionplus",
+      "title": "ΜΑΡΙΑ ΚΟΥΤΣΟΥΡΛΗ | Ilion Plus",
+      "url": "https://www.more.com/getattachment/04A87768-506D-4F1C-B348-6E76D1A728BF/evg_mariakoutsourleilionplus_1322_4624.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000075",
-      "title": "Nasty Pills και Σοφία Αρβανίτη",
-      "url": "https://www.more.com/getattachment/A50B6D32-F640-451C-A7CB-904F3A1684ED/evg_nastypillssophiaarbanite_0942_667.png?width=300",
+      "id": "ilion-bruceliveilionplus",
+      "title": "Bruce live @ Ilion plus",
+      "url": "https://www.more.com/getattachment/C228E5C1-BC1B-47A3-A910-AF91DA71FA35/evg_bruceliveilionplus_1306_5257.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000077",
-      "title": "Clod Sweat",
-      "url": "https://www.more.com/getattachment/ED34A529-5C40-4879-AB0D-A40FD8D85693/evg_clodsweatthinlizzytribute_1612_5261.png?width=300",
+      "id": "ilion-nightkillsecularupheavalviciousvoid",
+      "title": "NIGHTKILL/SECULAR UPHEAVAL/VICIOUS VOID",
+      "url": "https://www.more.com/getattachment/4513C1C7-FF49-40B2-86A7-C9EC5B555445/evg_nightkill/secularupheaval_0818_5031.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000078",
-      "title": "The Horror Kiki Ball",
-      "url": "https://www.more.com/getattachment/71500148-3d2c-4e47-bec8-3556390c61a5",
-      "sourceUrl": "https://www.more.com/gr-el/music/the-horror-kiki-ball"
-    },
-    {
-      "id": "music-11000080",
-      "title": "Selini: \"Μόνοι Στο Σπίτι\"",
-      "url": "https://www.more.com/getattachment/4D975510-5BE2-482F-B40F-BA76D8243395/evg_selinimonoistospitiliveat_1325_3524.png?width=300",
+      "id": "ilion-davidshawandthebeatlive",
+      "title": "DAVID SHAW AND THE BEAT live",
+      "url": "https://www.more.com/getattachment/5E3B070F-4D79-4690-9A8D-3C3E5CF30E57/evg_davidshawandthebeatlive_2044_4970.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000081",
-      "title": "Phrenelith",
-      "url": "https://www.more.com/getattachment/7061E5B7-B2AD-4779-A810-455B7EFAFDBE/evg_phrenelithspecialguestsra_2352_3727.png?width=300",
+      "id": "ilion-μπεζεποχεσρετροιλιονplus",
+      "title": "ΜΠΕΖ ΕΠΟΧΕΣ & ΡΕΤΡΟ @ΙΛΙΟΝ plus",
+      "url": "https://www.more.com/getattachment/0ED45AF8-6CBF-47DD-BCB5-28FE566E2F06/evg_mpezepokhesretroilionplus_2133_5031.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-11000082",
-      "title": "Trashland Halloween",
-      "url": "https://www.more.com/getattachment/73b1a621-077f-4ec0-b752-6eaa170a4272",
-      "sourceUrl": "https://www.more.com/gr-el/music/trashland-halloween-1"
+      "id": "music-10091128",
+      "title": "Αφιέρωμα στον Μίκη Θεοδωράκη - Τραγουδά ο Θοδωρής Φέρρης",
+      "url": "https://www.more.com/getattachment/5ba2a80e-5197-4bca-95bb-cc0c23614833",
+      "sourceUrl": "https://www.more.com/gr-el/music/afieroma-ston-miki-theodoraki-tragouda-o-thodoris-ferris-1"
     },
     {
-      "id": "music-11000085",
-      "title": "Μεσόγειος",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67418_2.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gno-stephanos-thomopoulos/?lang=el"
-    },
-    {
-      "id": "music-11000091",
-      "title": "DA TI",
-      "url": "https://dynamicmedia.livenationinternational.com/t/x/r/7a7965e3-0039-49e1-af5e-97011708a09a.jpg",
-      "sourceUrl": "https://www.livenation.com.gr/events/da-ti-athens-tickets-edp1692509"
-    },
-    {
-      "id": "music-11000095",
-      "title": "2ο Διεθνές Φεστιβάλ Μουσικής Αθηνών",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67371_or_AIMF_banner_2026.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/2nd-athens-international-music-festival/?lang=el"
-    },
-    {
-      "id": "music-11000096",
-      "title": "Βασίλης Γκόφας",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_66490_or_Paroysiash_SEYGH_1020x408-01-01.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/baumstrasse-vassilis-gkofas-2026/?lang=el"
-    },
-    {
-      "id": "music-11000097",
-      "title": "BORAGO II",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67488_or_postttttt.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/baumstrasse-borago-ii/?lang=el"
-    },
-    {
-      "id": "music-11000098",
-      "title": "L' Anima della Musica - Η Ψυχή της Μουσικής",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67349_th8m.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/ioniko-kentro-l-anima-della-musica/?lang=el"
-    },
-    {
-      "id": "music-11000099",
-      "title": "Κρινιώ Νικολάου",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67900_or_banner.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gustav-krinio-nikolaou/?lang=el"
-    },
-    {
-      "id": "music-11000100",
-      "title": "Vironas Ntolas Quartet",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67128_or_30_10%20horrizontal.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/baumstrasse-vironas-ntolas-quartet/?lang=el"
-    },
-    {
-      "id": "music-11000101",
-      "title": "Dissonance Over Europe Part I",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67051_or_coroner.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gagarin-dissonance-over-europe-part-1/?lang=el"
-    },
-    {
-      "id": "music-11000103",
-      "title": "Ηχητικές πολυπλοκότητες - Αφιέρωμα στον György Ligeti",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67408_2.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gno-sonic-complexities/?lang=el"
-    },
-    {
-      "id": "music-11000105",
-      "title": "Ποιητικά ηχοτοπία: Η Χορωδία της ΕΡΤ συναντά την Ένωση Ελλήνων Μουσουργών",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67410_2.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gno-poetic-soundscapes/?lang=el"
-    },
-    {
-      "id": "music-11000106",
-      "title": "Re:Trace Kurtág",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67411_2.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gno-trace-kurtag/?lang=el"
-    },
-    {
-      "id": "music-11000107",
-      "title": "Η εξέγερση του κοντραμπάσου: Από τον μύθο στον λόγο",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67414_2.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gno-the-revolt-of-the-double-bass/?lang=el"
-    },
-    {
-      "id": "music-11000108",
-      "title": "Τόποι, μνήμες, Σειρήνες: Ρεσιτάλ βιολοντσέλου",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/main/main4_67415_2.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gno-places-memories-sirens/?lang=el"
-    },
-    {
-      "id": "music-11000133",
-      "title": "Στάθης Δρογώσης & Οδυσσέας Τσάκαλος",
-      "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_66971_or_DROSIS-CENTER.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/gustav-drogosis-tsakalos/?lang=el"
-    },
-    {
-      "id": "music-11000135",
-      "title": "Haig Yazdjian",
-      "url": "https://www.more.com/getattachment/7EC5D091-A77E-4002-AEA5-BCE8BD1EA148/evg_haigyazdjianlive_1255_899.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000136",
-      "title": "Delines Fest",
-      "url": "https://www.more.com/getattachment/A5014CEC-EE60-455A-B2C1-BBF2B332D8F9/evg_delinesfest_1607_854.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000138",
-      "title": "Usurum",
-      "url": "https://www.more.com/getattachment/48C57CAD-21A6-47FC-8775-0B9E8F0A7151/evg_usurumlivestokuttaro_1349_3768.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000139",
-      "title": "Μιχάλης Ρακιντζής",
-      "url": "https://www.more.com/getattachment/91FA6894-95D1-43A9-B602-DF75F536C06E/evg_mikhalesrakintzeslive_1423_521.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000140",
-      "title": "Paradise Lost",
-      "url": "https://www.more.com/getattachment/9CC4B136-C544-423C-B25A-BE01B18994D0/evg_paradiselost_1745_1839.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000142",
-      "title": "Άσαρκος \"Ρίμες εν Αθήναις\"",
-      "url": "https://www.more.com/getattachment/9BEA9491-CCAF-424D-947B-323B467A40B1/evg_asarkosrimesenathenaisliv_1222_4594.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000143",
-      "title": "Δημήτρης Μυστακίδης «30 χρόνια Μήτσος»",
-      "url": "https://www.more.com/getattachment/7972266B-6B60-4C75-841A-151320F5894D/evg_demetresmustakideslivesto_2316_3608.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000146",
-      "title": "Κροταλίας - Ενός λεπτού σιγή",
-      "url": "https://www.more.com/getattachment/2E2CA35E-A7F8-4ACE-9983-C0F3F3F22413/evg_krotaliasreleaseliveshowg_1335_3727.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000148",
-      "title": "Εύη Μάζη \"Beyond Time\"",
-      "url": "https://www.more.com/getattachment/55BC1575-A4F2-42EE-8C7D-2746A0175049/evg_euemazebeyondtime_1659_899.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000151",
-      "title": "Ari Hoenig Trio",
-      "url": "https://www.more.com/getattachment/619008EE-64DF-43DA-A821-1FE8D54DC7CF/evg_arihoenigtrio_1449_3472.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000154",
-      "title": "Billie Kark",
-      "url": "https://www.more.com/getattachment/1757CC69-9C59-43D1-B651-6399B8394DAC/evg_billiekarkatklakaz_1052_5944.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000156",
-      "title": "The Veils",
-      "url": "https://www.more.com/getattachment/611F71C6-E605-42C5-999F-E72C52357665/evg_theveilsnzliveinathens_1156_2659.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000157",
-      "title": "Blame It on the Bossa Nova",
-      "url": "https://www.more.com/getattachment/D050D66D-95D8-45ED-8305-3427D7D91D2A/evg_blameitonthebossanova_1547_565.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000158",
-      "title": "Trashformers",
-      "url": "https://www.more.com/getattachment/67467F17-975C-4E29-BD28-1B12C5781181/evg_trashformersliveatfuzzath_2140_750.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000160",
-      "title": "Kwoon",
-      "url": "https://www.more.com/getattachment/8AD1813F-6A2D-43E2-81AF-556085420C41/evg_kwoonliveinathens_1927_5209.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000161",
-      "title": "Αστέριος Πούφτης και Μαρία Μοσχίδου - Contacts",
-      "url": "https://www.more.com/getattachment/93BA1275-6A51-4437-BCB5-2BB01C38A288/evg_iridalibraryconcerts2026-_2310_2369.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000162",
-      "title": "Βασίλης Λέκκας ‘’Στον Αστερισμό του Τόλη’’",
-      "url": "https://www.more.com/getattachment/22CC8539-0B27-494C-86FC-6F82C2B7E032/evg_basileslekkas_1302_5243.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+      "id": "music-10090061",
+      "title": "Beat the room",
+      "url": "https://www.more.com/getattachment/d79f4dcf-a90b-493a-ba2a-25bd92738143",
+      "sourceUrl": "https://www.more.com/gr-el/music/beat-the-room-to-apolyto-game-show-back-to-90s/"
     },
     {
       "id": "music-11000163",
       "title": "Greek Rap",
-      "url": "https://tickets.public.gr/getattachment/8af9d14e-16fb-41cb-aef5-01c2b3d479a8/play_image.png",
-      "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/"
-    },
-    {
-      "id": "music-11000164",
-      "title": "Ζήνων",
-      "url": "https://www.more.com/getattachment/AFC9F2B6-3785-4ED5-9FE4-41018F7D8ECF/evg_zenonlivesethessalonikeka_1006_4594.png?width=300",
+      "url": "https://www.more.com/getattachment/E4A4BA86-A7EF-4772-A903-940F311516C6/evg_greekrapsaturdayinathens_1751_4879.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000165",
-      "title": "Breath After Coma, Snake Eyes (uk), Contra Limit",
-      "url": "https://www.more.com/getattachment/812C3350-4500-47F7-A4F3-228EF9AAEDD8/evg_reendlessbreathaftercomas_1535_4963.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000166",
-      "title": "ToTal ReCall",
-      "url": "https://www.more.com/getattachment/64BCB559-0B11-4398-86F3-E460E231706B/evg_totalrecall-thesoundtribu_1412_5261.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000167",
-      "title": "Sacrificial Death - Nekrolist - Standards of Brutality",
-      "url": "https://www.more.com/getattachment/3C2BA6AD-E09C-4595-B841-DE1A76DC4A9F/evg_sacrificialdeathnekrolist_1319_3727.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000170",
-      "title": "Ηχοχρωμίες - You Don’t Have to Die to Become",
-      "url": "https://www.more.com/getattachment/995A46D0-7314-433A-A97D-21D72AC84D59/evg_sunaulies_1558_1320.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000171",
-      "title": "Lambrakis + Abozekry + De Santis + Steiri + Papavassiliou + el Sabbagh",
-      "url": "https://www.more.com/getattachment/13E068EB-8474-4B0A-B080-2245CDD121FC/evg_lambrakisabozekrydesantis_0946_2340.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000172",
-      "title": "Selfish Limbs: \"Lefka Ori\" / Myrsini Kalle & Tilemachos Pouliasis",
-      "url": "https://www.more.com/getattachment/E83D455D-549D-4BAB-A4D1-F2E210D548B7/evg_selfishlimbs/kallepoulias_1006_2340.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000173",
-      "title": "Μια νότα, μια Φλόγα και χίλιες φωνές",
-      "url": "https://www.more.com/getattachment/76BB751A-5693-454F-B3E5-DD307CD2926F/evg_mianotamiaphlogakaikhilie_1041_3217.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000174",
-      "title": "The Future",
-      "url": "https://www.more.com/getattachment/4FE6F16C-D66C-4C69-A96B-99F1DF02E590/evg_thefuture-amusicomediashow_1213_2144.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000175",
-      "title": "Scientist",
-      "url": "https://www.more.com/getattachment/0466FFD7-EF65-4B84-A6EF-9D27DA80604E/evg_scientistjm-athensdubclub_1550_4963.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000178",
-      "title": "Μέρες Αργίας",
-      "url": "https://www.more.com/getattachment/2AB0BCA1-479E-451C-8460-B4BF9E545871/evg_meresargias-diaphanakrina_2039_949.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000179",
-      "title": "The Jazz Side of Mimis Plessas - Georgios Tsolis Quartet",
-      "url": "https://www.more.com/getattachment/68810DAD-D091-443D-95E6-5743BF22063E/evg_thejazzsideofmplessas-gts_1707_899.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-11000181",
-      "title": "Riot V - 50th Anniversary Tour",
-      "url": "https://www.more.com/getattachment/37FAEA24-9990-4620-99A1-4663974ED0EF/evg_riotv-angeloperlepesmyste_1139_1571.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "fuzz-entos-pediou-2026",
-      "title": "Σημάδι · Εντός Πεδίου",
-      "url": "https://www.more.com/getattachment/fec35333-e156-42af-be18-649b6549b7f4",
-      "sourceUrl": "https://www.more.com/gr-el/music/simadi-parousiasi-diskou-entos-pediou/"
-    },
-    {
-      "id": "fuzz-solstafir-2-2026",
-      "title": "Sólstafir",
-      "url": "https://www.more.com/getattachment/ff1408e7-2dbb-45fd-b1a6-fa18e53e8b11",
-      "sourceUrl": "https://www.more.com/gr-el/music/solstafir-greece/"
-    },
-    {
-      "id": "fuzz-ezhel-2026",
-      "title": "EZHEL",
-      "url": "https://www.more.com/getattachment/ce7b390a-0f02-49fd-8dc1-f375e91b9691",
-      "sourceUrl": "https://www.more.com/gr-el/music/ezhel-live-in-europe-2026/"
     },
     {
       "id": "fuzz-nile-2-2026",
@@ -639,22 +153,16 @@
       "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/"
     },
     {
-      "id": "fuzz-fundracar-2026",
-      "title": "FUNDRACAR",
-      "url": "https://www.more.com/getattachment/10c35207-2959-4db3-8774-d19316701bb5",
-      "sourceUrl": "https://www.more.com/gr-el/music/fundracar-15-xronia-plakosou/"
+      "id": "fuzz-ezhel-2026",
+      "title": "EZHEL",
+      "url": "https://www.more.com/getattachment/ce7b390a-0f02-49fd-8dc1-f375e91b9691",
+      "sourceUrl": "https://www.more.com/gr-el/music/ezhel-live-in-europe-2026/"
     },
     {
-      "id": "fuzz-nazareth-2026",
-      "title": "Nazareth",
-      "url": "https://www.more.com/getattachment/BDF896FF-C3CF-413E-B469-3DC6B32780C7/evg_nazarethathensfuzzclub_1730_4866.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "fuzz-nouvelle-vague-2026-2026",
-      "title": "Nouvelle Vague",
-      "url": "https://www.more.com/getattachment/ec64cd3e-48e0-47d0-86bf-fe8f9ce0269c",
-      "sourceUrl": "https://www.more.com/gr-el/music/nouvelle-vague-2/"
+      "id": "music-11000176",
+      "title": "JAM pedals",
+      "url": "https://www.more.com/getattachment/ab8ebb58-1d34-424e-8c73-91d8824d44ba",
+      "sourceUrl": "https://www.more.com/gr-el/music/jam-pedals-20years-anniversary-festival/"
     },
     {
       "id": "auto-d46d60d4f3033e",
@@ -663,10 +171,10 @@
       "sourceUrl": "https://www.more.com/gr-el/music/kreator-overkill/"
     },
     {
-      "id": "auto-0729132437c5be",
-      "title": "Belle & Sebastian",
-      "url": "https://www.more.com/getattachment/bf09cce4-3bbe-48f1-a01a-7a118f9b6758",
-      "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026"
+      "id": "auto-296185b5d17932",
+      "title": "Chelsea Wolfe",
+      "url": "https://www.more.com/getattachment/5bed9637-98e6-45d4-9cb3-d80e18547cd8",
+      "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/"
     },
     {
       "id": "auto-6a81d4a065f77a",
@@ -675,16 +183,16 @@
       "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark"
     },
     {
-      "id": "auto-f1b8024a835798",
-      "title": "Cabaret Voltaire",
-      "url": "https://www.more.com/getattachment/fa389e56-acfe-41b7-94f0-803aec9f7d90",
-      "sourceUrl": "https://www.more.com/gr-el/music/cabaret-voltaire/"
+      "id": "auto-9994a6978939c9",
+      "title": "Dylan Moran",
+      "url": "https://www.more.com/getattachment/989fbbb8-9ad1-45fc-bd43-d8eda240b9c9",
+      "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/"
     },
     {
-      "id": "auto-296185b5d17932",
-      "title": "Chelsea Wolfe",
-      "url": "https://www.more.com/getattachment/5bed9637-98e6-45d4-9cb3-d80e18547cd8",
-      "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/"
+      "id": "auto-0729132437c5be",
+      "title": "Belle & Sebastian",
+      "url": "https://www.more.com/getattachment/bf09cce4-3bbe-48f1-a01a-7a118f9b6758",
+      "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026"
     },
     {
       "id": "auto-66bbb2a096985d",
@@ -693,44 +201,36 @@
       "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026"
     },
     {
-      "id": "auto-ec7b804dbd21de",
-      "title": "Black Veil Brides / Special Guests: The Funeral Portrait & The Howling.",
-      "url": "https://www.more.com/getattachment/a1d84aee-7d8a-43cf-a142-addc9368d9d4",
-      "sourceUrl": "https://www.more.com/gr-el/music/black-veil-brides2027"
-    },
-    {
-      "id": "auto-9994a6978939c9",
-      "title": "Dylan Moran",
-      "url": "https://www.more.com/getattachment/989fbbb8-9ad1-45fc-bd43-d8eda240b9c9",
-      "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/"
-    },
-    {
       "id": "auto-c49979ba0d5e9a",
       "title": "SOEN",
       "url": "https://www.more.com/getattachment/29fb6ac3-1a08-4826-86e6-662784fb6520",
       "sourceUrl": "https://www.more.com/gr-el/music/soen/2027"
-    },
-    {
-      "id": "auto-de6ea6b14fb259",
-      "title": "Planet of Zeus",
-      "url": "https://www.more.com/getattachment/e0ceca33-4896-4ff0-8b02-a4be85ea3b29",
-      "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/"
-    },
-    {
-      "id": "music-11000131",
-      "title": "Κος Κ.: Γραμματόσημα",
-      "url": "https://www.ticketservices.gr/pictures/original/b_66147_or_Grammatosima%20S_uare_page-0001.jpg",
-      "sourceUrl": "https://www.ticketservices.gr/event/parousiasi-diskou-kos-k-grammatoshma-theatro-nous/?lang=el"
     }
   ],
   "unresolved": [
     {
-      "id": "music-10058532",
-      "title": "Nine Below Zero"
+      "id": "emmet-cohen-gazarte-2026",
+      "title": "Emmet Cohen"
     },
     {
-      "id": "music-10091128",
-      "title": "Αφιέρωμα στον Μίκη Θεοδωράκη - Τραγουδά ο Θοδωρής Φέρρης"
+      "id": "mercury-rev-gazarte-2026",
+      "title": "Mercury Rev"
+    },
+    {
+      "id": "ilion-bangiesliveilionplus",
+      "title": "Bangies live @ ilion plus"
+    },
+    {
+      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
+      "title": "ΧΡΗΣΤΟΣ ΒΕΡΓΟΣ ΙΛΙΟΝ PLUS - (ΑΘΗΝΑ)"
+    },
+    {
+      "id": "ilion-ablendingofgreekandfrenchrapculture",
+      "title": "A blending of Greek and French Rap Culture"
+    },
+    {
+      "id": "music-10058532",
+      "title": "Nine Below Zero"
     },
     {
       "id": "music-10091429",
@@ -745,24 +245,32 @@
       "title": "Ο Νι Ταφ Μι με τη Συμφωνική Ορχήστρα Δήμου Αθηναίων"
     },
     {
-      "id": "music-10091924",
-      "title": "Ελονώρα Ζουγανέλη"
-    },
-    {
       "id": "music-11000004",
       "title": "Dievers Halloween Party"
+    },
+    {
+      "id": "music-10091924",
+      "title": "Ελονώρα Ζουγανέλη"
     },
     {
       "id": "music-11000083",
       "title": "Ρώσοι - Υπέροχοι και Άγνωστοι"
     },
     {
+      "id": "music-11000087",
+      "title": "Συνηχήσεις"
+    },
+    {
+      "id": "music-11000035",
+      "title": "Fuζion: A blending of Greek and French Rap Culture"
+    },
+    {
       "id": "music-11000086",
       "title": "Μιράντα Βερούλη"
     },
     {
-      "id": "music-11000087",
-      "title": "Συνηχήσεις"
+      "id": "music-11000091",
+      "title": "DA TI"
     },
     {
       "id": "music-11000088",
@@ -787,7 +295,11 @@
     {
       "id": "baraki-papanikolaou-2026",
       "title": "Γιάννης Παπανικολάου"
+    },
+    {
+      "id": "apanemia-vasileiou-matzilis-2026",
+      "title": "Λάμπρος Βασιλείου & Θάνος Ματζίλης"
     }
   ],
-  "notes": "Ticket posters were checked through public ticket pages, direct image responses, and browser inspection. Missing and unconfirmed images are not treated as verified."
+  "failures": []
 }
