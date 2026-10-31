@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-30T22:38:06.848Z",
+  "checkedAt": "2026-10-31T06:15:55.174Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -19,18 +19,13 @@
   "updated": [],
   "candidates": [
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
+      "title": "Ίων",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
       "title": "Μήδεια",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077975/kritiki-o-glaros-tou-tsexofallios/",
-      "title": "Ο Γλάρος",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
-      "title": "Άλκηστις",
       "reason": "production-not-confirmed"
     },
     {
@@ -39,23 +34,28 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077975/kritiki-o-glaros-tou-tsexofallios/",
+      "title": "Ο Γλάρος",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
       "title": "Ο υπηρέτης δύο αφεντάδων",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
-      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
-      "title": "Ίων",
-      "reason": "production-not-confirmed"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
       "title": "Βάκχες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
+      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
+      "title": "Άλκηστις",
       "reason": "production-not-confirmed"
     },
     {
@@ -69,23 +69,23 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
-      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
-      "reason": "production-not-confirmed"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
       "title": "Πέρσες",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074433/3074433-ekabi---sti-skia-tis-politeias/",
-      "title": "Εκάβη - Στη σκιά της Πολιτείας",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
+      "title": "Αι γυμνισταί",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
-      "title": "Αι γυμνισταί",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
+      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074433/3074433-ekabi---sti-skia-tis-politeias/",
+      "title": "Εκάβη - Στη σκιά της Πολιτείας",
       "reason": "production-not-confirmed"
     }
   ],
