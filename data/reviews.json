@@ -125,7 +125,21 @@
         "type": "editorial",
         "checkedAt": "2026-10-30T14:04:41.731Z"
       }
+    ],
+    "ath-10089076": [
+      {
+        "author": "Μαρία Κρύου",
+        "publishedAt": "2026-11-01",
+        "url": "https://www.athinorama.gr/theatre/theatre-reviews/3080290/3080290-i-katarreusi/",
+        "source": "athinorama.gr",
+        "summary": "O Γιώργος Σίμωνας και η ομάδα Νοσταλγία παρουσιάζουν στο Rabbithole την \"Κατάρρευση\", βασισμένη στο ομώνυμο διήγημα του Φ. Σ. Φιτζέραλντ…",
+        "score": 4,
+        "scale": 5,
+        "id": "review-ad4f2c9b3c168b6b",
+        "type": "editorial",
+        "checkedAt": "2026-11-01T06:49:33.948Z"
+      }
     ]
   },
-  "checkedAt": "2026-10-31T21:51:06.012Z"
+  "checkedAt": "2026-11-01T06:49:33.948Z"
 }
