@@ -1,30 +1,48 @@
 {
-  "checkedAt": "2026-10-31T10:40:59.473Z",
+  "checkedAt": "2026-11-01T11:32:11.786Z",
   "checked": 189,
   "repaired": [
     {
-      "id": "sergian-gazarte-2026",
-      "title": "ΣΕΡΓΙΑΝ",
-      "url": "https://www.more.com/getattachment/9f8212aa-1fdc-4887-a767-01b57b274bc0",
-      "sourceUrl": "https://www.more.com/gr-el/music/sergian-live/"
+      "id": "fifth-angel-gazarte-2026",
+      "title": "Fifth Angel",
+      "url": "https://www.more.com/getattachment/DBC8BEB7-6F22-429E-8012-BAE6CDA814C0/evg_fifthangelus40yanniversar_1732_4551.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+    },
+    {
+      "id": "sleaford-mods-floyd-2026",
+      "title": "Sleaford Mods",
+      "url": "https://www.more.com/getattachment/81EBC958-A55D-48EB-BED3-65F52DF9826F/evg_sleafordmods_1234_750.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+    },
+    {
+      "id": "vapors-morphine-gazarte-2026",
+      "title": "Vapors of Morphine",
+      "url": "https://www.more.com/getattachment/342FC0CF-3666-47D1-BE26-D404E634CA1A/evg_vaporsofmorphineliveinath_1632_1881.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
       "id": "kronos-gazarte-2026",
       "title": "Kronos Quartet",
-      "url": "https://www.more.com/getattachment/2109e5f7-b0df-40af-936f-df2b3264d2ad",
-      "sourceUrl": "https://www.more.com/gr-el/music/kronos-quartet/"
+      "url": "https://www.more.com/getattachment/2109E5F7-B0DF-40AF-936F-DF2B3264D2AD/evg_kronosquartet_1233_1881.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "eleonora-manona-gazarte-2026",
-      "title": "Ελεονόρα Μανόνα",
-      "url": "https://www.more.com/getattachment/926412fa-2d29-4953-ae21-8ed593efabc0",
-      "sourceUrl": "https://www.more.com/gr-el/music/eleonora-manona-live/"
+      "id": "the-kvb-gazarte-2026",
+      "title": "The KVB",
+      "url": "https://www.more.com/getattachment/f19f70d6-3ac6-420a-9019-bb737d2cbb25",
+      "sourceUrl": "https://www.more.com/gr-el/music/the-kvb-live-stin-ellada/"
     },
     {
-      "id": "prong-gazarte-2026",
-      "title": "Prong",
-      "url": "https://www.more.com/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f",
-      "sourceUrl": "https://www.more.com/gr-el/music/prong-live-in-athens-gazarte-22/11/"
+      "id": "slow-pilot-gazarte-2026",
+      "title": "Jeff Buckley’s Grace · Slow Pilot",
+      "url": "https://www.more.com/getattachment/7C6255AD-00C2-4447-AA1B-B1383BE702B2/evg_jeffbuckleysgraceperforme_1020_4551.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+    },
+    {
+      "id": "sofia-manousaki-gazarte-2026",
+      "title": "Σοφία Μανουσάκη",
+      "url": "https://www.more.com/getattachment/0E5A7127-7747-4CEC-8313-B164620DB6E4/evg_sophiamanousake-khania_2044_5567.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
       "id": "uriah-heep-floyd-2026",
@@ -33,16 +51,46 @@
       "sourceUrl": "https://www.more.com/gr-el/music/uriah-heep2026"
     },
     {
-      "id": "arab-strap-gazarte-2026",
-      "title": "Arab Strap",
-      "url": "https://www.more.com/getattachment/5646bee7-ddfe-41a2-9e73-6b1926b4332d",
-      "sourceUrl": "https://www.more.com/gr-el/music/arab-strap-live-in-athens/"
+      "id": "stn-δημητρησζερβουδακησ",
+      "title": "ΔΗΜΗΤΡΗΣ ΖΕΡΒΟΥΔΑΚΗΣ",
+      "url": "https://www.more.com/getattachment/6E08054D-2A6E-45A4-BA46-3EA995A0744F/evg_demetreszerboudakes_1954_1512.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "ilion-dramachinetheklammers",
-      "title": "DRAMACHINE × THE KLAMMERS",
-      "url": "https://www.more.com/site/images/blank.png",
+      "id": "stn-μαριανναπαπαθανασιουσταυροστουνοτου",
+      "title": "Μαριάννα Παπαθανασίου-Σταυρός του Νότου",
+      "url": "https://www.more.com/getattachment/c444b7b8-96be-42ea-aeeb-1b3d1443c7c6",
+      "sourceUrl": "https://www.more.com/gr-el/music/marianna-papathanasiou-stavros-tou-notou/"
+    },
+    {
+      "id": "stn-papazoχωρισφτερα",
+      "title": "PAPAZÓ «ΧΩΡΙΣ ΦΤΕΡΑ»",
+      "url": "https://www.more.com/getattachment/1465B946-AA60-4306-A7CF-5FE52023B5FA/evg_papazokhorisphtera_1224_5119.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+    },
+    {
+      "id": "stn-τακοριτσιατουαυγουστου",
+      "title": "ΤΑ ΚΟΡΙΤΣΙΑ ΤΟΥ ΑΥΓΟΥΣΤΟΥ",
+      "url": "https://www.more.com/getattachment/F3D8A14A-666C-4F12-9C51-321062EB8C05/evg_takoritsiatouaugoustou_1344_1512.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+    },
+    {
+      "id": "stn-δημητρησσαμολησlive",
+      "title": "ΔΗΜΗΤΡΗΣ ΣΑΜΟΛΗΣ LIVE",
+      "url": "https://www.more.com/getattachment/97964947-ce63-45f7-9f17-79f351bcb517",
+      "sourceUrl": "https://www.more.com/gr-el/music/dimitris-samolis-live-2/"
+    },
+    {
+      "id": "stn-ιουλιακαραπατακησταυροστουνοτου",
+      "title": "ΙΟΥΛΙΑ ΚΑΡΑΠΑΤΑΚΗ | ΣΤΑΥΡΟΣ ΤΟΥ ΝΟΤΟΥ",
+      "url": "https://www.more.com/getattachment/ccf10bc3-ff4f-42a6-805a-b5c9bf715689",
+      "sourceUrl": "https://www.more.com/gr-el/music/ioulia-karapataki-stauros-tou-notou-10/"
+    },
+    {
+      "id": "stn-δημητρησγαλακτοπουλοσ",
+      "title": "ΔΗΜΗΤΡΗΣ ΓΑΛΑΚΤΟΠΟΥΛΟΣ",
+      "url": "https://www.more.com/getattachment/bbefeb74-7417-446f-b6b2-3991fc4d26f0",
+      "sourceUrl": "https://www.more.com/gr-el/music/dimitris-galaktopoulos-stauros-tou-notou-club/"
     },
     {
       "id": "ilion-ολινατισεσυγκινησεliveatilionplus",
@@ -54,12 +102,6 @@
       "id": "ilion-flemmaπαρουσιασηδισκου",
       "title": "FLEMMA ΠΑΡΟΥΣΙΑΣΗ ΔΙΣΚΟΥ",
       "url": "https://www.more.com/getattachment/8E1C934D-76B4-49EC-9260-F3B581DDCD47/evg_flemmaparousiasediskou_1525_5257.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-spikefuck",
-      "title": "SPIKE FUCK",
-      "url": "https://www.more.com/getattachment/40CF1994-4257-494C-8254-E24818A84942/evg_spikefuck_1145_3092.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
@@ -75,39 +117,9 @@
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "ilion-iasonallyliveatilionplus",
-      "title": "Iason Ally live at ILION plus",
-      "url": "https://www.more.com/getattachment/204B38FF-2C53-4C02-8406-47B4C3B33FF0/evg_iasonallyliveatilionplus_1231_5257.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-andrijπερααποτοπερασ",
-      "title": "ANDRI J - ΠΕΡΑ ΑΠΟ ΤΟ ΠΕΡΑΣ",
-      "url": "https://www.more.com/getattachment/AD535CE4-9DDF-4DE1-BE19-209E6D5580B4/evg_andrij-peraapotoperas_1225_4879.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-μχlonelyλδλμmessier13ilionplus",
-      "title": "ΜΧ Lonely + ΛΔΛΜ + Messier 13 @ ILION Plus",
-      "url": "https://www.more.com/getattachment/8792304E-4A40-47BC-8E47-57B6B8C521F9/evg_mkhlonelyldlmmessier13ili_1655_1669.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
       "id": "ilion-thesilentrage",
       "title": "The Silent Rage",
       "url": "https://www.more.com/getattachment/97FD0409-C480-4992-9D98-5DA50F0C46E4/evg_thesilentrage_1250_5257.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-μαριακουτσουρληilionplus",
-      "title": "ΜΑΡΙΑ ΚΟΥΤΣΟΥΡΛΗ | Ilion Plus",
-      "url": "https://www.more.com/getattachment/04A87768-506D-4F1C-B348-6E76D1A728BF/evg_mariakoutsourleilionplus_1322_4624.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-bruceliveilionplus",
-      "title": "Bruce live @ Ilion plus",
-      "url": "https://www.more.com/getattachment/C228E5C1-BC1B-47A3-A910-AF91DA71FA35/evg_bruceliveilionplus_1306_5257.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
@@ -117,40 +129,46 @@
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "ilion-davidshawandthebeatlive",
-      "title": "DAVID SHAW AND THE BEAT live",
-      "url": "https://www.more.com/getattachment/5E3B070F-4D79-4690-9A8D-3C3E5CF30E57/evg_davidshawandthebeatlive_2044_4970.png?width=300",
+      "id": "music-10087938",
+      "title": "Spyros Manesis Trio",
+      "url": "https://www.more.com/getattachment/2e591faf-b58b-4fa4-bb2d-8f564448499a",
+      "sourceUrl": "https://www.more.com/gr-el/music/spyros-manesis-trio-3"
+    },
+    {
+      "id": "music-11000013",
+      "title": "Mareux",
+      "url": "https://www.more.com/getattachment/AC3DFE37-78DF-47C3-A619-2180B29D510F/evg_mareux_1356_750.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "ilion-μπεζεποχεσρετροιλιονplus",
-      "title": "ΜΠΕΖ ΕΠΟΧΕΣ & ΡΕΤΡΟ @ΙΛΙΟΝ plus",
-      "url": "https://www.more.com/getattachment/0ED45AF8-6CBF-47DD-BCB5-28FE566E2F06/evg_mpezepokhesretroilionplus_2133_5031.png?width=300",
+      "id": "music-10091698",
+      "title": "Stand Up Με Τις Μπάντες",
+      "url": "https://www.more.com/getattachment/C07BFFFF-46CB-419C-8920-0D005CBBE0AB/evg_standupmetismpantes_1526_3768.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "music-10091128",
-      "title": "Αφιέρωμα στον Μίκη Θεοδωράκη - Τραγουδά ο Θοδωρής Φέρρης",
-      "url": "https://www.more.com/getattachment/5ba2a80e-5197-4bca-95bb-cc0c23614833",
-      "sourceUrl": "https://www.more.com/gr-el/music/afieroma-ston-miki-theodoraki-tragouda-o-thodoris-ferris-1"
-    },
-    {
-      "id": "music-10090061",
-      "title": "Beat the room",
-      "url": "https://www.more.com/getattachment/d79f4dcf-a90b-493a-ba2a-25bd92738143",
-      "sourceUrl": "https://www.more.com/gr-el/music/beat-the-room-to-apolyto-game-show-back-to-90s/"
-    },
-    {
-      "id": "music-11000163",
-      "title": "Greek Rap",
-      "url": "https://www.more.com/getattachment/E4A4BA86-A7EF-4772-A903-940F311516C6/evg_greekrapsaturdayinathens_1751_4879.png?width=300",
+      "id": "music-11000005",
+      "title": "Από την Σαπφώ στον Ελύτη",
+      "url": "https://www.more.com/getattachment/57DDFD1A-5CA6-49F1-A676-89140B3FDF49/evg_apotensapphostonelute_1641_5422.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
-      "id": "fuzz-nile-2-2026",
-      "title": "NILE",
-      "url": "https://www.more.com/getattachment/df4f9815-4637-4196-bd0d-d37acb3bb2e6",
-      "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/"
+      "id": "music-11000071",
+      "title": "Vasilaraps Trio: «Διάλογοι με τον Εμράχ» + η χαμένη παρτιτούρα για βιολί",
+      "url": "https://www.more.com/site/images/blank16x9.png",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+    },
+    {
+      "id": "fuzz-nazareth-2026",
+      "title": "Nazareth",
+      "url": "https://www.more.com/getattachment/BDF896FF-C3CF-413E-B469-3DC6B32780C7/evg_nazarethathensfuzzclub_1730_4866.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+    },
+    {
+      "id": "fuzz-nouvelle-vague-2026-2026",
+      "title": "Nouvelle Vague",
+      "url": "https://www.more.com/getattachment/EC64CD3E-48E0-47D0-86BF-FE8F9CE0269C/evg_nouvellevague_2106_1249.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
       "id": "fuzz-ezhel-2026",
@@ -159,10 +177,28 @@
       "sourceUrl": "https://www.more.com/gr-el/music/ezhel-live-in-europe-2026/"
     },
     {
-      "id": "music-11000176",
-      "title": "JAM pedals",
-      "url": "https://www.more.com/getattachment/ab8ebb58-1d34-424e-8c73-91d8824d44ba",
-      "sourceUrl": "https://www.more.com/gr-el/music/jam-pedals-20years-anniversary-festival/"
+      "id": "fuzz-solstafir-2-2026",
+      "title": "Sólstafir",
+      "url": "https://www.more.com/getattachment/ff1408e7-2dbb-45fd-b1a6-fa18e53e8b11",
+      "sourceUrl": "https://www.more.com/gr-el/music/solstafir-greece/"
+    },
+    {
+      "id": "fuzz-nile-2-2026",
+      "title": "NILE",
+      "url": "https://www.more.com/getattachment/df4f9815-4637-4196-bd0d-d37acb3bb2e6",
+      "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/"
+    },
+    {
+      "id": "auto-0729132437c5be",
+      "title": "Belle & Sebastian",
+      "url": "https://www.more.com/getattachment/BF09CCE4-3BBE-48F1-A01A-7A118F9B6758/evg_bellesebastian_0755_750.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+    },
+    {
+      "id": "fuzz-fundracar-2026",
+      "title": "FUNDRACAR",
+      "url": "https://www.more.com/getattachment/10c35207-2959-4db3-8774-d19316701bb5",
+      "sourceUrl": "https://www.more.com/gr-el/music/fundracar-15-xronia-plakosou/"
     },
     {
       "id": "auto-d46d60d4f3033e",
@@ -171,16 +207,28 @@
       "sourceUrl": "https://www.more.com/gr-el/music/kreator-overkill/"
     },
     {
-      "id": "auto-296185b5d17932",
-      "title": "Chelsea Wolfe",
-      "url": "https://www.more.com/getattachment/5bed9637-98e6-45d4-9cb3-d80e18547cd8",
-      "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/"
-    },
-    {
       "id": "auto-6a81d4a065f77a",
       "title": "Eddie Dark",
       "url": "https://www.more.com/getattachment/f63ce783-5dae-4548-9997-2b9203373afc",
       "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark"
+    },
+    {
+      "id": "auto-f1b8024a835798",
+      "title": "Cabaret Voltaire",
+      "url": "https://www.more.com/getattachment/fa389e56-acfe-41b7-94f0-803aec9f7d90",
+      "sourceUrl": "https://www.more.com/gr-el/music/cabaret-voltaire/"
+    },
+    {
+      "id": "auto-ec7b804dbd21de",
+      "title": "Black Veil Brides / Special Guests: The Funeral Portrait & The Howling.",
+      "url": "https://www.more.com/getattachment/A1D84AEE-7D8A-43CF-A142-ADDC9368D9D4/evg_blackveilbrides_1418_750.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
+    },
+    {
+      "id": "auto-de6ea6b14fb259",
+      "title": "Planet of Zeus",
+      "url": "https://www.more.com/getattachment/e0ceca33-4896-4ff0-8b02-a4be85ea3b29",
+      "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/"
     },
     {
       "id": "auto-9994a6978939c9",
@@ -189,10 +237,10 @@
       "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/"
     },
     {
-      "id": "auto-0729132437c5be",
-      "title": "Belle & Sebastian",
-      "url": "https://www.more.com/getattachment/bf09cce4-3bbe-48f1-a01a-7a118f9b6758",
-      "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026"
+      "id": "auto-c49979ba0d5e9a",
+      "title": "SOEN",
+      "url": "https://www.more.com/getattachment/29FB6AC3-1A08-4826-86E6-662784FB6520/evg_soen_1232_750.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     },
     {
       "id": "auto-66bbb2a096985d",
@@ -201,13 +249,17 @@
       "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026"
     },
     {
-      "id": "auto-c49979ba0d5e9a",
-      "title": "SOEN",
-      "url": "https://www.more.com/getattachment/29fb6ac3-1a08-4826-86e6-662784fb6520",
-      "sourceUrl": "https://www.more.com/gr-el/music/soen/2027"
+      "id": "auto-296185b5d17932",
+      "title": "Chelsea Wolfe",
+      "url": "https://www.more.com/getattachment/5BED9637-98E6-45D4-9CB3-D80E18547CD8/evg_chelseawolfe_1442_750.png?width=300",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     }
   ],
   "unresolved": [
+    {
+      "id": "goat-gazarte-2026",
+      "title": "GOAT"
+    },
     {
       "id": "emmet-cohen-gazarte-2026",
       "title": "Emmet Cohen"
@@ -217,24 +269,76 @@
       "title": "Mercury Rev"
     },
     {
+      "id": "henge-gazarte-2026",
+      "title": "HENGE"
+    },
+    {
+      "id": "stn-γιωτανεγκακωσταστριανταφυλλιδησ",
+      "title": "ΓΙΩΤΑ ΝΕΓΚΑ - ΚΩΣΤΑΣ ΤΡΙΑΝΤΑΦΥΛΛΙΔΗΣ"
+    },
+    {
+      "id": "stn-γιωργοσδημητριου",
+      "title": "ΓΙΩΡΓΟΣ ΔΗΜΗΤΡΙΟΥ"
+    },
+    {
       "id": "ilion-bangiesliveilionplus",
       "title": "Bangies live @ ilion plus"
     },
     {
-      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
-      "title": "ΧΡΗΣΤΟΣ ΒΕΡΓΟΣ ΙΛΙΟΝ PLUS - (ΑΘΗΝΑ)"
+      "id": "stn-alexsidεβελυνασουαντ",
+      "title": "ALEX SID & ΕΒΕΛΥΝ ΑΣΟΥΑΝΤ"
     },
     {
       "id": "ilion-ablendingofgreekandfrenchrapculture",
       "title": "A blending of Greek and French Rap Culture"
     },
     {
+      "id": "ilion-dramachinetheklammers",
+      "title": "DRAMACHINE × THE KLAMMERS"
+    },
+    {
+      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
+      "title": "ΧΡΗΣΤΟΣ ΒΕΡΓΟΣ ΙΛΙΟΝ PLUS - (ΑΘΗΝΑ)"
+    },
+    {
+      "id": "ilion-spikefuck",
+      "title": "SPIKE FUCK"
+    },
+    {
+      "id": "ilion-andrijπερααποτοπερασ",
+      "title": "ANDRI J - ΠΕΡΑ ΑΠΟ ΤΟ ΠΕΡΑΣ"
+    },
+    {
+      "id": "ilion-bruceliveilionplus",
+      "title": "Bruce live @ Ilion plus"
+    },
+    {
+      "id": "ilion-μχlonelyλδλμmessier13ilionplus",
+      "title": "ΜΧ Lonely + ΛΔΛΜ + Messier 13 @ ILION Plus"
+    },
+    {
       "id": "music-10058532",
       "title": "Nine Below Zero"
     },
     {
+      "id": "ilion-μαριακουτσουρληilionplus",
+      "title": "ΜΑΡΙΑ ΚΟΥΤΣΟΥΡΛΗ | Ilion Plus"
+    },
+    {
       "id": "music-10091429",
       "title": "Biased Beast"
+    },
+    {
+      "id": "ilion-davidshawandthebeatlive",
+      "title": "DAVID SHAW AND THE BEAT live"
+    },
+    {
+      "id": "ilion-μπεζεποχεσρετροιλιονplus",
+      "title": "ΜΠΕΖ ΕΠΟΧΕΣ & ΡΕΤΡΟ @ΙΛΙΟΝ plus"
+    },
+    {
+      "id": "music-10091686",
+      "title": "ÆDEN"
     },
     {
       "id": "music-10091831",
@@ -245,24 +349,60 @@
       "title": "Ο Νι Ταφ Μι με τη Συμφωνική Ορχήστρα Δήμου Αθηναίων"
     },
     {
+      "id": "music-10091924",
+      "title": "Ελονώρα Ζουγανέλη"
+    },
+    {
+      "id": "music-10091128",
+      "title": "Αφιέρωμα στον Μίκη Θεοδωράκη - Τραγουδά ο Θοδωρής Φέρρης"
+    },
+    {
       "id": "music-11000004",
       "title": "Dievers Halloween Party"
     },
     {
-      "id": "music-10091924",
-      "title": "Ελονώρα Ζουγανέλη"
+      "id": "music-11000011",
+      "title": "Halloween Live Chaos"
+    },
+    {
+      "id": "music-11000030",
+      "title": "Paris-Istanbul"
+    },
+    {
+      "id": "music-11000031",
+      "title": "Blues Wire"
+    },
+    {
+      "id": "music-11000035",
+      "title": "Fuζion: A blending of Greek and French Rap Culture"
+    },
+    {
+      "id": "music-11000037",
+      "title": "Seds Lifestyle pres. ØΤΤΑ"
+    },
+    {
+      "id": "music-11000042",
+      "title": "422:Mass Halloween Edition"
+    },
+    {
+      "id": "music-11000081",
+      "title": "Phrenelith"
     },
     {
       "id": "music-11000083",
       "title": "Ρώσοι - Υπέροχοι και Άγνωστοι"
     },
     {
-      "id": "music-11000087",
-      "title": "Συνηχήσεις"
+      "id": "music-11000077",
+      "title": "Clod Sweat"
     },
     {
-      "id": "music-11000035",
-      "title": "Fuζion: A blending of Greek and French Rap Culture"
+      "id": "music-11000073",
+      "title": "Τρύφων Λάζος"
+    },
+    {
+      "id": "music-11000087",
+      "title": "Συνηχήσεις"
     },
     {
       "id": "music-11000086",
@@ -281,12 +421,40 @@
       "title": "Ρήσεις και ρωγμές - Αφιέρωμα στον György Kurtág"
     },
     {
+      "id": "music-11000075",
+      "title": "Nasty Pills και Σοφία Αρβανίτη"
+    },
+    {
       "id": "music-11000134",
       "title": "Ross Daly & Κέλυ Θωμά"
     },
     {
+      "id": "music-11000138",
+      "title": "Usurum"
+    },
+    {
       "id": "music-11000149",
       "title": "Alkis Niilend Quartet - Δήμητρα Τσαγκαράκη"
+    },
+    {
+      "id": "music-11000146",
+      "title": "Κροταλίας - Ενός λεπτού σιγή"
+    },
+    {
+      "id": "music-11000164",
+      "title": "Ζήνων"
+    },
+    {
+      "id": "music-11000160",
+      "title": "Kwoon"
+    },
+    {
+      "id": "music-11000170",
+      "title": "Ηχοχρωμίες - You Don’t Have to Die to Become"
+    },
+    {
+      "id": "music-11000179",
+      "title": "The Jazz Side of Mimis Plessas - Georgios Tsolis Quartet"
     },
     {
       "id": "baraki-trigkas-2026",
