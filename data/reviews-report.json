@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T06:47:12.722Z",
+  "checkedAt": "2026-11-02T21:55:10.688Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -29,23 +29,18 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
+      "title": "Ίων",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
       "title": "Τρωάδες",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
-      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
-      "title": "Χάσαμε τη θεία Στοπ",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
-      "title": "Άλκηστις",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
+      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
       "reason": "production-not-confirmed"
     },
     {
@@ -54,8 +49,23 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
-      "title": "Ίων",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
+      "title": "Άλκηστις",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
+      "title": "Χάσαμε τη θεία Στοπ",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
+      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
+      "title": "Ο υπηρέτης δύο αφεντάδων",
       "reason": "production-not-confirmed"
     },
     {
@@ -69,16 +79,6 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
-      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
-      "title": "Ο υπηρέτης δύο αφεντάδων",
-      "reason": "production-not-confirmed"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074433/3074433-ekabi---sti-skia-tis-politeias/",
       "title": "Εκάβη - Στη σκιά της Πολιτείας",
       "reason": "production-not-confirmed"
@@ -86,6 +86,21 @@
     {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
       "title": "Αι γυμνισταί",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/chronos-apo-deftero-cheri-tis-svetlana-alexievits-se-skinothesia-vilias-chatzopoulou-sto-fouagie-tou-dimotikou-theatrou-peiraia/",
+      "title": "«Χρόνος από δεύτερο χέρι» της Σβετλάνα Αλεξίεβιτς, σε σκηνοθεσία Βίλιας Χατζοπούλου, στο Φουαγιέ του Δημοτικού Θεάτρου Πειραιά",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/chorise-me-ae-kai-sia-tou-tristan-petizirar-se-skinothesia-koras-karvouni-sto-theatro-thiseion/",
+      "title": "«Χώρισε με ΑΕ και ΣΙΑ» του Τριστάν Πετιζιράρ, σε σκηνοθεσία Κόρας Καρβούνη, στο Θέατρο Θησείον",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/to-theatro-i-ti-zoi-sou-tou-stamati-fasouli-se-skinothesia-tou-idiou-sto-ypogeio-tou-theatrou-technis/",
+      "title": "«Το θέατρο ή τη ζωή σου» του Σταμάτη Φασουλή, σε σκηνοθεσία του ιδίου, στο Υπόγειο του Θεάτρου Τέχνης",
       "reason": "production-not-confirmed"
     },
     {
@@ -306,6 +321,21 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-i-mana-mou-me-petaxe-sti-thalassa/",
       "title": "Είδαμε την παράσταση «Η μάνα μου με πέταξε στη θάλασσα»",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/chronos-apo-deftero-cheri-tis-svetlana-alexievits-se-skinothesia-vilias-chatzopoulou-sto-fouagie-tou-dimotikou-theatrou-peiraia/",
+      "title": "«Χρόνος από δεύτερο χέρι» της Σβετλάνα Αλεξίεβιτς, σε σκηνοθεσία Βίλιας Χατζοπούλου, στο Φουαγιέ του Δημοτικού Θεάτρου Πειραιά",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/chorise-me-ae-kai-sia-tou-tristan-petizirar-se-skinothesia-koras-karvouni-sto-theatro-thiseion/",
+      "title": "«Χώρισε με ΑΕ και ΣΙΑ» του Τριστάν Πετιζιράρ, σε σκηνοθεσία Κόρας Καρβούνη, στο Θέατρο Θησείον",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/to-theatro-i-ti-zoi-sou-tou-stamati-fasouli-se-skinothesia-tou-idiou-sto-ypogeio-tou-theatrou-technis/",
+      "title": "«Το θέατρο ή τη ζωή σου» του Σταμάτη Φασουλή, σε σκηνοθεσία του ιδίου, στο Υπόγειο του Θεάτρου Τέχνης",
       "reason": "production-not-confirmed"
     },
     {
