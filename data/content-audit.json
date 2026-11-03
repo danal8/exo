@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-02T12:52:12.000Z",
+  "checkedAt": "2026-11-03T12:21:35.242Z",
   "total": 591,
   "events": [
     {
@@ -55,13 +55,13 @@
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/arab-strap-live-in-athens/",
-        "error": "TimeoutError"
-      }
+        "error": "TypeError"
+      },
+      "posterRepaired": true
     },
     {
       "id": "arbeit-paloumpis-stathmos-2026",
@@ -90,7 +90,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/children/goutou-goupatou-tou-aleksandrou-papadiamanti",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -599,7 +599,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/oi-gries-pou-mazeuoun-tin-tsouknida-8",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -629,7 +629,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/strakastroukes-4os-xronos",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -838,7 +838,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/brikolakes",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -949,7 +949,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/oi-apontes-2",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1020,7 +1020,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/tzonimple",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1061,7 +1061,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/teleftaiaexodos",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1236,7 +1236,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/amerikanikos-boubalos-tou-david-mamet-1",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1273,7 +1273,7 @@
       "id": "ath-10087627",
       "title": "Η Ήμερη",
       "issues": [
-        "ticket-unconfirmed"
+        "ticket-blocked"
       ],
       "poster": {
         "status": 200,
@@ -1281,7 +1281,9 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/womendirectors/i-imeri",
-        "error": "TimeoutError"
+        "status": 200,
+        "title": "Ωπ! Έπεσες σε κίνηση",
+        "blocked": true
       }
     },
     {
@@ -1296,7 +1298,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/cleansed",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1344,7 +1346,7 @@
       "id": "ath-10087758",
       "title": "Το καταραμένο παιδί",
       "issues": [
-        "ticket-unconfirmed"
+        "ticket-blocked"
       ],
       "poster": {
         "status": 200,
@@ -1352,7 +1354,9 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/to-katarameno-paidi/2os-xronos",
-        "error": "TimeoutError"
+        "status": 200,
+        "title": "Ωπ! Έπεσες σε κίνηση",
+        "blocked": true
       }
     },
     {
@@ -1367,7 +1371,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/i-diki-se-skinothesia-ari-mpiniari-2os-xronos",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1393,7 +1397,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/i-broxi-mesa-tis-tou-gianni-papazoglou",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1423,7 +1427,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/apopse-kaneis-den-pethainei",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1523,7 +1527,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/ta-aspra-aloga-rosmersxolm",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1664,7 +1668,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/1984-george-orwell-athina",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1839,7 +1843,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/xoreuontas-sti-lounasa",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1854,7 +1858,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/i-fokia",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1884,7 +1888,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/o-byssinokipos-1",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -1902,7 +1906,7 @@
       "id": "ath-10089257",
       "title": "Ο κος Ζυλ",
       "issues": [
-        "ticket-unconfirmed"
+        "ticket-blocked"
       ],
       "poster": {
         "status": 200,
@@ -1910,7 +1914,9 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/o-kyrios-zyl-2os-xronos",
-        "error": "TimeoutError"
+        "status": 200,
+        "title": "Ωπ! Έπεσες σε κίνηση",
+        "blocked": true
       }
     },
     {
@@ -1999,7 +2005,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/toctoc",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2014,7 +2020,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/o-xristos-ksanastauronetai-1",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2126,7 +2132,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/tzeni-tzeni",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2208,7 +2214,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/ayti-pou-oneireuomoun",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2275,7 +2281,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/teleutaio-debate-i-to-menou-tis-epanastasis",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2305,7 +2311,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/cyrano",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2349,7 +2355,7 @@
       "id": "ath-10091275",
       "title": "Λιωμένο βούτυρο",
       "issues": [
-        "ticket-unconfirmed"
+        "ticket-blocked"
       ],
       "poster": {
         "status": 200,
@@ -2357,7 +2363,9 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/liomeno-boutyro",
-        "error": "TimeoutError"
+        "status": 200,
+        "title": "Ωπ! Έπεσες σε κίνηση",
+        "blocked": true
       }
     },
     {
@@ -2432,7 +2440,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/children/to-xromatisto-skouliki",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2521,7 +2529,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/xoma",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2536,7 +2544,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/binteo-klamp-fantasia",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2551,7 +2559,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/gkolfo",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2618,7 +2626,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/oevrosapenanti",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2794,7 +2802,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/o-tinderas",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2809,7 +2817,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/boulitsa",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2838,7 +2846,7 @@
       "id": "ath-10091620",
       "title": "Φυσικά και μπορώ!",
       "issues": [
-        "ticket-unconfirmed"
+        "ticket-identity-review"
       ],
       "poster": {
         "status": 200,
@@ -2846,7 +2854,9 @@
       },
       "ticket": {
         "url": "https://www.more.com/museums/fysika-kai-mporo",
-        "error": "TimeoutError"
+        "status": 200,
+        "title": "🎭 Εισιτήρια θεάτρου - 🎶 Συναυλίες - Φεστιβάλ | Εισιτήρια online!",
+        "blocked": false
       }
     },
     {
@@ -2902,7 +2912,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/xronos-apo-deutero-xeri",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -2958,7 +2968,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/breaking-god",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3021,7 +3031,7 @@
       "id": "ath-10091636",
       "title": "Αλλά αυτοί είστε!",
       "issues": [
-        "ticket-unconfirmed"
+        "ticket-identity-review"
       ],
       "poster": {
         "status": 200,
@@ -3029,7 +3039,9 @@
       },
       "ticket": {
         "url": "https://www.more.com/standupcomedy/sofia-moutidou-alla-autoi-eiste",
-        "error": "TimeoutError"
+        "status": 200,
+        "title": "🎭 Εισιτήρια θεάτρου - 🎶 Συναυλίες - Φεστιβάλ | Εισιτήρια online!",
+        "blocked": false
       }
     },
     {
@@ -3044,7 +3056,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/i-sygkatoikos",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3059,7 +3071,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/apopse-trome-stis-iokastis-1",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3074,7 +3086,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/ta-aspra-aloga-tou-errikou-ipsen",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3126,7 +3138,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/tender",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3163,7 +3175,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/i-autou-elafrotis-o-perela",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3178,7 +3190,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/egklima-anazitei-drasti",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3279,7 +3291,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/children/ta-paidia-pou-theloun-na-sosoun-tous-thisaurous",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3340,7 +3352,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/xrysos-diskos",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3355,7 +3367,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/children/the-exam-tou-andy-hamilton",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3422,7 +3434,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/takis-zaxaratos-despoinis-margarita",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3463,7 +3475,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/o-gyros-tou-kosmou-se-80-imeres-1",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3542,7 +3554,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/dyo-xronia-diakopes-tou-iouliou-bern",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3643,7 +3655,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/children/to-fteroto-alogo",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3658,7 +3670,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/flit",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3688,7 +3700,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/oi-seksoualikes-neuroseis-ton-gonion-mas",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3744,7 +3756,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/diabazontas-ti-lolita-stin-texerani",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3774,7 +3786,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/xorise-me-ae-kai-sia-tou-tristan-petitgira",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -3804,7 +3816,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/oi-dikaioi",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4015,7 +4027,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/womendirectors/babel",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4041,7 +4053,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/tsakouala-the-chuckwalla-lizard",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4097,7 +4109,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/dosilogoi",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4127,7 +4139,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/children/dna-tou-dennis-kelly",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4142,7 +4154,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/tangko",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4287,7 +4299,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/faia-neurosi",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4556,7 +4568,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/children/basilias-sti-bitrina",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4586,7 +4598,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/tierra",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4601,7 +4613,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/tis-giagias-sou",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4640,7 +4652,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/o-byssinokipos-1",
-        "error": "TimeoutError"
+        "error": "TypeError"
       }
     },
     {
@@ -4698,18 +4710,6 @@
       "id": "ath-11000089",
       "title": "Ο βασιλιάς γυμνός",
       "issues": [
-        "poster-unconfirmed",
-        "missing-ticket-link"
-      ],
-      "poster": {
-        "status": 404,
-        "error": "http"
-      }
-    },
-    {
-      "id": "ath-11000090",
-      "title": "Κραγιοναρισμένα χείλη",
-      "issues": [
         "missing-ticket-link"
       ],
       "poster": {
@@ -4719,15 +4719,25 @@
       "posterRepaired": true
     },
     {
-      "id": "ath-11000092",
-      "title": "Κυριακές με Καραγκιόζη",
+      "id": "ath-11000090",
+      "title": "Κραγιοναρισμένα χείλη",
       "issues": [
-        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "status": 404,
-        "error": "http"
+        "status": 200,
+        "image": true
+      }
+    },
+    {
+      "id": "ath-11000092",
+      "title": "Κυριακές με Καραγκιόζη",
+      "issues": [
+        "missing-ticket-link"
+      ],
+      "poster": {
+        "status": 200,
+        "image": true
       }
     },
     {
@@ -5148,15 +5158,15 @@
         "short-or-truncated-summary"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/standupcomedy/dylan-moran-looking-for-trouble-in-athens/",
         "status": 200,
         "title": "Dylan Moran Looking For Trouble In Athens | Εισιτήρια online!",
         "blocked": false
-      }
+      },
+      "posterRepaired": true
     },
     {
       "id": "auto-a1b74352b5cfc3",
@@ -5250,13 +5260,13 @@
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/kreator-overkill/",
         "error": "TimeoutError"
-      }
+      },
+      "posterRepaired": true
     },
     {
       "id": "auto-de6ea6b14fb259",
@@ -5413,7 +5423,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/o-byssinokipos-2/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -5476,7 +5486,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/emmet-cohen-live-in-athens/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -5506,7 +5516,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/fifth-angel-us-40y-anniversary-tour/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -5514,11 +5524,11 @@
       "title": "Σημάδι · Εντός Πεδίου",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/simadi-parousiasi-diskou-entos-pediou/",
@@ -5533,13 +5543,13 @@
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/ezhel-live-in-europe-2026/",
         "error": "TimeoutError"
-      },
-      "posterRepaired": true
+      }
     },
     {
       "id": "fuzz-fundracar-2026",
@@ -5598,13 +5608,13 @@
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/nouvelle-vague-2/",
         "error": "TimeoutError"
-      },
-      "posterRepaired": true
+      }
     },
     {
       "id": "fuzz-solstafir-2-2026",
@@ -5614,13 +5624,13 @@
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/solstafir-greece/",
         "error": "TimeoutError"
-      }
+      },
+      "posterRepaired": true
     },
     {
       "id": "gloria-louizou-horn-2026",
@@ -5652,7 +5662,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/goat-live-in-athens/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -5682,7 +5692,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/henge-live-in-athens/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -5698,7 +5708,8 @@
       },
       "ticket": {
         "url": "https://tickets.public.gr/gr-el/tickets/music/greek-and-french-rap-culture/?evId=945545",
-        "error": "TypeError"
+        "status": 403,
+        "error": "http"
       }
     },
     {
@@ -5732,7 +5743,8 @@
       },
       "ticket": {
         "url": "https://tickets.public.gr/gr-el/tickets/music/bangies-chickn-live-ilion-plus/?evId=957013",
-        "error": "TypeError"
+        "status": 403,
+        "error": "http"
       }
     },
     {
@@ -5758,12 +5770,11 @@
       "title": "Conceive+Vile Species+Kab-Yah@ILION Plus",
       "issues": [
         "missing-summary",
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 403,
-        "error": "http"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://tickets.public.gr/gr-el/tickets/music/conceive-vile-species-kab-yah-ilion-plus/?evId=954680",
@@ -5776,11 +5787,12 @@
       "title": "DAVID SHAW AND THE BEAT live",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "status": 403,
+        "error": "http"
       },
       "ticket": {
         "url": "https://tickets.public.gr/gr-el/tickets/music/david-shaw-and-the-beat-live/?evId=923977",
@@ -5844,11 +5856,12 @@
       "title": "NIGHTKILL/SECULAR UPHEAVAL/VICIOUS VOID",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "status": 403,
+        "error": "http"
       },
       "ticket": {
         "url": "https://tickets.public.gr/gr-el/tickets/music/nightkill/secular-upheaval/vicious-void-sto-ilion-plus/?evId=937900",
@@ -5896,12 +5909,11 @@
       "title": "Αντί Λογικής - Τελευταία Συναυλία",
       "issues": [
         "missing-summary",
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 403,
-        "error": "http"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://tickets.public.gr/gr-el/tickets/music/anti-logikis-teleutaia-synaulia/?evId=959889",
@@ -6053,13 +6065,13 @@
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/kronos-quartet/",
-        "error": "TimeoutError"
-      }
+        "error": "TypeError"
+      },
+      "posterRepaired": true
     },
     {
       "id": "martyras-horn-2026",
@@ -6073,7 +6085,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/martyras-katigorias/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -6088,7 +6100,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/mercury-rev-all-is-dream-25y-anniversary/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -6148,11 +6160,11 @@
       "id": "music-10090061",
       "title": "Beat the room",
       "issues": [
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/beat-the-room-to-apolyto-game-show-back-to-90s/",
@@ -6163,11 +6175,11 @@
       "id": "music-10091025",
       "title": "David Morales",
       "issues": [
-        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       }
     },
     {
@@ -6197,22 +6209,22 @@
       "id": "music-10091686",
       "title": "ÆDEN",
       "issues": [
-        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       }
     },
     {
       "id": "music-10091687",
       "title": "Μάριος Φραγκούλης",
       "issues": [
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/marios-frangoulis-and-his-big-band-1",
@@ -6255,11 +6267,11 @@
       "id": "music-10091819",
       "title": "«Στο μονοπάτι» – Mathieu Goust",
       "issues": [
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/sto-monopati-mathieu-goust",
@@ -6270,11 +6282,11 @@
       "id": "music-10091820",
       "title": "Barry Wan + Marissa Bili + Emelie Sjöström",
       "issues": [
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/barry-wan-marissa-bili-emelie-sjostrom",
@@ -6293,22 +6305,22 @@
       "id": "music-10091838",
       "title": "Κωστής",
       "issues": [
-        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       }
     },
     {
       "id": "music-10091839",
       "title": "Επίλογος",
       "issues": [
-        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       }
     },
     {
@@ -6365,11 +6377,11 @@
       "id": "music-11000005",
       "title": "Από την Σαπφώ στον Ελύτη",
       "issues": [
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/apo-tin-sapfo-ston-elyti",
@@ -6380,11 +6392,11 @@
       "id": "music-11000006",
       "title": "45 χρόνια Magic De Spell",
       "issues": [
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/45-xronia-magic-de-spell-1",
@@ -6395,11 +6407,11 @@
       "id": "music-11000007",
       "title": "Γιώργος Χατζηνάσιος - Γιώργος Θεοφάνους",
       "issues": [
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/giorgos-xatzinasios-giorgos-theofanous",
@@ -6434,18 +6446,17 @@
         "url": "https://www.more.com/gr-el/tickets/music/mareux",
         "error": "TimeoutError"
       },
-      "summaryRepaired": true,
       "posterRepaired": true
     },
     {
       "id": "music-11000024",
       "title": "So Fetch - 2000s Halloween Party",
       "issues": [
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/so-fetch-2000s-halloween-party-athens",
@@ -6456,11 +6467,11 @@
       "id": "music-11000025",
       "title": "N’Cheezed",
       "issues": [
-        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       }
     },
     {
@@ -6482,11 +6493,11 @@
       "id": "music-11000030",
       "title": "Paris-Istanbul",
       "issues": [
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/paris-istanbul-8os-xronos",
@@ -6497,22 +6508,22 @@
       "id": "music-11000031",
       "title": "Blues Wire",
       "issues": [
+        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       }
     },
     {
       "id": "music-11000033",
       "title": "Στέφανος Κορκολής - Δημήτρης Μπάσης",
       "issues": [
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/stefanos-korkolis-dimitris-mpasis",
@@ -6598,11 +6609,11 @@
       "id": "music-11000044",
       "title": "Melina Paxinos Quartet \"Muses\"",
       "issues": [
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/melina-paxinos-quartet-muses",
@@ -6613,11 +6624,11 @@
       "id": "music-11000045",
       "title": "Φρόσω Στυλιανού & the AlternaDIVAS",
       "issues": [
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/froso-stylianou-the-alternadivas-1",
@@ -6643,11 +6654,11 @@
       "id": "music-11000071",
       "title": "Vasilaraps Trio: «Διάλογοι με τον Εμράχ» + η χαμένη παρτιτούρα για βιολί",
       "issues": [
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/vasilaraps-trio-dialogoi-me-ton-emrax-i-xameni-partitoura-gia-bioli",
@@ -6658,22 +6669,22 @@
       "id": "music-11000072",
       "title": "Παντελής Αμπαζής",
       "issues": [
+        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       }
     },
     {
       "id": "music-11000073",
       "title": "Τρύφων Λάζος",
       "issues": [
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/offer/tryfon-lazos",
@@ -6740,11 +6751,11 @@
       "id": "music-11000080",
       "title": "Selini: \"Μόνοι Στο Σπίτι\"",
       "issues": [
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/selini-monoi-sto-spiti-live-atklakaz",
@@ -6755,22 +6766,22 @@
       "id": "music-11000081",
       "title": "Phrenelith",
       "issues": [
-        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       }
     },
     {
       "id": "music-11000082",
       "title": "Trashland Halloween",
       "issues": [
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/trashland-halloween-1",
@@ -7131,11 +7142,11 @@
       "id": "music-11000139",
       "title": "Μιχάλης Ρακιντζής",
       "issues": [
+        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       }
     },
     {
@@ -7186,11 +7197,11 @@
       "id": "music-11000148",
       "title": "Εύη Μάζη \"Beyond Time\"",
       "issues": [
+        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       }
     },
     {
@@ -7249,22 +7260,22 @@
       "id": "music-11000158",
       "title": "Trashformers",
       "issues": [
-        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       }
     },
     {
       "id": "music-11000160",
       "title": "Kwoon",
       "issues": [
-        "poster-unconfirmed",
         "missing-ticket-link"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       }
     },
     {
@@ -7471,7 +7482,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/oi-geitones-apo-pano-1/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -7497,13 +7508,13 @@
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/prong-live-in-athens-gazarte-22/11/",
-        "error": "TimeoutError"
-      }
+        "error": "TypeError"
+      },
+      "posterRepaired": true
     },
     {
       "id": "red-kimoulis-mousouri-2026",
@@ -7534,7 +7545,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/sergian-live/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -7550,7 +7561,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/sesouar-gia-dolofonous-2",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -7596,7 +7607,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/jeff-buckleys-grace-performed-by-slow-pilot/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -7611,7 +7622,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/sofia-manousaki-gazarte/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -7626,7 +7637,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/theater/sosmenos-1",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -7666,11 +7677,11 @@
       "title": "ΑΛΕΞΑΝΔΡΟΣ ΚΤΙΣΤΑΚΗΣ | ΓΙΑΝΝΗΣ ΜΑΛΑΜΑΣ",
       "issues": [
         "missing-summary",
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/aleksandros-ktistakis-giannis-malamas-stauros-tou-notou-club/?evId=958511",
@@ -7682,11 +7693,11 @@
       "title": "Ανδριάνα Δημητρίου στον Σταυρό του Νότου",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/andriana-dimitriou-sto-stauro-tou-notou/?evId=955905",
@@ -7714,11 +7725,11 @@
       "title": "ΓΙΑΝΝΗΣ ΚΟΤΣΙΡΑΣ | ΣΤΑΥΡΟΣ ΤΟΥ ΝΟΤΟΥ",
       "issues": [
         "missing-summary",
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/giannis-kotsiras-stauros-tou-notou-3/?evId=958907",
@@ -7730,11 +7741,11 @@
       "title": "ΓΙΩΡΓΟΣ ΔΗΜΗΤΡΙΟΥ",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/giorgos-dimitriou-kainouria-tragoudia-megales-penies-stauros-tou-notou/?evId=945635",
@@ -7746,11 +7757,11 @@
       "title": "ΓΙΩΡΓΟΣ ΜΠΕΚΙΑΡΗΣ | ΣΤΑΥΡΟΣ ΤΟΥ ΝΟΤΟΥ CLUB",
       "issues": [
         "missing-summary",
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/giorgos-mpekiaris-stauros-tou-notou-club-1/?evId=949955",
@@ -7762,11 +7773,11 @@
       "title": "ΓΙΩΡΓΟΣ ΝΙΚΗΦΟΡΟΥ ΖΕΡΒΑΚΗΣ",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/giorgos-nikiforou-zerbakis-stauros-tou-notou/?evId=956951",
@@ -7794,11 +7805,11 @@
       "title": "ΔΗΜΗΤΡΗΣ ΓΑΛΑΚΤΟΠΟΥΛΟΣ",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/dimitris-galaktopoulos-stauros-tou-notou-club/?evId=957924",
@@ -7810,11 +7821,11 @@
       "title": "ΔΗΜΗΤΡΗΣ ΖΕΡΒΟΥΔΑΚΗΣ",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/dimitris-zerboudakis-stauros-tou-notou-club/?evId=955165",
@@ -7842,11 +7853,11 @@
       "title": "ΔΗΜΗΤΡΗΣ ΣΑΜΟΛΗΣ LIVE",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/dimitris-samolis-live-2/?evId=960210",
@@ -7874,11 +7885,11 @@
       "title": "ΙΟΥΛΙΑ ΚΑΡΑΠΑΤΑΚΗ | ΣΤΑΥΡΟΣ ΤΟΥ ΝΟΤΟΥ",
       "issues": [
         "missing-summary",
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/ioulia-karapataki-stauros-tou-notou-10/?evId=960707",
@@ -7890,11 +7901,11 @@
       "title": "ΚΑΛΟΓΕΡΑΚΙΑ | ΣΤΑΥΡΟΣ ΤΟΥ ΝΟΤΟΥ PLUS",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/kalogerakia-ta-paidia-pou-agapiountai-stauros-tou-notou-plus",
@@ -7922,11 +7933,11 @@
       "title": "ΜΑΡΙΑ ΠΑΠΑΓΕΩΡΓΙΟΥ",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/maria-papageorgiou-stauros-tou-notou-2/?evId=958361",
@@ -7938,11 +7949,11 @@
       "title": "ΝΕΦΕΛΗ ΦΑΣΟΥΛΗ | ΣΤΑΥΡΟΣ ΤΟΥ ΝΟΤΟΥ PLUS",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/nefeli-fasouli-stauros-tou-notou-plus-1/?evId=961217",
@@ -7954,11 +7965,11 @@
       "title": "ΝΙΚΟΛ ΣΑΡΑΒΑΚΟΥ",
       "issues": [
         "missing-summary",
-        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "error": "TimeoutError"
+        "status": 200,
+        "image": true
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/nikol-sarabakou-stauros-tou-notou-plus-1/?evId=958906",
@@ -7970,11 +7981,11 @@
       "title": "Ορέστης Ντάντος",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/orestis-ntantos-stauros-tou-notou-plus/?evId=951331",
@@ -8050,11 +8061,11 @@
       "title": "ΤΑ ΚΟΡΙΤΣΙΑ ΤΟΥ ΑΥΓΟΥΣΤΟΥ",
       "issues": [
         "missing-summary",
+        "poster-unconfirmed",
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/ta-koritsia-tou-augoustou-stauros-tou-notou-club-1/?evId=955023",
@@ -8065,17 +8076,18 @@
       "id": "stn-χαλασματαστονσταυροτουνοτου",
       "title": "ΧΑΛΑΣΜΑΤΑ ΣΤΟΝ ΣΤΑΥΡΟ ΤΟΥ ΝΟΤΟΥ",
       "issues": [
-        "missing-summary",
-        "poster-unconfirmed",
-        "ticket-unconfirmed"
+        "missing-summary"
       ],
       "poster": {
         "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/standupcomedy/xalasmata-ston-stauro-tou-notou/?evId=961168",
-        "error": "TimeoutError"
-      }
+        "status": 200,
+        "title": "ΧΑΛΑΣΜΑΤΑ ΣΤΟΝ ΣΤΑΥΡΟ ΤΟΥ ΝΟΤΟΥ | Εισιτήρια online!",
+        "blocked": false
+      },
+      "posterRepaired": true
     },
     {
       "id": "stn-χρηστοσδαντησευρυδικηonfire2",
@@ -8100,13 +8112,13 @@
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/the-kvb-live-stin-ellada/",
-        "error": "TimeoutError"
-      }
+        "error": "TypeError"
+      },
+      "posterRepaired": true
     },
     {
       "id": "theofilos-lazaridou-mini131-2026",
@@ -8146,13 +8158,13 @@
         "ticket-unconfirmed"
       ],
       "poster": {
-        "status": 200,
-        "image": true
+        "error": "TimeoutError"
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/uriah-heep2026",
-        "error": "TimeoutError"
-      }
+        "error": "TypeError"
+      },
+      "posterRepaired": true
     },
     {
       "id": "vapors-morphine-gazarte-2026",
@@ -8166,7 +8178,7 @@
       },
       "ticket": {
         "url": "https://www.more.com/gr-el/tickets/music/vapors-of-morphine-live-in-athens/",
-        "error": "TypeError"
+        "error": "TimeoutError"
       }
     },
     {
@@ -8187,12 +8199,13 @@
     }
   ],
   "counts": {
-    "ticket-unconfirmed": 358,
+    "ticket-unconfirmed": 351,
     "short-or-truncated-summary": 37,
-    "ticket-identity-review": 3,
+    "ticket-identity-review": 5,
     "ticket-page-unreadable": 18,
     "missing-ticket-link": 208,
-    "poster-unconfirmed": 72,
+    "poster-unconfirmed": 74,
+    "ticket-blocked": 4,
     "missing-summary": 50,
     "missing-poster": 15
   }
