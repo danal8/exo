@@ -335,8 +335,8 @@
       "audienceCheckedAt": "2026-10-26",
       "audienceSourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/#UserRreviews",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10091817/list.jpg",
-        "sourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/",
+        "url": "https://www.monopoli.gr/wp-content/uploads/2026/09/ioulietta-i-me-ti-thalassini-vostantzoglou-sto-theatro-mets.jpg",
+        "sourceUrl": "https://www.monopoli.gr/2026/09/10/showtimes/theatre/985799/ioulietta-i-i-saikspiriki-iroida-allios-se-enan-monologo-sto-theatro-mets/",
         "authority": "publisher",
         "kind": "production-photo"
       },
@@ -2780,10 +2780,11 @@
         "checkedAt": "2026-11-04T06:32:58.972Z"
       },
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/2109e5f7-b0df-40af-936f-df2b3264d2ad/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "url": "https://www.more.com/getattachment/2109e5f7-b0df-40af-936f-df2b3264d2ad",
+        "sourceUrl": "https://www.more.com/gr-el/music/kronos-quartet/",
         "authority": "ticket",
-        "kind": "production-photo"
+        "kind": "poster",
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-04T06:32:58.972Z",
@@ -2840,10 +2841,11 @@
         "checkedAt": "2026-11-04T06:32:58.972Z"
       },
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/f19f70d6-3ac6-420a-9019-bb737d2cbb25/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "url": "https://www.more.com/getattachment/f19f70d6-3ac6-420a-9019-bb737d2cbb25",
+        "sourceUrl": "https://www.more.com/gr-el/music/the-kvb-live-stin-ellada/",
         "authority": "ticket",
-        "kind": "production-photo"
+        "kind": "poster",
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-04T06:32:58.972Z",
@@ -2887,10 +2889,11 @@
         }
       ],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "url": "https://www.more.com/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f",
+        "sourceUrl": "https://www.more.com/gr-el/music/prong-live-in-athens-gazarte-22/11/",
         "authority": "ticket",
-        "kind": "production-photo"
+        "kind": "poster",
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
@@ -2930,10 +2933,11 @@
         }
       ],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/5646bee7-ddfe-41a2-9e73-6b1926b4332d/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "url": "https://www.more.com/getattachment/5646bee7-ddfe-41a2-9e73-6b1926b4332d",
+        "sourceUrl": "https://www.more.com/gr-el/music/arab-strap-live-in-athens/",
         "authority": "ticket",
-        "kind": "production-photo"
+        "kind": "poster",
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
@@ -29718,10 +29722,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/olina-live-at-ilion-plus/?evId=947723",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/e112336c-c510-4ae7-902e-25f2b6a0b72e/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/E112336C-C510-4AE7-902E-25F2B6A0B72E/evg_olinaliveatilionplus_0821_2303.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2026-11-06",
       "end": "2026-11-06"
@@ -29756,10 +29761,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/spike-fuck/?evId=923386",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/40cf1994-4257-494c-8254-e24818a84942/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/40CF1994-4257-494C-8254-E24818A84942/evg_spikefuck_1145_3092.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2026-11-07",
       "end": "2026-11-07"
@@ -29794,10 +29800,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/anti-logikis-teleutaia-synaulia/?evId=959889",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/160d475e-d0f0-41d2-a9c2-34bab41ae3d2/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/160D475E-D0F0-41D2-A9C2-34BAB41AE3D2/evg_antilogikes-teleutaiasuna_1549_4879.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2026-11-08",
       "end": "2026-11-08"
@@ -29870,10 +29877,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/conceive-vile-species-kab-yah-ilion-plus/?evId=954680",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/9627339b-e5d6-47c4-b30b-569eb4b13b2a/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/9627339B-E5D6-47C4-B30B-569EB4B13B2A/evg_conceivevilespecieskab-ya_1946_1669.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2026-11-13",
       "end": "2026-11-13"
@@ -29908,10 +29916,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/andri-j-pera-apo-to-peras/?evId=942115",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/ad535ce4-9ddf-4de1-be19-209e6d5580b4/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/AD535CE4-9DDF-4DE1-BE19-209E6D5580B4/evg_andrij-peraapotoperas_1225_4879.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2026-11-15",
       "end": "2026-11-15"
@@ -29948,10 +29957,11 @@
       "start": "2026-11-16",
       "end": "2026-11-16",
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/8792304e-4a40-47bc-8e47-57b6b8c521f9/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/8792304E-4A40-47BC-8E47-57B6B8C521F9/evg_mkhlonelyldlmmessier13ili_1655_1669.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       }
     },
     {
@@ -29986,10 +29996,11 @@
       "start": "2026-11-19",
       "end": "2026-11-19",
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/c228e5c1-bc1b-47a3-a910-af91da71fa35/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/C228E5C1-BC1B-47A3-A910-AF91DA71FA35/evg_bruceliveilionplus_1306_5257.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       }
     },
     {
@@ -30022,10 +30033,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/the-silent-rage-10-years-the-deadliest-scourge-anniversary-show-ilion-plus/?evId=945583",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/97fd0409-c480-4992-9d98-5da50f0c46e4/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/97FD0409-C480-4992-9D98-5DA50F0C46E4/evg_thesilentrage_1250_5257.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2026-11-22",
       "end": "2026-11-22"
@@ -30060,10 +30072,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/maria-koutsourli-ilion-plus/?evId=958762",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/04a87768-506d-4f1c-b348-6e76d1a728bf/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/04A87768-506D-4F1C-B348-6E76D1A728BF/evg_mariakoutsourleilionplus_1322_4624.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2026-11-30",
       "end": "2026-11-30"
@@ -30098,10 +30111,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/nightkill/secular-upheaval/vicious-void-sto-ilion-plus/?evId=937900",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/4513c1c7-ff49-40b2-86a7-c9ec5b555445/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/4513C1C7-FF49-40B2-86A7-C9EC5B555445/evg_nightkill/secularupheaval_0818_5031.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2027-01-02",
       "end": "2027-01-02"
@@ -30136,10 +30150,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/mpez-epoxes-retro-ilion-plus/?evId=958595",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/0ed45af8-6cbf-47dd-bcb5-28fe566e2f06/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/0ED45AF8-6CBF-47DD-BCB5-28FE566E2F06/evg_mpezepokhesretroilionplus_2133_5031.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2027-01-03",
       "end": "2027-01-03"
@@ -30174,10 +30189,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/david-shaw-and-the-beat-live/?evId=923977",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/5e3b070f-4d79-4690-9a8d-3c3e5cf30e57/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/5E3B070F-4D79-4690-9A8D-3C3E5CF30E57/evg_davidshawandthebeatlive_2044_4970.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "start": "2027-01-15",
       "end": "2027-01-15"
@@ -33054,7 +33070,7 @@
       "cast": [
         "Organization"
       ],
-      "description": "<p>DA TI ΠΑΡΑΣΚΕΥΗ 30 ΟΚΤΩΒΡΙΟΥ 2026 FUZZ CLUB «Ο DA TI για πρώτη φορά live στην Ελλάδα!» Ο DA TI, ο ανερχόμενος pop καλλιτέχνης πίσω από το viral hit “Take Me There”, έρχεται στο Fuzz Club την Παρασκευή 30 Οκτωβρίου 2026, στο πλαίσιο της πρώτης του ευρωπαϊκής headline περιοδείας. Ο DA TI έχει αποκτήσει ένα [&hellip;]</p>\\n",
+      "description": "Ο ανερχόμενος pop καλλιτέχνης DA TI, που ξεχώρισε μέσα από το viral hit \"Take Me There\", έρχεται για πρώτη φορά στην Ελλάδα.",
       "season": "2026–2027",
       "start": "2026-10-30",
       "end": "2026-10-30",
@@ -33113,10 +33129,10 @@
       ],
       "reviews": [],
       "descriptionSource": {
-        "url": "https://www.fuzzclub.gr/events/month/",
         "kind": "source-excerpt",
-        "authority": "official",
-        "checkedAt": "2026-11-04T06:32:58.972Z"
+        "authority": "publisher",
+        "url": "https://www.athinorama.gr/music/gig/da_ti-11000091/",
+        "checkedAt": "2026-11-04T12:31:58.186Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-04T06:32:58.972Z",
@@ -35714,7 +35730,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/solstafir-greece/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-03T12:25:46.016Z"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-11-14/",
@@ -35966,7 +35982,7 @@
         "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-01T11:32:11.786Z"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-12-06/",
@@ -36023,7 +36039,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/nouvelle-vague-2/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-02T12:56:39.643Z"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/event/nouvelle-vague-2026/",
@@ -36612,7 +36628,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/kreator-overkill/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-03T12:25:46.016Z"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36892,7 +36908,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-03T12:25:46.016Z"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -37004,7 +37020,7 @@
         "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-03T12:25:46.016Z"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -37236,7 +37252,7 @@
         "checkedAt": "2026-11-04T06:32:58.972Z"
       },
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/11000214/list.jpg",
+        "url": "https://www.athinorama.gr/Content/ImagesDatabase/p/600x500/crop/both/Event_Photos/e0/e098afad1f74f3e8bd5b630da9aac667_5553%C2%A9Patroklos_Skafidas.jpg?quality=81&404=default&v=4",
         "sourceUrl": "https://www.athinorama.gr/theatre/performance/iraklis-_enas_iroas_gennietai-11000214/",
         "authority": "publisher",
         "kind": "production-photo"
@@ -38226,7 +38242,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-03T12:25:46.016Z"
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38781,10 +38797,11 @@
         "checkedAt": "2026-11-04T06:32:58.972Z"
       },
       "poster": {
-        "url": "https://www.fuzzclub.gr/wp-content/uploads/2026/10/cropped-image-2.jpg",
-        "sourceUrl": "https://www.fuzzclub.gr/event/eagle-eye-cherry-live-in-greece/",
-        "authority": "official",
-        "kind": "production-photo"
+        "url": "https://www.more.com/getattachment/7c85e0ed-4df8-4985-b031-35a7a3334960",
+        "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/",
+        "authority": "ticket",
+        "kind": "poster",
+        "checkedAt": "2026-11-04T12:34:19.602Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
