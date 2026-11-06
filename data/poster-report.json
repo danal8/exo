@@ -1,60 +1,18 @@
 {
-  "checkedAt": "2026-11-05T12:49:28.062Z",
+  "checkedAt": "2026-11-06T12:32:18.789Z",
   "checked": 190,
   "repaired": [
     {
-      "id": "arab-strap-gazarte-2026",
-      "title": "Arab Strap",
-      "url": "https://www.more.com/getattachment/5646bee7-ddfe-41a2-9e73-6b1926b4332d",
-      "sourceUrl": "https://www.more.com/gr-el/music/arab-strap-live-in-athens/"
+      "id": "uriah-heep-floyd-2026",
+      "title": "Uriah Heep",
+      "url": "https://www.more.com/getattachment/9994a0d8-79c6-4cc9-b9da-da80aa40f101",
+      "sourceUrl": "https://www.more.com/gr-el/music/uriah-heep2026"
     },
     {
-      "id": "prong-gazarte-2026",
-      "title": "Prong",
-      "url": "https://www.more.com/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f",
-      "sourceUrl": "https://www.more.com/gr-el/music/prong-live-in-athens-gazarte-22/11/"
-    },
-    {
-      "id": "kronos-gazarte-2026",
-      "title": "Kronos Quartet",
-      "url": "https://www.more.com/getattachment/2109e5f7-b0df-40af-936f-df2b3264d2ad",
-      "sourceUrl": "https://www.more.com/gr-el/music/kronos-quartet/"
-    },
-    {
-      "id": "ilion-αντιλογικηστελευταιασυναυλια",
-      "title": "Αντί Λογικής - Τελευταία Συναυλία",
-      "url": "https://www.more.com/getattachment/160D475E-D0F0-41D2-A9C2-34BAB41AE3D2/evg_antilogikes-teleutaiasuna_1549_4879.png?width=300",
+      "id": "fuzz-nazareth-2026",
+      "title": "Nazareth",
+      "url": "https://www.more.com/getattachment/AC2AB416-D215-4A32-BDB6-C8390DDD66E4/evg_nazareththessalonikiblock_1710_4866.png?width=300",
       "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-μχlonelyλδλμmessier13ilionplus",
-      "title": "ΜΧ Lonely + ΛΔΛΜ + Messier 13 @ ILION Plus",
-      "url": "https://www.more.com/getattachment/8792304E-4A40-47BC-8E47-57B6B8C521F9/evg_mkhlonelyldlmmessier13ili_1655_1669.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-μαριακουτσουρληilionplus",
-      "title": "ΜΑΡΙΑ ΚΟΥΤΣΟΥΡΛΗ | Ilion Plus",
-      "url": "https://www.more.com/getattachment/04A87768-506D-4F1C-B348-6E76D1A728BF/evg_mariakoutsourleilionplus_1322_4624.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "music-10090061",
-      "title": "Beat the room",
-      "url": "https://www.more.com/getattachment/d79f4dcf-a90b-493a-ba2a-25bd92738143",
-      "sourceUrl": "https://www.more.com/gr-el/music/beat-the-room-to-apolyto-game-show-back-to-90s/"
-    },
-    {
-      "id": "ilion-conceivevilespecieskabyahilionplus",
-      "title": "Conceive+Vile Species+Kab-Yah@ILION Plus",
-      "url": "https://www.more.com/getattachment/9627339B-E5D6-47C4-B30B-569EB4B13B2A/evg_conceivevilespecieskab-ya_1946_1669.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "fuzz-nile-2-2026",
-      "title": "NILE",
-      "url": "https://www.more.com/getattachment/df4f9815-4637-4196-bd0d-d37acb3bb2e6",
-      "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/"
     },
     {
       "id": "fuzz-nouvelle-vague-2026-2026",
@@ -63,59 +21,31 @@
       "sourceUrl": "https://www.more.com/gr-el/music/nouvelle-vague-2/"
     },
     {
-      "id": "fuzz-solstafir-2-2026",
-      "title": "Sólstafir",
-      "url": "https://www.more.com/getattachment/ff1408e7-2dbb-45fd-b1a6-fa18e53e8b11",
-      "sourceUrl": "https://www.more.com/gr-el/music/solstafir-greece/"
-    },
-    {
-      "id": "auto-d46d60d4f3033e",
-      "title": "KREATOR & OVERKILL",
-      "url": "https://www.more.com/getattachment/2fa63b09-9703-478c-b15c-abad50123bd4",
-      "sourceUrl": "https://www.more.com/gr-el/music/kreator-overkill/"
-    },
-    {
-      "id": "fuzz-fundracar-2026",
-      "title": "FUNDRACAR",
-      "url": "https://www.more.com/getattachment/10c35207-2959-4db3-8774-d19316701bb5",
-      "sourceUrl": "https://www.more.com/gr-el/music/fundracar-15-xronia-plakosou/"
-    },
-    {
-      "id": "auto-6a81d4a065f77a",
-      "title": "Eddie Dark",
-      "url": "https://www.more.com/getattachment/f63ce783-5dae-4548-9997-2b9203373afc",
-      "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark"
-    },
-    {
-      "id": "auto-f1b8024a835798",
-      "title": "Cabaret Voltaire",
-      "url": "https://www.more.com/getattachment/fa389e56-acfe-41b7-94f0-803aec9f7d90",
-      "sourceUrl": "https://www.more.com/gr-el/music/cabaret-voltaire/"
-    },
-    {
-      "id": "auto-66bbb2a096985d",
-      "title": "1000mods",
-      "url": "https://www.more.com/getattachment/e5417ce0-0d5d-44e2-85ac-64e43785b0bb",
-      "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026"
-    },
-    {
       "id": "auto-ec7b804dbd21de",
       "title": "Black Veil Brides / Special Guests: The Funeral Portrait & The Howling.",
       "url": "https://www.more.com/getattachment/a1d84aee-7d8a-43cf-a142-addc9368d9d4",
       "sourceUrl": "https://www.more.com/gr-el/music/black-veil-brides2027"
     },
     {
+      "id": "auto-de6ea6b14fb259",
+      "title": "Planet of Zeus",
+      "url": "https://www.more.com/getattachment/e0ceca33-4896-4ff0-8b02-a4be85ea3b29",
+      "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/"
+    },
+    {
       "id": "auto-9994a6978939c9",
       "title": "Dylan Moran",
       "url": "https://www.more.com/getattachment/989fbbb8-9ad1-45fc-bd43-d8eda240b9c9",
       "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/"
+    },
+    {
+      "id": "auto-88660b6e0e360c",
+      "title": "EAGLE EYE CHERRY live in Greece!",
+      "url": "https://www.more.com/getattachment/7c85e0ed-4df8-4985-b031-35a7a3334960",
+      "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/"
     }
   ],
   "unresolved": [
-    {
-      "id": "mercury-rev-gazarte-2026",
-      "title": "Mercury Rev"
-    },
     {
       "id": "goat-gazarte-2026",
       "title": "GOAT"
@@ -125,24 +55,16 @@
       "title": "Emmet Cohen"
     },
     {
-      "id": "ilion-ablendingofgreekandfrenchrapculture",
-      "title": "A blending of Greek and French Rap Culture"
-    },
-    {
-      "id": "ilion-dramachinetheklammers",
-      "title": "DRAMACHINE × THE KLAMMERS"
-    },
-    {
-      "id": "music-10058532",
-      "title": "Nine Below Zero"
+      "id": "mercury-rev-gazarte-2026",
+      "title": "Mercury Rev"
     },
     {
       "id": "music-10091429",
       "title": "Biased Beast"
     },
     {
-      "id": "ilion-bangiesliveilionplus",
-      "title": "Bangies live @ ilion plus"
+      "id": "music-10058532",
+      "title": "Nine Below Zero"
     },
     {
       "id": "music-10091831",
@@ -177,16 +99,12 @@
       "title": "Γυναικεία υπόθεση"
     },
     {
-      "id": "music-11000091",
-      "title": "DA TI"
-    },
-    {
       "id": "music-11000102",
       "title": "Ρήσεις και ρωγμές - Αφιέρωμα στον György Kurtág"
     },
     {
-      "id": "music-11000035",
-      "title": "Fuζion: A blending of Greek and French Rap Culture"
+      "id": "music-11000091",
+      "title": "DA TI"
     },
     {
       "id": "music-11000134",
