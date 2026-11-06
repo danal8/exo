@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06T07:22:36.045Z",
+  "checkedAt": "2026-11-06T19:40:25.857Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -19,8 +19,8 @@
   "updated": [],
   "candidates": [
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
-      "title": "Ίων",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
+      "title": "Μήδεια",
       "reason": "production-not-confirmed"
     },
     {
@@ -29,8 +29,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077975/kritiki-o-glaros-tou-tsexofallios/",
-      "title": "Ο Γλάρος",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
+      "title": "Ίων",
       "reason": "production-not-confirmed"
     },
     {
@@ -39,28 +39,18 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
-      "title": "Τρωάδες",
-      "reason": "production-not-confirmed"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
       "title": "Χάσαμε τη θεία Στοπ",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
-      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
+      "title": "Τρωάδες",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
-      "title": "Μήδεια",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
-      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077975/kritiki-o-glaros-tou-tsexofallios/",
+      "title": "Ο Γλάρος",
       "reason": "production-not-confirmed"
     },
     {
@@ -69,8 +59,18 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
+      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
       "title": "Πέρσες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
+      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
       "reason": "production-not-confirmed"
     },
     {
@@ -81,6 +81,16 @@
     {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
       "title": "Αι γυμνισταί",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/xronos-apo-deytero-xeri-tis-svetlana-alexievits-se-skinothesia-vilias-xatzopoyloy-papagiannakis/",
+      "title": "«Χρόνος από δεύτερο χέρι» της Σβετλάνα Αλεξίεβιτς, σε σκηνοθεσία Βίλιας Χατζοπούλου, στο Φουαγιέ του Δημοτικού Θεάτρου Πειραιά",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/ai-milia-i-synenteyxi-sto-theatro-argo/",
+      "title": "«AI·Milia – Η Συνέντευξη» του Γιώργου Αγγελίδη και της Αιμιλίας Υψηλάντη, στο Θέατρο Αργώ",
       "reason": "production-not-confirmed"
     },
     {
@@ -316,6 +326,16 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/eidame-tin-parastasi-i-mana-mou-me-petaxe-sti-thalassa/",
       "title": "Είδαμε την παράσταση «Η μάνα μου με πέταξε στη θάλασσα»",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/xronos-apo-deytero-xeri-tis-svetlana-alexievits-se-skinothesia-vilias-xatzopoyloy-papagiannakis/",
+      "title": "«Χρόνος από δεύτερο χέρι» της Σβετλάνα Αλεξίεβιτς, σε σκηνοθεσία Βίλιας Χατζοπούλου, στο Φουαγιέ του Δημοτικού Θεάτρου Πειραιά",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/ai-milia-i-synenteyxi-sto-theatro-argo/",
+      "title": "«AI·Milia – Η Συνέντευξη» του Γιώργου Αγγελίδη και της Αιμιλίας Υψηλάντη, στο Θέατρο Αργώ",
       "reason": "production-not-confirmed"
     },
     {
