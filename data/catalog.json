@@ -335,8 +335,8 @@
       "audienceCheckedAt": "2026-10-26",
       "audienceSourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/#UserRreviews",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10091817/list.jpg",
-        "sourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/",
+        "url": "https://www.monopoli.gr/wp-content/uploads/2026/09/ioulietta-i-me-ti-thalassini-vostantzoglou-sto-theatro-mets.jpg",
+        "sourceUrl": "https://www.monopoli.gr/2026/09/10/showtimes/theatre/985799/ioulietta-i-i-saikspiriki-iroida-allios-se-enan-monologo-sto-theatro-mets/",
         "authority": "publisher",
         "kind": "production-photo"
       },
@@ -2846,11 +2846,10 @@
         "checkedAt": "2026-11-07T21:55:59.840Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/f19f70d6-3ac6-420a-9019-bb737d2cbb25",
-        "sourceUrl": "https://www.more.com/gr-el/music/the-kvb-live-stin-ellada/",
+        "url": "https://tickets.public.gr/getattachment/f19f70d6-3ac6-420a-9019-bb737d2cbb25/play_image.png",
+        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
         "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-07T11:24:17.002Z"
+        "kind": "production-photo"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-07T21:55:59.840Z",
@@ -2894,11 +2893,10 @@
         }
       ],
       "poster": {
-        "url": "https://www.more.com/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f",
-        "sourceUrl": "https://www.more.com/gr-el/music/prong-live-in-athens-gazarte-22/11/",
+        "url": "https://tickets.public.gr/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f/play_image.png",
+        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
         "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-07T11:24:17.002Z"
+        "kind": "production-photo"
       },
       "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
@@ -30395,11 +30393,10 @@
       "phone": "2103452277",
       "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z",
       "poster": {
-        "url": "https://www.more.com/getattachment/d79f4dcf-a90b-493a-ba2a-25bd92738143",
-        "sourceUrl": "https://www.more.com/gr-el/music/beat-the-room-to-apolyto-game-show-back-to-90s/",
+        "url": "https://tickets.public.gr/getattachment/d79f4dcf-a90b-493a-ba2a-25bd92738143/play_image.png",
+        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
         "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-07T11:24:17.002Z"
+        "kind": "production-photo"
       }
     },
     {
@@ -33072,7 +33069,7 @@
       "cast": [
         "Organization"
       ],
-      "description": "<p>DA TI ΠΑΡΑΣΚΕΥΗ 30 ΟΚΤΩΒΡΙΟΥ 2026 FUZZ CLUB «Ο DA TI για πρώτη φορά live στην Ελλάδα!» Ο DA TI, ο ανερχόμενος pop καλλιτέχνης πίσω από το viral hit “Take Me There”, έρχεται στο Fuzz Club την Παρασκευή 30 Οκτωβρίου 2026, στο πλαίσιο της πρώτης του ευρωπαϊκής headline περιοδείας. Ο DA TI έχει αποκτήσει ένα [&hellip;]</p>\\n",
+      "description": "Ο ανερχόμενος pop καλλιτέχνης DA TI, που ξεχώρισε μέσα από το viral hit \"Take Me There\", έρχεται για πρώτη φορά στην Ελλάδα.",
       "season": "2026–2027",
       "start": "2026-10-30",
       "end": "2026-10-30",
@@ -33131,10 +33128,10 @@
       ],
       "reviews": [],
       "descriptionSource": {
-        "url": "https://www.fuzzclub.gr/events/month/",
         "kind": "source-excerpt",
-        "authority": "official",
-        "checkedAt": "2026-11-08T06:10:10.968Z"
+        "authority": "publisher",
+        "url": "https://www.athinorama.gr/music/gig/da_ti-11000091/",
+        "checkedAt": "2026-11-08T11:31:25.812Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-08T06:10:10.968Z",
@@ -35732,7 +35729,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/solstafir-greece/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-05T12:49:28.062Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-11-14/",
@@ -35984,7 +35981,7 @@
         "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-06T12:32:18.789Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-12-06/",
@@ -36041,7 +36038,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/nouvelle-vague-2/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-07T11:24:17.002Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/event/nouvelle-vague-2026/",
@@ -36682,11 +36679,11 @@
         "checkedAt": "2026-11-08T06:10:10.968Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/BF09CCE4-3BBE-48F1-A01A-7A118F9B6758/evg_bellesebastian_0755_750.png?width=300",
-        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "url": "https://www.more.com/getattachment/bf09cce4-3bbe-48f1-a01a-7a118f9b6758",
+        "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-01T11:32:11.786Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36742,7 +36739,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-07T11:24:17.002Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36798,7 +36795,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/cabaret-voltaire/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-07T11:24:17.002Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36910,7 +36907,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-05T12:49:28.062Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -37022,7 +37019,7 @@
         "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-07T11:24:17.002Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -37074,11 +37071,11 @@
         "checkedAt": "2026-11-08T06:10:10.968Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/29FB6AC3-1A08-4826-86E6-662784FB6520/evg_soen_1232_750.png?width=300",
-        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "url": "https://www.more.com/getattachment/29fb6ac3-1a08-4826-86e6-662784fb6520",
+        "sourceUrl": "https://www.more.com/gr-el/music/soen/2027",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-01T11:32:11.786Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38246,7 +38243,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-07T11:24:17.002Z"
+        "checkedAt": "2026-11-08T11:35:45.924Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
