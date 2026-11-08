@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-07T22:16:35.785Z",
+  "checkedAt": "2026-11-08T06:41:09.827Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -24,8 +24,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
-      "title": "Τρωάδες",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
+      "title": "Μήδεια",
       "reason": "production-not-confirmed"
     },
     {
@@ -39,8 +39,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
-      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
+      "title": "Χάσαμε τη θεία Στοπ",
       "reason": "production-not-confirmed"
     },
     {
@@ -49,13 +49,13 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
-      "title": "Μήδεια",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
+      "title": "Ο υπηρέτης δύο αφεντάδων",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
-      "title": "Βάκχες",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
+      "title": "Τρωάδες",
       "reason": "production-not-confirmed"
     },
     {
@@ -64,18 +64,18 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
-      "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
-      "reason": "production-not-confirmed"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
       "title": "Πέρσες",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
-      "title": "Χάσαμε τη θεία Στοπ",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
+      "title": "Βάκχες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
+      "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
       "reason": "production-not-confirmed"
     },
     {
