@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-10T19:59:27.769Z",
+  "checkedAt": "2026-11-11T07:04:26.581Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -24,18 +24,13 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
+      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077975/kritiki-o-glaros-tou-tsexofallios/",
       "title": "Ο Γλάρος",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
-      "title": "Τρωάδες",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
-      "title": "Άλκηστις",
       "reason": "production-not-confirmed"
     },
     {
@@ -44,13 +39,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
-      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
-      "title": "Χάσαμε τη θεία Στοπ",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
+      "title": "Τρωάδες",
       "reason": "production-not-confirmed"
     },
     {
@@ -59,13 +49,23 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
-      "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
+      "title": "Χάσαμε τη θεία Στοπ",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
-      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
+      "title": "Άλκηστις",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
+      "title": "Βάκχες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
+      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
       "reason": "production-not-confirmed"
     },
     {
@@ -74,8 +74,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
-      "title": "Βάκχες",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
+      "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
       "reason": "production-not-confirmed"
     },
     {
