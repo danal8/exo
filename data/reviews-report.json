@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11T19:50:50.692Z",
+  "checkedAt": "2026-11-12T07:42:09.725Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -15,14 +15,38 @@
     }
   ],
   "articlesChecked": 47,
-  "added": [],
+  "added": [
+    {
+      "id": "red-kimoulis-mousouri-2026",
+      "title": "Κόκκινο",
+      "url": "https://greektheatrecritics.gr/kritikes/kokkino-tou-tzon-logkan-se-skinothesia-giorgou-kimouli-sto-theatro-mousouri/",
+      "author": "Ματίνας Καλτάκη",
+      "publishedAt": "2026-11-11"
+    },
+    {
+      "id": "theofilos-lazaridou-mini131-2026",
+      "title": "Θεόφιλος sold",
+      "url": "https://greektheatrecritics.gr/kritikes/theofilos-sold-tou-samson-raka-se-skinothesia-olias-lazaridou-sto-mini-peiraios-131/",
+      "author": "Γρηγόρη Ιωαννίδη",
+      "publishedAt": "2026-11-09"
+    },
+    {
+      "id": "red-kimoulis-mousouri-2026",
+      "title": "Κόκκινο",
+      "url": "https://greektheatrecritics.gr/kritikes/kokkino-tou-tzon-logkan-se-skinothesia-giorgou-kimouli-sto-theatro-mousouri-blatsou/",
+      "author": "Ιωάννας Μπλάτσου",
+      "publishedAt": "2026-11-03"
+    },
+    {
+      "id": "theofilos-lazaridou-mini131-2026",
+      "title": "Θεόφιλος sold",
+      "url": "https://greektheatrecritics.gr/kritikes/theofilos-sold-tou-samson-raka-se-skinothesia-olias-lazaridou-sto-mini-peiraios-131-blatsou/",
+      "author": "Ιωάννας Μπλάτσου",
+      "publishedAt": "2026-11-02"
+    }
+  ],
   "updated": [],
   "candidates": [
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
-      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
-      "reason": "production-not-confirmed"
-    },
     {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077975/kritiki-o-glaros-tou-tsexofallios/",
       "title": "Ο Γλάρος",
@@ -34,8 +58,13 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
-      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
+      "title": "Ίων",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
+      "title": "Χάσαμε τη θεία Στοπ",
       "reason": "production-not-confirmed"
     },
     {
@@ -44,18 +73,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
-      "title": "Ίων",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
-      "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
-      "title": "Πέρσες",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
+      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
       "reason": "production-not-confirmed"
     },
     {
@@ -69,13 +88,23 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
+      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
       "title": "Τρωάδες",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
-      "title": "Χάσαμε τη θεία Στοπ",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
+      "title": "Πέρσες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
+      "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
       "reason": "production-not-confirmed"
     },
     {
@@ -96,6 +125,11 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/ai-milia-i-synenteyxi-sto-theatro-argo/",
       "title": "«AI·Milia – Η Συνέντευξη» του Γιώργου Αγγελίδη και της Αιμιλίας Υψηλάντη, στο Θέατρο Αργώ",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/nochavelandi-tou-gianni-aposkiti-se-skinothesia-giorgou-vourdami-sto-theatro-104-2/",
+      "title": "«Νοχαβελάνδη» του Γιάννη Αποσκίτη, σε σκηνοθεσία Γιώργου Βουρδαμή, στο Θέατρο 104",
       "reason": "production-not-confirmed"
     },
     {
@@ -346,6 +380,11 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/ai-milia-i-synenteyxi-sto-theatro-argo/",
       "title": "«AI·Milia – Η Συνέντευξη» του Γιώργου Αγγελίδη και της Αιμιλίας Υψηλάντη, στο Θέατρο Αργώ",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/nochavelandi-tou-gianni-aposkiti-se-skinothesia-giorgou-vourdami-sto-theatro-104-2/",
+      "title": "«Νοχαβελάνδη» του Γιάννη Αποσκίτη, σε σκηνοθεσία Γιώργου Βουρδαμή, στο Θέατρο 104",
       "reason": "production-not-confirmed"
     },
     {
@@ -585,5 +624,5 @@
     }
   ],
   "failures": [],
-  "total": 10
+  "total": 14
 }

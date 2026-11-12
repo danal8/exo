@@ -139,7 +139,59 @@
         "type": "editorial",
         "checkedAt": "2026-11-01T06:49:33.948Z"
       }
+    ],
+    "red-kimoulis-mousouri-2026": [
+      {
+        "author": "Ματίνας Καλτάκη",
+        "publishedAt": "2026-11-11",
+        "url": "https://greektheatrecritics.gr/kritikes/kokkino-tou-tzon-logkan-se-skinothesia-giorgou-kimouli-sto-theatro-mousouri/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-dfbcbf007d81a972",
+        "type": "editorial",
+        "checkedAt": "2026-11-12T07:42:09.725Z"
+      },
+      {
+        "author": "Ιωάννας Μπλάτσου",
+        "publishedAt": "2026-11-03",
+        "url": "https://greektheatrecritics.gr/kritikes/kokkino-tou-tzon-logkan-se-skinothesia-giorgou-kimouli-sto-theatro-mousouri-blatsou/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-bf51c3dc2a236864",
+        "type": "editorial",
+        "checkedAt": "2026-11-12T07:42:09.725Z"
+      }
+    ],
+    "theofilos-lazaridou-mini131-2026": [
+      {
+        "author": "Γρηγόρη Ιωαννίδη",
+        "publishedAt": "2026-11-09",
+        "url": "https://greektheatrecritics.gr/kritikes/theofilos-sold-tou-samson-raka-se-skinothesia-olias-lazaridou-sto-mini-peiraios-131/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-f698bfda7df96e25",
+        "type": "editorial",
+        "checkedAt": "2026-11-12T07:42:09.725Z"
+      },
+      {
+        "author": "Ιωάννας Μπλάτσου",
+        "publishedAt": "2026-11-02",
+        "url": "https://greektheatrecritics.gr/kritikes/theofilos-sold-tou-samson-raka-se-skinothesia-olias-lazaridou-sto-mini-peiraios-131-blatsou/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-165214e3a71f8b5c",
+        "type": "editorial",
+        "checkedAt": "2026-11-12T07:42:09.725Z"
+      }
     ]
   },
-  "checkedAt": "2026-11-11T19:50:50.692Z"
+  "checkedAt": "2026-11-12T07:42:09.725Z"
 }
