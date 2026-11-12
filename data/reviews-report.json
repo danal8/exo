@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-12T07:42:09.725Z",
+  "checkedAt": "2026-11-12T20:25:08.159Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -17,32 +17,18 @@
   "articlesChecked": 47,
   "added": [
     {
-      "id": "red-kimoulis-mousouri-2026",
-      "title": "Κόκκινο",
-      "url": "https://greektheatrecritics.gr/kritikes/kokkino-tou-tzon-logkan-se-skinothesia-giorgou-kimouli-sto-theatro-mousouri/",
-      "author": "Ματίνας Καλτάκη",
-      "publishedAt": "2026-11-11"
+      "id": "tsoukko-karantzas-proskinio-2026",
+      "title": "Ρομπέρτο Τσούκκο",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3080599/romperto-tsoukko-tou-bernard-marie-koltes/",
+      "author": "Τόνια Τσαμούρη",
+      "publishedAt": "2026-11-12"
     },
     {
-      "id": "theofilos-lazaridou-mini131-2026",
-      "title": "Θεόφιλος sold",
-      "url": "https://greektheatrecritics.gr/kritikes/theofilos-sold-tou-samson-raka-se-skinothesia-olias-lazaridou-sto-mini-peiraios-131/",
-      "author": "Γρηγόρη Ιωαννίδη",
-      "publishedAt": "2026-11-09"
-    },
-    {
-      "id": "red-kimoulis-mousouri-2026",
-      "title": "Κόκκινο",
-      "url": "https://greektheatrecritics.gr/kritikes/kokkino-tou-tzon-logkan-se-skinothesia-giorgou-kimouli-sto-theatro-mousouri-blatsou/",
-      "author": "Ιωάννας Μπλάτσου",
-      "publishedAt": "2026-11-03"
-    },
-    {
-      "id": "theofilos-lazaridou-mini131-2026",
-      "title": "Θεόφιλος sold",
-      "url": "https://greektheatrecritics.gr/kritikes/theofilos-sold-tou-samson-raka-se-skinothesia-olias-lazaridou-sto-mini-peiraios-131-blatsou/",
-      "author": "Ιωάννας Μπλάτσου",
-      "publishedAt": "2026-11-02"
+      "id": "tsoukko-karantzas-proskinio-2026",
+      "title": "Ρομπέρτο Τσούκκο",
+      "url": "https://greektheatrecritics.gr/kritikes/romperto-tsoukko-tou-mpernar-mari-koltes-se-skinothesia-dimitri-karantza-sto-theatro-proskinio/",
+      "author": "Νίκου Ρουμπή",
+      "publishedAt": "2026-11-06"
     }
   ],
   "updated": [],
@@ -53,13 +39,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
-      "title": "Μήδεια",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
-      "title": "Ίων",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
+      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
       "reason": "production-not-confirmed"
     },
     {
@@ -68,23 +49,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
-      "title": "Άλκηστις",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
-      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
-      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
-      "title": "Βάκχες",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
+      "title": "Μήδεια",
       "reason": "production-not-confirmed"
     },
     {
@@ -93,8 +59,28 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
+      "title": "Άλκηστις",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
+      "title": "Ίων",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
       "title": "Τρωάδες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
+      "title": "Βάκχες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
+      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
       "reason": "production-not-confirmed"
     },
     {
@@ -103,13 +89,13 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3044855/mia-zoi---o-monologos-mias-modistras/",
-      "title": "Μια ζωή - Ο μονόλογος μιας μοδίστρας",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
+      "title": "Αι γυμνισταί",
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
-      "title": "Αι γυμνισταί",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074433/3074433-ekabi---sti-skia-tis-politeias/",
+      "title": "Εκάβη - Στη σκιά της Πολιτείας",
       "reason": "production-not-confirmed"
     },
     {
@@ -130,6 +116,11 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/nochavelandi-tou-gianni-aposkiti-se-skinothesia-giorgou-vourdami-sto-theatro-104-2/",
       "title": "«Νοχαβελάνδη» του Γιάννη Αποσκίτη, σε σκηνοθεσία Γιώργου Βουρδαμή, στο Θέατρο 104",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/the-dreamers-tou-tom-kinninmont-se-skinothesia-konstantinou-rigou-sto-sygchrono-theatro/",
+      "title": "«The Dreamers» του Τομ Κίνινμοντ (Tom Kinninmont), σε σκηνοθεσία Κωνσταντίνου Ρήγου, στο Σύγχρονο Θέατρο",
       "reason": "production-not-confirmed"
     },
     {
@@ -385,6 +376,11 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/nochavelandi-tou-gianni-aposkiti-se-skinothesia-giorgou-vourdami-sto-theatro-104-2/",
       "title": "«Νοχαβελάνδη» του Γιάννη Αποσκίτη, σε σκηνοθεσία Γιώργου Βουρδαμή, στο Θέατρο 104",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/the-dreamers-tou-tom-kinninmont-se-skinothesia-konstantinou-rigou-sto-sygchrono-theatro/",
+      "title": "«The Dreamers» του Τομ Κίνινμοντ (Tom Kinninmont), σε σκηνοθεσία Κωνσταντίνου Ρήγου, στο Σύγχρονο Θέατρο",
       "reason": "production-not-confirmed"
     },
     {
@@ -624,5 +620,5 @@
     }
   ],
   "failures": [],
-  "total": 14
+  "total": 16
 }

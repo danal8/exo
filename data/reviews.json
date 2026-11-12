@@ -191,7 +191,33 @@
         "type": "editorial",
         "checkedAt": "2026-11-12T07:42:09.725Z"
       }
+    ],
+    "tsoukko-karantzas-proskinio-2026": [
+      {
+        "author": "Τόνια Τσαμούρη",
+        "publishedAt": "2026-11-12",
+        "url": "https://www.athinorama.gr/theatre/theatre-reviews/3080599/romperto-tsoukko-tou-bernard-marie-koltes/",
+        "source": "athinorama.gr",
+        "summary": "Μια πολύ ενδιαφέρουσα παράσταση ιδωμένη μέσα από την σημειολογικά φορτισμένη σκηνοθεσία του Δημήτρη Καραντζά.…",
+        "score": 4.5,
+        "scale": 5,
+        "id": "review-62551c423440ac12",
+        "type": "editorial",
+        "checkedAt": "2026-11-12T20:25:08.159Z"
+      },
+      {
+        "author": "Νίκου Ρουμπή",
+        "publishedAt": "2026-11-06",
+        "url": "https://greektheatrecritics.gr/kritikes/romperto-tsoukko-tou-mpernar-mari-koltes-se-skinothesia-dimitri-karantza-sto-theatro-proskinio/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-a8d50c6d2241e5e8",
+        "type": "editorial",
+        "checkedAt": "2026-11-12T20:25:08.159Z"
+      }
     ]
   },
-  "checkedAt": "2026-11-12T07:42:09.725Z"
+  "checkedAt": "2026-11-12T20:25:08.159Z"
 }
