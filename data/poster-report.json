@@ -1,12 +1,42 @@
 {
-  "checkedAt": "2026-11-12T13:18:58.644Z",
+  "checkedAt": "2026-11-13T12:41:48.115Z",
   "checked": 193,
   "repaired": [
     {
-      "id": "auto-296185b5d17932",
-      "title": "Chelsea Wolfe",
-      "url": "https://www.more.com/getattachment/5bed9637-98e6-45d4-9cb3-d80e18547cd8",
-      "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/"
+      "id": "fuzz-ezhel-2026",
+      "title": "EZHEL",
+      "url": "https://www.more.com/getattachment/ce7b390a-0f02-49fd-8dc1-f375e91b9691",
+      "sourceUrl": "https://www.more.com/gr-el/music/ezhel-live-in-europe-2026/"
+    },
+    {
+      "id": "fuzz-nile-2-2026",
+      "title": "NILE",
+      "url": "https://www.more.com/getattachment/df4f9815-4637-4196-bd0d-d37acb3bb2e6",
+      "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/"
+    },
+    {
+      "id": "fuzz-solstafir-2-2026",
+      "title": "Sólstafir",
+      "url": "https://www.more.com/getattachment/ff1408e7-2dbb-45fd-b1a6-fa18e53e8b11",
+      "sourceUrl": "https://www.more.com/gr-el/music/solstafir-greece/"
+    },
+    {
+      "id": "fuzz-fundracar-2026",
+      "title": "FUNDRACAR",
+      "url": "https://www.more.com/getattachment/10c35207-2959-4db3-8774-d19316701bb5",
+      "sourceUrl": "https://www.more.com/gr-el/music/fundracar-15-xronia-plakosou/"
+    },
+    {
+      "id": "auto-d46d60d4f3033e",
+      "title": "KREATOR & OVERKILL",
+      "url": "https://www.more.com/getattachment/2fa63b09-9703-478c-b15c-abad50123bd4",
+      "sourceUrl": "https://www.more.com/gr-el/music/kreator-overkill/"
+    },
+    {
+      "id": "auto-6a81d4a065f77a",
+      "title": "Eddie Dark",
+      "url": "https://www.more.com/getattachment/f63ce783-5dae-4548-9997-2b9203373afc",
+      "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark"
     },
     {
       "id": "auto-de6ea6b14fb259",
@@ -15,22 +45,28 @@
       "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/"
     },
     {
+      "id": "auto-66bbb2a096985d",
+      "title": "1000mods",
+      "url": "https://www.more.com/getattachment/e5417ce0-0d5d-44e2-85ac-64e43785b0bb",
+      "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026"
+    },
+    {
       "id": "auto-9994a6978939c9",
       "title": "Dylan Moran",
       "url": "https://www.more.com/getattachment/989fbbb8-9ad1-45fc-bd43-d8eda240b9c9",
       "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/"
     },
     {
-      "id": "auto-c49979ba0d5e9a",
-      "title": "SOEN",
-      "url": "https://www.more.com/getattachment/29fb6ac3-1a08-4826-86e6-662784fb6520",
-      "sourceUrl": "https://www.more.com/gr-el/music/soen/2027"
-    },
-    {
       "id": "auto-ec7b804dbd21de",
       "title": "Black Veil Brides / Special Guests: The Funeral Portrait & The Howling.",
       "url": "https://www.more.com/getattachment/a1d84aee-7d8a-43cf-a142-addc9368d9d4",
       "sourceUrl": "https://www.more.com/gr-el/music/black-veil-brides2027"
+    },
+    {
+      "id": "auto-56c8426231ea74",
+      "title": "Katerine Duska – Live Album Presentation",
+      "url": "https://www.more.com/getattachment/af6e65ca-fd61-4cf2-be04-2fdb7e3a72e4",
+      "sourceUrl": "https://www.more.com/gr-el/music/katerine-duska-live-album-presentation/"
     },
     {
       "id": "auto-88660b6e0e360c",
@@ -47,8 +83,8 @@
   ],
   "unresolved": [
     {
-      "id": "goat-gazarte-2026",
-      "title": "GOAT"
+      "id": "henge-gazarte-2026",
+      "title": "HENGE"
     },
     {
       "id": "mercury-rev-gazarte-2026",
@@ -59,12 +95,12 @@
       "title": "Emmet Cohen"
     },
     {
-      "id": "henge-gazarte-2026",
-      "title": "HENGE"
-    },
-    {
       "id": "vapors-morphine-gazarte-2026",
       "title": "Vapors of Morphine"
+    },
+    {
+      "id": "goat-gazarte-2026",
+      "title": "GOAT"
     },
     {
       "id": "uriah-heep-floyd-2026",
@@ -91,24 +127,28 @@
       "title": "Ελονώρα Ζουγανέλη"
     },
     {
-      "id": "music-11000083",
-      "title": "Ρώσοι - Υπέροχοι και Άγνωστοι"
-    },
-    {
       "id": "music-11000004",
       "title": "Dievers Halloween Party"
     },
     {
-      "id": "music-11000087",
-      "title": "Συνηχήσεις"
+      "id": "music-11000083",
+      "title": "Ρώσοι - Υπέροχοι και Άγνωστοι"
     },
     {
       "id": "music-11000086",
       "title": "Μιράντα Βερούλη"
     },
     {
+      "id": "music-11000087",
+      "title": "Συνηχήσεις"
+    },
+    {
       "id": "music-11000091",
       "title": "DA TI"
+    },
+    {
+      "id": "music-11000088",
+      "title": "Γυναικεία υπόθεση"
     },
     {
       "id": "music-11000102",
@@ -117,10 +157,6 @@
     {
       "id": "music-11000134",
       "title": "Ross Daly & Κέλυ Θωμά"
-    },
-    {
-      "id": "music-11000088",
-      "title": "Γυναικεία υπόθεση"
     },
     {
       "id": "music-11000149",
