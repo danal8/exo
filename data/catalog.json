@@ -335,8 +335,8 @@
       "audienceCheckedAt": "2026-10-26",
       "audienceSourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/#UserRreviews",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10091817/list.jpg",
-        "sourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/",
+        "url": "https://www.monopoli.gr/wp-content/uploads/2026/09/ioulietta-i-me-ti-thalassini-vostantzoglou-sto-theatro-mets.jpg",
+        "sourceUrl": "https://www.monopoli.gr/2026/09/10/showtimes/theatre/985799/ioulietta-i-i-saikspiriki-iroida-allios-se-enan-monologo-sto-theatro-mets/",
         "authority": "publisher",
         "kind": "production-photo"
       },
@@ -2677,10 +2677,11 @@
         "checkedAt": "2026-11-14T06:33:31.818Z"
       },
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/7c6255ad-00c2-4447-aa1b-b1383be702b2/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "url": "https://www.more.com/getattachment/7c6255ad-00c2-4447-aa1b-b1383be702b2",
+        "sourceUrl": "https://www.more.com/gr-el/music/jeff-buckleys-grace-performed-by-slow-pilot/",
         "authority": "ticket",
-        "kind": "production-photo"
+        "kind": "poster",
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-14T06:33:31.818Z",
@@ -2736,7 +2737,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/eleonora-manona-live/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-10-31T10:40:59.473Z"
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
@@ -2896,10 +2897,11 @@
         }
       ],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "url": "https://www.more.com/getattachment/d691de4e-fa68-4496-9f45-1ab0aa8be20f",
+        "sourceUrl": "https://www.more.com/gr-el/music/prong-live-in-athens-gazarte-22/11/",
         "authority": "ticket",
-        "kind": "production-photo"
+        "kind": "poster",
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
@@ -2939,10 +2941,11 @@
         }
       ],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/5646bee7-ddfe-41a2-9e73-6b1926b4332d/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "url": "https://www.more.com/getattachment/5646bee7-ddfe-41a2-9e73-6b1926b4332d",
+        "sourceUrl": "https://www.more.com/gr-el/music/arab-strap-live-in-athens/",
         "authority": "ticket",
-        "kind": "production-photo"
+        "kind": "poster",
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "ticketLinkCheckedAt": "2026-10-26T20:56:21.946Z"
     },
@@ -28465,9 +28468,11 @@
       "ticketUrl": "https://www.more.com/gr-el/tickets/music/palko-stauros-tou-notou-plus-2/?evId=950618",
       "reviews": [],
       "poster": {
-        "url": "https://www.more.com/getattachment/be225bba-7dbd-4641-8f4b-f86f08d00f5b/play_image.png",
+        "url": "https://www.more.com/site/images/opengraph.png",
         "sourceUrl": "https://www.more.com/gr-el/venues/stayros/",
-        "kind": "poster"
+        "authority": "ticket",
+        "kind": "poster",
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "start": "2026-10-31",
       "end": "2026-10-31"
@@ -33083,7 +33088,7 @@
       "cast": [
         "Organization"
       ],
-      "description": "<p>DA TI ΠΑΡΑΣΚΕΥΗ 30 ΟΚΤΩΒΡΙΟΥ 2026 FUZZ CLUB «Ο DA TI για πρώτη φορά live στην Ελλάδα!» Ο DA TI, ο ανερχόμενος pop καλλιτέχνης πίσω από το viral hit “Take Me There”, έρχεται στο Fuzz Club την Παρασκευή 30 Οκτωβρίου 2026, στο πλαίσιο της πρώτης του ευρωπαϊκής headline περιοδείας. Ο DA TI έχει αποκτήσει ένα [&hellip;]</p>\\n",
+      "description": "Ο ανερχόμενος pop καλλιτέχνης DA TI, που ξεχώρισε μέσα από το viral hit \"Take Me There\", έρχεται για πρώτη φορά στην Ελλάδα.",
       "season": "2026–2027",
       "start": "2026-10-30",
       "end": "2026-10-30",
@@ -33142,10 +33147,10 @@
       ],
       "reviews": [],
       "descriptionSource": {
-        "url": "https://www.fuzzclub.gr/events/month/",
         "kind": "source-excerpt",
-        "authority": "official",
-        "checkedAt": "2026-11-14T06:33:31.818Z"
+        "authority": "publisher",
+        "url": "https://www.athinorama.gr/music/gig/da_ti-11000091/",
+        "checkedAt": "2026-11-14T11:45:02.612Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-14T06:33:31.818Z",
@@ -35869,7 +35874,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-13T12:41:48.115Z"
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-11-29/",
@@ -36052,7 +36057,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/nouvelle-vague-2/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-09T13:26:31.954Z"
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/event/nouvelle-vague-2026/",
@@ -37089,7 +37094,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/soen/2027",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-12T13:18:58.644Z"
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38257,7 +38262,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-13T12:41:48.115Z"
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38818,7 +38823,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-13T12:41:48.115Z"
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -39637,7 +39642,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/dio-miden-dio-miden-floyd/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-11T12:14:18.584Z"
+        "checkedAt": "2026-11-14T11:48:32.225Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
