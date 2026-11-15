@@ -217,7 +217,21 @@
         "type": "editorial",
         "checkedAt": "2026-11-12T20:25:08.159Z"
       }
+    ],
+    "ath-10091775": [
+      {
+        "author": "Γιώργου Παπαγιαννάκη",
+        "publishedAt": "2026-11-13",
+        "url": "https://greektheatrecritics.gr/kritikes/oi-dikaioi-tou-almper-kamy-se-skinothesia-gianni-kaklea-sto-theatro-apothiki/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-6c3c5be26db09d72",
+        "type": "editorial",
+        "checkedAt": "2026-11-15T19:05:31.855Z"
+      }
     ]
   },
-  "checkedAt": "2026-11-15T07:09:20.291Z"
+  "checkedAt": "2026-11-15T19:05:31.855Z"
 }
