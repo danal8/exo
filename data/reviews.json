@@ -231,7 +231,21 @@
         "type": "editorial",
         "checkedAt": "2026-11-15T19:05:31.855Z"
       }
+    ],
+    "ath-10090735": [
+      {
+        "author": "Ιωάννας Μπλάτσου",
+        "publishedAt": "2026-11-13",
+        "url": "https://greektheatrecritics.gr/kritikes/enas-ypiretis-dyo-afentika-tou-ritsarnt-mpin-se-skinothesia-thanou-tokaki-sto-theatro-ilisia/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-0a5d7737a6be4bb9",
+        "type": "editorial",
+        "checkedAt": "2026-11-16T22:29:19.798Z"
+      }
     ]
   },
-  "checkedAt": "2026-11-16T07:14:08.253Z"
+  "checkedAt": "2026-11-16T22:29:19.798Z"
 }

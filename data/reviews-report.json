@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-16T07:14:08.253Z",
+  "checkedAt": "2026-11-16T22:29:19.798Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -15,7 +15,15 @@
     }
   ],
   "articlesChecked": 47,
-  "added": [],
+  "added": [
+    {
+      "id": "ath-10090735",
+      "title": "Ένας υπηρέτης, δύο αφεντικά",
+      "url": "https://greektheatrecritics.gr/kritikes/enas-ypiretis-dyo-afentika-tou-ritsarnt-mpin-se-skinothesia-thanou-tokaki-sto-theatro-ilisia/",
+      "author": "Ιωάννας Μπλάτσου",
+      "publishedAt": "2026-11-13"
+    }
+  ],
   "updated": [],
   "candidates": [
     {
@@ -24,28 +32,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
-      "title": "Χάσαμε τη θεία Στοπ",
-      "reason": "production-not-confirmed"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
       "title": "Μήδεια",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
-      "title": "Ίων",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
-      "title": "Άλκηστις",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
-      "title": "Τρωάδες",
       "reason": "production-not-confirmed"
     },
     {
@@ -54,8 +42,13 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
-      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
+      "title": "Άλκηστις",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
+      "title": "Ίων",
       "reason": "production-not-confirmed"
     },
     {
@@ -64,8 +57,13 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
-      "title": "Πέρσες",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
+      "title": "Ο υπηρέτης δύο αφεντάδων",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
+      "title": "Τρωάδες",
       "reason": "production-not-confirmed"
     },
     {
@@ -74,13 +72,23 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
-      "title": "Αι γυμνισταί",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
+      "title": "Χάσαμε τη θεία Στοπ",
       "reason": "production-not-confirmed"
     },
     {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074433/3074433-ekabi---sti-skia-tis-politeias/",
       "title": "Εκάβη - Στη σκιά της Πολιτείας",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
+      "title": "Πέρσες",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
+      "title": "Αι γυμνισταί",
       "reason": "production-not-confirmed"
     },
     {
@@ -605,5 +613,5 @@
     }
   ],
   "failures": [],
-  "total": 17
+  "total": 18
 }
