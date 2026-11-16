@@ -1,97 +1,7 @@
 {
-  "checkedAt": "2026-11-15T12:20:32.437Z",
+  "checkedAt": "2026-11-16T13:11:23.358Z",
   "checked": 193,
   "repaired": [
-    {
-      "id": "kronos-gazarte-2026",
-      "title": "Kronos Quartet",
-      "url": "https://www.more.com/getattachment/2109e5f7-b0df-40af-936f-df2b3264d2ad",
-      "sourceUrl": "https://www.more.com/gr-el/music/kronos-quartet/"
-    },
-    {
-      "id": "the-kvb-gazarte-2026",
-      "title": "The KVB",
-      "url": "https://www.more.com/getattachment/f19f70d6-3ac6-420a-9019-bb737d2cbb25",
-      "sourceUrl": "https://www.more.com/gr-el/music/the-kvb-live-stin-ellada/"
-    },
-    {
-      "id": "arab-strap-gazarte-2026",
-      "title": "Arab Strap",
-      "url": "https://www.more.com/getattachment/5646bee7-ddfe-41a2-9e73-6b1926b4332d",
-      "sourceUrl": "https://www.more.com/gr-el/music/arab-strap-live-in-athens/"
-    },
-    {
-      "id": "ilion-andrijπερααποτοπερασ",
-      "title": "ANDRI J - ΠΕΡΑ ΑΠΟ ΤΟ ΠΕΡΑΣ",
-      "url": "https://www.more.com/getattachment/AD535CE4-9DDF-4DE1-BE19-209E6D5580B4/evg_andrij-peraapotoperas_1225_4879.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-nightkillsecularupheavalviciousvoid",
-      "title": "NIGHTKILL/SECULAR UPHEAVAL/VICIOUS VOID",
-      "url": "https://www.more.com/getattachment/4513C1C7-FF49-40B2-86A7-C9EC5B555445/evg_nightkill/secularupheaval_0818_5031.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-thesilentrage",
-      "title": "The Silent Rage",
-      "url": "https://www.more.com/getattachment/97FD0409-C480-4992-9D98-5DA50F0C46E4/evg_thesilentrage_1250_5257.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-μαριακουτσουρληilionplus",
-      "title": "ΜΑΡΙΑ ΚΟΥΤΣΟΥΡΛΗ | Ilion Plus",
-      "url": "https://www.more.com/getattachment/13537EC6-755A-4D09-BEE6-6EEFC10BEF19/evg_mariakoutsourleorophosatk_1258_4624.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-μπεζεποχεσρετροιλιονplus",
-      "title": "ΜΠΕΖ ΕΠΟΧΕΣ & ΡΕΤΡΟ @ΙΛΙΟΝ plus",
-      "url": "https://www.more.com/getattachment/0ED45AF8-6CBF-47DD-BCB5-28FE566E2F06/evg_mpezepokhesretroilionplus_2133_5031.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-μχlonelyλδλμmessier13ilionplus",
-      "title": "ΜΧ Lonely + ΛΔΛΜ + Messier 13 @ ILION Plus",
-      "url": "https://www.more.com/getattachment/8792304E-4A40-47BC-8E47-57B6B8C521F9/evg_mkhlonelyldlmmessier13ili_1655_1669.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-davidshawandthebeatlive",
-      "title": "DAVID SHAW AND THE BEAT live",
-      "url": "https://www.more.com/getattachment/5E3B070F-4D79-4690-9A8D-3C3E5CF30E57/evg_davidshawandthebeatlive_2044_4970.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "ilion-bruceliveilionplus",
-      "title": "Bruce live @ Ilion plus",
-      "url": "https://www.more.com/getattachment/0B9ABD38-11DD-4BC6-BC15-F410E21AE6FB/evg_releaseathens2027/brucedi_1231_1897.png?width=300",
-      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
-    },
-    {
-      "id": "fuzz-nile-2-2026",
-      "title": "NILE",
-      "url": "https://www.more.com/getattachment/df4f9815-4637-4196-bd0d-d37acb3bb2e6",
-      "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/"
-    },
-    {
-      "id": "auto-0729132437c5be",
-      "title": "Belle & Sebastian",
-      "url": "https://www.more.com/getattachment/bf09cce4-3bbe-48f1-a01a-7a118f9b6758",
-      "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026"
-    },
-    {
-      "id": "auto-6a81d4a065f77a",
-      "title": "Eddie Dark",
-      "url": "https://www.more.com/getattachment/f63ce783-5dae-4548-9997-2b9203373afc",
-      "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark"
-    },
-    {
-      "id": "auto-9994a6978939c9",
-      "title": "Dylan Moran",
-      "url": "https://www.more.com/getattachment/989fbbb8-9ad1-45fc-bd43-d8eda240b9c9",
-      "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/"
-    },
     {
       "id": "auto-88660b6e0e360c",
       "title": "EAGLE EYE CHERRY live in Greece!",
@@ -99,23 +9,13 @@
       "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/"
     },
     {
-      "id": "auto-56c8426231ea74",
-      "title": "Katerine Duska – Live Album Presentation",
-      "url": "https://www.more.com/getattachment/af6e65ca-fd61-4cf2-be04-2fdb7e3a72e4",
-      "sourceUrl": "https://www.more.com/gr-el/music/katerine-duska-live-album-presentation/"
-    },
-    {
-      "id": "auto-ec7b804dbd21de",
-      "title": "Black Veil Brides / Special Guests: The Funeral Portrait & The Howling.",
-      "url": "https://www.more.com/getattachment/a1d84aee-7d8a-43cf-a142-addc9368d9d4",
-      "sourceUrl": "https://www.more.com/gr-el/music/black-veil-brides2027"
+      "id": "auto-c28f97040b81d6",
+      "title": "δύο_μηδέν_δύο_μηδέν",
+      "url": "https://www.more.com/getattachment/9750fc5a-0752-4ac5-a517-7587bf3f674c",
+      "sourceUrl": "https://www.more.com/gr-el/music/dio-miden-dio-miden-floyd/"
     }
   ],
   "unresolved": [
-    {
-      "id": "emmet-cohen-gazarte-2026",
-      "title": "Emmet Cohen"
-    },
     {
       "id": "henge-gazarte-2026",
       "title": "HENGE"
@@ -133,40 +33,12 @@
       "title": "Vapors of Morphine"
     },
     {
+      "id": "emmet-cohen-gazarte-2026",
+      "title": "Emmet Cohen"
+    },
+    {
       "id": "uriah-heep-floyd-2026",
       "title": "Uriah Heep"
-    },
-    {
-      "id": "ilion-bangiesliveilionplus",
-      "title": "Bangies live @ ilion plus"
-    },
-    {
-      "id": "ilion-ablendingofgreekandfrenchrapculture",
-      "title": "A blending of Greek and French Rap Culture"
-    },
-    {
-      "id": "ilion-ολινατισεσυγκινησεliveatilionplus",
-      "title": "ΟΛΙΝΑ | «Τι σε συγκίνησε;» Live at Ilion Plus"
-    },
-    {
-      "id": "ilion-flemmaπαρουσιασηδισκου",
-      "title": "FLEMMA ΠΑΡΟΥΣΙΑΣΗ ΔΙΣΚΟΥ"
-    },
-    {
-      "id": "ilion-dramachinetheklammers",
-      "title": "DRAMACHINE × THE KLAMMERS"
-    },
-    {
-      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
-      "title": "ΧΡΗΣΤΟΣ ΒΕΡΓΟΣ ΙΛΙΟΝ PLUS - (ΑΘΗΝΑ)"
-    },
-    {
-      "id": "ilion-αντιλογικηστελευταιασυναυλια",
-      "title": "Αντί Λογικής - Τελευταία Συναυλία"
-    },
-    {
-      "id": "ilion-conceivevilespecieskabyahilionplus",
-      "title": "Conceive+Vile Species+Kab-Yah@ILION Plus"
     },
     {
       "id": "music-10058532",
@@ -181,6 +53,10 @@
       "title": "Omar Ayari + Deköm + GladOneByWho"
     },
     {
+      "id": "music-10091924",
+      "title": "Ελονώρα Ζουγανέλη"
+    },
+    {
       "id": "music-10091872",
       "title": "Ο Νι Ταφ Μι με τη Συμφωνική Ορχήστρα Δήμου Αθηναίων"
     },
@@ -189,28 +65,24 @@
       "title": "Dievers Halloween Party"
     },
     {
-      "id": "music-10091924",
-      "title": "Ελονώρα Ζουγανέλη"
-    },
-    {
       "id": "music-11000083",
       "title": "Ρώσοι - Υπέροχοι και Άγνωστοι"
-    },
-    {
-      "id": "music-11000086",
-      "title": "Μιράντα Βερούλη"
     },
     {
       "id": "music-11000087",
       "title": "Συνηχήσεις"
     },
     {
+      "id": "music-11000088",
+      "title": "Γυναικεία υπόθεση"
+    },
+    {
       "id": "music-11000091",
       "title": "DA TI"
     },
     {
-      "id": "music-11000088",
-      "title": "Γυναικεία υπόθεση"
+      "id": "music-11000086",
+      "title": "Μιράντα Βερούλη"
     },
     {
       "id": "music-11000102",
@@ -219,10 +91,6 @@
     {
       "id": "music-11000134",
       "title": "Ross Daly & Κέλυ Θωμά"
-    },
-    {
-      "id": "music-11000035",
-      "title": "Fuζion: A blending of Greek and French Rap Culture"
     },
     {
       "id": "music-11000149",
