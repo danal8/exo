@@ -1,7 +1,37 @@
 {
-  "checkedAt": "2026-11-16T13:11:23.358Z",
+  "checkedAt": "2026-11-17T13:54:59.218Z",
   "checked": 193,
   "repaired": [
+    {
+      "id": "fuzz-nile-2-2026",
+      "title": "NILE",
+      "url": "https://www.more.com/getattachment/df4f9815-4637-4196-bd0d-d37acb3bb2e6",
+      "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/"
+    },
+    {
+      "id": "auto-296185b5d17932",
+      "title": "Chelsea Wolfe",
+      "url": "https://www.more.com/getattachment/5bed9637-98e6-45d4-9cb3-d80e18547cd8",
+      "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/"
+    },
+    {
+      "id": "auto-0729132437c5be",
+      "title": "Belle & Sebastian",
+      "url": "https://www.more.com/getattachment/bf09cce4-3bbe-48f1-a01a-7a118f9b6758",
+      "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026"
+    },
+    {
+      "id": "auto-de6ea6b14fb259",
+      "title": "Planet of Zeus",
+      "url": "https://www.more.com/getattachment/e0ceca33-4896-4ff0-8b02-a4be85ea3b29",
+      "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/"
+    },
+    {
+      "id": "auto-9994a6978939c9",
+      "title": "Dylan Moran",
+      "url": "https://www.more.com/getattachment/989fbbb8-9ad1-45fc-bd43-d8eda240b9c9",
+      "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/"
+    },
     {
       "id": "auto-88660b6e0e360c",
       "title": "EAGLE EYE CHERRY live in Greece!",
@@ -9,32 +39,50 @@
       "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/"
     },
     {
+      "id": "auto-c49979ba0d5e9a",
+      "title": "SOEN",
+      "url": "https://www.more.com/getattachment/29fb6ac3-1a08-4826-86e6-662784fb6520",
+      "sourceUrl": "https://www.more.com/gr-el/music/soen/2027"
+    },
+    {
+      "id": "auto-56c8426231ea74",
+      "title": "Katerine Duska – Live Album Presentation",
+      "url": "https://www.more.com/getattachment/af6e65ca-fd61-4cf2-be04-2fdb7e3a72e4",
+      "sourceUrl": "https://www.more.com/gr-el/music/katerine-duska-live-album-presentation/"
+    },
+    {
       "id": "auto-c28f97040b81d6",
       "title": "δύο_μηδέν_δύο_μηδέν",
       "url": "https://www.more.com/getattachment/9750fc5a-0752-4ac5-a517-7587bf3f674c",
       "sourceUrl": "https://www.more.com/gr-el/music/dio-miden-dio-miden-floyd/"
+    },
+    {
+      "id": "auto-7c7e8fe01559df",
+      "title": "ΧΡΥΣΗΙΔΑ ΓΚΑΓΚΟΥΤΗ – FREEZER – CHRISTMAS SHOW",
+      "url": "https://www.more.com/site/images/blank.png",
+      "sourceUrl": "https://www.more.com/gr-el/tickets/music/"
     }
   ],
   "unresolved": [
     {
-      "id": "henge-gazarte-2026",
-      "title": "HENGE"
+      "id": "emmet-cohen-gazarte-2026",
+      "title": "Emmet Cohen"
     },
     {
-      "id": "mercury-rev-gazarte-2026",
-      "title": "Mercury Rev"
+      "id": "henge-gazarte-2026",
+      "title": "HENGE"
     },
     {
       "id": "goat-gazarte-2026",
       "title": "GOAT"
     },
     {
-      "id": "vapors-morphine-gazarte-2026",
-      "title": "Vapors of Morphine"
+      "id": "mercury-rev-gazarte-2026",
+      "title": "Mercury Rev"
     },
     {
-      "id": "emmet-cohen-gazarte-2026",
-      "title": "Emmet Cohen"
+      "id": "vapors-morphine-gazarte-2026",
+      "title": "Vapors of Morphine"
     },
     {
       "id": "uriah-heep-floyd-2026",
@@ -53,10 +101,6 @@
       "title": "Omar Ayari + Deköm + GladOneByWho"
     },
     {
-      "id": "music-10091924",
-      "title": "Ελονώρα Ζουγανέλη"
-    },
-    {
       "id": "music-10091872",
       "title": "Ο Νι Ταφ Μι με τη Συμφωνική Ορχήστρα Δήμου Αθηναίων"
     },
@@ -65,8 +109,16 @@
       "title": "Dievers Halloween Party"
     },
     {
+      "id": "music-10091924",
+      "title": "Ελονώρα Ζουγανέλη"
+    },
+    {
       "id": "music-11000083",
       "title": "Ρώσοι - Υπέροχοι και Άγνωστοι"
+    },
+    {
+      "id": "music-11000086",
+      "title": "Μιράντα Βερούλη"
     },
     {
       "id": "music-11000087",
@@ -79,10 +131,6 @@
     {
       "id": "music-11000091",
       "title": "DA TI"
-    },
-    {
-      "id": "music-11000086",
-      "title": "Μιράντα Βερούλη"
     },
     {
       "id": "music-11000102",
