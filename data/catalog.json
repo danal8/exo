@@ -335,8 +335,8 @@
       "audienceCheckedAt": "2026-10-26",
       "audienceSourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/#UserRreviews",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10091817/list.jpg",
-        "sourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/",
+        "url": "https://www.monopoli.gr/wp-content/uploads/2026/09/ioulietta-i-me-ti-thalassini-vostantzoglou-sto-theatro-mets.jpg",
+        "sourceUrl": "https://www.monopoli.gr/2026/09/10/showtimes/theatre/985799/ioulietta-i-i-saikspiriki-iroida-allios-se-enan-monologo-sto-theatro-mets/",
         "authority": "publisher",
         "kind": "production-photo"
       },
@@ -2682,11 +2682,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/7c6255ad-00c2-4447-aa1b-b1383be702b2",
-        "sourceUrl": "https://www.more.com/gr-el/music/jeff-buckleys-grace-performed-by-slow-pilot/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-14T11:48:32.225Z"
+        "url": "https://www.gazarte.gr/wp-content/uploads/2026/09/JEFF-SITE-FOR-BUTTON-1020-%C3%97-1122-px-.jpg",
+        "sourceUrl": "https://www.gazarte.gr/events/jeff-buckleys-grace-performed-by-slow-pilot/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-18T07:36:49.357Z",
@@ -2795,11 +2794,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/2109e5f7-b0df-40af-936f-df2b3264d2ad",
-        "sourceUrl": "https://www.more.com/gr-el/music/kronos-quartet/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-15T12:20:32.437Z"
+        "url": "https://www.gazarte.gr/wp-content/uploads/2026/10/KRONOS-QUARTET-SITE-FOR-BUTTON-1020-%C3%97-1122-px-.jpg",
+        "sourceUrl": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-kronos-quartet/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-18T07:36:49.357Z",
@@ -2856,11 +2854,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/f19f70d6-3ac6-420a-9019-bb737d2cbb25",
-        "sourceUrl": "https://www.more.com/gr-el/music/the-kvb-live-stin-ellada/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-15T12:20:32.437Z"
+        "url": "https://www.gazarte.gr/wp-content/uploads/2026/10/%CE%A0%CE%A1%CE%9F%CE%94%CE%A1%CE%9F%CE%9C%CE%9F%CE%A5-SITE-FOR-BUTTON-1020-%C3%97-1122-px-2.jpg",
+        "sourceUrl": "https://www.gazarte.gr/events/https-www-more-com-gr-el-tickets-music-the-kvb-live-stin-ellada/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-18T07:36:49.357Z",
@@ -8559,7 +8556,7 @@
       "reviews": [],
       "sourceProductionId": "11000062",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/11000062/list.jpg",
+        "url": "https://www.athinorama.gr/Content/ImagesDatabase/p/600x500/crop/both/Event_Photos/f5/f5e353e46d7bdda962c6bed0b2b44e02_%CE%A0%CE%9F%CE%9B%CE%A5%CE%9D%CE%91%20%CE%93%CE%9A%CE%99%CE%A9%CE%9D%CE%91%CE%9A%CE%97-%20%CE%9F%CE%9B%CE%93%CE%91%20%CE%A0%CE%9F%CE%9B%CE%99%CE%A4%CE%9F%CE%A5.jpg?quality=81&404=default&v=4",
         "sourceUrl": "https://www.athinorama.gr/theatre/performance/ektos-11000062/",
         "authority": "publisher",
         "kind": "production-photo"
@@ -15026,7 +15023,7 @@
       "reviews": [],
       "sourceProductionId": "10091665",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10091665/list.jpg",
+        "url": "https://www.athinorama.gr/Content/ImagesDatabase/p/600x500/crop/both/Event_Photos/cc/ccc2d1b743cb9ba83f1ab5160d7ac4c3_Delivery%20Edition2.png?quality=81&404=default&v=4",
         "sourceUrl": "https://www.athinorama.gr/theatre/performance/me_dunami_apo_tin_kifisia_the_delivery_edition-10091665/",
         "authority": "publisher",
         "kind": "production-photo"
@@ -28600,12 +28597,14 @@
           "lastCheckedAt": "2026-10-26T15:00:00Z"
         }
       ],
-      "ticketUrl": "https://www.more.com/gr-el/tickets/music/orestis-ntantos-stauros-tou-notou-plus/?evId=951331",
+      "ticketUrl": "https://www.ticketservices.gr/event/kafodeio-orestis-ntantos-xeria-ston-theo/?lang=el",
       "reviews": [],
       "poster": {
-        "url": "https://www.more.com/getattachment/3a6577f0-0236-4afe-99e1-c60474f120e0/play_image.png",
-        "sourceUrl": "https://www.more.com/gr-el/venues/stayros/",
-        "kind": "poster"
+        "url": "https://stream.ticketservices.gr/www.ticketservices.gr/pictures/original/b_67896_or_Nta__769_ntos-O__769_rofos-Okt2026-event.jpg",
+        "sourceUrl": "https://www.ticketservices.gr/event/kafodeio-orestis-ntantos-xeria-ston-theo/?lang=el",
+        "authority": "publisher",
+        "kind": "poster",
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "start": "2026-11-02",
       "end": "2026-11-02"
@@ -29404,9 +29403,11 @@
       "ticketUrl": "https://www.more.com/gr-el/tickets/music/alex-sid-ebelyn-asouant-stauros-tou-notou-plus/?evId=957900",
       "reviews": [],
       "poster": {
-        "url": "https://www.more.com/getattachment/6b00f25b-adb7-4e36-a04c-1ae5e7905b85/play_image.png",
-        "sourceUrl": "https://www.more.com/gr-el/venues/stayros/",
-        "kind": "poster"
+        "url": "https://www.more.com/getattachment/6b00f25b-adb7-4e36-a04c-1ae5e7905b85",
+        "sourceUrl": "https://www.more.com/gr-el/music/alex-sid-ebelyn-asouant-stauros-tou-notou-plus/",
+        "authority": "ticket",
+        "kind": "poster",
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "start": "2026-11-30",
       "end": "2026-11-30"
@@ -31808,11 +31809,11 @@
       },
       "phone": "2105298922",
       "poster": {
-        "url": "https://www.more.com/getattachment/757EA21F-C8ED-46EA-A3F6-A0D08FB4020B/evg_paris-istanbul8oskhronos_1705_565.png?width=300",
-        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "url": "https://www.more.com/getattachment/757ea21f-c8ed-46ea-a3f6-a0d08fb4020b",
+        "sourceUrl": "https://www.more.com/gr-el/music/paris-istanbul-8os-xronos",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-10-27T06:26:11.368Z"
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       }
     },
     {
@@ -33094,7 +33095,7 @@
       "cast": [
         "Organization"
       ],
-      "description": "<p>DA TI ΠΑΡΑΣΚΕΥΗ 30 ΟΚΤΩΒΡΙΟΥ 2026 FUZZ CLUB «Ο DA TI για πρώτη φορά live στην Ελλάδα!» Ο DA TI, ο ανερχόμενος pop καλλιτέχνης πίσω από το viral hit “Take Me There”, έρχεται στο Fuzz Club την Παρασκευή 30 Οκτωβρίου 2026, στο πλαίσιο της πρώτης του ευρωπαϊκής headline περιοδείας. Ο DA TI έχει αποκτήσει ένα [&hellip;]</p>\\n",
+      "description": "Ο ανερχόμενος pop καλλιτέχνης DA TI, που ξεχώρισε μέσα από το viral hit \"Take Me There\", έρχεται για πρώτη φορά στην Ελλάδα.",
       "season": "2026–2027",
       "start": "2026-10-30",
       "end": "2026-10-30",
@@ -33153,10 +33154,10 @@
       ],
       "reviews": [],
       "descriptionSource": {
-        "url": "https://www.fuzzclub.gr/events/month/",
         "kind": "source-excerpt",
-        "authority": "official",
-        "checkedAt": "2026-11-18T07:36:49.357Z"
+        "authority": "publisher",
+        "url": "https://www.athinorama.gr/music/gig/da_ti-11000091/",
+        "checkedAt": "2026-11-18T13:26:32.471Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-18T07:36:49.357Z",
@@ -35750,11 +35751,10 @@
       ],
       "reviews": [],
       "poster": {
-        "url": "https://www.more.com/getattachment/ff1408e7-2dbb-45fd-b1a6-fa18e53e8b11",
-        "sourceUrl": "https://www.more.com/gr-el/music/solstafir-greece/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-13T12:41:48.115Z"
+        "url": "https://www.fuzzclub.gr/wp-content/uploads/2026/08/sols.jpg",
+        "sourceUrl": "https://www.fuzzclub.gr/event/solstafir-2/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-11-14/",
@@ -35885,7 +35885,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-17T13:54:59.218Z"
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-11-29/",
@@ -35948,7 +35948,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/fundracar-15-xronia-plakosou/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-13T12:41:48.115Z"
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-12-05/",
@@ -36068,7 +36068,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/nouvelle-vague-2/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-14T11:48:32.225Z"
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/event/nouvelle-vague-2026/",
@@ -36657,7 +36657,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/kreator-overkill/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-13T12:41:48.115Z"
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36709,11 +36709,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/bf09cce4-3bbe-48f1-a01a-7a118f9b6758",
-        "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-17T13:54:59.218Z"
+        "url": "https://www.floyd.gr/wp-content/uploads/2026/06/slider.jpg",
+        "sourceUrl": "https://www.floyd.gr/event/belle-and-sebastian/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36769,7 +36768,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-15T12:20:32.437Z"
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36821,11 +36820,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/fa389e56-acfe-41b7-94f0-803aec9f7d90",
-        "sourceUrl": "https://www.more.com/gr-el/music/cabaret-voltaire/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-11T12:14:18.584Z"
+        "url": "https://www.floyd.gr/wp-content/uploads/2026/10/CB-slider.jpg",
+        "sourceUrl": "https://www.floyd.gr/event/cabaret-voltaire/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36881,7 +36879,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-17T13:54:59.218Z"
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36933,11 +36931,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/e5417ce0-0d5d-44e2-85ac-64e43785b0bb",
-        "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-13T12:41:48.115Z"
+        "url": "https://www.floyd.gr/wp-content/uploads/2024/10/1000mods_PP3-1920x1080-1.jpg",
+        "sourceUrl": "https://www.floyd.gr/event/1000mods-2026-12/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36989,11 +36986,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/a1d84aee-7d8a-43cf-a142-addc9368d9d4",
-        "sourceUrl": "https://www.more.com/gr-el/music/black-veil-brides2027",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-15T12:20:32.437Z"
+        "url": "https://www.floyd.gr/wp-content/uploads/2026/06/slider-BVB.jpg",
+        "sourceUrl": "https://www.floyd.gr/event/black-veil-brides/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -37045,11 +37041,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/989fbbb8-9ad1-45fc-bd43-d8eda240b9c9",
-        "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-17T13:54:59.218Z"
+        "url": "https://www.floyd.gr/wp-content/uploads/2026/10/cropped-image-1.jpg",
+        "sourceUrl": "https://www.floyd.gr/event/dylan-moran/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -37105,7 +37100,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/soen/2027",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-17T13:54:59.218Z"
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38055,7 +38050,7 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/11000227/list.jpg",
+        "url": "https://www.athinorama.gr/Content/ImagesDatabase/p/600x500/crop/both/Event_Photos/da/dad9859fdd2ac4a1d9bc5007272d8f80_%CE%9F%CE%B9%20%CE%A6%CE%AF%CF%81%CE%BC%CE%B5%CF%82-%CE%A0%CE%B1%CF%81%CE%B4%CE%B1%CE%BB%CE%AF%CE%B4%CE%BF%CF%85%20small%20(6).jpg?quality=81&404=default&v=4",
         "sourceUrl": "https://www.athinorama.gr/theatre/performance/oi_firmes-11000227/",
         "authority": "publisher",
         "kind": "production-photo"
@@ -38269,11 +38264,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/e0ceca33-4896-4ff0-8b02-a4be85ea3b29",
-        "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-17T13:54:59.218Z"
+        "url": "https://www.floyd.gr/wp-content/uploads/2026/10/cropped-image-1-1.jpg",
+        "sourceUrl": "https://www.floyd.gr/event/planet-of-zeus-2027/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38830,11 +38824,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/7c85e0ed-4df8-4985-b031-35a7a3334960",
-        "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-17T13:54:59.218Z"
+        "url": "https://www.fuzzclub.gr/wp-content/uploads/2026/10/cropped-image-2.jpg",
+        "sourceUrl": "https://www.fuzzclub.gr/events/month/2026-12/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -39541,7 +39534,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/katerine-duska-live-album-presentation/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-17T13:54:59.218Z"
+        "checkedAt": "2026-11-18T13:29:52.990Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -39649,11 +39642,10 @@
         "checkedAt": "2026-11-18T07:36:49.357Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/9750fc5a-0752-4ac5-a517-7587bf3f674c",
-        "sourceUrl": "https://www.more.com/gr-el/music/dio-miden-dio-miden-floyd/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-17T13:54:59.218Z"
+        "url": "https://www.floyd.gr/wp-content/uploads/2026/11/cropped-image-1-8.jpg",
+        "sourceUrl": "https://www.floyd.gr/event/dio-miden-dio-miden-floyd/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
