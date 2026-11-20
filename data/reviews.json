@@ -245,7 +245,21 @@
         "type": "editorial",
         "checkedAt": "2026-11-16T22:29:19.798Z"
       }
+    ],
+    "ath-10091912": [
+      {
+        "author": "Τόνια Τσαμούρη",
+        "publishedAt": "2026-11-20",
+        "url": "https://www.athinorama.gr/theatre/theatre-reviews/3081297/kritiki-theatro-gigantas/",
+        "source": "athinorama.gr",
+        "summary": "Όταν η ιστορία συναντάει το θέατρο τότε το αποτέλεσμα δε μπορεί παρά να είναι ενδιαφέρον, μα και εκρηκτικό όπως συμβαίνει…",
+        "score": 4,
+        "scale": 5,
+        "id": "review-e91e385dc62cee45",
+        "type": "editorial",
+        "checkedAt": "2026-11-20T20:42:18.873Z"
+      }
     ]
   },
-  "checkedAt": "2026-11-20T07:43:17.178Z"
+  "checkedAt": "2026-11-20T20:42:18.873Z"
 }
