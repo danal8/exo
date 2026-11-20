@@ -335,8 +335,8 @@
       "audienceCheckedAt": "2026-10-26",
       "audienceSourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/#UserRreviews",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10091817/list.jpg",
-        "sourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/",
+        "url": "https://www.monopoli.gr/wp-content/uploads/2026/09/ioulietta-i-me-ti-thalassini-vostantzoglou-sto-theatro-mets.jpg",
+        "sourceUrl": "https://www.monopoli.gr/2026/09/10/showtimes/theatre/985799/ioulietta-i-i-saikspiriki-iroida-allios-se-enan-monologo-sto-theatro-mets/",
         "authority": "publisher",
         "kind": "production-photo"
       },
@@ -18756,8 +18756,8 @@
       "reviews": [],
       "sourceProductionId": "10091787",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10090736/list.jpg",
-        "sourceUrl": "https://www.athinorama.gr/theatre/performance/o_pinakas-10090736/",
+        "url": "https://www.athinorama.gr/Content/ImagesDatabase/p/600x500/crop/both/Event_Photos/e2/e284808820e52c72e43f8cea17da3b37_%CE%9F%20%CE%A0%CE%99%CE%9D%CE%91%CE%9A%CE%91%CE%A3%20site1920%CE%A71080-2.jpg?quality=81&404=default&v=4",
+        "sourceUrl": "https://www.athinorama.gr/theatre/performance/o_pinakas-10091787/",
         "authority": "publisher",
         "kind": "production-photo"
       },
@@ -33102,7 +33102,7 @@
       "cast": [
         "Organization"
       ],
-      "description": "<p>DA TI ΠΑΡΑΣΚΕΥΗ 30 ΟΚΤΩΒΡΙΟΥ 2026 FUZZ CLUB «Ο DA TI για πρώτη φορά live στην Ελλάδα!» Ο DA TI, ο ανερχόμενος pop καλλιτέχνης πίσω από το viral hit “Take Me There”, έρχεται στο Fuzz Club την Παρασκευή 30 Οκτωβρίου 2026, στο πλαίσιο της πρώτης του ευρωπαϊκής headline περιοδείας. Ο DA TI έχει αποκτήσει ένα [&hellip;]</p>\\n",
+      "description": "Ο ανερχόμενος pop καλλιτέχνης DA TI, που ξεχώρισε μέσα από το viral hit \"Take Me There\", έρχεται για πρώτη φορά στην Ελλάδα.",
       "season": "2026–2027",
       "start": "2026-10-30",
       "end": "2026-10-30",
@@ -33161,10 +33161,10 @@
       ],
       "reviews": [],
       "descriptionSource": {
-        "url": "https://www.fuzzclub.gr/events/month/",
         "kind": "source-excerpt",
-        "authority": "official",
-        "checkedAt": "2026-11-20T07:24:02.021Z"
+        "authority": "publisher",
+        "url": "https://www.athinorama.gr/music/gig/da_ti-11000091/",
+        "checkedAt": "2026-11-20T13:36:33.720Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-20T07:24:02.021Z",
@@ -35892,7 +35892,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-18T13:29:52.990Z"
+        "checkedAt": "2026-11-20T13:39:38.636Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-11-29/",
@@ -35955,7 +35955,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/fundracar-15-xronia-plakosou/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-19T13:58:22.659Z"
+        "checkedAt": "2026-11-20T13:39:38.636Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/events/2026-12-05/",
@@ -36776,7 +36776,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-18T13:29:52.990Z"
+        "checkedAt": "2026-11-20T13:39:38.636Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36888,7 +36888,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-19T13:58:22.659Z"
+        "checkedAt": "2026-11-20T13:39:38.636Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -37056,7 +37056,7 @@
         "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-19T13:58:22.659Z"
+        "checkedAt": "2026-11-20T13:39:38.636Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -37112,7 +37112,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/soen/2027",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-19T13:58:22.659Z"
+        "checkedAt": "2026-11-20T13:39:38.636Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38280,7 +38280,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-19T13:58:22.659Z"
+        "checkedAt": "2026-11-20T13:39:38.636Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38841,7 +38841,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-19T13:58:22.659Z"
+        "checkedAt": "2026-11-20T13:39:38.636Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -39660,7 +39660,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/dio-miden-dio-miden-floyd/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-19T13:58:22.659Z"
+        "checkedAt": "2026-11-20T13:39:38.636Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -41225,7 +41225,7 @@
         "checkedAt": "2026-11-20T07:24:02.021Z"
       },
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/11000558/list.jpg",
+        "url": "https://www.athinorama.gr/Content/ImagesDatabase/p/600x500/crop/both/Event_Photos/0a/0ae48cb7acc462f44e254992e4062089_planitis_promo_giounanli_1295.jpg?quality=81&404=default&v=4",
         "sourceUrl": "https://www.athinorama.gr/theatre/performance/o_planitis_ton_xristougenniatikon_dentron-11000558/",
         "authority": "publisher",
         "kind": "production-photo"

@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-19T13:58:22.659Z",
+  "checkedAt": "2026-11-20T13:39:38.636Z",
   "checked": 194,
   "repaired": [
     {
-      "id": "the-kvb-gazarte-2026",
-      "title": "The KVB",
-      "url": "https://www.more.com/getattachment/f19f70d6-3ac6-420a-9019-bb737d2cbb25",
-      "sourceUrl": "https://www.more.com/gr-el/music/the-kvb-live-stin-ellada/"
+      "id": "fuzz-nile-2-2026",
+      "title": "NILE",
+      "url": "https://www.more.com/getattachment/df4f9815-4637-4196-bd0d-d37acb3bb2e6",
+      "sourceUrl": "https://www.more.com/gr-el/music/nile-underworld-europe-tour-2026-fuzz-29/11/2026/"
     },
     {
       "id": "fuzz-fundracar-2026",
@@ -15,52 +15,16 @@
       "sourceUrl": "https://www.more.com/gr-el/music/fundracar-15-xronia-plakosou/"
     },
     {
-      "id": "auto-f1b8024a835798",
-      "title": "Cabaret Voltaire",
-      "url": "https://www.more.com/getattachment/fa389e56-acfe-41b7-94f0-803aec9f7d90",
-      "sourceUrl": "https://www.more.com/gr-el/music/cabaret-voltaire/"
-    },
-    {
       "id": "auto-296185b5d17932",
       "title": "Chelsea Wolfe",
       "url": "https://www.more.com/getattachment/5bed9637-98e6-45d4-9cb3-d80e18547cd8",
       "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/"
     },
     {
-      "id": "auto-0729132437c5be",
-      "title": "Belle & Sebastian",
-      "url": "https://www.more.com/getattachment/bf09cce4-3bbe-48f1-a01a-7a118f9b6758",
-      "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026"
-    },
-    {
-      "id": "auto-66bbb2a096985d",
-      "title": "1000mods",
-      "url": "https://www.more.com/getattachment/e5417ce0-0d5d-44e2-85ac-64e43785b0bb",
-      "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026"
-    },
-    {
-      "id": "auto-ec7b804dbd21de",
-      "title": "Black Veil Brides / Special Guests: The Funeral Portrait & The Howling.",
-      "url": "https://www.more.com/getattachment/a1d84aee-7d8a-43cf-a142-addc9368d9d4",
-      "sourceUrl": "https://www.more.com/gr-el/music/black-veil-brides2027"
-    },
-    {
-      "id": "auto-de6ea6b14fb259",
-      "title": "Planet of Zeus",
-      "url": "https://www.more.com/getattachment/e0ceca33-4896-4ff0-8b02-a4be85ea3b29",
-      "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/"
-    },
-    {
-      "id": "auto-88660b6e0e360c",
-      "title": "EAGLE EYE CHERRY live in Greece!",
-      "url": "https://www.more.com/getattachment/7c85e0ed-4df8-4985-b031-35a7a3334960",
-      "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/"
-    },
-    {
-      "id": "auto-c49979ba0d5e9a",
-      "title": "SOEN",
-      "url": "https://www.more.com/getattachment/29fb6ac3-1a08-4826-86e6-662784fb6520",
-      "sourceUrl": "https://www.more.com/gr-el/music/soen/2027"
+      "id": "auto-6a81d4a065f77a",
+      "title": "Eddie Dark",
+      "url": "https://www.more.com/getattachment/f63ce783-5dae-4548-9997-2b9203373afc",
+      "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark"
     },
     {
       "id": "auto-9994a6978939c9",
@@ -69,30 +33,42 @@
       "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/"
     },
     {
+      "id": "auto-c49979ba0d5e9a",
+      "title": "SOEN",
+      "url": "https://www.more.com/getattachment/29fb6ac3-1a08-4826-86e6-662784fb6520",
+      "sourceUrl": "https://www.more.com/gr-el/music/soen/2027"
+    },
+    {
+      "id": "auto-88660b6e0e360c",
+      "title": "EAGLE EYE CHERRY live in Greece!",
+      "url": "https://www.more.com/getattachment/7c85e0ed-4df8-4985-b031-35a7a3334960",
+      "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/"
+    },
+    {
       "id": "auto-c28f97040b81d6",
       "title": "δύο_μηδέν_δύο_μηδέν",
       "url": "https://www.more.com/getattachment/9750fc5a-0752-4ac5-a517-7587bf3f674c",
       "sourceUrl": "https://www.more.com/gr-el/music/dio-miden-dio-miden-floyd/"
     },
     {
-      "id": "auto-15dc5c58305316",
-      "title": "Villagers Of Ioannina City",
-      "url": "https://www.more.com/getattachment/4d5c2101-1153-4aac-8e53-a148cd3ec8bf",
-      "sourceUrl": "https://www.more.com/gr-el/music/villagers-of-ioannina-city/"
+      "id": "auto-de6ea6b14fb259",
+      "title": "Planet of Zeus",
+      "url": "https://www.more.com/getattachment/e0ceca33-4896-4ff0-8b02-a4be85ea3b29",
+      "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/"
     }
   ],
   "unresolved": [
     {
-      "id": "emmet-cohen-gazarte-2026",
-      "title": "Emmet Cohen"
+      "id": "goat-gazarte-2026",
+      "title": "GOAT"
     },
     {
       "id": "henge-gazarte-2026",
       "title": "HENGE"
     },
     {
-      "id": "goat-gazarte-2026",
-      "title": "GOAT"
+      "id": "mercury-rev-gazarte-2026",
+      "title": "Mercury Rev"
     },
     {
       "id": "vapors-morphine-gazarte-2026",
@@ -103,8 +79,8 @@
       "title": "Jeff Buckley’s Grace · Slow Pilot"
     },
     {
-      "id": "mercury-rev-gazarte-2026",
-      "title": "Mercury Rev"
+      "id": "emmet-cohen-gazarte-2026",
+      "title": "Emmet Cohen"
     },
     {
       "id": "kronos-gazarte-2026",
@@ -115,12 +91,12 @@
       "title": "Uriah Heep"
     },
     {
-      "id": "music-10091429",
-      "title": "Biased Beast"
-    },
-    {
       "id": "music-10058532",
       "title": "Nine Below Zero"
+    },
+    {
+      "id": "music-10091429",
+      "title": "Biased Beast"
     },
     {
       "id": "music-10091831",
@@ -147,12 +123,12 @@
       "title": "Μιράντα Βερούλη"
     },
     {
-      "id": "music-11000088",
-      "title": "Γυναικεία υπόθεση"
-    },
-    {
       "id": "music-11000087",
       "title": "Συνηχήσεις"
+    },
+    {
+      "id": "music-11000088",
+      "title": "Γυναικεία υπόθεση"
     },
     {
       "id": "music-11000091",
@@ -171,6 +147,10 @@
       "title": "Alkis Niilend Quartet - Δήμητρα Τσαγκαράκη"
     },
     {
+      "id": "fuzz-solstafir-2-2026",
+      "title": "Sólstafir"
+    },
+    {
       "id": "baraki-trigkas-2026",
       "title": "Βαγγέλης Τρίγκας & Καίτη Κουλλιά"
     },
@@ -183,8 +163,8 @@
       "title": "Λάμπρος Βασιλείου & Θάνος Ματζίλης"
     },
     {
-      "id": "fuzz-solstafir-2-2026",
-      "title": "Sólstafir"
+      "id": "ilion-χρηστοσβεργοσιλιονplusαθηνα",
+      "title": "ΧΡΗΣΤΟΣ ΒΕΡΓΟΣ ΙΛΙΟΝ PLUS - (ΑΘΗΝΑ)"
     }
   ],
   "failures": []
