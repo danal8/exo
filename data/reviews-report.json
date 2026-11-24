@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-23T08:10:31.770Z",
+  "checkedAt": "2026-11-24T00:20:07.775Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -29,18 +29,28 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
-      "title": "Μήδεια",
-      "reason": "production-not-confirmed"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
       "title": "Άλκηστις",
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
+      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3077257/3077257-mideia/",
+      "title": "Μήδεια",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3059639/3059639-xasame-ti-theia-stop/",
       "title": "Χάσαμε τη θεία Στοπ",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
+      "title": "Βάκχες",
       "reason": "production-not-confirmed"
     },
     {
@@ -54,13 +64,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075151/3075151-bakxes/",
-      "title": "Βάκχες",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075539/3075539-o-alekos-bgike-ap-ton-paradeiso/",
-      "title": "Ο Αλέκος βγήκε απ' τον παράδεισο",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
+      "title": "Πέρσες",
       "reason": "production-not-confirmed"
     },
     {
@@ -69,8 +74,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
-      "title": "Πέρσες",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074433/3074433-ekabi---sti-skia-tis-politeias/",
+      "title": "Εκάβη - Στη σκιά της Πολιτείας",
       "reason": "production-not-confirmed"
     },
     {
@@ -79,8 +84,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074433/3074433-ekabi---sti-skia-tis-politeias/",
-      "title": "Εκάβη - Στη σκιά της Πολιτείας",
+      "url": "https://greektheatrecritics.gr/kritikes/makbeth-tou-ouilliam-saixpir-se-skinothesia-katerinas-evaggelatou-sto-theatro-katerina-vasilakou-marianna-toli/",
+      "title": "«Μακμπέθ» του Ουίλλιαμ Σαίξπηρ, σε σκηνοθεσία Κατερίνας Ευαγγελάτου, στο Θέατρο Κατερίνα Βασιλάκου-Μαριάννα Τόλη",
       "reason": "production-not-confirmed"
     },
     {
@@ -161,6 +166,11 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/lysistrati-tou-aristofani-se-skinothesia-stamati-kraounaki-sto-theatron-tou-kentrou-politismou-ellinikos-kosmos/",
       "title": "«Λυσιστράτη» του Αριστοφάνη, σε σκηνοθεσία Σταμάτη Κραουνάκη, στο Θέατρον του Κέντρου Πολιτισμού «Ελληνικός Κόσμος»",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/oracle-tis-anka-chermpout-se-skinothesia-loukas-tvarkofski-sti-stegi-idrymatos-onasi-roumpis/",
+      "title": "«Oracle» της Άνκα Χέρμπουτ, σε σκηνοθεσία Λούκας Τβαρκόφσκι, στη Στέγη Ιδρύματος Ωνάση",
       "reason": "production-not-confirmed"
     },
     {
@@ -359,6 +369,11 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://greektheatrecritics.gr/kritikes/makbeth-tou-ouilliam-saixpir-se-skinothesia-katerinas-evaggelatou-sto-theatro-katerina-vasilakou-marianna-toli/",
+      "title": "«Μακμπέθ» του Ουίλλιαμ Σαίξπηρ, σε σκηνοθεσία Κατερίνας Ευαγγελάτου, στο Θέατρο Κατερίνα Βασιλάκου-Μαριάννα Τόλη",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://greektheatrecritics.gr/kritikes/thavmastos-kainourios-kosmos-tou-alntous-chaxlei-se-skinothesia-aikaterinis-papageorgiou-sto-theatro-dipylon-blatsou/",
       "title": "«Θαυμαστός Καινούριος Κόσμος» του Άλντους Χάξλεϊ, σε σκηνοθεσία Αικατερίνης Παπαγεωργίου, στο Θέατρο Δίπυλον",
       "reason": "production-not-confirmed"
@@ -436,6 +451,11 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/lysistrati-tou-aristofani-se-skinothesia-stamati-kraounaki-sto-theatron-tou-kentrou-politismou-ellinikos-kosmos/",
       "title": "«Λυσιστράτη» του Αριστοφάνη, σε σκηνοθεσία Σταμάτη Κραουνάκη, στο Θέατρον του Κέντρου Πολιτισμού «Ελληνικός Κόσμος»",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/oracle-tis-anka-chermpout-se-skinothesia-loukas-tvarkofski-sti-stegi-idrymatos-onasi-roumpis/",
+      "title": "«Oracle» της Άνκα Χέρμπουτ, σε σκηνοθεσία Λούκας Τβαρκόφσκι, στη Στέγη Ιδρύματος Ωνάση",
       "reason": "production-not-confirmed"
     },
     {
