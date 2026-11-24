@@ -273,7 +273,21 @@
         "type": "editorial",
         "checkedAt": "2026-11-24T10:24:11.185Z"
       }
+    ],
+    "ath-10091786": [
+      {
+        "author": "Ρέας Γρηγορίου",
+        "publishedAt": "2026-11-21",
+        "url": "https://greektheatrecritics.gr/kritikes/omonia-mia-mythoplasia-ton-anesti-aza-michali-pitidi-kai-prodromou-tsinikori-se-skinothesia-anesti-aza-kai-prodromou-tsinikori-sto-theatro-dipylon/",
+        "source": "Greek Theatre Critics",
+        "summary": "Παρουσίαση και αξιολόγηση της συγκεκριμένης σκηνικής παραγωγής από την υπογράφουσα κριτικό ή τον υπογράφοντα κριτικό.",
+        "score": null,
+        "scale": null,
+        "id": "review-0f06e51e1cdf79fe",
+        "type": "editorial",
+        "checkedAt": "2026-11-24T22:44:31.305Z"
+      }
     ]
   },
-  "checkedAt": "2026-11-24T10:24:11.185Z"
+  "checkedAt": "2026-11-24T22:44:31.305Z"
 }
