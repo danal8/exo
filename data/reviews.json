@@ -259,7 +259,21 @@
         "type": "editorial",
         "checkedAt": "2026-11-20T20:42:18.873Z"
       }
+    ],
+    "ath-10091787": [
+      {
+        "author": "Τόνια Τσαμούρη",
+        "publishedAt": "2026-11-24",
+        "url": "https://www.athinorama.gr/theatre/theatre-reviews/3081375/o-pinakas-tou-ernesto-caballero/",
+        "source": "athinorama.gr",
+        "summary": "Ο Μιχάλης Πανάδης σκηνοθετεί τον \"Πίνακα\" και ανοίγει τη συζήτηση για την δικτατορία των social media και τον υποκειμενισμό στην…",
+        "score": 3.5,
+        "scale": 5,
+        "id": "review-7a6704f1be43ea02",
+        "type": "editorial",
+        "checkedAt": "2026-11-24T10:24:11.185Z"
+      }
     ]
   },
-  "checkedAt": "2026-11-24T00:20:07.775Z"
+  "checkedAt": "2026-11-24T10:24:11.185Z"
 }
