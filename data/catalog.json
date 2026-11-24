@@ -335,8 +335,8 @@
       "audienceCheckedAt": "2026-10-26",
       "audienceSourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/#UserRreviews",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10091817/list.jpg",
-        "sourceUrl": "https://www.athinorama.gr/theatre/performance/ioulietta_i-10091817/",
+        "url": "https://www.monopoli.gr/wp-content/uploads/2026/09/ioulietta-i-me-ti-thalassini-vostantzoglou-sto-theatro-mets.jpg",
+        "sourceUrl": "https://www.monopoli.gr/2026/09/10/showtimes/theatre/985799/ioulietta-i-i-saikspiriki-iroida-allios-se-enan-monologo-sto-theatro-mets/",
         "authority": "publisher",
         "kind": "production-photo"
       },
@@ -2516,11 +2516,11 @@
         "checkedAt": "2026-11-24T09:59:22.215Z"
       },
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/42dcc97f-a275-4cf7-bcef-ab02697fc298/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/gazarte/",
+        "url": "https://www.more.com/site/images/blank.png",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-24T09:59:22.215Z",
@@ -18760,8 +18760,8 @@
       "reviews": [],
       "sourceProductionId": "10091787",
       "poster": {
-        "url": "https://www.athinorama.gr/lmnts/events/theatre/10090736/list.jpg",
-        "sourceUrl": "https://www.athinorama.gr/theatre/performance/o_pinakas-10090736/",
+        "url": "https://www.athinorama.gr/Content/ImagesDatabase/p/600x500/crop/both/Event_Photos/e2/e284808820e52c72e43f8cea17da3b37_%CE%9F%20%CE%A0%CE%99%CE%9D%CE%91%CE%9A%CE%91%CE%A3%20site1920%CE%A71080-2.jpg?quality=81&404=default&v=4",
+        "sourceUrl": "https://www.athinorama.gr/theatre/performance/o_pinakas-10091787/",
         "authority": "publisher",
         "kind": "production-photo"
       },
@@ -30057,10 +30057,11 @@
       "start": "2026-11-19",
       "end": "2026-11-19",
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/c228e5c1-bc1b-47a3-a910-af91da71fa35/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/0B9ABD38-11DD-4BC6-BC15-F410E21AE6FB/evg_releaseathens2027/brucedi_1231_1897.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       }
     },
     {
@@ -30132,10 +30133,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/maria-koutsourli-ilion-plus/?evId=958762",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/04a87768-506d-4f1c-b348-6e76d1a728bf/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/13537EC6-755A-4D09-BEE6-6EEFC10BEF19/evg_mariakoutsourleorophosatk_1258_4624.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "start": "2026-11-30",
       "end": "2026-11-30"
@@ -30170,10 +30172,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/nightkill/secular-upheaval/vicious-void-sto-ilion-plus/?evId=937900",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/4513c1c7-ff49-40b2-86a7-c9ec5b555445/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/4513C1C7-FF49-40B2-86A7-C9EC5B555445/evg_nightkill/secularupheaval_0818_5031.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "start": "2027-01-02",
       "end": "2027-01-02"
@@ -30208,10 +30211,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/mpez-epoxes-retro-ilion-plus/?evId=958595",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/0ed45af8-6cbf-47dd-bcb5-28fe566e2f06/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/0ED45AF8-6CBF-47DD-BCB5-28FE566E2F06/evg_mpezepokhesretroilionplus_2133_5031.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "start": "2027-01-03",
       "end": "2027-01-03"
@@ -30246,10 +30250,11 @@
       "ticketUrl": "https://tickets.public.gr/gr-el/tickets/music/david-shaw-and-the-beat-live/?evId=923977",
       "reviews": [],
       "poster": {
-        "url": "https://tickets.public.gr/getattachment/5e3b070f-4d79-4690-9a8d-3c3e5cf30e57/play_image.png",
-        "sourceUrl": "https://tickets.public.gr/gr-el/venues/ilion-plus/",
+        "url": "https://www.more.com/getattachment/5E3B070F-4D79-4690-9A8D-3C3E5CF30E57/evg_davidshawandthebeatlive_2044_4970.png?width=300",
+        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "authority": "ticket",
         "kind": "poster",
-        "authority": "ticket"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "start": "2027-01-15",
       "end": "2027-01-15"
@@ -33126,7 +33131,7 @@
       "cast": [
         "Organization"
       ],
-      "description": "<p>DA TI ΠΑΡΑΣΚΕΥΗ 30 ΟΚΤΩΒΡΙΟΥ 2026 FUZZ CLUB «Ο DA TI για πρώτη φορά live στην Ελλάδα!» Ο DA TI, ο ανερχόμενος pop καλλιτέχνης πίσω από το viral hit “Take Me There”, έρχεται στο Fuzz Club την Παρασκευή 30 Οκτωβρίου 2026, στο πλαίσιο της πρώτης του ευρωπαϊκής headline περιοδείας. Ο DA TI έχει αποκτήσει ένα [&hellip;]</p>\\n",
+      "description": "Ο ανερχόμενος pop καλλιτέχνης DA TI, που ξεχώρισε μέσα από το viral hit \"Take Me There\", έρχεται για πρώτη φορά στην Ελλάδα.",
       "season": "2026–2027",
       "start": "2026-10-30",
       "end": "2026-10-30",
@@ -33185,10 +33190,10 @@
       ],
       "reviews": [],
       "descriptionSource": {
-        "url": "https://www.fuzzclub.gr/events/month/",
         "kind": "source-excerpt",
-        "authority": "official",
-        "checkedAt": "2026-11-24T09:59:22.215Z"
+        "authority": "publisher",
+        "url": "https://www.athinorama.gr/music/gig/da_ti-11000091/",
+        "checkedAt": "2026-11-24T15:16:24.734Z"
       },
       "verificationAttempt": {
         "checkedAt": "2026-11-24T09:59:22.215Z",
@@ -36095,11 +36100,11 @@
       ],
       "reviews": [],
       "poster": {
-        "url": "https://www.more.com/getattachment/50D0428E-91B3-4BD6-96A8-75BFF343429F/evg_nouvellevaguelivestenthes_1502_4551.png?width=300",
-        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "url": "https://www.more.com/getattachment/ec64cd3e-48e0-47d0-86bf-fe8f9ce0269c",
+        "sourceUrl": "https://www.more.com/gr-el/music/nouvelle-vague-2/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "descriptionSource": {
         "url": "https://www.fuzzclub.gr/event/nouvelle-vague-2026/",
@@ -36690,11 +36695,10 @@
         "checkedAt": "2026-11-24T09:59:22.215Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/2fa63b09-9703-478c-b15c-abad50123bd4",
-        "sourceUrl": "https://www.more.com/gr-el/music/kreator-overkill/",
-        "authority": "ticket",
-        "kind": "poster",
-        "checkedAt": "2026-11-22T12:54:45.765Z"
+        "url": "https://www.floyd.gr/wp-content/uploads/2026/07/800%D1%85349.jpg",
+        "sourceUrl": "https://www.floyd.gr/event/kreator-overkill/",
+        "authority": "official",
+        "kind": "production-photo"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36751,11 +36755,11 @@
         "checkedAt": "2026-11-24T09:59:22.215Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/BF09CCE4-3BBE-48F1-A01A-7A118F9B6758/evg_bellesebastian_0755_750.png?width=300",
-        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "url": "https://www.more.com/getattachment/bf09cce4-3bbe-48f1-a01a-7a118f9b6758",
+        "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36811,7 +36815,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36867,7 +36871,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/cabaret-voltaire/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-22T12:54:45.765Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -36919,11 +36923,11 @@
         "checkedAt": "2026-11-24T09:59:22.215Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/5BED9637-98E6-45D4-9CB3-D80E18547CD8/evg_chelseawolfe_1442_750.png?width=300",
-        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "url": "https://www.more.com/getattachment/5bed9637-98e6-45d4-9cb3-d80e18547cd8",
+        "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -37091,7 +37095,7 @@
         "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38315,7 +38319,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -38872,11 +38876,11 @@
         "checkedAt": "2026-11-24T09:59:22.215Z"
       },
       "poster": {
-        "url": "https://www.more.com/getattachment/7C85E0ED-4DF8-4985-B031-35A7A3334960/evg_eagleeyecherryliveingreece_1854_2006.png?width=300",
-        "sourceUrl": "https://www.more.com/gr-el/tickets/music/",
+        "url": "https://www.more.com/getattachment/7c85e0ed-4df8-4985-b031-35a7a3334960",
+        "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -39583,7 +39587,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/katerine-duska-live-album-presentation/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
@@ -42374,7 +42378,7 @@
         "sourceUrl": "https://www.more.com/gr-el/music/villagers-of-ioannina-city/",
         "authority": "ticket",
         "kind": "poster",
-        "checkedAt": "2026-11-23T15:24:53.743Z"
+        "checkedAt": "2026-11-24T15:20:45.312Z"
       },
       "programmeStatus": "scheduled",
       "endOpen": false,
