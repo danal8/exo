@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-11-25T15:01:41.299Z",
-  "checked": 194,
+  "checkedAt": "2026-11-26T14:32:55.735Z",
+  "checked": 195,
   "repaired": [
     {
       "id": "fuzz-fundracar-2026",
@@ -9,28 +9,10 @@
       "sourceUrl": "https://www.more.com/gr-el/music/fundracar-15-xronia-plakosou/"
     },
     {
-      "id": "fuzz-nouvelle-vague-2026-2026",
-      "title": "Nouvelle Vague",
-      "url": "https://www.more.com/getattachment/ec64cd3e-48e0-47d0-86bf-fe8f9ce0269c",
-      "sourceUrl": "https://www.more.com/gr-el/music/nouvelle-vague-2/"
-    },
-    {
-      "id": "auto-f1b8024a835798",
-      "title": "Cabaret Voltaire",
-      "url": "https://www.more.com/getattachment/fa389e56-acfe-41b7-94f0-803aec9f7d90",
-      "sourceUrl": "https://www.more.com/gr-el/music/cabaret-voltaire/"
-    },
-    {
       "id": "auto-296185b5d17932",
       "title": "Chelsea Wolfe",
       "url": "https://www.more.com/getattachment/5bed9637-98e6-45d4-9cb3-d80e18547cd8",
       "sourceUrl": "https://www.more.com/gr-el/music/chelsea-wolfe2026/"
-    },
-    {
-      "id": "auto-66bbb2a096985d",
-      "title": "1000mods",
-      "url": "https://www.more.com/getattachment/e5417ce0-0d5d-44e2-85ac-64e43785b0bb",
-      "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026"
     },
     {
       "id": "auto-0729132437c5be",
@@ -39,16 +21,34 @@
       "sourceUrl": "https://www.more.com/gr-el/music/belle-sebastian2026"
     },
     {
-      "id": "auto-de6ea6b14fb259",
-      "title": "Planet of Zeus",
-      "url": "https://www.more.com/getattachment/e0ceca33-4896-4ff0-8b02-a4be85ea3b29",
-      "sourceUrl": "https://www.more.com/gr-el/music/planet-of-zeus-athens/"
+      "id": "auto-f1b8024a835798",
+      "title": "Cabaret Voltaire",
+      "url": "https://www.more.com/getattachment/fa389e56-acfe-41b7-94f0-803aec9f7d90",
+      "sourceUrl": "https://www.more.com/gr-el/music/cabaret-voltaire/"
+    },
+    {
+      "id": "auto-6a81d4a065f77a",
+      "title": "Eddie Dark",
+      "url": "https://www.more.com/getattachment/f63ce783-5dae-4548-9997-2b9203373afc",
+      "sourceUrl": "https://www.more.com/gr-el/music/eddie-dark"
     },
     {
       "id": "auto-9994a6978939c9",
       "title": "Dylan Moran",
       "url": "https://www.more.com/getattachment/989fbbb8-9ad1-45fc-bd43-d8eda240b9c9",
       "sourceUrl": "https://www.more.com/gr-el/standupcomedy/dylan-moran-looking-for-trouble-in-athens/"
+    },
+    {
+      "id": "auto-c49979ba0d5e9a",
+      "title": "SOEN",
+      "url": "https://www.more.com/getattachment/29fb6ac3-1a08-4826-86e6-662784fb6520",
+      "sourceUrl": "https://www.more.com/gr-el/music/soen/2027"
+    },
+    {
+      "id": "auto-66bbb2a096985d",
+      "title": "1000mods",
+      "url": "https://www.more.com/getattachment/e5417ce0-0d5d-44e2-85ac-64e43785b0bb",
+      "sourceUrl": "https://www.more.com/gr-el/music/1000mods-12-2026"
     },
     {
       "id": "auto-ec7b804dbd21de",
@@ -69,40 +69,22 @@
       "sourceUrl": "https://www.more.com/gr-el/music/eagle-eye-cherry-live-in-greece/"
     },
     {
-      "id": "auto-c28f97040b81d6",
-      "title": "δύο_μηδέν_δύο_μηδέν",
-      "url": "https://www.more.com/getattachment/9750fc5a-0752-4ac5-a517-7587bf3f674c",
-      "sourceUrl": "https://www.more.com/gr-el/music/dio-miden-dio-miden-floyd/"
-    },
-    {
       "id": "auto-15dc5c58305316",
       "title": "Villagers Of Ioannina City",
       "url": "https://www.more.com/getattachment/4d5c2101-1153-4aac-8e53-a148cd3ec8bf",
       "sourceUrl": "https://www.more.com/gr-el/music/villagers-of-ioannina-city/"
     },
     {
-      "id": "auto-c49979ba0d5e9a",
-      "title": "SOEN",
-      "url": "https://www.more.com/getattachment/29fb6ac3-1a08-4826-86e6-662784fb6520",
-      "sourceUrl": "https://www.more.com/gr-el/music/soen/2027"
+      "id": "auto-4b0b3ade22e7dc",
+      "title": "Stratovarius",
+      "url": "https://www.more.com/getattachment/8151532f-cf8a-423d-8d6a-5099a00d9b07",
+      "sourceUrl": "https://www.more.com/gr-el/music/stratovarius-visions-30th-anniv-in-athens/"
     }
   ],
   "unresolved": [
     {
       "id": "emmet-cohen-gazarte-2026",
       "title": "Emmet Cohen"
-    },
-    {
-      "id": "goat-gazarte-2026",
-      "title": "GOAT"
-    },
-    {
-      "id": "henge-gazarte-2026",
-      "title": "HENGE"
-    },
-    {
-      "id": "mercury-rev-gazarte-2026",
-      "title": "Mercury Rev"
     },
     {
       "id": "vapors-morphine-gazarte-2026",
@@ -113,8 +95,20 @@
       "title": "Jeff Buckley’s Grace · Slow Pilot"
     },
     {
+      "id": "mercury-rev-gazarte-2026",
+      "title": "Mercury Rev"
+    },
+    {
+      "id": "henge-gazarte-2026",
+      "title": "HENGE"
+    },
+    {
       "id": "kronos-gazarte-2026",
       "title": "Kronos Quartet"
+    },
+    {
+      "id": "goat-gazarte-2026",
+      "title": "GOAT"
     },
     {
       "id": "the-kvb-gazarte-2026",
