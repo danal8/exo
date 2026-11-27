@@ -287,7 +287,21 @@
         "type": "editorial",
         "checkedAt": "2026-11-24T22:44:31.305Z"
       }
+    ],
+    "ath-10091773": [
+      {
+        "author": "Τόνια Τσαμούρη",
+        "publishedAt": "2026-11-27",
+        "url": "https://www.athinorama.gr/theatre/theatre-reviews/3081373/xorise-me-ae-kai-sia-tou-tristan-petitgirard/",
+        "source": "athinorama.gr",
+        "summary": "Η Κόρα Καρβούνη στην πρώτη της σκηνοθετική δουλειά επέλεξε μια σύγχρονη, έξυπνη κωμωδία και παρέδωσε μια απολαυστική παράσταση.…",
+        "score": 3.5,
+        "scale": 5,
+        "id": "review-88b9ae1a21a01257",
+        "type": "editorial",
+        "checkedAt": "2026-11-27T21:36:53.603Z"
+      }
     ]
   },
-  "checkedAt": "2026-11-27T09:02:20.832Z"
+  "checkedAt": "2026-11-27T21:36:53.603Z"
 }
