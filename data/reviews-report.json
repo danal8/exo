@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-27T21:36:53.603Z",
+  "checkedAt": "2026-11-28T08:25:06.278Z",
   "sources": [
     {
       "url": "https://greektheatrecritics.gr/reviews-filtered/",
@@ -15,20 +15,12 @@
     }
   ],
   "articlesChecked": 47,
-  "added": [
-    {
-      "id": "ath-10091773",
-      "title": "Χώρισε με ΑΕ και ΣΙΑ",
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3081373/xorise-me-ae-kai-sia-tou-tristan-petitgirard/",
-      "author": "Τόνια Τσαμούρη",
-      "publishedAt": "2026-11-27"
-    }
-  ],
+  "added": [],
   "updated": [],
   "candidates": [
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
-      "title": "Άλκηστις",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
+      "title": "Τρωάδες",
       "reason": "production-not-confirmed"
     },
     {
@@ -42,8 +34,18 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3075869/3075869-alkistis/",
+      "title": "Άλκηστις",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076413/3076413-ion/",
       "title": "Ίων",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
+      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
       "reason": "production-not-confirmed"
     },
     {
@@ -52,13 +54,8 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3076096/3076096-troades/",
-      "title": "Τρωάδες",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3073261/3073261-i-epitheorisi---ego-tha-sas-ta-po/",
-      "title": "Η επιθεώρηση - Εγώ θα σας τα πω!",
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
+      "title": "Ο υπηρέτης δύο αφεντάδων",
       "reason": "production-not-confirmed"
     },
     {
@@ -72,16 +69,6 @@
       "reason": "production-not-confirmed"
     },
     {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
-      "title": "Αι γυμνισταί",
-      "reason": "production-not-confirmed"
-    },
-    {
-      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3047855/3047855-o-upiretis-duo-afentadon/",
-      "title": "Ο υπηρέτης δύο αφεντάδων",
-      "reason": "production-not-confirmed"
-    },
-    {
       "url": "https://www.athinorama.gr/theatre/theatre-reviews/3074677/3074677-perses/",
       "title": "Πέρσες",
       "reason": "production-not-confirmed"
@@ -92,23 +79,33 @@
       "reason": "production-not-confirmed"
     },
     {
+      "url": "https://www.athinorama.gr/theatre/theatre-reviews/3065203/3065203-ai-gumnistai/",
+      "title": "Αι γυμνισταί",
+      "reason": "production-not-confirmed"
+    },
+    {
       "url": "https://greektheatrecritics.gr/kritikes/makbeth-tou-ouilliam-saixpir-se-skinothesia-katerinas-evaggelatou-sto-theatro-katerina-vasilakou-marianna-toli-kaltaki/",
-      "title": "«Μακμπέθ» του Ουίλλιαμ Σαίξπηρ, σε σκηνοθεσία Κατερίνας Ευαγγελάτου, στο Θέατρο Κατερίνα Βασιλάκου-Μαριάννα Τόλη",
+      "title": "Μακμπέθ: ένα ψυχολογικό δοκίμιο, ένα σκοτεινό θρίλερ",
       "reason": "production-not-confirmed"
     },
     {
       "url": "https://greektheatrecritics.gr/kritikes/thavmastos-kainourios-kosmos-tou-alntous-chaxlei-se-skinothesia-aikaterinis-papageorgiou-sto-theatro-dipylon-ioannidis/",
-      "title": "«Θαυμαστός Καινούριος Κόσμος» του Άλντους Χάξλεϊ, σε σκηνοθεσία Αικατερίνης Παπαγεωργίου, στο Θέατρο Δίπυλον",
+      "title": "«Θαυμαστός καινούργιος κόσμος»: Υπνοβάτες στον μονόδρομο μιας τεχνητής ευτυχίας",
       "reason": "production-not-confirmed"
     },
     {
       "url": "https://greektheatrecritics.gr/kritikes/sta-xamena-tou-aki-dimou-se-skinothesia-gianni-skourleti-sto-bijoux-de-kant-hood/",
-      "title": "«Στα Χαμένα» του Άκη Δήμου, σε σκηνοθεσία Γιάννη Σκουρλέτη, στο bijoux de kant HOOD",
+      "title": "Κριτική Θεάτρου | Πήγαμε «Στα χαμένα» του Άκη Δήμου και τη σκηνοθεσία του Γιάννη Σκουρλέτη",
       "reason": "production-not-confirmed"
     },
     {
       "url": "https://greektheatrecritics.gr/kritikes/makbeth-tou-ouilliam-saixpir-se-skinothesia-katerinas-evaggelatou-sto-theatro-katerina-vasilakou-marianna-toli/",
-      "title": "«Μακμπέθ» του Ουίλλιαμ Σαίξπηρ, σε σκηνοθεσία Κατερίνας Ευαγγελάτου, στο Θέατρο Κατερίνα Βασιλάκου-Μαριάννα Τόλη",
+      "title": "Είδαμε: “Μακμπέθ” του Σαίξπηρ, σε σκηνοθεσία Κ. Ευαγγελάτου // Μεγαλειώδης, πέρα των -υψηλών- προσδοκιών",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/omonia-mia-mythoplasia-ton-anesti-aza-michali-pitidi-kai-prodromou-tsinikori-se-skinothesia-anesti-aza-kai-prodromou-tsinikori-sto-theatro-dipylon/",
+      "title": "Κολάζ με διδακτικές και νουάρ παραφωνίες",
       "reason": "production-not-confirmed"
     },
     {
@@ -193,7 +190,7 @@
     },
     {
       "url": "https://greektheatrecritics.gr/kritikes/oracle-tis-anka-chermpout-se-skinothesia-loukas-tvarkofski-sti-stegi-idrymatos-onasi-roumpis/",
-      "title": "«Oracle» της Άνκα Χέρμπουτ, σε σκηνοθεσία Λούκας Τβαρκόφσκι, στη Στέγη Ιδρύματος Ωνάση",
+      "title": "Είδαμε: “Oracle” του Ł. Twarkowski στη Στέγη // Εντυπωσιακό θέαμα, αλλά με την ουσία τι γίνεται;",
       "reason": "production-not-confirmed"
     },
     {
@@ -219,6 +216,11 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/anexartita-krati-tou-antoni-tsiotsiopoulou-kai-tou-giorgou-paloumpi-se-skinothesia-giorgou-paloumpi-sto-theatro-chora/",
       "title": "«Ανεξάρτητα κράτη» του Αντώνη Τσιοτσιόπουλου και του Γιώργου Παλούμπη, σε σκηνοθεσία Γιώργου Παλούμπη, στο Θέατρο Χώρα",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/tzoni-mple-tou-giorgi-tsouri-se-skinothesia-giorgi-tsouri-sto-theatro-anesis/",
+      "title": "«Τζόνι Μπλε»: Διερεύνηση με τα υλικά του επιτυχημένου θεάτρου",
       "reason": "production-not-confirmed"
     },
     {
@@ -393,22 +395,27 @@
     },
     {
       "url": "https://greektheatrecritics.gr/kritikes/makbeth-tou-ouilliam-saixpir-se-skinothesia-katerinas-evaggelatou-sto-theatro-katerina-vasilakou-marianna-toli-kaltaki/",
-      "title": "«Μακμπέθ» του Ουίλλιαμ Σαίξπηρ, σε σκηνοθεσία Κατερίνας Ευαγγελάτου, στο Θέατρο Κατερίνα Βασιλάκου-Μαριάννα Τόλη",
+      "title": "Μακμπέθ: ένα ψυχολογικό δοκίμιο, ένα σκοτεινό θρίλερ",
       "reason": "production-not-confirmed"
     },
     {
       "url": "https://greektheatrecritics.gr/kritikes/thavmastos-kainourios-kosmos-tou-alntous-chaxlei-se-skinothesia-aikaterinis-papageorgiou-sto-theatro-dipylon-ioannidis/",
-      "title": "«Θαυμαστός Καινούριος Κόσμος» του Άλντους Χάξλεϊ, σε σκηνοθεσία Αικατερίνης Παπαγεωργίου, στο Θέατρο Δίπυλον",
+      "title": "«Θαυμαστός καινούργιος κόσμος»: Υπνοβάτες στον μονόδρομο μιας τεχνητής ευτυχίας",
       "reason": "production-not-confirmed"
     },
     {
       "url": "https://greektheatrecritics.gr/kritikes/sta-xamena-tou-aki-dimou-se-skinothesia-gianni-skourleti-sto-bijoux-de-kant-hood/",
-      "title": "«Στα Χαμένα» του Άκη Δήμου, σε σκηνοθεσία Γιάννη Σκουρλέτη, στο bijoux de kant HOOD",
+      "title": "Κριτική Θεάτρου | Πήγαμε «Στα χαμένα» του Άκη Δήμου και τη σκηνοθεσία του Γιάννη Σκουρλέτη",
       "reason": "production-not-confirmed"
     },
     {
       "url": "https://greektheatrecritics.gr/kritikes/makbeth-tou-ouilliam-saixpir-se-skinothesia-katerinas-evaggelatou-sto-theatro-katerina-vasilakou-marianna-toli/",
-      "title": "«Μακμπέθ» του Ουίλλιαμ Σαίξπηρ, σε σκηνοθεσία Κατερίνας Ευαγγελάτου, στο Θέατρο Κατερίνα Βασιλάκου-Μαριάννα Τόλη",
+      "title": "Είδαμε: “Μακμπέθ” του Σαίξπηρ, σε σκηνοθεσία Κ. Ευαγγελάτου // Μεγαλειώδης, πέρα των -υψηλών- προσδοκιών",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/omonia-mia-mythoplasia-ton-anesti-aza-michali-pitidi-kai-prodromou-tsinikori-se-skinothesia-anesti-aza-kai-prodromou-tsinikori-sto-theatro-dipylon/",
+      "title": "Κολάζ με διδακτικές και νουάρ παραφωνίες",
       "reason": "production-not-confirmed"
     },
     {
@@ -493,7 +500,7 @@
     },
     {
       "url": "https://greektheatrecritics.gr/kritikes/oracle-tis-anka-chermpout-se-skinothesia-loukas-tvarkofski-sti-stegi-idrymatos-onasi-roumpis/",
-      "title": "«Oracle» της Άνκα Χέρμπουτ, σε σκηνοθεσία Λούκας Τβαρκόφσκι, στη Στέγη Ιδρύματος Ωνάση",
+      "title": "Είδαμε: “Oracle” του Ł. Twarkowski στη Στέγη // Εντυπωσιακό θέαμα, αλλά με την ουσία τι γίνεται;",
       "reason": "production-not-confirmed"
     },
     {
@@ -519,6 +526,11 @@
     {
       "url": "https://greektheatrecritics.gr/kritikes/anexartita-krati-tou-antoni-tsiotsiopoulou-kai-tou-giorgou-paloumpi-se-skinothesia-giorgou-paloumpi-sto-theatro-chora/",
       "title": "«Ανεξάρτητα κράτη» του Αντώνη Τσιοτσιόπουλου και του Γιώργου Παλούμπη, σε σκηνοθεσία Γιώργου Παλούμπη, στο Θέατρο Χώρα",
+      "reason": "production-not-confirmed"
+    },
+    {
+      "url": "https://greektheatrecritics.gr/kritikes/tzoni-mple-tou-giorgi-tsouri-se-skinothesia-giorgi-tsouri-sto-theatro-anesis/",
+      "title": "«Τζόνι Μπλε»: Διερεύνηση με τα υλικά του επιτυχημένου θεάτρου",
       "reason": "production-not-confirmed"
     },
     {
